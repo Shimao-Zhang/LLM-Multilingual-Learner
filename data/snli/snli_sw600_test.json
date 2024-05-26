@@ -1,0 +1,3002 @@
+[
+    {
+        "premise": "Kwaya hii ya kanisa inawaimbia watu wengi wanapoimba nyimbo za shangwe kutoka kwenye kitabu kanisani.",
+        "hypothesis": "Kanisa lina nyufa kwenye dari.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Kwaya hii ya kanisa inawaimbia watu wengi wanapoimba nyimbo za shangwe kutoka kwenye kitabu kanisani.",
+        "hypothesis": "Kanisa limejaa nyimbo.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kwaya hii ya kanisa inawaimbia watu wengi wanapoimba nyimbo za shangwe kutoka kwenye kitabu kanisani.",
+        "hypothesis": "Kwaya inayoimba kwenye mchezo wa besiboli.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke mwenye hijabu ya kijani, shati la bluu na tabasamu kubwa sana.",
+        "hypothesis": "Mwanamke ni mdogo.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke mwenye hijabu ya kijani, shati la bluu na tabasamu kubwa sana.",
+        "hypothesis": "Mwanamke anafurahi sana.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke mwenye hijabu ya kijani, shati la bluu na tabasamu kubwa sana.",
+        "hypothesis": "Mwanamke amepigwa risasi.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mzee mwenye kifurushi akipozi mbele ya tangazo.",
+        "hypothesis": "Mwanamume akisimama mbele ya tangazo.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mzee mwenye kifurushi akipozi mbele ya tangazo.",
+        "hypothesis": "Mwanamume akisimama mbele ya tangazo la bia.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mzee mwenye kifurushi akipozi mbele ya tangazo.",
+        "hypothesis": "Mwanamume anatembea karibu na tangazo.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Sanamu katika jumba la makumbusho ambayo hakuna inaonekana kuwa inaonekana.",
+        "hypothesis": "Sanamu hiyo inakera na watu wana wazimu kuwa iko kwenye onyesho.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Sanamu katika jumba la makumbusho ambayo hakuna inaonekana kuwa inaonekana.",
+        "hypothesis": "Kuna sanamu ambayo si watu wengi wanaonekana kupendezwa nayo.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Sanamu katika jumba la makumbusho ambayo hakuna inaonekana kuwa inaonekana.",
+        "hypothesis": "Tani za watu wamekusanyika karibu na sanamu hiyo.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Landrover inaendeshwa kuvuka mto.",
+        "hypothesis": "Land Rover inamwaga maji inapovuka mto.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Landrover inaendeshwa kuvuka mto.",
+        "hypothesis": "Gari linavuka mto.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Landrover inaendeshwa kuvuka mto.",
+        "hypothesis": "Sedan imekwama katikati ya mto.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanaume akicheza gitaa la umeme jukwaani.",
+        "hypothesis": "Mwanamume akicheza banjo sakafuni.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanaume akicheza gitaa la umeme jukwaani.",
+        "hypothesis": "Mwanaume akicheza gitaa jukwaani.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanaume akicheza gitaa la umeme jukwaani.",
+        "hypothesis": "Mwanaume anatumbuiza kwa pesa taslimu.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Daktari mwenye nywele za kimanjano na msaidizi wake Mmarekani Mwafrika wakitazamana walitupa mwongozo mpya wa matibabu.",
+        "hypothesis": "Daktari anaangalia kitabu",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Daktari mwenye nywele za kimanjano na msaidizi wake Mmarekani Mwafrika wakitazamana walitupa mwongozo mpya wa matibabu.",
+        "hypothesis": "Mwanaume anakula pb na j",
+        "answer": "utata"
+    },
+    {
+        "premise": "Daktari mwenye nywele za kimanjano na msaidizi wake Mmarekani Mwafrika wakitazamana walitupa mwongozo mpya wa matibabu.",
+        "hypothesis": "Daktari anasoma",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Msichana mmoja mwenye rangi nyekundu mwenye kofia ya pamba anakimbia na kuegemea kitu, huku mtu mwingine aliyevalia kofia ya sufu ameketi chini.",
+        "hypothesis": "Mvulana anakimbia kwenye ukuta",
+        "answer": "utata"
+    },
+    {
+        "premise": "Msichana mmoja mwenye rangi nyekundu mwenye kofia ya pamba anakimbia na kuegemea kitu, huku mtu mwingine aliyevalia kofia ya sufu ameketi chini.",
+        "hypothesis": "Msichana mwenye rangi nyekundu anakimbia anaegemea kitu",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Msichana mmoja mwenye rangi nyekundu mwenye kofia ya pamba anakimbia na kuegemea kitu, huku mtu mwingine aliyevalia kofia ya sufu ameketi chini.",
+        "hypothesis": "Mwanamume anamtazama binti yake akiruka",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Familia changa inafurahia kuhisi mawimbi ya bahari yakipiga miguuni mwao.",
+        "hypothesis": "Kijana na mwanamke wakipeleka mtoto wao ufukweni kwa mara ya kwanza.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Familia changa inafurahia kuhisi mawimbi ya bahari yakipiga miguuni mwao.",
+        "hypothesis": "Familia moja iko kwenye mkahawa.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Familia changa inafurahia kuhisi mawimbi ya bahari yakipiga miguuni mwao.",
+        "hypothesis": "Familia iko ufukweni.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanandoa wanatembea mikono kwa mikono barabarani.",
+        "hypothesis": "Wanandoa wanatembea pamoja.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanandoa wanatembea mikono kwa mikono barabarani.",
+        "hypothesis": "Wanandoa wameolewa.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanandoa wanatembea mikono kwa mikono barabarani.",
+        "hypothesis": "Wanandoa wameketi kwenye benchi.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Vijana 3 waliovalia kofia wamesimama katikati ya barabara tulivu wakitazamana na kamera.",
+        "hypothesis": "Watu watatu wameketi kando ya barabara yenye shughuli nyingi bila vichwa.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Vijana 3 waliovalia kofia wamesimama katikati ya barabara tulivu wakitazamana na kamera.",
+        "hypothesis": "Watu watatu waliovaa kofia wanapiga picha.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Vijana 3 waliovalia kofia wamesimama katikati ya barabara tulivu wakitazamana na kamera.",
+        "hypothesis": "Watu watatu wamevaa kofia husimama barabarani.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume anasoma karatasi kwenye baa yenye taa ya kijani kibichi.",
+        "hypothesis": "Mwanaume yuko ndani.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume anasoma karatasi kwenye baa yenye taa ya kijani kibichi.",
+        "hypothesis": "Mwanamume anasoma ukurasa wa michezo.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume anasoma karatasi kwenye baa yenye taa ya kijani kibichi.",
+        "hypothesis": "Mwanamume huyo anapanda mlima.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wazima moto watatu wanatoka kwenye kituo cha treni ya chini ya ardhi.",
+        "hypothesis": "Wazima moto watatu wakizima moto ndani ya kituo cha treni ya chini ya ardhi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wazima moto watatu wanatoka kwenye kituo cha treni ya chini ya ardhi.",
+        "hypothesis": "Wazima moto watatu wakitoka kwenye kituo cha treni ya chini ya ardhi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wazima moto watatu wanatoka kwenye kituo cha treni ya chini ya ardhi.",
+        "hypothesis": "Wazima moto watatu wakicheza kadi ndani ya kituo cha zima moto.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mtu aliyevaa kofia ya majani, amesimama nje akitengeneza kifaa cha chuma chenye rundo la nazi chini.",
+        "hypothesis": "Mtu yuko karibu na rundo la nazi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mtu aliyevaa kofia ya majani, amesimama nje akitengeneza kifaa cha chuma chenye rundo la nazi chini.",
+        "hypothesis": "Mtu anauza nazi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mtu aliyevaa kofia ya majani, amesimama nje akitengeneza kifaa cha chuma chenye rundo la nazi chini.",
+        "hypothesis": "Mtu anachoma kofia ya majani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanaume katika koti ya bluu anaamua kuweka kwenye nyasi.",
+        "hypothesis": "Mwanamume mwenye rangi ya njano anajikunja kwenye nyasi",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanaume katika koti ya bluu anaamua kuweka kwenye nyasi.",
+        "hypothesis": "Mvulana aliyevaa koti ya bluu amelala kwenye nyasi za kijani",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanaume katika koti ya bluu anaamua kuweka kwenye nyasi.",
+        "hypothesis": "Mvulana aliyevaa koti la bluu amelala kwenye nyasi ya kijani akichukua nap.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wakati ndama akitamba na ng'ombe humwita farasi wake.",
+        "hypothesis": "Mara ya kwanza ropper huanguka kutoka kwa farasi wake.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wakati ndama akitamba na ng'ombe humwita farasi wake.",
+        "hypothesis": "Mwanamume hufunga ndama kwa kamba.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mvulana mdogo aliyevalia sweta yenye milia ya kijivu na nyeupe na suruali ya tan anacheza kwenye kipande cha vifaa vya uwanja wa michezo.",
+        "hypothesis": "Mvulana yuko kwenye uwanja wa michezo.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mvulana mdogo aliyevalia sweta yenye milia ya kijivu na nyeupe na suruali ya tan anacheza kwenye kipande cha vifaa vya uwanja wa michezo.",
+        "hypothesis": "Mvulana anacheza kwenye bembea baada ya shule.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana mdogo aliyevalia sweta yenye milia ya kijivu na nyeupe na suruali ya tan anacheza kwenye kipande cha vifaa vya uwanja wa michezo.",
+        "hypothesis": "Mvulana ameketi kwenye basi la shule akielekea nyumbani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke aliyevaa kofia ya mpira anachuchumaa chini ili kugusa ardhi iliyopasuka.",
+        "hypothesis": "Mwanaakiolojia aliyevaa kofia ya squats kuchunguza tovuti kwa ajili ya kuchimba",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke aliyevaa kofia ya mpira anachuchumaa chini ili kugusa ardhi iliyopasuka.",
+        "hypothesis": "Mwanamke aliyechuchumaa akiwa amevalia kofia akigusa chini.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke aliyevaa kofia ya mpira anachuchumaa chini ili kugusa ardhi iliyopasuka.",
+        "hypothesis": "Mwanamke aliyevaa boneti ya jua akipanda bustani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watoto wawili wakiweka tena juu ya zulia na matofali ya mbao yakiwa yamewekwa kwenye mraba kati yao.",
+        "hypothesis": "Watoto wawili wanajenga tanuru ya matofali.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watoto wawili wakiweka tena juu ya zulia na matofali ya mbao yakiwa yamewekwa kwenye mraba kati yao.",
+        "hypothesis": "Watoto wawili wanacheza samaki kwenye bustani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watoto wawili wakiweka tena juu ya zulia na matofali ya mbao yakiwa yamewekwa kwenye mraba kati yao.",
+        "hypothesis": "Watoto wawili wako kwenye rug.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume amesimama mbele ya jengo kwenye simu kama wanaume wawili upande wa maumivu upande.",
+        "hypothesis": "kijana karibu na jengo anasimama na watu wengine wawili",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume amesimama mbele ya jengo kwenye simu kama wanaume wawili upande wa maumivu upande.",
+        "hypothesis": "wasichana wawili wanapita kwenye ukumbi",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume amesimama mbele ya jengo kwenye simu kama wanaume wawili upande wa maumivu upande.",
+        "hypothesis": "mtu mwenye shughuli nyingi amesimama na walinzi",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wasichana wawili wadogo wamevaa kama fairies, na wanacheza kwenye majani nje.",
+        "hypothesis": "Wasichana wanacheza nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wasichana wawili wadogo wamevaa kama fairies, na wanacheza kwenye majani nje.",
+        "hypothesis": "Wasichana wawili wanacheza mavazi hadi ndani ya nyumba.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wasichana wawili wadogo wamevaa kama fairies, na wanacheza kwenye majani nje.",
+        "hypothesis": "Wasichana wawili wanacheza katika Autumn.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watu wanaruka juu ya mwanya wa mlima kwenye kamba.",
+        "hypothesis": "Watu wengine wanaonekana kuogopa kuruka.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watu wanaruka juu ya mwanya wa mlima kwenye kamba.",
+        "hypothesis": "Watu wanaruka nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watu wanaruka juu ya mwanya wa mlima kwenye kamba.",
+        "hypothesis": "Watu huteleza juu ya mwanya wa mlima kwenye slaidi.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mpanda theluji kwenye uwanda mpana wa theluji",
+        "hypothesis": "Uwanja wa theluji na snowboarder juu yake",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mpanda theluji kwenye uwanda mpana wa theluji",
+        "hypothesis": "Mpanda theluji anayeteleza juu ya uwanja wa theluji",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mpanda theluji kwenye uwanda mpana wa theluji",
+        "hypothesis": "Gari la theluji kwenye dhoruba ya theluji",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanawake wazee wakitunza bustani.",
+        "hypothesis": "Bibi anapika chakula cha jioni",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanawake wazee wakitunza bustani.",
+        "hypothesis": "Mwanamke anapalilia bustani yake",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanawake wazee wakitunza bustani.",
+        "hypothesis": "Bibi huyo ana bustani",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume mwenye shati jeusi akiangalia matengenezo ya baiskeli.",
+        "hypothesis": "Mtu anaharibu baiskeli.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume mwenye shati jeusi akiangalia matengenezo ya baiskeli.",
+        "hypothesis": "Mwanamume anaangalia ukarabati wa baiskeli.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume mwenye shati jeusi akiangalia matengenezo ya baiskeli.",
+        "hypothesis": "Mwanamume anajifunza utunzaji wa baiskeli.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume aliyevaa shati jeusi anatazama baiskeli kwenye semina.",
+        "hypothesis": "Mwanamume amevaa shati nyekundu",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume aliyevaa shati jeusi anatazama baiskeli kwenye semina.",
+        "hypothesis": "Mwanaume amevaa shati jeusi",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume aliyevaa shati jeusi anatazama baiskeli kwenye semina.",
+        "hypothesis": "Mwanamume anaamua ni baiskeli gani anunue",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume akiangalia juu ya gurudumu la nyuma la baiskeli kwenye karakana ya matengenezo huku nyuma akiwa na zana mbalimbali zinazoonekana.",
+        "hypothesis": "Mtu yuko kwenye karakana.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume akiangalia juu ya gurudumu la nyuma la baiskeli kwenye karakana ya matengenezo huku nyuma akiwa na zana mbalimbali zinazoonekana.",
+        "hypothesis": "Mwanaume akitengeneza baiskeli.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume akiangalia juu ya gurudumu la nyuma la baiskeli kwenye karakana ya matengenezo huku nyuma akiwa na zana mbalimbali zinazoonekana.",
+        "hypothesis": "Mwanamume anasubiri nje ya karakana.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watu watatu wameketi kwenye benchi kwenye kituo, mwanamume huyo anaonekana kwa wanawake wawili kwa njia isiyo ya kawaida, wanawake wenye nywele nyekundu wanatazama juu na mbele kwa hali isiyo ya kawaida, na msichana wa njano wa njano hupiga nywele zake.",
+        "hypothesis": "Watu wengine husimama karibu.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watu watatu wameketi kwenye benchi kwenye kituo, mwanamume huyo anaonekana kwa wanawake wawili kwa njia isiyo ya kawaida, wanawake wenye nywele nyekundu wanatazama juu na mbele kwa hali isiyo ya kawaida, na msichana wa njano wa njano hupiga nywele zake.",
+        "hypothesis": "Watu hukimbia pamoja.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watu watatu wameketi kwenye benchi kwenye kituo, mwanamume huyo anaonekana kwa wanawake wawili kwa njia isiyo ya kawaida, wanawake wenye nywele nyekundu wanatazama juu na mbele kwa hali isiyo ya kawaida, na msichana wa njano wa njano hupiga nywele zake.",
+        "hypothesis": "Watu wanasubiri kwenye kituo.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mtoto aliyevaa taji nyekundu amesimama nyuma ya mtoto mwenye kichwa cha kimanjano ameketi kwenye toroli.",
+        "hypothesis": "Mtoto aliyevaa taji nyekundu amesimama nyuma ya mtoto mwenye kichwa cha blond",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mtoto aliyevaa taji nyekundu amesimama nyuma ya mtoto mwenye kichwa cha kimanjano ameketi kwenye toroli.",
+        "hypothesis": "Mtoto aliyevaa taji nyekundu amesimama juu ya mtoto mwenye kichwa cha blond",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mtoto aliyevaa taji nyekundu amesimama nyuma ya mtoto mwenye kichwa cha kimanjano ameketi kwenye toroli.",
+        "hypothesis": "Mtoto aliyevaa taji nyekundu amesimama nyuma ya mtoto mzuri mwenye kichwa cha kimanjano",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mtu aliyevaa mavazi yenye maua na nyuki aliyeingizwa ndani yake, anasukuma kitembezi cha watoto chini ya barabara.",
+        "hypothesis": "Mwanamke ameketi kwenye benchi katika bustani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mtu aliyevaa mavazi yenye maua na nyuki aliyeingizwa ndani yake, anasukuma kitembezi cha watoto chini ya barabara.",
+        "hypothesis": "Bibi kizee akisukuma kitembezi kwenye barabara yenye shughuli nyingi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mtu aliyevaa mavazi yenye maua na nyuki aliyeingizwa ndani yake, anasukuma kitembezi cha watoto chini ya barabara.",
+        "hypothesis": "Mtu nje akisukuma stroller.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mbwa anaruka kwa Frisbee kwenye theluji.",
+        "hypothesis": "Mnyama kipenzi anafurahia mchezo wa kuchota na mmiliki wake.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mbwa anaruka kwa Frisbee kwenye theluji.",
+        "hypothesis": "Paka huosha uso wake na masharubu kwa makucha yake ya mbele.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mbwa anaruka kwa Frisbee kwenye theluji.",
+        "hypothesis": "Mnyama yuko nje katika hali ya hewa ya baridi, akicheza na toy ya plastiki.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watu wanazungumza kwenye meza ya kulia chini ya dari.",
+        "hypothesis": "Watu kwenye karamu wameketi kwa chakula cha jioni kwenye nyasi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watu wanazungumza kwenye meza ya kulia chini ya dari.",
+        "hypothesis": "Watu wanazungumza chini ya kifuniko.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watu wanazungumza kwenye meza ya kulia chini ya dari.",
+        "hypothesis": "Watu wanapiga kelele kwenye mechi ya ndondi.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Msichana akicheza violin pamoja na kikundi cha watu",
+        "hypothesis": "Msichana anaosha shehena ya nguo.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Msichana akicheza violin pamoja na kikundi cha watu",
+        "hypothesis": "Msichana anacheza ala.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Msichana akicheza violin pamoja na kikundi cha watu",
+        "hypothesis": "Kikundi cha watu kinacheza katika symphony.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke ndani ya orchestra anacheza violin.",
+        "hypothesis": "Mwanamke anacheza tamasha.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke ndani ya orchestra anacheza violin.",
+        "hypothesis": "Mwanamke anacheza violin.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke ndani ya orchestra anacheza violin.",
+        "hypothesis": "Mwanamume anatazama kwenye darubini.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanaume watatu, mmoja akiwa ameshika mabomba, mwingine akiwa ameshikilia kitu kikubwa juu ya kichwa chake, na mmoja akiwa amejiegemeza kwenye kitanda cha bomba kwenye lori, wanatazama kamera.",
+        "hypothesis": "wanaume watatu kwenda kazini",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanaume watatu, mmoja akiwa ameshika mabomba, mwingine akiwa ameshikilia kitu kikubwa juu ya kichwa chake, na mmoja akiwa amejiegemeza kwenye kitanda cha bomba kwenye lori, wanatazama kamera.",
+        "hypothesis": "wanaume watatu wanatazama kamera",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanaume watatu, mmoja akiwa ameshika mabomba, mwingine akiwa ameshikilia kitu kikubwa juu ya kichwa chake, na mmoja akiwa amejiegemeza kwenye kitanda cha bomba kwenye lori, wanatazama kamera.",
+        "hypothesis": "wanaume watatu wamelala kwenye hema",
+        "answer": "utata"
+    },
+    {
+        "premise": "Gari la Ford linapinda kulia huku wanaume 3 wakitembea barabarani nyuma ya gari.",
+        "hypothesis": "Gari lililokuwa likigeuka kulia lilikuwa na wapita njia watatu nyuma yake.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Gari la Ford linapinda kulia huku wanaume 3 wakitembea barabarani nyuma ya gari.",
+        "hypothesis": "Sedan ilikuwa inakunja kona wakati watembeaji walikuwa wakivuka.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wavulana watatu waliovalia mashati meupe wanatembea nyuma ya gari la zamani la Ford.",
+        "hypothesis": "kuna wavulana watatu",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wavulana watatu waliovalia mashati meupe wanatembea nyuma ya gari la zamani la Ford.",
+        "hypothesis": "Kuna wasichana watatu",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wavulana watatu waliovalia mashati meupe wanatembea nyuma ya gari la zamani la Ford.",
+        "hypothesis": "Wavulana wako mitaani",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wasichana watatu wanalipua mishumaa ya keki iliyotengenezwa na Peeps.",
+        "hypothesis": "Baadhi ya watu wanawasha mishumaa",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wasichana watatu wanalipua mishumaa ya keki iliyotengenezwa na Peeps.",
+        "hypothesis": "Kuna wasichana watatu na keki",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wasichana watatu wanalipua mishumaa ya keki iliyotengenezwa na Peeps.",
+        "hypothesis": "Kuna peeps kwenye bustani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Umati wa watu wakiwatazama watu 3 kwenye ukingo wa paa la jengo.",
+        "hypothesis": "Umati unaita msaada kwa watu walio juu ya paa.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Umati wa watu wakiwatazama watu 3 kwenye ukingo wa paa la jengo.",
+        "hypothesis": "Umati wa watu chini unatazama watu 3 kwenye ukingo wa paa.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Umati wa watu wakiwatazama watu 3 kwenye ukingo wa paa la jengo.",
+        "hypothesis": "Watu watatu wanapanda ngazi kwenye jengo hilo.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke anayefanya kazi kwa muda mrefu.",
+        "hypothesis": "Mwanamke anafanya kazi katika kiwanda.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke anayefanya kazi kwa muda mrefu.",
+        "hypothesis": "Mwanamke anafanya kazi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke anayefanya kazi kwa muda mrefu.",
+        "hypothesis": "Mwanamke amelala.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wasichana wawili matineja wakizungumza karibu na makabati.",
+        "hypothesis": "Wasichana wakizungumza karibu na choo.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wasichana wawili matineja wakizungumza karibu na makabati.",
+        "hypothesis": "Watu wakizungumza karibu na makabati.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wasichana wawili matineja wakizungumza karibu na makabati.",
+        "hypothesis": "Wasichana wakizungumza juu ya shida zao karibu na makabati.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke mzee anamtazama mwanamume akitazama chini mipira fulani chini.",
+        "hypothesis": "Mwanamke mzee ananyemelea dume.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke mzee anamtazama mwanamume akitazama chini mipira fulani chini.",
+        "hypothesis": "Watu wawili wamelala kwenye treni.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watoto wawili, wote wakiwa wamevalia makoti meusi, wanakumbatiana.",
+        "hypothesis": "Watoto wawili wamekumbatiana baada ya kunusurika kwenye ajali mbaya ya gari.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watoto wawili, wote wakiwa wamevalia makoti meusi, wanakumbatiana.",
+        "hypothesis": "Watoto wawili wanakumbatiana.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watoto wawili, wote wakiwa wamevalia makoti meusi, wanakumbatiana.",
+        "hypothesis": "Watoto wawili wanakimbia kwenye barabara kuu.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watoto 2 wanaofanana wanabarizi huku 1 kati yao akionekana mwenye hisia kali na kumkumbatia mwingine.",
+        "hypothesis": "Watoto wawili wa ukoo walikuwa wakikumbatiana kwa sababu walifurahi kuonana.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watoto 2 wanaofanana wanabarizi huku 1 kati yao akionekana mwenye hisia kali na kumkumbatia mwingine.",
+        "hypothesis": "Watoto wawili walikuwa wamekumbatiana.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watoto 2 wanaofanana wanabarizi huku 1 kati yao akionekana mwenye hisia kali na kumkumbatia mwingine.",
+        "hypothesis": "Vijana wawili walikuwa wakisukumana.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Idadi kubwa ya watu waliovaa tu nyeupe na nyekundu wanatembea mitaani.",
+        "hypothesis": "Idadi kubwa ya watu waliovaa nguo nyeusi wakitembea barabarani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Idadi kubwa ya watu waliovaa tu nyeupe na nyekundu wanatembea mitaani.",
+        "hypothesis": "Idadi kubwa ya wanaume wakitembea mitaani wakiwa wamevalia nguo nyekundu na nyeupe.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Idadi kubwa ya watu waliovaa tu nyeupe na nyekundu wanatembea mitaani.",
+        "hypothesis": "Idadi kubwa ya watu wanaotembea barabarani.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume anayeendesha pikipiki karibu na magari ya taka",
+        "hypothesis": "Mwanamume anajaribu kuendesha pikipiki ili kuamua kama atainunua au la.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume anayeendesha pikipiki karibu na magari ya taka",
+        "hypothesis": "Mwanamume anaendesha pikipiki.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume anayeendesha pikipiki karibu na magari ya taka",
+        "hypothesis": "Mwanamume ameketi kwenye pikipiki iliyoegeshwa akimsubiri rafiki yake.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanawake wa India wakitumbuiza na vipaza sauti vya bluu, wakiwa wamevalia mavazi maridadi ya samawati.",
+        "hypothesis": "wanawake wa Kihindi hutumbuiza pamoja katika mavazi ya kupendeza",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanawake wa India wakitumbuiza na vipaza sauti vya bluu, wakiwa wamevalia mavazi maridadi ya samawati.",
+        "hypothesis": "mbwa hunusa hewa",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanawake wa India wakitumbuiza na vipaza sauti vya bluu, wakiwa wamevalia mavazi maridadi ya samawati.",
+        "hypothesis": "wanawake wa Kihindi wanafanya tambiko la kidini pamoja",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwogeleaji mtaalamu akitema maji baada ya kuzama huku akishika mkono wa mtu anayemsaidia kurejea nchi kavu.",
+        "hypothesis": "Mtu anaogelea.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwogeleaji mtaalamu akitema maji baada ya kuzama huku akishika mkono wa mtu anayemsaidia kurejea nchi kavu.",
+        "hypothesis": "Muogeleaji anakula marshmallow iliyokaushwa.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwogeleaji mtaalamu akitema maji baada ya kuzama huku akishika mkono wa mtu anayemsaidia kurejea nchi kavu.",
+        "hypothesis": "Muogeleaji huyo nusura azame baada ya kunyonywa chini ya mkondo wa kasi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume aliyevaa suti nyeusi anatembea nje ya maji.",
+        "hypothesis": "Mwanamume aliyevaa suti anatoka majini akiwa amebeba ubao wa kuteleza kwenye mawimbi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume aliyevaa suti nyeusi anatembea nje ya maji.",
+        "hypothesis": "mtu anatembea nje ya maji.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume aliyevaa suti nyeusi anatembea nje ya maji.",
+        "hypothesis": "Mwanamume amelala ufukweni.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wasichana watano na wavulana wawili wanavuka barabara kuu.",
+        "hypothesis": "Familia kubwa hutembea pamoja kwenye mkutano wao wa familia.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wasichana watano na wavulana wawili wanavuka barabara kuu.",
+        "hypothesis": "Wanaume hao watatu huketi na kuzungumza juu ya maisha yao.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wasichana watano na wavulana wawili wanavuka barabara kuu.",
+        "hypothesis": "Kuna watu nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mtu mwenye shati la zambarau anachora picha ya mwanamke kwenye ukuta mweupe.",
+        "hypothesis": "Mwanamke anachora picha ya rafiki yake bora.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mtu mwenye shati la zambarau anachora picha ya mwanamke kwenye ukuta mweupe.",
+        "hypothesis": "Mwanamke huchora picha ya mtu.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mtu mwenye shati la zambarau anachora picha ya mwanamke kwenye ukuta mweupe.",
+        "hypothesis": "Mwanamke anachora picha ya tumbili.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke anachora mural ya uso wa mwanamke.",
+        "hypothesis": "Kuna mwanamke anachora.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke anachora mural ya uso wa mwanamke.",
+        "hypothesis": "Kuna mwanamke anachora kwa kujifurahisha.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke anachora mural ya uso wa mwanamke.",
+        "hypothesis": "Kuna mtu anafunga viatu vyake.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanandoa wanakula nje kwenye meza na anaelekeza kitu.",
+        "hypothesis": "Wanandoa wanakula ndani kwenye meza na anaelekeza kitu.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanandoa wanakula nje kwenye meza na anaelekeza kitu.",
+        "hypothesis": "Mwanamume huyo ananyooshea kidole mnyakuzi wa mikoba.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanandoa wanakula nje kwenye meza na anaelekeza kitu.",
+        "hypothesis": "Watu wanakula kwenye meza nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanawake wawili wanatembea kando ya barabara yenye shughuli nyingi katika eneo la katikati mwa jiji.",
+        "hypothesis": "Wanawake hao walikuwa wakitembea katikati ya jiji kwa sababu mabasi yalikuwa yamegoma",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanawake wawili wanatembea kando ya barabara yenye shughuli nyingi katika eneo la katikati mwa jiji.",
+        "hypothesis": "Wanawake walikuwa wakichuma matunda mashambani",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanawake wawili wanatembea kando ya barabara yenye shughuli nyingi katika eneo la katikati mwa jiji.",
+        "hypothesis": "Wanawake walikuwa wakitembea katikati mwa jiji",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watu wengi wamesimama nje ya mahali fulani wakizungumza wao kwa wao mbele ya jengo ambalo lina alama inayosema \"HI-POINTE.\"",
+        "hypothesis": "Watu wanazungumza kabla ya kuingia kwenye jengo la kazi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watu wengi wamesimama nje ya mahali fulani wakizungumza wao kwa wao mbele ya jengo ambalo lina alama inayosema \"HI-POINTE.\"",
+        "hypothesis": "Kikundi cha watu sio waanzilishi wa jengo hilo.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watu wengi wamesimama nje ya mahali fulani wakizungumza wao kwa wao mbele ya jengo ambalo lina alama inayosema \"HI-POINTE.\"",
+        "hypothesis": "Watu wameketi kwenye ukumbi wa hoteli.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mhudumu wa ndege aliyevalia mavazi ya manjano akionyesha matumizi ya fulana ya maisha.",
+        "hypothesis": "Mhudumu wa ndege amesimama mbele ya abiria.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mhudumu wa ndege aliyevalia mavazi ya manjano akionyesha matumizi ya fulana ya maisha.",
+        "hypothesis": "Mhudumu wa ndege anaonyesha taratibu za usalama kabla ya kuondoka.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mhudumu wa ndege aliyevalia mavazi ya manjano akionyesha matumizi ya fulana ya maisha.",
+        "hypothesis": "Mwanamke anatayarisha vinywaji kwenye ndege.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wasichana wanatembea mitaani.",
+        "hypothesis": "Wasichana wanatembea mitaani.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wasichana wanatembea mitaani.",
+        "hypothesis": "Wasichana waliketi mitaani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wasichana wanatembea mitaani.",
+        "hypothesis": "Wasichana walikuwa wakienda kwenye bustani.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume aliyevaa sare nyekundu na kofia ya chuma amesimama kwenye pikipiki yake.",
+        "hypothesis": "mtu ameketi kwenye gari.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume aliyevaa sare nyekundu na kofia ya chuma amesimama kwenye pikipiki yake.",
+        "hypothesis": "mtu amesimama.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume aliyevaa sare nyekundu na kofia ya chuma amesimama kwenye pikipiki yake.",
+        "hypothesis": "mtu amesimama kwenye pikipiki yake.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mtu wa nguo huweka dutu nyeusi kwenye paji la uso wa mtu.",
+        "hypothesis": "Mwanamume anaweka kitu kwenye kichwa cha mwanaume mwingine.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mtu wa nguo huweka dutu nyeusi kwenye paji la uso wa mtu.",
+        "hypothesis": "Wanawake wako kwenye bustani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mtu wa nguo huweka dutu nyeusi kwenye paji la uso wa mtu.",
+        "hypothesis": "Wanaume wako kanisani.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mtu anajiviringisha mlimani akiendesha gari huku mwingine akitazama.",
+        "hypothesis": "Watu wawili wako nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mtu anajiviringisha mlimani akiendesha gari huku mwingine akitazama.",
+        "hypothesis": "Mtu anatazama kilima tupu.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mtu anajiviringisha mlimani akiendesha gari huku mwingine akitazama.",
+        "hypothesis": "Mtoto kwenye gari anabingirika chini ya kilima.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "mvulana anayeshikilia ukuta wa msingi ulioinuliwa wa nyumba kuu ya matofali.",
+        "hypothesis": "mvulana anayeshikilia ukuta wa msingi ulioinuliwa wa nyumba ya matofali ya zamani wakati ujenzi unafanyika",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "mvulana anayeshikilia ukuta wa msingi ulioinuliwa wa nyumba kuu ya matofali.",
+        "hypothesis": "msichana ameegemea ukuta",
+        "answer": "utata"
+    },
+    {
+        "premise": "mvulana anayeshikilia ukuta wa msingi ulioinuliwa wa nyumba kuu ya matofali.",
+        "hypothesis": "mvulana yuko dhidi ya ukuta wa msingi ulioinuliwa",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Bruce Springsteen, akiwa amenyoosha mkono mmoja, anaimba katika uangalizi katika jumba lenye giza la tamasha.",
+        "hypothesis": "Bruce Springsteen anatoka Florida.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Bruce Springsteen, akiwa amenyoosha mkono mmoja, anaimba katika uangalizi katika jumba lenye giza la tamasha.",
+        "hypothesis": "Bruce Springsteen ni mwimbaji.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Bruce Springsteen, akiwa amenyoosha mkono mmoja, anaimba katika uangalizi katika jumba lenye giza la tamasha.",
+        "hypothesis": "Bruce Springsteen ni shoga",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mbwa sita wanaogelea mtoni.",
+        "hypothesis": "Mbwa sita wanaogelea kuvuka mto.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mbwa sita wanaogelea mtoni.",
+        "hypothesis": "Mbwa sita wako nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mbwa sita wanaogelea mtoni.",
+        "hypothesis": "Watoto wa mbwa wameketi kwenye kochi.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume na mwanamke wanajipiga picha huku mwanamke aliyevaa skafu akiwatembeza.",
+        "hypothesis": "Mwanamume na mwanamke wamepigwa risasi za mug kwa sababu wamekamatwa.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume na mwanamke wanajipiga picha huku mwanamke aliyevaa skafu akiwatembeza.",
+        "hypothesis": "Mwanamume na mwanamke huchukua selfies wakati mwanamke anatembea na kuwahukumu.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume na mwanamke wanajipiga picha huku mwanamke aliyevaa skafu akiwatembeza.",
+        "hypothesis": "Mwanamume na mwanamke hujipiga selfie.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "kundi la watu wakicheza pamoja.",
+        "hypothesis": "Watu wanacheza.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "kundi la watu wakicheza pamoja.",
+        "hypothesis": "Wanafanya tango.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "kundi la watu wakicheza pamoja.",
+        "hypothesis": "Hakuna anayecheza.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanaume waliovaa sare za bluu huketi kwenye basi.",
+        "hypothesis": "Wanaume huketi kwenye basi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanaume waliovaa sare za bluu huketi kwenye basi.",
+        "hypothesis": "Wanaume huketi kwenye basi kwenda kazini,",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanaume waliovaa sare za bluu huketi kwenye basi.",
+        "hypothesis": "Wanaume huendesha basi ndani ya bahari.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanaume wawili wakipanda kwenye jukwaa la mbao.",
+        "hypothesis": "Watu wawili wakipanda kwenye jukwaa la mbao.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanaume wawili wakipanda kwenye jukwaa la mbao.",
+        "hypothesis": "Wanawake wawili wakipanda kwenye jukwaa la mbao.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanaume wawili wakipanda kwenye jukwaa la mbao.",
+        "hypothesis": "Wanaume wawili wenye huzuni wakipanda kwenye jukwaa la mbao.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Ndege anapiga mbawa zake juu ya maji.",
+        "hypothesis": "Ndege anaruka juu ya miti.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Ndege anapiga mbawa zake juu ya maji.",
+        "hypothesis": "Bata anaogelea ziwani.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana mdogo aliyevaa shati nyekundu na jeans anasimama katikati ya uwanja na kurusha ndege ya kuchezea hewani.",
+        "hypothesis": "Mvulana mdogo anacheza kwenye uwanja.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mvulana mdogo aliyevaa shati nyekundu na jeans anasimama katikati ya uwanja na kurusha ndege ya kuchezea hewani.",
+        "hypothesis": "Mvulana mdogo anacheza shambani kwa sababu mama yake alimfukuza nje ya nyumba.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana mdogo aliyevaa shati nyekundu na jeans anasimama katikati ya uwanja na kurusha ndege ya kuchezea hewani.",
+        "hypothesis": "Mvulana mdogo anacheza michezo ya video ndani ya nyumba.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watu sita au saba wamesimama kwenye gati na meza na jozi ya glasi mbele.",
+        "hypothesis": "Wanaenda kuvua samaki.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watu sita au saba wamesimama kwenye gati na meza na jozi ya glasi mbele.",
+        "hypothesis": "Watu sita au saba wamesimama kwenye gati.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watu sita au saba wamesimama kwenye gati na meza na jozi ya glasi mbele.",
+        "hypothesis": "Wako kwenye mashua.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mtu aliyevaa shati jekundu na suruali nyeusi akiwa ameinama.",
+        "hypothesis": "Mtu amevaa shati nyekundu.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mtu aliyevaa shati jekundu na suruali nyeusi akiwa ameinama.",
+        "hypothesis": "Mtu ni mwanamke.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mtu aliyevaa shati jekundu na suruali nyeusi akiwa ameinama.",
+        "hypothesis": "Mtu huyo amevaa shati la kijani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mtoto huyu yuko kwenye hatua za maktaba.",
+        "hypothesis": "Mtoto yuko kwenye ngazi za shule.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mtoto huyu yuko kwenye hatua za maktaba.",
+        "hypothesis": "Mtoto yuko kwenye ngazi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mtoto huyu yuko kwenye hatua za maktaba.",
+        "hypothesis": "Mtoto yuko kwenye ngazi ndani ya maktaba.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mchezaji wa mpira wa vikapu aliyechorwa tattoo anakaribia kuutumbukiza mpira.",
+        "hypothesis": "Mwanaume anacheza mpira..",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mchezaji wa mpira wa vikapu aliyechorwa tattoo anakaribia kuutumbukiza mpira.",
+        "hypothesis": "Mtu huyo anacheza mpira wa kikapu.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mchezaji wa mpira wa vikapu aliyechorwa tattoo anakaribia kuutumbukiza mpira.",
+        "hypothesis": "Mchezaji ana tattoo inayosema mama.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "mvulana aliyevaa kofia nyekundu anatabasamu huku akiangalia mbali na kutafakari kwake.",
+        "hypothesis": "Mvulana katika kofia nyekundu anafurahi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "mvulana aliyevaa kofia nyekundu anatabasamu huku akiangalia mbali na kutafakari kwake.",
+        "hypothesis": "Mvulana hataki kuona tafakari yake.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "mvulana aliyevaa kofia nyekundu anatabasamu huku akiangalia mbali na kutafakari kwake.",
+        "hypothesis": "Mvulana amekasirika.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume aliyevaa kofia ya mpira ya kijivu anatembea karibu na mwanamke mwenye nywele nyekundu aliyevaa shati la jean la mikono mirefu la bluu.",
+        "hypothesis": "mwanaume amevaa kofia ya kijivu.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume aliyevaa kofia ya mpira ya kijivu anatembea karibu na mwanamke mwenye nywele nyekundu aliyevaa shati la jean la mikono mirefu la bluu.",
+        "hypothesis": "Mwanamume amevaa kofia ya bluu.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume aliyevaa kofia ya mpira ya kijivu anatembea karibu na mwanamke mwenye nywele nyekundu aliyevaa shati la jean la mikono mirefu la bluu.",
+        "hypothesis": "Mwanaume ni baridi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mzee aliyevalia kofia ya besiboli na mwanamke mzee aliyevalia koti la jean wamesimama nje, lakini wamefunikwa zaidi na kivuli.",
+        "hypothesis": "Mwanamke mzee ana koti nyepesi ya jean.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mzee aliyevalia kofia ya besiboli na mwanamke mzee aliyevalia koti la jean wamesimama nje, lakini wamefunikwa zaidi na kivuli.",
+        "hypothesis": "Mwanamke mzee ana koti ya jeans.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mzee aliyevalia kofia ya besiboli na mwanamke mzee aliyevalia koti la jean wamesimama nje, lakini wamefunikwa zaidi na kivuli.",
+        "hypothesis": "Mwanamke mzee hana koti.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanandoa wapya wakicheka na kuzungumza kati yao.",
+        "hypothesis": "Wanandoa hao wanaburudika.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanandoa wapya wakicheka na kuzungumza kati yao.",
+        "hypothesis": "Wenzi hao wamefunga ndoa tu.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanandoa wapya wakicheka na kuzungumza kati yao.",
+        "hypothesis": "Wanandoa wameachana.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume mweusi aliyevaa shati la mikono mirefu yenye kola nyeupe na tai anatembea kuelekea kazini katika jiji kubwa.",
+        "hypothesis": "Mwanaume amevaa kaptula na fulana huku akikimbia.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume mweusi aliyevaa shati la mikono mirefu yenye kola nyeupe na tai anatembea kuelekea kazini katika jiji kubwa.",
+        "hypothesis": "Mwanaume anasonga.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume mweusi aliyevaa shati la mikono mirefu yenye kola nyeupe na tai anatembea kuelekea kazini katika jiji kubwa.",
+        "hypothesis": "Mwanaume amevaa mavazi ya kazi na anatembea kuelekea kazini kwake.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Vijana kadhaa wameketi mbele ya sanamu.",
+        "hypothesis": "vijana kadhaa wakiwa wamekaa nje",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Vijana kadhaa wameketi mbele ya sanamu.",
+        "hypothesis": "vijana kadhaa wameketi katika ukumbi",
+        "answer": "utata"
+    },
+    {
+        "premise": "Vijana kadhaa wameketi mbele ya sanamu.",
+        "hypothesis": "vijana kadhaa wameketi katika ua wa shule",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Kundi la watu wazima wanasimama bafuni wakitazama chini mtoto mdogo kwenye bafu.",
+        "hypothesis": "Mama wa mtoto anamtazama mwanawe na marafiki zake.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Kundi la watu wazima wanasimama bafuni wakitazama chini mtoto mdogo kwenye bafu.",
+        "hypothesis": "Watu wako ndani ya nyumba.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kundi la watu wazima wanasimama bafuni wakitazama chini mtoto mdogo kwenye bafu.",
+        "hypothesis": "Mtoto amelala.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke mwenye sura mbaya anaimba jukwaani.",
+        "hypothesis": "Mwanamke anaimba.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke mwenye sura mbaya anaimba jukwaani.",
+        "hypothesis": "Mwanamke anakariri mashairi jukwaani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke mwenye sura mbaya anaimba jukwaani.",
+        "hypothesis": "Mwanamke wa blonde anaimba na kucheza kwenye jukwaa.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Msichana aliyevaa koti la kahawia akitembea kwenye theluji.",
+        "hypothesis": "Mwanamke anakula pasta katika mgahawa.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Msichana aliyevaa koti la kahawia akitembea kwenye theluji.",
+        "hypothesis": "Mwanamke aliyevaa koti anamtafuta mbwa wake aliyepotea.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Msichana aliyevaa koti la kahawia akitembea kwenye theluji.",
+        "hypothesis": "Msichana anatembea nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume, mwanamke, na mtoto hupigwa picha mbele ya milima.",
+        "hypothesis": "Familia kwenye likizo inajitokeza.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume, mwanamke, na mtoto hupigwa picha mbele ya milima.",
+        "hypothesis": "Watu wako nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume, mwanamke, na mtoto hupigwa picha mbele ya milima.",
+        "hypothesis": "Familia moja iko kwenye gari lao.",
+        "answer": "utata"
+    },
+    {
+        "premise": "watu wamesimama karibu na maji na mashua inayoelekea kwao",
+        "hypothesis": "Watu wamesimama.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "watu wamesimama karibu na maji na mashua inayoelekea kwao",
+        "hypothesis": "Watu wamesimama karibu na maji na mashua kubwa ya bluu kuelekea upande wao.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "watu wamesimama karibu na maji na mashua inayoelekea kwao",
+        "hypothesis": "Watu wanasubiri foleni kwenye mgahawa huo.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watu wazima wanne wanakula wakiwa wamekaa kwenye sakafu ya vigae.",
+        "hypothesis": "Wanandoa wawili wanakula chakula kwenye sakafu ya jikoni.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watu wazima wanne wanakula wakiwa wamekaa kwenye sakafu ya vigae.",
+        "hypothesis": "Wanandoa wawili wanacheza bwawa kwenye baa.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watu wazima wanne wanakula wakiwa wamekaa kwenye sakafu ya vigae.",
+        "hypothesis": "Kundi la watu wanakula chakula.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mbwa amesimama karibu na theluji akiangalia maji.",
+        "hypothesis": "Paka amelala juu ya kitanda.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mbwa amesimama karibu na theluji akiangalia maji.",
+        "hypothesis": "Mnyama yuko nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mbwa amesimama karibu na theluji akiangalia maji.",
+        "hypothesis": "Mbwa anafikiria kwenda kuogelea.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume mzee anaegemea juu ya kitako nje ya jengo la kifahari.",
+        "hypothesis": "Mwanamume mzee ameegemea nje ya nyumba yake ya kuwatunzia wazee",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume mzee anaegemea juu ya kitako nje ya jengo la kifahari.",
+        "hypothesis": "Kijana anakimbia",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume mzee anaegemea juu ya kitako nje ya jengo la kifahari.",
+        "hypothesis": "Mzee anaegemea nje ya jengo",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mtu aliyevaa nguo za chungwa hupumzika juu ya lango la metro.",
+        "hypothesis": "Mtu ameketi kwenye mchezo wa besiboli.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mtu aliyevaa nguo za chungwa hupumzika juu ya lango la metro.",
+        "hypothesis": "Mtu amesimama karibu na kituo cha metro.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mtu aliyevaa nguo za chungwa hupumzika juu ya lango la metro.",
+        "hypothesis": "Mtu anasubiri treni.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Msichana aliyevaa mavazi ya bluu anavua viatu vyake na kula pipi ya pamba ya bluu.",
+        "hypothesis": "Msichana anakula pipi ya pamba ya buluu kwenye kanivali.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Msichana aliyevaa mavazi ya bluu anavua viatu vyake na kula pipi ya pamba ya bluu.",
+        "hypothesis": "Msichana katika mavazi ya bluu ni msichana wa maua katika harusi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Msichana aliyevaa mavazi ya bluu anavua viatu vyake na kula pipi ya pamba ya bluu.",
+        "hypothesis": "Msichana anakula akiwa hana viatu.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume mweusi aliyevalia sare nyeupe afanya mdundo wa kustaajabisha wa kurudi nyuma kwa mshangao wa umati.",
+        "hypothesis": "mwanaume ni mwasia",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume mweusi aliyevalia sare nyeupe afanya mdundo wa kustaajabisha wa kurudi nyuma kwa mshangao wa umati.",
+        "hypothesis": "mwanaume anacheza",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume mweusi aliyevalia sare nyeupe afanya mdundo wa kustaajabisha wa kurudi nyuma kwa mshangao wa umati.",
+        "hypothesis": "mwanaume yuko nyumbani amelala",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mchezaji wa mpira wa vikapu aliye na viatu vya kijani anadumisha mpira wavuni huku umati wa uwanja ukitazama.",
+        "hypothesis": "Mwanamume anatengeneza sandwich huku umati ukishangaa.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mchezaji wa mpira wa vikapu aliye na viatu vya kijani anadumisha mpira wavuni huku umati wa uwanja ukitazama.",
+        "hypothesis": "Umati unatazama mtu akicheza mpira wa vikapu.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mchezaji wa mpira wa vikapu aliye na viatu vya kijani anadumisha mpira wavuni huku umati wa uwanja ukitazama.",
+        "hypothesis": "Mchezaji maarufu wa NBA anacheza mpira wa mitaani mbele ya umati.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mzee aliyekunja uso aliyevalia kofia ya kijeshi na suti ya kiraia anasimama kati ya umati wa watu nje wakiwa wamebeba ishara na puto.",
+        "hypothesis": "Kundi la watu wamesimama nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mzee aliyekunja uso aliyevalia kofia ya kijeshi na suti ya kiraia anasimama kati ya umati wa watu nje wakiwa wamebeba ishara na puto.",
+        "hypothesis": "Mkongwe wa kijeshi mwenye hasira anatazama watu wakipinga vita.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mzee aliyekunja uso aliyevalia kofia ya kijeshi na suti ya kiraia anasimama kati ya umati wa watu nje wakiwa wamebeba ishara na puto.",
+        "hypothesis": "Mwanamume mmoja anatazama kikundi cha watu wanaoshiriki shindano la kula hot dog.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke aliyevaa kaptula za baiskeli na sketi anaendesha baiskeli na kubeba mfuko wa bega.",
+        "hypothesis": "Mwanamke kwenye baiskeli.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke aliyevaa kaptula za baiskeli na sketi anaendesha baiskeli na kubeba mfuko wa bega.",
+        "hypothesis": "Mwanamke akiendesha baiskeli kwenda kazini.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke aliyevaa kaptula za baiskeli na sketi anaendesha baiskeli na kubeba mfuko wa bega.",
+        "hypothesis": "Mwanamke akiendesha gari.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Kijana anayeteleza kwenye skateboard hufanya hila kwenye reli.",
+        "hypothesis": "Mtu mdogo kwenye skateboard.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kijana anayeteleza kwenye skateboard hufanya hila kwenye reli.",
+        "hypothesis": "Mtu akichora mti.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Kijana anayeteleza kwenye skateboard hufanya hila kwenye reli.",
+        "hypothesis": "Mvulana mdogo akionyesha mbinu zake mpya za skateboard kwa marafiki zake.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume aliyevaa suruali ya jeans na kofia amejiinamia kwenye kiganja chenye tuta la zege mbele yake.",
+        "hypothesis": "Amevaa shati la kifungo.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume aliyevaa suruali ya jeans na kofia amejiinamia kwenye kiganja chenye tuta la zege mbele yake.",
+        "hypothesis": "Kichwa chake chenye kipara kimewekwa wazi.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume aliyevaa suruali ya jeans na kofia amejiinamia kwenye kiganja chenye tuta la zege mbele yake.",
+        "hypothesis": "Mwanamume amejikunyata kwenye nguzo.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Msichana aliyevaa kanzu nyekundu, kanga ya kichwa cha bluu na jeans anatengeneza malaika wa theluji.",
+        "hypothesis": "Msichana katika kanzu nyekundu hufanya malaika wa theluji kwa mara ya kwanza.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Msichana aliyevaa kanzu nyekundu, kanga ya kichwa cha bluu na jeans anatengeneza malaika wa theluji.",
+        "hypothesis": "Msichana aliyevaa kanzu nyeusi anakaa ndani ya nyumba mbali na theluji.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Msichana aliyevaa kanzu nyekundu, kanga ya kichwa cha bluu na jeans anatengeneza malaika wa theluji.",
+        "hypothesis": "Msichana nje anacheza kwenye theluji.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kundi la watu walikusanyika usiku wakitazama tukio.",
+        "hypothesis": "Kundi la marafiki wamelala.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Kundi la watu walikusanyika usiku wakitazama tukio.",
+        "hypothesis": "Kundi la wanadamu linatazama mwelekeo mmoja.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Kundi la watu walikusanyika usiku wakitazama tukio.",
+        "hypothesis": "Kundi la marafiki wanatazama tamasha la muziki usiku.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mchezaji wa mpira wa miguu wa Marekani mwenye rangi ya njano anadaka mpira huku akiwa chini ya shinikizo kutoka kwa mlipaji mwenye nguo nyeupe.",
+        "hypothesis": "Mchezaji wa mpira wa miguu analazimishwa.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mchezaji wa mpira wa miguu wa Marekani mwenye rangi ya njano anadaka mpira huku akiwa chini ya shinikizo kutoka kwa mlipaji mwenye nguo nyeupe.",
+        "hypothesis": "Mchezaji wa mpira wa miguu wa Marekani mwenye rangi ya njano anadaka mpira akiwa chini ya shinikizo kutoka kwa mchezaji aliyevaa nguo nyeupe.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mchezaji wa mpira wa miguu wa Marekani mwenye rangi ya njano anadaka mpira huku akiwa chini ya shinikizo kutoka kwa mlipaji mwenye nguo nyeupe.",
+        "hypothesis": "Mchezaji wa mpira wa vikapu anapiga pointer tatu.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mtu mwenye nywele za buluu, kofia ya besiboli, na kofia amevaa anasimama nje kwenye umati.",
+        "hypothesis": "Mtu anafurahia tukio la michezo.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mtu mwenye nywele za buluu, kofia ya besiboli, na kofia amevaa anasimama nje kwenye umati.",
+        "hypothesis": "Mtu anacheza na kuimba.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mtu mwenye nywele za buluu, kofia ya besiboli, na kofia amevaa anasimama nje kwenye umati.",
+        "hypothesis": "Mtu amesimama nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Msichana akiwa ameshika kinywaji akionyesha kwenye mchoro.",
+        "hypothesis": "Msichana yuko kwenye bafu",
+        "answer": "utata"
+    },
+    {
+        "premise": "Msichana akiwa ameshika kinywaji akionyesha kwenye mchoro.",
+        "hypothesis": "Msichana anakunywa kinywaji cha pombe.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Msichana akiwa ameshika kinywaji akionyesha kwenye mchoro.",
+        "hypothesis": "Msichana ana kinywaji.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume mwenye shati jeusi, katika jiko la kibiashara, akiwa ameshikilia nyama aliyoitoa kwenye begi.",
+        "hypothesis": "Mwanaume aliyevaa shati jeusi, katika jiko la kibiashara, akiwa ameshikilia nyama kuukuu aliyoitoa kwenye begi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume mwenye shati jeusi, katika jiko la kibiashara, akiwa ameshikilia nyama aliyoitoa kwenye begi.",
+        "hypothesis": "Mwanamke aliyevaa shati jeusi, katika jiko la kibiashara, akiwa ameshikilia nyama aliyoitoa kwenye begi.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume mwenye shati jeusi, katika jiko la kibiashara, akiwa ameshikilia nyama aliyoitoa kwenye begi.",
+        "hypothesis": "Mwanamume aliyevaa shati, katika jiko la kibiashara, akiwa ameshikilia nyama aliyoitoa kwenye begi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mtu aliyevaa shati nyekundu anakata nyasi na mower ya kijani kibichi.",
+        "hypothesis": "Mtu mwenye rangi nyekundu anaogelea kwenye Olimpiki.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mtu aliyevaa shati nyekundu anakata nyasi na mower ya kijani kibichi.",
+        "hypothesis": "Mtu mwenye rangi nyekundu anasonga nyasi kwenye gari la John Deer.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mtu aliyevaa shati nyekundu anakata nyasi na mower ya kijani kibichi.",
+        "hypothesis": "Mtu mwenye rangi nyekundu anakata nyasi kwenye mashine ya kukata",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kundi la watu waliovalia mashati meusi wakiwa wamepanda gari la juu lililo wazi.",
+        "hypothesis": "Kundi la watu hushuka barabarani kwa kigeugeu.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kundi la watu waliovalia mashati meusi wakiwa wamepanda gari la juu lililo wazi.",
+        "hypothesis": "Dereva alikuwa amevaa shati la zambarau.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Kundi la watu waliovalia mashati meusi wakiwa wamepanda gari la juu lililo wazi.",
+        "hypothesis": "Marafiki hupanda gari la juu lililo wazi pamoja.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanaume wawili wanatayarisha samaki kwenye kizimbani.",
+        "hypothesis": "Wanaume wawili wametoka tu kuvua samaki kutwa nzima",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanaume wawili wanatayarisha samaki kwenye kizimbani.",
+        "hypothesis": "Wanaume wawili wanasafisha samaki wao",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanaume wawili wanatayarisha samaki kwenye kizimbani.",
+        "hypothesis": "Wanaume wawili wameketi kwenye mtumbwi wakiwa na nguzo zao za kuvulia samaki",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke ambaye uso wake umefunikwa kidogo na rangi ya uso wa fedha ameketi kwenye kitambaa cha plastiki akiangalia kwenye kioo.",
+        "hypothesis": "Mwanamke ni mwanamitindo.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke ambaye uso wake umefunikwa kidogo na rangi ya uso wa fedha ameketi kwenye kitambaa cha plastiki akiangalia kwenye kioo.",
+        "hypothesis": "Mwanamke ana kitu usoni mwake.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke ambaye uso wake umefunikwa kidogo na rangi ya uso wa fedha ameketi kwenye kitambaa cha plastiki akiangalia kwenye kioo.",
+        "hypothesis": "Mwanamke ni kipofu.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume aliyevaa jasho la Alaska amesimama nyuma ya kaunta.",
+        "hypothesis": "Mwanamume amevaa tank top.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume aliyevaa jasho la Alaska amesimama nyuma ya kaunta.",
+        "hypothesis": "Mwanamume huyo anatoka Alaska.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume aliyevaa jasho la Alaska amesimama nyuma ya kaunta.",
+        "hypothesis": "Mtu aliye nyuma ya kaunta ni mwanaume.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kundi kubwa la watu wakitembea katika jiji lenye shughuli nyingi usiku.",
+        "hypothesis": "Watu wanakula chakula cha mchana kwenye mgahawa.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Kundi kubwa la watu wakitembea katika jiji lenye shughuli nyingi usiku.",
+        "hypothesis": "Watu wanatembea mjini.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kundi kubwa la watu wakitembea katika jiji lenye shughuli nyingi usiku.",
+        "hypothesis": "Watu wako nje kwenye bustani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke, mwenye rangi nyekundu na nyeupe, na amevaa miwani, ameketi katika chumba na watu wengine.",
+        "hypothesis": "Mwanamke ameketi katika chumba na watu wengine.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke, mwenye rangi nyekundu na nyeupe, na amevaa miwani, ameketi katika chumba na watu wengine.",
+        "hypothesis": "Mwanamke yuko kwenye simu yake ameketi chumbani.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke, mwenye rangi nyekundu na nyeupe, na amevaa miwani, ameketi katika chumba na watu wengine.",
+        "hypothesis": "Mwanaume anatengeneza gari lake.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mchezaji wa mpira laini akimrushia mwenzake mpira.",
+        "hypothesis": "Wenzake wanashiriki michuano ya mipira laini.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mchezaji wa mpira laini akimrushia mwenzake mpira.",
+        "hypothesis": "Watu wawili wanacheza softball.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mchezaji wa mpira laini akimrushia mwenzake mpira.",
+        "hypothesis": "Wachezaji wawili wa mpira laini wamekaa kwenye benchi.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mendesha baiskeli anakimbia.",
+        "hypothesis": "Mtu anaendesha baiskeli",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mendesha baiskeli anakimbia.",
+        "hypothesis": "Mpanda baisikeli anapoteza mbio",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mendesha baiskeli anakimbia.",
+        "hypothesis": "Gari ni njano",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wavulana wawili wadogo wanatabasamu na kucheka huku mmoja akiwa amesimama na mmoja katika kiti cha kifahari.",
+        "hypothesis": "Kuna wavulana wawili wadogo wanaotabasamu.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wavulana wawili wadogo wanatabasamu na kucheka huku mmoja akiwa amesimama na mmoja katika kiti cha kifahari.",
+        "hypothesis": "Wavulana wadogo wanalia.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wavulana wawili wadogo wanatabasamu na kucheka huku mmoja akiwa amesimama na mmoja katika kiti cha kifahari.",
+        "hypothesis": "Wavulana ni ndugu wanaocheza na kila mmoja.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wavuvi wazawa wa visiwani wakitega nyavu zao baada ya kazi ya kutwa nzima.",
+        "hypothesis": "Watu hao walipata samaki wengi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wavuvi wazawa wa visiwani wakitega nyavu zao baada ya kazi ya kutwa nzima.",
+        "hypothesis": "Wanaume hao hawakuenda kazini leo lakini badala yake walicheza daraja.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wavuvi wazawa wa visiwani wakitega nyavu zao baada ya kazi ya kutwa nzima.",
+        "hypothesis": "Wanaume wanamaliza siku yao ya kazi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Hawa ni vijana ambao wanaonekana kufanya kazi pamoja kulinda mimea inayozunguka nguzo nyeupe.",
+        "hypothesis": "Mimea ni ferns",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Hawa ni vijana ambao wanaonekana kufanya kazi pamoja kulinda mimea inayozunguka nguzo nyeupe.",
+        "hypothesis": "Watu wazima ni vijana",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Hawa ni vijana ambao wanaonekana kufanya kazi pamoja kulinda mimea inayozunguka nguzo nyeupe.",
+        "hypothesis": "Watu wazima ni wazee",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wachezaji wawili wa kandanda wa chuo kikuu wanachuana nje ya uwanja wakati wa siku ya mchezo, ambapo mmoja ni mlinzi wa robo anajaribu kurusha mpira, na mchezaji mwingine yuko mbioni kumfukuza mlinzi huyo.",
+        "hypothesis": "Timu mbili kutoka vyuo pinzani ziko katika robo ya nne ya mchezo.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wachezaji wawili wa kandanda wa chuo kikuu wanachuana nje ya uwanja wakati wa siku ya mchezo, ambapo mmoja ni mlinzi wa robo anajaribu kurusha mpira, na mchezaji mwingine yuko mbioni kumfukuza mlinzi huyo.",
+        "hypothesis": "Baadhi ya wasichana wanaocheza mpira wa vikapu.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wachezaji wawili wa kandanda wa chuo kikuu wanachuana nje ya uwanja wakati wa siku ya mchezo, ambapo mmoja ni mlinzi wa robo anajaribu kurusha mpira, na mchezaji mwingine yuko mbioni kumfukuza mlinzi huyo.",
+        "hypothesis": "Mchezo wa mpira wa miguu wa chuo kikuu.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watu wawili wanacheza Soka la Amerika na mmoja wao anajaribu kumzuia mwingine asirushe mpira.",
+        "hypothesis": "Mchezaji wa mstari anajaribu kukabiliana na robo kabla ya kufanya mguso wa ushindi wa mchezo.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watu wawili wanacheza Soka la Amerika na mmoja wao anajaribu kumzuia mwingine asirushe mpira.",
+        "hypothesis": "Mtungi anarusha besiboli kwa mpigo anapojaribu kuigonga nje ya uwanja.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watu wawili wanacheza Soka la Amerika na mmoja wao anajaribu kumzuia mwingine asirushe mpira.",
+        "hypothesis": "Mchezo wa mpira wa miguu unachezwa.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume akicheza billiards kwenye baa.",
+        "hypothesis": "Mwanaume anacheza na marafiki.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume akicheza billiards kwenye baa.",
+        "hypothesis": "Mwanamume anacheza billiards.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume akicheza billiards kwenye baa.",
+        "hypothesis": "Mwanaume anacheza cheki.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mbwa wa dhahabu hupitisha mpira wa buluu kwa mbwa mwingine wa dhahabu ufukweni.",
+        "hypothesis": "Mbwa ni marafiki.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mbwa wa dhahabu hupitisha mpira wa buluu kwa mbwa mwingine wa dhahabu ufukweni.",
+        "hypothesis": "Mbwa wanakataa kushiriki.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mbwa wa dhahabu hupitisha mpira wa buluu kwa mbwa mwingine wa dhahabu ufukweni.",
+        "hypothesis": "Mbwa wa dhahabu anacheza mpira na mbwa mwingine nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watu wako kwenye eskaleta wakingoja kufika wanakoenda huku wakitazama nje ya glasi inayounda ukuta.",
+        "hypothesis": "Watu wanapanda kwenye escalator.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watu wako kwenye eskaleta wakingoja kufika wanakoenda huku wakitazama nje ya glasi inayounda ukuta.",
+        "hypothesis": "Watu wanapanda lifti.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watu wako kwenye eskaleta wakingoja kufika wanakoenda huku wakitazama nje ya glasi inayounda ukuta.",
+        "hypothesis": "Watu wamepanda escalator.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke anasuka na sega mkononi.",
+        "hypothesis": "Mwanamke yuko kazini.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke anasuka na sega mkononi.",
+        "hypothesis": "Mwanamke anafanya kitu kwa mikono yake.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke anasuka na sega mkononi.",
+        "hypothesis": "Mwanamke ameketi na mikono mitupu.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mvulana anapanda barabarani kati ya ng'ombe wawili.",
+        "hypothesis": "Mvulana amepanda farasi na ng'ombe wawili.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana anapanda barabarani kati ya ng'ombe wawili.",
+        "hypothesis": "Mvulana, barabara na ng'ombe wawili.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mvulana anapanda barabarani kati ya ng'ombe wawili.",
+        "hypothesis": "Ng'ombe mmoja yuko peke yake.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Siku ya kuzaliwa kwa watu wengi wadogo kufurahia.",
+        "hypothesis": "Watoto wakifurahia siku ya kuzaliwa.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Siku ya kuzaliwa kwa watu wengi wadogo kufurahia.",
+        "hypothesis": "Watoto wanakimbia mitaani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Siku ya kuzaliwa kwa watu wengi wadogo kufurahia.",
+        "hypothesis": "Watoto kwenye sherehe ya kuzaliwa.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Kuna waimbaji watano kwenye jukwaa, wanawake watatu na wanaume wawili.",
+        "hypothesis": "Kuna wanawake wengi kuliko wanaume.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kuna waimbaji watano kwenye jukwaa, wanawake watatu na wanaume wawili.",
+        "hypothesis": "Wasanii wanacheza bomba.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Kuna waimbaji watano kwenye jukwaa, wanawake watatu na wanaume wawili.",
+        "hypothesis": "Watu wanaocheza ni sehemu ya chorus.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanaume wawili wamesimama kwenye mashua.",
+        "hypothesis": "Wanaume wengine wamesimama juu ya gari.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanaume wawili wamesimama kwenye mashua.",
+        "hypothesis": "Wanaume wachache wanavua samaki kwenye mashua.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanaume wawili wamesimama kwenye mashua.",
+        "hypothesis": "Baadhi ya watu wako kwenye mashua.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke mchanga anaweka nguo zake kwenye sehemu ya kukaushia ya washer iliyorundikwa mara mbili na kifaa cha kukaushia.",
+        "hypothesis": "Mtu wa kukausha nguo",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke mchanga anaweka nguo zake kwenye sehemu ya kukaushia ya washer iliyorundikwa mara mbili na kifaa cha kukaushia.",
+        "hypothesis": "Hakuna mtu anayekausha nguo.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Jua hupenya kwenye miti huku mtoto akipanda bembea.",
+        "hypothesis": "Mtoto amepanda bembea kwenye mvua.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Jua hupenya kwenye miti huku mtoto akipanda bembea.",
+        "hypothesis": "Mtoto hupanda bembea wakati wa mchana.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Jua hupenya kwenye miti huku mtoto akipanda bembea.",
+        "hypothesis": "Mtoto kwenye swing ni msichana.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Kila mtu mtaani mjini anaonekana kuwa na shughuli nyingi za kufanya mambo yake.",
+        "hypothesis": "Watu wanazunguka kwenye barabara ya jiji.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kila mtu mtaani mjini anaonekana kuwa na shughuli nyingi za kufanya mambo yake.",
+        "hypothesis": "Watu wanatazama kinachoendelea.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Kila mtu mtaani mjini anaonekana kuwa na shughuli nyingi za kufanya mambo yake.",
+        "hypothesis": "Watu wanafanya biashara mjini.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume aliyevaa aproni anatabasamu huku akipiga donati ya kukaanga kwa fimbo kidogo ya chuma.",
+        "hypothesis": "Mwanaume anapika chakula.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume aliyevaa aproni anatabasamu huku akipiga donati ya kukaanga kwa fimbo kidogo ya chuma.",
+        "hypothesis": "Mwanamume yuko jikoni la mgahawa.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume aliyevaa aproni anatabasamu huku akipiga donati ya kukaanga kwa fimbo kidogo ya chuma.",
+        "hypothesis": "Mwanaume anaosha gari lake.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke aliyevaa nguo za tenisi akikimbia kugonga mpira na raketi yake ya tenisi.",
+        "hypothesis": "Mwanamke anacheza tenisi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke aliyevaa nguo za tenisi akikimbia kugonga mpira na raketi yake ya tenisi.",
+        "hypothesis": "Serina Williams anacheza tenisi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke aliyevaa nguo za tenisi akikimbia kugonga mpira na raketi yake ya tenisi.",
+        "hypothesis": "Pete Sampras anacheza tenisi.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanawake kadhaa wanacheza mpira wa wavu.",
+        "hypothesis": "Wao wanawake wanapiga mpira kwa mikono yao",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanawake kadhaa wanacheza mpira wa wavu.",
+        "hypothesis": "Hii haionekani kama soka",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanawake kadhaa wanacheza mpira wa wavu.",
+        "hypothesis": "Kundi la wanawake wanacheza mpira wa wavu",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Timu mbili za mpira wa wavu za wanawake zinashindana kwenye uwanja wa rangi ya samoni na turquoise huku mwamuzi akiwa na saa nyeusi.",
+        "hypothesis": "mechi ya mpira wa wavu inaendelea kati ya wanawake",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Timu mbili za mpira wa wavu za wanawake zinashindana kwenye uwanja wa rangi ya samoni na turquoise huku mwamuzi akiwa na saa nyeusi.",
+        "hypothesis": "Wanawake 12 wanacheza mpira wa wavu",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Timu mbili za mpira wa wavu za wanawake zinashindana kwenye uwanja wa rangi ya samoni na turquoise huku mwamuzi akiwa na saa nyeusi.",
+        "hypothesis": "wavulana kumi wanacheza kriketi",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mvulana mdogo aliye na kofia ya buluu ya baiskeli na mwanamke aliyevalia kofia ya kijani kibichi wanaendesha baiskeli barabarani pamoja na waendeshaji baiskeli wengine mbalimbali.",
+        "hypothesis": "Mama na mwanawe huendesha baiskeli pamoja na wengine barabarani.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana mdogo aliye na kofia ya buluu ya baiskeli na mwanamke aliyevalia kofia ya kijani kibichi wanaendesha baiskeli barabarani pamoja na waendeshaji baiskeli wengine mbalimbali.",
+        "hypothesis": "Kundi la watu wanabadilisha tairi la baiskeli.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mvulana mdogo aliye na kofia ya buluu ya baiskeli na mwanamke aliyevalia kofia ya kijani kibichi wanaendesha baiskeli barabarani pamoja na waendeshaji baiskeli wengine mbalimbali.",
+        "hypothesis": "Kundi la watu huendesha baiskeli pamoja chini ya barabara.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watu wanaendesha baiskeli barabarani, na wote wamevaa helmeti.",
+        "hypothesis": "Kundi la marafiki wanaendesha baiskeli barabarani, wote wakiwa wamevaa helmeti zao",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watu wanaendesha baiskeli barabarani, na wote wamevaa helmeti.",
+        "hypothesis": "Kundi la marafiki wananyakua baiskeli zao, wakijiandaa kwa ajili ya kupanda baiskeli asubuhi",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watu wanaendesha baiskeli barabarani, na wote wamevaa helmeti.",
+        "hypothesis": "Kundi la waendesha baiskeli wako kwenye barabara nje",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Soko la Mashariki ya Kati.",
+        "hypothesis": "Duka la mashariki ya kati.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Soko la Mashariki ya Kati.",
+        "hypothesis": "Ukumbi wa michezo wa Amerika.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Soko la Mashariki ya Kati.",
+        "hypothesis": "Duka la kigeni.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "mwanamke mwenye shati jeusi akitazama baiskeli.",
+        "hypothesis": "Mwanamke anaona baiskeli.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "mwanamke mwenye shati jeusi akitazama baiskeli.",
+        "hypothesis": "Mwanamke aliyevalia maduka meusi kwa baiskeli.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "mwanamke mwenye shati jeusi akitazama baiskeli.",
+        "hypothesis": "Mwanamke mwenye rangi ya kijani analala kwenye kitanda.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanaume wanne wakicheza ngoma kwenye mwanga wa rangi ya chungwa huku mmoja wao akinywa kitu kwenye chupa.",
+        "hypothesis": "wanaume ni wanamuziki",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanaume wanne wakicheza ngoma kwenye mwanga wa rangi ya chungwa huku mmoja wao akinywa kitu kwenye chupa.",
+        "hypothesis": "wanaume wamelala motelini",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanaume wanne wakicheza ngoma kwenye mwanga wa rangi ya chungwa huku mmoja wao akinywa kitu kwenye chupa.",
+        "hypothesis": "wanaume wanne wanacheza ngoma",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wavulana waliovalia jezi za kijani kibichi na buluu wakipiga mpira kuzunguka mpira huku michezo mingine ya kandanda ikifanyika kwa nyuma.",
+        "hypothesis": "Wavulana wadogo wakirusha besiboli kwenye uwanja wa besiboli.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wavulana waliovalia jezi za kijani kibichi na buluu wakipiga mpira kuzunguka mpira huku michezo mingine ya kandanda ikifanyika kwa nyuma.",
+        "hypothesis": "Wavulana wadogo wakisubiri mchezo wao wa soka.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wavulana waliovalia jezi za kijani kibichi na buluu wakipiga mpira kuzunguka mpira huku michezo mingine ya kandanda ikifanyika kwa nyuma.",
+        "hypothesis": "Wavulana wadogo wakipiga teke kuzunguka mpira wa soka.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume aliyevalia kipande kimoja anaendesha baiskeli mbele ya ukuta wa mchanga huku akigusa pua yake.",
+        "hypothesis": "Mwanamume anajaribu baiskeli.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume aliyevalia kipande kimoja anaendesha baiskeli mbele ya ukuta wa mchanga huku akigusa pua yake.",
+        "hypothesis": "Mwanamume huyo anaendesha lori.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume aliyevalia kipande kimoja anaendesha baiskeli mbele ya ukuta wa mchanga huku akigusa pua yake.",
+        "hypothesis": "Mwanamume anaendesha baiskeli.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mvulana na msichana wanatazama chini ya safu ya mlima.",
+        "hypothesis": "Watu wanatazama milima.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mvulana na msichana wanatazama chini ya safu ya mlima.",
+        "hypothesis": "Wanandoa wataenda kupanda milima.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana na msichana wanatazama chini ya safu ya mlima.",
+        "hypothesis": "Watu wanatazama angani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume ameketi kwenye kiti cha kijani kibichi, akizungumza kwenye simu, na anafanya kazi kwenye kompyuta ndogo, na kuna tovuti ya ujenzi karibu na jengo lake.",
+        "hypothesis": "Mwanaume anatembea kwa woga.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume ameketi kwenye kiti cha kijani kibichi, akizungumza kwenye simu, na anafanya kazi kwenye kompyuta ndogo, na kuna tovuti ya ujenzi karibu na jengo lake.",
+        "hypothesis": "Mwanaume anaweza kusikia ujenzi unaendelea.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume ameketi kwenye kiti cha kijani kibichi, akizungumza kwenye simu, na anafanya kazi kwenye kompyuta ndogo, na kuna tovuti ya ujenzi karibu na jengo lake.",
+        "hypothesis": "Mwanaume anaweza yuko kwenye simu.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mvulana anapiga mpira wa tenisi kwenye korti.",
+        "hypothesis": "Msichana anapiga mpira.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mvulana anapiga mpira wa tenisi kwenye korti.",
+        "hypothesis": "Mvulana ni mzuri katika tenisi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana anapiga mpira wa tenisi kwenye korti.",
+        "hypothesis": "Mvulana anapiga mpira.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Retrieter ya dhahabu inanyonyesha watoto wa mbwa.",
+        "hypothesis": "Retrieter ya dhahabu inanyonyesha watoto wengine wa mbwa",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Retrieter ya dhahabu inanyonyesha watoto wa mbwa.",
+        "hypothesis": "Watoto wa mbwa karibu na mama yao",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Retrieter ya dhahabu inanyonyesha watoto wa mbwa.",
+        "hypothesis": "Paka ananyonyesha watoto wa mbwa",
+        "answer": "utata"
+    },
+    {
+        "premise": "Kijana aliyevalia koti zito la rangi ya hudhurungi ya majira ya baridi amesimama mbele ya matusi ya buluu huku mikono yake ikiwa imetandazwa.",
+        "hypothesis": "Kijana yuko nyumbani kwa bibi yake.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Kijana aliyevalia koti zito la rangi ya hudhurungi ya majira ya baridi amesimama mbele ya matusi ya buluu huku mikono yake ikiwa imetandazwa.",
+        "hypothesis": "reli ni mbele ya ziwa waliohifadhiwa.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Kijana aliyevalia koti zito la rangi ya hudhurungi ya majira ya baridi amesimama mbele ya matusi ya buluu huku mikono yake ikiwa imetandazwa.",
+        "hypothesis": "Mwanamume huyo ananyoosha mikono yake akiwa amesimama mbele ya matusi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanaume mweusi aliyevalia koti la chini huku mikono yake ikiwa imetandazwa na kushika sega la waridi.",
+        "hypothesis": "Mwanamume mmoja alikuwa amevaa koti wakati wa baridi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanaume mweusi aliyevalia koti la chini huku mikono yake ikiwa imetandazwa na kushika sega la waridi.",
+        "hypothesis": "Mtu aliyevaa shati la pamba alikuwa akitazama nywele za nywele za kijani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanaume mweusi aliyevalia koti la chini huku mikono yake ikiwa imetandazwa na kushika sega la waridi.",
+        "hypothesis": "Mwanaume mmoja alikuwa amevaa koti huku akiwa ameshika sega.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume aliyevaa koti la kahawia anasimama akiwa amenyoosha mikono yake.",
+        "hypothesis": "Mwanamume huyo anaomba rehema.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume aliyevaa koti la kahawia anasimama akiwa amenyoosha mikono yake.",
+        "hypothesis": "Mwanaume ni mnyoofu.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume aliyevaa koti la kahawia anasimama akiwa amenyoosha mikono yake.",
+        "hypothesis": "Mwanamume huyo ameketi sakafuni akiwa amevurugika.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume aliyevaa fulana nyekundu anapitia uzio mweusi na wa kijani kibichi.",
+        "hypothesis": "Mwanamume aliyevaa fulana anatembea barabarani.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume aliyevaa fulana nyekundu anapitia uzio mweusi na wa kijani kibichi.",
+        "hypothesis": "Mwanaume amevaa vest.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume aliyevaa fulana nyekundu anapitia uzio mweusi na wa kijani kibichi.",
+        "hypothesis": "Mwanaume aliyevaa fulana amekaa kwenye sofa.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wasichana hawa wanafurahiya sana kutafuta ganda la bahari.",
+        "hypothesis": "Wasichana wanafurahi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wasichana hawa wanafurahiya sana kutafuta ganda la bahari.",
+        "hypothesis": "Wasichana wanalala.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wasichana hawa wanafurahiya sana kutafuta ganda la bahari.",
+        "hypothesis": "Wasichana wako nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume mmoja anacheza saxophone barabarani na watu wengine wamekaa kando ya barabara karibu naye.",
+        "hypothesis": "Mwanamume anacheza ala barabarani karibu na watu wengine.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume mmoja anacheza saxophone barabarani na watu wengine wamekaa kando ya barabara karibu naye.",
+        "hypothesis": "Mwanamume anajaribu kupata pesa kwa kuchezea watu wengine mitaani.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume mmoja anacheza saxophone barabarani na watu wengine wamekaa kando ya barabara karibu naye.",
+        "hypothesis": "Mwanamke anaruka kuvuka nchi.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume aliyesimama akiongea na mwanamke aliyeketi akiwa kwenye aina fulani ya gari.",
+        "hypothesis": "Watu wawili wanazungumza.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume aliyesimama akiongea na mwanamke aliyeketi akiwa kwenye aina fulani ya gari.",
+        "hypothesis": "Watu watatu wana mkutano.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume aliyesimama akiongea na mwanamke aliyeketi akiwa kwenye aina fulani ya gari.",
+        "hypothesis": "Watu wawili wanajadili uhusiano wao.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana mdogo mwenye nywele zilizofupishwa, amevaa vazi jekundu, ameshikilia birika nyeusi huku mtu akikaribia kumwaga kitu ndani yake.",
+        "hypothesis": "mvulana mdogo anakimbia kwenye shamba la mahindi",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mvulana mdogo mwenye nywele zilizofupishwa, amevaa vazi jekundu, ameshikilia birika nyeusi huku mtu akikaribia kumwaga kitu ndani yake.",
+        "hypothesis": "mvulana mdogo ameshikilia kettle ambayo hivi karibuni itajazwa salsa",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana mdogo mwenye nywele zilizofupishwa, amevaa vazi jekundu, ameshikilia birika nyeusi huku mtu akikaribia kumwaga kitu ndani yake.",
+        "hypothesis": "mvulana mdogo ameshikilia kettle ambayo itajazwa hivi karibuni",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watu wanne na mtoto mchanga wanavuka barabara kwenye makutano.",
+        "hypothesis": "Watu na mtoto wakipanda basi.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watu wanne na mtoto mchanga wanavuka barabara kwenye makutano.",
+        "hypothesis": "Watu na mtoto wakivuka barabara.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watu wanne na mtoto mchanga wanavuka barabara kwenye makutano.",
+        "hypothesis": "Watu na mtoto mchanga wanavuka barabara kwenye makutano ili kurudi nyumbani.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanawake wawili waliovalia nguo wamesimama nje kwenye nyasi huku mmoja wao akiwa ameshikilia kikombe na sahani.",
+        "hypothesis": "Watu wawili wamesimama kwenye nyasi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanawake wawili waliovalia nguo wamesimama nje kwenye nyasi huku mmoja wao akiwa ameshikilia kikombe na sahani.",
+        "hypothesis": "Wanawake wawili waliovalia nguo wanajiandaa kwa picnic.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanawake wawili waliovalia nguo wamesimama nje kwenye nyasi huku mmoja wao akiwa ameshikilia kikombe na sahani.",
+        "hypothesis": "Wanawake wanafanya mazungumzo ofisini,",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke huegemea juu ya uzio mdogo kuchukua picha ya ua la manjano.",
+        "hypothesis": "Mwanamke ni mpiga picha mtaalamu",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke huegemea juu ya uzio mdogo kuchukua picha ya ua la manjano.",
+        "hypothesis": "Maua ni ya bluu",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke huegemea juu ya uzio mdogo kuchukua picha ya ua la manjano.",
+        "hypothesis": "Mwanamke anapiga picha",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kundi la watoto wanne wakipiga picha kwenye ufuo wenye matope, wakitabasamu na kuonyesha nyuso zao.",
+        "hypothesis": "Watoto wanne wakipiga picha kwenye ufuo.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kundi la watoto wanne wakipiga picha kwenye ufuo wenye matope, wakitabasamu na kuonyesha nyuso zao.",
+        "hypothesis": "Watoto wanne wakipiga picha wakati wa likizo ya majira ya joto.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Kundi la watoto wanne wakipiga picha kwenye ufuo wenye matope, wakitabasamu na kuonyesha nyuso zao.",
+        "hypothesis": "Mwanaume anakoroga kitoweo.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanaume kadhaa kwenye baa hutazama mchezo wa michezo kwenye televisheni.",
+        "hypothesis": "Wanaume wengine wanatazama TV kwenye baa.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanaume kadhaa kwenye baa hutazama mchezo wa michezo kwenye televisheni.",
+        "hypothesis": "Kuna wanaume wanakunywa bia kwenye baa ya michezo.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanaume kadhaa kwenye baa hutazama mchezo wa michezo kwenye televisheni.",
+        "hypothesis": "Wanaume wako kwenye mchezo wa besiboli.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wafanyakazi wawili wa kando ya barabara walio na jaketi za usalama za kijani kibichi, kofia ngumu nyeupe na glavu wamevaa na koni za ujenzi nyuma",
+        "hypothesis": "Wanaume wawili wamevaa jaketi za kijani kibichi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wafanyakazi wawili wa kando ya barabara walio na jaketi za usalama za kijani kibichi, kofia ngumu nyeupe na glavu wamevaa na koni za ujenzi nyuma",
+        "hypothesis": "Wanaume wawili wanaweka koni za ujenzi katika maandalizi ya jengo jipya la bomba.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wafanyakazi wawili wa kando ya barabara walio na jaketi za usalama za kijani kibichi, kofia ngumu nyeupe na glavu wamevaa na koni za ujenzi nyuma",
+        "hypothesis": "Mwanamke humwadhibu mwingine.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke aliyevaa mavazi meusi amelala usoni kwanza kwenye mkeka wa yoga; picha kadhaa za kuchora zimetundikwa ukutani, na jua huangaza kupitia dirisha kubwa karibu naye.",
+        "hypothesis": "Msanii akipumzika kwenye studio yake.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke aliyevaa mavazi meusi amelala usoni kwanza kwenye mkeka wa yoga; picha kadhaa za kuchora zimetundikwa ukutani, na jua huangaza kupitia dirisha kubwa karibu naye.",
+        "hypothesis": "Kuna mtu katika chumba.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke aliyevaa mavazi meusi amelala usoni kwanza kwenye mkeka wa yoga; picha kadhaa za kuchora zimetundikwa ukutani, na jua huangaza kupitia dirisha kubwa karibu naye.",
+        "hypothesis": "Mwanamke amelala huku mwanga wa mwezi ukichuja dirishani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watoto waliovalia sare za michezo ya manjano wakipanda mnara.",
+        "hypothesis": "Watoto ni wanafunzi wa karate.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watoto waliovalia sare za michezo ya manjano wakipanda mnara.",
+        "hypothesis": "Watoto hutambaa kwenye mchanga.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watoto waliovalia sare za michezo ya manjano wakipanda mnara.",
+        "hypothesis": "Watoto katika sare hupanda mnara.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mbwa wengine wanakimbia kwenye ufuo usio na watu.",
+        "hypothesis": "Wako Hawaii.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mbwa wengine wanakimbia kwenye ufuo usio na watu.",
+        "hypothesis": "Kuna mbwa mmoja tu kwenye pwani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mbwa wengine wanakimbia kwenye ufuo usio na watu.",
+        "hypothesis": "Kuna mbwa kadhaa.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Barabara ya jiji yenye watu wengi na watembea kwa miguu wengi.",
+        "hypothesis": "Kuna waendesha pikipiki wengi kwenye barabara hii.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Barabara ya jiji yenye watu wengi na watembea kwa miguu wengi.",
+        "hypothesis": "Kuna watembea kwa miguu wengi kwenye barabara ya jiji.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Barabara ya jiji yenye watu wengi na watembea kwa miguu wengi.",
+        "hypothesis": "Watembea kwa miguu wanangojea gwaride kupitia barabara hii yenye shughuli nyingi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke aliyevaa blauzi ya rangi ya chungwa angavu anasuka.",
+        "hypothesis": "Mwanamke amevaa blauzi ya rangi ya chungwa na kofia ya kijani kibichi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke aliyevaa blauzi ya rangi ya chungwa angavu anasuka.",
+        "hypothesis": "Mwanamke anapiga pasi suruali nyekundu.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke aliyevaa blauzi ya rangi ya chungwa angavu anasuka.",
+        "hypothesis": "Mwanamke anasuka.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kundi la watu wako kwenye mashua ya kupiga makasia baharini wakiwa wamezungukwa na shakwe.",
+        "hypothesis": "Kundi la watu wako ndani wakitazama mchezo wa hoki.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Kundi la watu wako kwenye mashua ya kupiga makasia baharini wakiwa wamezungukwa na shakwe.",
+        "hypothesis": "Kundi la watu wako kwenye kitu cha mbao juu ya maji.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Kundi la watu wako kwenye mashua ya kupiga makasia baharini wakiwa wamezungukwa na shakwe.",
+        "hypothesis": "Kundi la watu wanapiga makasia kuelekea baadhi ya visiwa huku mmoja wao akivua samaki.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke aliyevaa shati la kahawia amepiga magoti barabarani.",
+        "hypothesis": "Mwanamke anaandamana mitaani.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke aliyevaa shati la kahawia amepiga magoti barabarani.",
+        "hypothesis": "Mwanamke yuko chini nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke aliyevaa shati la kahawia amepiga magoti barabarani.",
+        "hypothesis": "Mwanamke anaendesha baiskeli.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume akiwa amemshika mtoto mchanga anayebembeleza farasi.",
+        "hypothesis": "Mwanamume anayemteka nyara mtoto anabembeleza farasi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume akiwa amemshika mtoto mchanga anayebembeleza farasi.",
+        "hypothesis": "Mwanamume mwenye mtoto mchanga anabembeleza farasi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume akiwa amemshika mtoto mchanga anayebembeleza farasi.",
+        "hypothesis": "Mwanamume na binti yake wanabembeleza farasi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanaume wameketi kando ya barabara ya matofali.",
+        "hypothesis": "nimekaa kando ya barabara",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanaume wameketi kando ya barabara ya matofali.",
+        "hypothesis": "kando ya barabara ni tupu.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanaume wameketi kando ya barabara ya matofali.",
+        "hypothesis": "wanaume wanazungumza kando ya barabara",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mbwa mweusi mwenye kola ya bluu anaruka ndani ya maji.",
+        "hypothesis": "Mbwa atalowa maji.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mbwa mweusi mwenye kola ya bluu anaruka ndani ya maji.",
+        "hypothesis": "Mbwa mweusi aliyevaa kola ya buluu anakimbiza kitu ndani ya maji.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mbwa mweusi mwenye kola ya bluu anaruka ndani ya maji.",
+        "hypothesis": "Mbwa anakwepa maji.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Msichana mdogo katika juu ya njano na skirt ya maua amesimama juu ya blanketi na kuuma toy.",
+        "hypothesis": "Msichana amesimama.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Msichana mdogo katika juu ya njano na skirt ya maua amesimama juu ya blanketi na kuuma toy.",
+        "hypothesis": "Msichana amesimama nje.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Msichana mdogo katika juu ya njano na skirt ya maua amesimama juu ya blanketi na kuuma toy.",
+        "hypothesis": "Kila mtu ameketi.",
+        "answer": "utata"
+    },
+    {
+        "premise": "watoto wengi hucheza ndani ya maji.",
+        "hypothesis": "Watoto wako kambini.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "watoto wengi hucheza ndani ya maji.",
+        "hypothesis": "Watoto wengine hupiga maji na kuingiliana na kila mmoja.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "watoto wengi hucheza ndani ya maji.",
+        "hypothesis": "Watoto wanacheza gofu ndogo.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Kundi la watoto linaruka ndani ya maji yenye kina kirefu karibu na uundaji wa mwamba.",
+        "hypothesis": "Watoto wanaimba kwaya",
+        "answer": "utata"
+    },
+    {
+        "premise": "Kundi la watoto linaruka ndani ya maji yenye kina kirefu karibu na uundaji wa mwamba.",
+        "hypothesis": "Watoto wako kwenye maji ya kina kirefu",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kundi la watoto linaruka ndani ya maji yenye kina kirefu karibu na uundaji wa mwamba.",
+        "hypothesis": "Wamevaa lifejackets",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "mpanda mlima aliyevaa utepe mwekundu anajiinua juu ya mawe ya kijivu juu ya majani ya kijani kibichi.",
+        "hypothesis": "Mwanamke mpandaji anajaribu kujiinua",
+        "answer": "utata"
+    },
+    {
+        "premise": "mpanda mlima aliyevaa utepe mwekundu anajiinua juu ya mawe ya kijivu juu ya majani ya kijani kibichi.",
+        "hypothesis": "Mpandaji anajivuta juu ya mawe",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "mpanda mlima aliyevaa utepe mwekundu anajiinua juu ya mawe ya kijivu juu ya majani ya kijani kibichi.",
+        "hypothesis": "Mpandaji anajivuta hadi futi 5000 juu ya msitu",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "mwanamume mwenye kitambaa chekundu kichwani akipanda mwamba wa mwamba akija juu ya kijani kibichi.",
+        "hypothesis": "Mwanaume yuko nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "mwanamume mwenye kitambaa chekundu kichwani akipanda mwamba wa mwamba akija juu ya kijani kibichi.",
+        "hypothesis": "Mwanaume amevaa gia za kupanda.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "mwanamume mwenye kitambaa chekundu kichwani akipanda mwamba wa mwamba akija juu ya kijani kibichi.",
+        "hypothesis": "Mtu anaogelea baharini.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanawake wawili wakubwa waliovalia rasmi, wenye vipara",
+        "hypothesis": "Wanawake wawili wenye vipara.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanawake wawili wakubwa waliovalia rasmi, wenye vipara",
+        "hypothesis": "Wanawake wawili wenye vipara wenye miwani.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wanawake wawili wakubwa waliovalia rasmi, wenye vipara",
+        "hypothesis": "Vijana wawili wa kike wenye nywele ndefu.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume asiye na makazi anasukuma toroli ya ununuzi ya plastiki ya buluu iliyojaa kupita kiasi.",
+        "hypothesis": "Mwanamume ana gari la ununuzi",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume asiye na makazi anasukuma toroli ya ununuzi ya plastiki ya buluu iliyojaa kupita kiasi.",
+        "hypothesis": "Mwanamume anakusanya makopo ili kuchakata tena",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume asiye na makazi anasukuma toroli ya ununuzi ya plastiki ya buluu iliyojaa kupita kiasi.",
+        "hypothesis": "Tajiri akiwa ameshika rolex",
+        "answer": "utata"
+    },
+    {
+        "premise": "fundi viatu mzee katika kiwanda chake",
+        "hypothesis": "Mshona viatu yuko ndani.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "fundi viatu mzee katika kiwanda chake",
+        "hypothesis": "Mtengeneza viatu anajiandaa kwa siku yake ya kuzaliwa ya 16.",
+        "answer": "utata"
+    },
+    {
+        "premise": "fundi viatu mzee katika kiwanda chake",
+        "hypothesis": "Mshona viatu ni tajiri.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke wa kimanjano anaongea na kundi la wanafunzi wa kike wenye nywele nyeusi wakiwa wamebeba vipande vya karatasi.",
+        "hypothesis": "Mwanamke anazungumza na wanawake wengine.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke wa kimanjano anaongea na kundi la wanafunzi wa kike wenye nywele nyeusi wakiwa wamebeba vipande vya karatasi.",
+        "hypothesis": "Mwanafunzi wa kimanjano anaongea na kundi la wanafunzi wa kike wenye nywele nyeusi wakiwa wamebeba vipande vya karatasi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke wa kimanjano anaongea na kundi la wanafunzi wa kike wenye nywele nyeusi wakiwa wamebeba vipande vya karatasi.",
+        "hypothesis": "Mwanaume anampiga mwanamke.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke aliyevaa shati jeusi huwapa karatasi watoto wanaomzunguka.",
+        "hypothesis": "Mtu akitoa karatasi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke aliyevaa shati jeusi huwapa karatasi watoto wanaomzunguka.",
+        "hypothesis": "Mwanamke anawapa watoto kazi za nyumbani.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke aliyevaa shati jeusi huwapa karatasi watoto wanaomzunguka.",
+        "hypothesis": "Mwanamke anajiwekea karatasi.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Msichana mwenye rangi nyekundu akiruka juu",
+        "hypothesis": "Msichana anaruka ili kukamata frisbee.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Msichana mwenye rangi nyekundu akiruka juu",
+        "hypothesis": "Msichana ameketi kwenye nyasi.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Msichana mwenye rangi nyekundu akiruka juu",
+        "hypothesis": "Msichana mwenye rangi nyekundu yuko hewani.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanawake 3 wenye namba kwenye mashati yao wakikimbia.",
+        "hypothesis": "Kuna wanawake wanakimbia.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wanawake 3 wenye namba kwenye mashati yao wakikimbia.",
+        "hypothesis": "Wanawake wanaendesha baiskeli.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wanawake 3 wenye namba kwenye mashati yao wakikimbia.",
+        "hypothesis": "Wanawake wako kwenye mbio za marathon.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana mdogo anatembea juu ya bomba ambalo linaenea juu ya maji.",
+        "hypothesis": "Mvulana anatengeneza sandwich ndogo jikoni kwake.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mvulana mdogo anatembea juu ya bomba ambalo linaenea juu ya maji.",
+        "hypothesis": "Mvulana anatembea nje.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mvulana mdogo anatembea juu ya bomba ambalo linaenea juu ya maji.",
+        "hypothesis": "Mvulana yuko katika hatari ya kuanguka ndani ya maji.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana mdogo aliyevaa kaptula za kijani huweka usawa kwenye bomba juu ya mto.",
+        "hypothesis": "Hakuna mtu anayesawazisha.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mvulana mdogo aliyevaa kaptula za kijani huweka usawa kwenye bomba juu ya mto.",
+        "hypothesis": "Mtu mwerevu akisawazisha.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana mdogo aliyevaa kaptula za kijani huweka usawa kwenye bomba juu ya mto.",
+        "hypothesis": "Mtu kusawazisha.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kijana aliyevaa nyeusi na amebeba ubao wa kuteleza anatazama bustani ya nje ya ubao wa kuteleza.",
+        "hypothesis": "Jamaa aliye na ubao wa kuteleza anatazama bustani ya kuteleza kwenye ubao.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Kijana aliyevaa nyeusi na amebeba ubao wa kuteleza anatazama bustani ya nje ya ubao wa kuteleza.",
+        "hypothesis": "Msichana aliye na ponytail anaendesha baiskeli kwenye bustani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Kijana aliyevaa nyeusi na amebeba ubao wa kuteleza anatazama bustani ya nje ya ubao wa kuteleza.",
+        "hypothesis": "Jamaa anaenda kuteleza kwenye ubao leo.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana mdogo aliyevaa pajama akiwa amejilaza kitandani na kulala juu ya mto wenye mistari ya rangi.",
+        "hypothesis": "Mvulana mdogo anacheza soka.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mvulana mdogo aliyevaa pajama akiwa amejilaza kitandani na kulala juu ya mto wenye mistari ya rangi.",
+        "hypothesis": "Mvulana mdogo amelala kwenye chumba cha kulala.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana mdogo aliyevaa pajama akiwa amejilaza kitandani na kulala juu ya mto wenye mistari ya rangi.",
+        "hypothesis": "Mvulana mdogo amelala juu ya mto.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume aliyevaa t-shirt ya rangi ya samawati akimtazama mtu huku akiwa ameshikilia gazeti la Kiebrania.",
+        "hypothesis": "Amevaa gazeti kichwani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume aliyevaa t-shirt ya rangi ya samawati akimtazama mtu huku akiwa ameshikilia gazeti la Kiebrania.",
+        "hypothesis": "Anasoma gazeti.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume aliyevaa t-shirt ya rangi ya samawati akimtazama mtu huku akiwa ameshikilia gazeti la Kiebrania.",
+        "hypothesis": "Yeye ni Myahudi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume mwenye ndevu anaruka kwenye theluji na bahari nyuma na baiskeli ya rangi ya chungwa iliyoegeshwa karibu na alama ya barabarani.",
+        "hypothesis": "Mwanadamu anaruka.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume mwenye ndevu anaruka kwenye theluji na bahari nyuma na baiskeli ya rangi ya chungwa iliyoegeshwa karibu na alama ya barabarani.",
+        "hypothesis": "Hakuna mtu anayeruka.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume mwenye ndevu anaruka kwenye theluji na bahari nyuma na baiskeli ya rangi ya chungwa iliyoegeshwa karibu na alama ya barabarani.",
+        "hypothesis": "Binadamu mrefu akiruka.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watoto wanne wanacheza kwenye maji.",
+        "hypothesis": "Watoto wana matope.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watoto wanne wanacheza kwenye maji.",
+        "hypothesis": "Watoto wamelowa.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watoto wanne wanacheza kwenye maji.",
+        "hypothesis": "Watoto wanafanya kazi za nyumbani.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wasichana wanne wachanga wakicheza ndani ya maji.",
+        "hypothesis": "Wasichana wanne wako ndani ya maji.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wasichana wanne wachanga wakicheza ndani ya maji.",
+        "hypothesis": "Kuna wavulana na wasichana ndani ya maji.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wasichana wanne wachanga wakicheza ndani ya maji.",
+        "hypothesis": "Wasichana wanne wanaogelea.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume aliyevaa t-shirt nyeusi anajaribu kutupa kitu.",
+        "hypothesis": "Mwanamume anaondoka.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume aliyevaa t-shirt nyeusi anajaribu kutupa kitu.",
+        "hypothesis": "Mwanaume amevaa shati jeusi.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume aliyevaa t-shirt nyeusi anajaribu kutupa kitu.",
+        "hypothesis": "Mwanamume anamrushia mtoto wake kitu.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana mmoja mdogo aliyevalia shati la mikono mirefu ya njano na suruali ya jeans ameketi chini, na watu wazima watano mbele yake, mmoja akiendesha kamera ya video.",
+        "hypothesis": "Mtu akirekodi mvulana mdogo anapokagua sehemu ya filamu.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana mmoja mdogo aliyevalia shati la mikono mirefu ya njano na suruali ya jeans ameketi chini, na watu wazima watano mbele yake, mmoja akiendesha kamera ya video.",
+        "hypothesis": "Mvulana mdogo akicheza mipira mitatu nyekundu huku akiwa amefumba macho.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mvulana mmoja mdogo aliyevalia shati la mikono mirefu ya njano na suruali ya jeans ameketi chini, na watu wazima watano mbele yake, mmoja akiendesha kamera ya video.",
+        "hypothesis": "Mtu mzima anayetumia kamera ya video.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wavulana na migongo yao dhidi ya wimbi linaloingia.",
+        "hypothesis": "Kundi la watu wanacheza baharini.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wavulana na migongo yao dhidi ya wimbi linaloingia.",
+        "hypothesis": "Kikundi cha watu kinasimama pamoja.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wavulana na migongo yao dhidi ya wimbi linaloingia.",
+        "hypothesis": "Kundi la watu hukaa ufukweni.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Wavulana wanne wanakaribia kupigwa na wimbi linalokaribia.",
+        "hypothesis": "Wimbi linakaribia kuwapiga wavulana wengine.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Wavulana wanne wanakaribia kupigwa na wimbi linalokaribia.",
+        "hypothesis": "Wimbi liliwakosa wavulana.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Wavulana wanne wanakaribia kupigwa na wimbi linalokaribia.",
+        "hypothesis": "Wimbi kubwa linakaribia kuwaangukia wavulana wengine.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke, amesimama nyuma ya msichana, akimsaidia msichana kwa majaribio.",
+        "hypothesis": "Mama anamsaidia mtoto wake kukamilisha jaribio.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke, amesimama nyuma ya msichana, akimsaidia msichana kwa majaribio.",
+        "hypothesis": "Mwanamke anamsaidia msichana.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke anamsaidia mwanamke mwingine kufanya kazi katika chumba cha fedha, ambacho kinawezekana kinahusiana na kazi ya uuguzi.",
+        "hypothesis": "Mwanamke amelala kwenye kochi",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke anamsaidia mwanamke mwingine kufanya kazi katika chumba cha fedha, ambacho kinawezekana kinahusiana na kazi ya uuguzi.",
+        "hypothesis": "Mwanamke anamsaidia mwanamke mwingine kufanya kazi",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamke anamsaidia mwanamke mwingine kufanya kazi katika chumba cha fedha, ambacho kinawezekana kinahusiana na kazi ya uuguzi.",
+        "hypothesis": "Wanawake wawili wanajaribu kumaliza maagizo kutoka kwa daktari",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume mmoja, aliyevaa koti la bluu, anampiga teke mwanamume mwingine, aliyevaa koti jekundu.",
+        "hypothesis": "Wanaume wawili wanapigana nje ya baa.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume mmoja, aliyevaa koti la bluu, anampiga teke mwanamume mwingine, aliyevaa koti jekundu.",
+        "hypothesis": "Mwanamke anajipodoa",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume mmoja, aliyevaa koti la bluu, anampiga teke mwanamume mwingine, aliyevaa koti jekundu.",
+        "hypothesis": "Jamaa mmoja anampiga mwingine teke.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Watu wengi walikusanyika kwenye chumba chenye watu kadhaa jukwaani wakiwa na vyombo na maneno \"The Early November\" ukutani.",
+        "hypothesis": "Wazazi hukusanyika kwa tamasha la shule ya upili",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Watu wengi walikusanyika kwenye chumba chenye watu kadhaa jukwaani wakiwa na vyombo na maneno \"The Early November\" ukutani.",
+        "hypothesis": "Umati unakusanyika huku filimbi zikipigana hadi kufa",
+        "answer": "utata"
+    },
+    {
+        "premise": "Watu wengi walikusanyika kwenye chumba chenye watu kadhaa jukwaani wakiwa na vyombo na maneno \"The Early November\" ukutani.",
+        "hypothesis": "Watu kuondoka kama tamasha ni anaamua kutoza kwa noti",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mchezaji wa Hoki kwenye kofia.",
+        "hypothesis": "Wachezaji wamevaa kofia.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mchezaji wa Hoki kwenye kofia.",
+        "hypothesis": "Wachezaji wanapumzika.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mchezaji wa Hoki kwenye kofia.",
+        "hypothesis": "Wanacheza hoki",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamume aliyevaa bluu akiinama sakafuni mbele ya mwanamume mwingine mwenye rangi ya samawati akiinama sakafuni na wanaume wengine wawili waliovalia samawati wakipiga magoti kwenye sakafu moja pia.",
+        "hypothesis": "Mwanaume amevaa kitu.",
+        "answer": "kuhusika"
+    },
+    {
+        "premise": "Mwanamume aliyevaa bluu akiinama sakafuni mbele ya mwanamume mwingine mwenye rangi ya samawati akiinama sakafuni na wanaume wengine wawili waliovalia samawati wakipiga magoti kwenye sakafu moja pia.",
+        "hypothesis": "Mwanaume hajavaa chochote.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume aliyevaa bluu akiinama sakafuni mbele ya mwanamume mwingine mwenye rangi ya samawati akiinama sakafuni na wanaume wengine wawili waliovalia samawati wakipiga magoti kwenye sakafu moja pia.",
+        "hypothesis": "Mwanamume amevaa shati la bluu.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Biker akiendesha msitu.",
+        "hypothesis": "Mpanda baiskeli wa milimani hushindana katika mbio za nje ya barabara.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Biker akiendesha msitu.",
+        "hypothesis": "Mtu anayeendesha pikipiki kwenye barabara kuu.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Biker akiendesha msitu.",
+        "hypothesis": "Mpanda baiskeli akifurahia njia za ndani.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Kijana aliyevalia fulana ya bluu na suruali ya jasho anasimama juu ya jiko na kutazama kamera huku kijana mwingine akiwa amesimama nyuma yake.",
+        "hypothesis": "Wanaume wawili wanarekodi mafunzo ya upishi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Kijana aliyevalia fulana ya bluu na suruali ya jasho anasimama juu ya jiko na kutazama kamera huku kijana mwingine akiwa amesimama nyuma yake.",
+        "hypothesis": "wanaume wawili wako kwenye bwawa.",
+        "answer": "utata"
+    },
+    {
+        "premise": "wanandoa wakifurahia mlo, huku kundi la mbwa wakilala.",
+        "hypothesis": "WANANDOA WANAKULA NYAMA",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "wanandoa wakifurahia mlo, huku kundi la mbwa wakilala.",
+        "hypothesis": "KUNA WANANDOA WANATEMBEA MBWA WAO",
+        "answer": "utata"
+    },
+    {
+        "premise": "Bata mweupe akipanua mbawa zake majini.",
+        "hypothesis": "Bata ni aina adimu, wengi walidhaniwa kuwa walitoweka miaka mingi iliyopita.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Bata mweupe akipanua mbawa zake majini.",
+        "hypothesis": "Bata analala fofofo, akielea juu ya maji",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke aliyevaa jeans anatembea barabarani.",
+        "hypothesis": "Mwanamke mzee mwenye fimbo ameketi kwenye kiti.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamke aliyevaa jeans anatembea barabarani.",
+        "hypothesis": "Mwanamke anatembea kuelekea kituo cha basi.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Kikundi cha watu kinasimama karibu na kwenye mraba mkubwa mweusi chini na maandishi ya manjano juu yake.",
+        "hypothesis": "kundi la watu kusubiri",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Kikundi cha watu kinasimama karibu na kwenye mraba mkubwa mweusi chini na maandishi ya manjano juu yake.",
+        "hypothesis": "mtu amelala juu ya kitanda",
+        "answer": "utata"
+    },
+    {
+        "premise": "Kikundi cha watu kinasimama karibu na kwenye mraba mkubwa mweusi chini na maandishi ya manjano juu yake.",
+        "hypothesis": "kundi la watu kusimama",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Umati wa watu unatazama kundi la wanaume waliovalia suti wakiwa na mikoba wakitembea kwa mpangilio barabarani wakiongozwa na mwanamke aliyeshika bango.",
+        "hypothesis": "Ishara ambayo mwanamke ameshikilia inasema kwamba \"Uhuru ni bure.\"",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Umati wa watu unatazama kundi la wanaume waliovalia suti wakiwa na mikoba wakitembea kwa mpangilio barabarani wakiongozwa na mwanamke aliyeshika bango.",
+        "hypothesis": "Kundi la watu waliovalia kama waigizaji huingia kwenye Bigtop Circus wakiwa wameshikilia ishara.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mvulana mdogo anajiandaa kupiga mpira wa soka.",
+        "hypothesis": "mvulana ana miaka kumi",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mvulana mdogo anajiandaa kupiga mpira wa soka.",
+        "hypothesis": "mvulana amelala nyumbani",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume na mwanamke wameketi kando ya barabara.",
+        "hypothesis": "Mwanamume na mwanamke wamesimama.",
+        "answer": "utata"
+    },
+    {
+        "premise": "Mwanamume na mwanamke wameketi kando ya barabara.",
+        "hypothesis": "Mwanamume na mwanamke wameolewa.",
+        "answer": "upande wowote"
+    },
+    {
+        "premise": "Mwanamke mmoja kwa mbele anaelekea kwenye nguzo kubwa ya rangi nyeupe iliyo mbali na jengo kubwa lenye watu wanaorandaranda au kusubiri kwenye ngazi za jengo hilo.",
+        "hypothesis": "Mbwa anakimbia kwenye ngazi za jengo.",
+        "answer": "utata"
+    }
+]

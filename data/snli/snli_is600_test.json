@@ -1,0 +1,3002 @@
+[
+    {
+        "premise": "Þessi kirkjukór syngur fyrir fjöldann þegar hún syngur gleðisöngva úr bókinni í kirkju.",
+        "hypothesis": "Kirkjan er með sprungum í lofti.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Þessi kirkjukór syngur fyrir fjöldann þegar hún syngur gleðisöngva úr bókinni í kirkju.",
+        "hypothesis": "Kirkjan er full af söng.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Þessi kirkjukór syngur fyrir fjöldann þegar hún syngur gleðisöngva úr bókinni í kirkju.",
+        "hypothesis": "Kór syngur á hafnaboltaleik.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona með grænan höfuðklút, bláa skyrtu og mjög stórt glott.",
+        "hypothesis": "Konan er ung.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona með grænan höfuðklút, bláa skyrtu og mjög stórt glott.",
+        "hypothesis": "Konan er mjög ánægð.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona með grænan höfuðklút, bláa skyrtu og mjög stórt glott.",
+        "hypothesis": "Konan hefur verið skotin.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Gamall maður með pakka stillir sér upp fyrir framan auglýsingu.",
+        "hypothesis": "Maður situr fyrir framan auglýsingu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Gamall maður með pakka stillir sér upp fyrir framan auglýsingu.",
+        "hypothesis": "Maður situr fyrir framan auglýsingu um bjór.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Gamall maður með pakka stillir sér upp fyrir framan auglýsingu.",
+        "hypothesis": "Maður gengur fram hjá auglýsingu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Stytta á safni sem enginn virðist horfa á.",
+        "hypothesis": "Styttan er móðgandi og fólk er brjálað að hún sé til sýnis.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Stytta á safni sem enginn virðist horfa á.",
+        "hypothesis": "Það er stytta sem ekki margir virðast hafa áhuga á.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Stytta á safni sem enginn virðist horfa á.",
+        "hypothesis": "Tonn af fólki er samankomið í kringum styttuna.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Landrover er ekið yfir á.",
+        "hypothesis": "Land Rover er að skvetta vatni þegar hann fer yfir á.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Landrover er ekið yfir á.",
+        "hypothesis": "Ökutæki er á leið yfir á.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Landrover er ekið yfir á.",
+        "hypothesis": "Bíll er fastur í miðri á.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður spilar á rafmagnsgítar á sviðinu.",
+        "hypothesis": "Maður spilar banjó á gólfinu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður spilar á rafmagnsgítar á sviðinu.",
+        "hypothesis": "Maður spilar á gítar á sviðinu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður spilar á rafmagnsgítar á sviðinu.",
+        "hypothesis": "Maður kemur fram fyrir reiðufé.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ljóshærður læknir og afrísk amerískur aðstoðarmaður hennar köstuðu nýjum læknishandbókum.",
+        "hypothesis": "Læknir er að skoða bók",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Ljóshærður læknir og afrísk-amerískur aðstoðarmaður hennar köstuðu nýjum læknishandbókum.",
+        "hypothesis": "Maður er að borða pb og j",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Ljóshærður læknir og afrísk-amerískur aðstoðarmaður hennar köstuðu nýjum læknishandbókum.",
+        "hypothesis": "Læknir er að læra",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ein sólbrún stúlka með ullarhúfu hleypur og hallar sér yfir hlut en önnur með ullarhúfu situr á jörðinni.",
+        "hypothesis": "Strákur hleypur á vegg",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Ein sólbrún stúlka með ullarhúfu hleypur og hallar sér yfir hlut en önnur með ullarhúfu situr á jörðinni.",
+        "hypothesis": "Sólbrún stúlka hleypur hallar sér yfir hlut",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Ein sólbrún stúlka með ullarhúfu hleypur og hallar sér yfir hlut en önnur með ullarhúfu situr á jörðinni.",
+        "hypothesis": "Maður horfir á dóttur sína stökkva",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ung fjölskylda nýtur þess að finna úthafsöldurnar skella á fætur þeirra.",
+        "hypothesis": "Ungur maður og kona fara með barnið sitt á ströndina í fyrsta skipti.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ung fjölskylda nýtur þess að finna úthafsöldurnar skella á fætur þeirra.",
+        "hypothesis": "Fjölskylda er úti á veitingastað.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Ung fjölskylda nýtur þess að finna úthafsöldurnar skella á fætur þeirra.",
+        "hypothesis": "Fjölskylda er á ströndinni.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Hjón ganga hönd í hönd niður götu.",
+        "hypothesis": "Par gengur saman.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Hjón ganga hönd í hönd niður götu.",
+        "hypothesis": "Hjónin eru gift.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Hjón ganga hönd í hönd niður götu.",
+        "hypothesis": "Hjón sitja á bekk.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "3 ungur maður í hettum sem stendur í miðri rólegri götu og snýr að myndavélinni.",
+        "hypothesis": "Þrír menn sitja berhausalausir við fjölfarna götu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "3 ungur maður í hettum sem stendur í miðri rólegri götu og snýr að myndavélinni.",
+        "hypothesis": "Þrír hettuklæddir menn sitja fyrir á mynd.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "3 ungur maður í hettum sem stendur í miðri rólegri götu og snýr að myndavélinni.",
+        "hypothesis": "Þrír hettuklæddir menn standa úti á götu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður les blaðið á bar með grænni lýsingu.",
+        "hypothesis": "Maðurinn er inni.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður les blaðið á bar með grænni lýsingu.",
+        "hypothesis": "Maðurinn er að lesa íþróttasíðuna.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður les blaðið á bar með grænni lýsingu.",
+        "hypothesis": "Maðurinn er að klífa fjall.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Þrír slökkviliðsmenn komu út af neðanjarðarlestarstöðinni.",
+        "hypothesis": "Þrír slökkviliðsmenn að slökkva eld inni í neðanjarðarlestarstöð.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Þrír slökkviliðsmenn komu út af neðanjarðarlestarstöðinni.",
+        "hypothesis": "Þrír slökkviliðsmenn koma upp frá neðanjarðarlestarstöð.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Þrír slökkviliðsmenn komu út af neðanjarðarlestarstöðinni.",
+        "hypothesis": "Þrír slökkviliðsmenn spila á spil inni á slökkvistöð.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður með stráhatt, stendur fyrir utan að vinna stáltæki með kókoshnetuhaug á jörðinni.",
+        "hypothesis": "Maður er nálægt hrúgu af kókoshnetum.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður með stráhatt, stendur fyrir utan að vinna stáltæki með kókoshnetuhaug á jörðinni.",
+        "hypothesis": "Maður er að selja kókoshnetur.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður með stráhatt, stendur fyrir utan að vinna stáltæki með kókoshnetuhaug á jörðinni.",
+        "hypothesis": "Maður er að brenna stráhatt.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Karlmaður í bláum jakka ákveður að leggjast í grasið.",
+        "hypothesis": "Gaurinn í gulu er að rúlla á grasinu",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Karlmaður í bláum jakka ákveður að leggjast í grasið.",
+        "hypothesis": "Gaurinn í bláum jakka liggur á grænu grasinu",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Karlmaður í bláum jakka ákveður að leggjast í grasið.",
+        "hypothesis": "Gaurinn í bláum jakka liggur á grænu grasinu og tekur sér blund.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Þegar kúreki er í kálfatapi kallar kúreki af hesti sínum.",
+        "hypothesis": "Roper í fyrsta skipti dettur af hesti sínum.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Þegar kúreki er í kálfatapi kallar kúreki af hesti sínum.",
+        "hypothesis": "Maður reimar kálf með góðum árangri.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Lítill strákur í gráhvítri röndóttri peysu og brúnum buxum er að leika sér á leiktæki.",
+        "hypothesis": "Strákur er á leikvelli.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Lítill strákur í gráhvítri röndóttri peysu og brúnum buxum er að leika sér á leiktæki.",
+        "hypothesis": "Strákurinn er að leika sér á rólunum eftir skóla.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Lítill strákur í gráhvítri röndóttri peysu og brúnum buxum er að leika sér á leiktæki.",
+        "hypothesis": "Drengurinn situr í skólabílnum á leiðinni heim.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona með kúluhúfu setur sig niður til að snerta sprungna jörðina.",
+        "hypothesis": "Fornleifafræðingur með hatt setur sig á hnéð til að skoða staðinn til að grafa",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona með kúluhúfu setur sig niður til að snerta sprungna jörðina.",
+        "hypothesis": "Hústökukona með hatt sem snertir jörðina.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona með kúluhúfu sest niður til að snerta sprungna jörðina.",
+        "hypothesis": "Kona með sólhlíf og gróðursetur garð.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tvö börn liggja á mottu með nokkrum trémúrsteinum í ferningi á milli þeirra.",
+        "hypothesis": "Tvö börn eru að byggja múrsteinsofn.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Tvö börn liggja á mottu með nokkrum trémúrsteinum í ferningi á milli þeirra.",
+        "hypothesis": "Tvö börn eru að leika sér í veiðigarði.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tvö börn liggja á mottu með nokkrum trémúrsteinum í ferningi á milli þeirra.",
+        "hypothesis": "Tvö börn eru á mottu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður stendur fyrir framan byggingu í símanum eins og tveir menn til hliðar sársauka á hliðinni.",
+        "hypothesis": "gaur nálægt byggingu stendur hjá tveimur öðrum mönnum",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður stendur fyrir framan byggingu í símanum eins og tveir menn til hliðar sársauka á hliðinni.",
+        "hypothesis": "tvær stúlkur ganga um sal",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður stendur fyrir framan byggingu í símanum sem tveir menn til hliðar sársauka á hliðinni.",
+        "hypothesis": "upptekinn maður stendur með lífvörðum",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungu stúlkurnar tvær eru klæddar eins og álfar og leika sér í laufblöðunum utandyra.",
+        "hypothesis": "Stelpur eru að leika sér úti.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Ungu stúlkurnar tvær eru klæddar eins og álfar og leika sér í laufblöðunum utandyra.",
+        "hypothesis": "Tvær stúlkur leika sér í klæðaburði innandyra.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Ungu stúlkurnar tvær eru klæddar eins og álfar og leika sér í laufblöðunum utandyra.",
+        "hypothesis": "Stúlkurnar tvær leika á haustin.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Fólk hoppar yfir fjallasprungu á reipi.",
+        "hypothesis": "Sumir líta út fyrir að vera sjónrænir hræddir við að hoppa.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Fólk hoppar yfir fjallasprungu á reipi.",
+        "hypothesis": "Fólk er að hoppa fyrir utan.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fólk hoppar yfir fjallasprungu á reipi.",
+        "hypothesis": "Fólk rennir sér yfir fjallasprungu í rennibraut.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Snjóbrettamaður á breiðri snjósléttu",
+        "hypothesis": "Snjóvöllur með snjóbrettamanni á",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Snjóbrettamaður á breiðri snjósléttu",
+        "hypothesis": "Snjóbrettamaður á svifflugi yfir snjóalandi",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Snjóbrettamaður á breiðri snjósléttu",
+        "hypothesis": "Vélsleði í snjóstormi",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Eldri kona að sinna garðinum.",
+        "hypothesis": "Frúin er að elda kvöldmat",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Eldri kona að sinna garðinum.",
+        "hypothesis": "Frúin er að ryðja illgresi í garðinn sinn",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Eldri kona að sinna garðinum.",
+        "hypothesis": "Frúin er með garð",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í svartri skyrtu með útsýni yfir viðhald hjóla.",
+        "hypothesis": "Maður eyðileggur hjól.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður í svartri skyrtu með útsýni yfir viðhald hjóla.",
+        "hypothesis": "Maður horfir á hjólaviðgerðir.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í svartri skyrtu með útsýni yfir viðhald hjóla.",
+        "hypothesis": "Maður lærir hjólaviðhald.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður í svartri skyrtu horfir á hjól á verkstæði.",
+        "hypothesis": "Maður er í rauðri skyrtu",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður í svartri skyrtu horfir á hjól á verkstæði.",
+        "hypothesis": "Maður er í svartri skyrtu",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í svartri skyrtu horfir á hjól á verkstæði.",
+        "hypothesis": "Maður er að ákveða hvaða hjól hann á að kaupa",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður horfir yfir afturhjól reiðhjóls í viðhaldsbílskúrnum með ýmis verkfæri sjáanleg í bakgrunni.",
+        "hypothesis": "Maður er í bílskúr.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður horfir yfir afturhjól reiðhjóls í viðhaldsbílskúrnum með ýmis verkfæri sjáanleg í bakgrunni.",
+        "hypothesis": "Maður gerir við reiðhjól.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður horfir yfir afturhjól reiðhjóls í viðhaldsbílskúrnum með ýmis verkfæri sjáanleg í bakgrunni.",
+        "hypothesis": "Maður bíður fyrir utan bílskúr.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Þrír menn sitja á bekk á stöð, maðurinn horfir undarlega á konurnar tvær, rauðhærðu konurnar horfa upp og fram í óþægilegri stellingu og gula ljóshærða stúlkan þeysist með hárið.",
+        "hypothesis": "Sumir standa í kringum sig.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Þrír menn sitja á bekk á stöð, maðurinn horfir undarlega á konurnar tvær, rauðhærðu konurnar horfa upp og fram í óþægilegri stellingu og gula ljóshærða stúlkan þeysist með hárið.",
+        "hypothesis": "Fólk hleypur saman.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Þrír menn sitja á bekk á stöð, maðurinn horfir undarlega á konurnar tvær, rauðhærðu konurnar horfa upp og fram í óþægilegri stellingu og gula ljóshærða stúlkan þeysist með hárið.",
+        "hypothesis": "Fólk bíður á stöð.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Barn með rauða topp stendur fyrir aftan ljóshært barn sem situr í hjólbörum.",
+        "hypothesis": "Barn með rauða topp stendur fyrir aftan ljóshært barn",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Barn með rauða topp stendur fyrir aftan ljóshært barn sem situr í hjólbörum.",
+        "hypothesis": "Barn með rauða topp stendur ofan á ljóshærðu barni",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Barn með rauða topp stendur fyrir aftan ljóshært barn sem situr í hjólbörum.",
+        "hypothesis": "Barn með rauða topp stendur fyrir aftan fallegt ljóshært barn",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Einstaklingur klæddur í kjól með blómum og uppstoppaða býflugu sem fest er við hann er að ýta barnakerru niður götuna.",
+        "hypothesis": "Kona situr á bekk í garðinum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Einstaklingur klæddur í kjól með blómum og uppstoppaða býflugu sem er fest við hann er að ýta barnakerru niður götuna.",
+        "hypothesis": "Gömul kona ýtir kerrunni niður fjölfarna götu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Einstaklingur klæddur í kjól með blómum og uppstoppaða býflugu sem er fest við hann er að ýta barnakerru niður götuna.",
+        "hypothesis": "Maður fyrir utan að ýta kerrunni.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Hundur hoppar fyrir frisbí í snjónum.",
+        "hypothesis": "Gæludýr er að njóta þess að sækja leik með eiganda sínum.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Hundur hoppar fyrir frisbí í snjónum.",
+        "hypothesis": "Köttur þvær andlit sitt og hárhönd með framloppunni.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Hundur hoppar fyrir frisbí í snjónum.",
+        "hypothesis": "Dýr er úti í köldu veðri að leika sér með plastdót.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fólk er að spjalla við borðstofuborð undir tjaldhimnu.",
+        "hypothesis": "Fólk í veislu situr í kvöldmat á grasflötinni.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Fólk er að spjalla við borðstofuborð undir tjaldhimnu.",
+        "hypothesis": "Fólk talar undir skjóli.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fólk er að spjalla við borðstofuborð undir tjaldhimnu.",
+        "hypothesis": "Fólk öskrar á hnefaleikaleik.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Stúlka spilar á fiðlu ásamt hópi fólks",
+        "hypothesis": "Stúlka er að þvo fullt af þvotti.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Stúlka spilar á fiðlu ásamt hópi fólks",
+        "hypothesis": "Stúlka er að spila á hljóðfæri.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Stúlka spilar á fiðlu ásamt hópi fólks",
+        "hypothesis": "Hópur fólks leikur í sinfóníu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona innan hljómsveitar leikur á fiðlu.",
+        "hypothesis": "Kona er að spila á tónleikum.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona innan hljómsveitar leikur á fiðlu.",
+        "hypothesis": "Kona leikur á fiðlu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona innan hljómsveitar leikur á fiðlu.",
+        "hypothesis": "Maður horfir í sjónauka.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Þrír menn, einn með pípur, annar með stóran hlut fyrir ofan höfuðið og einn sem hvílir við pípubekkinn á vörubílnum, horfa í myndavélina.",
+        "hypothesis": "þrír menn fara að vinna",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Þrír menn, einn með pípur, annar með stóran hlut fyrir ofan höfuðið og einn sem hvílir við pípubekkinn á vörubílnum, horfa í myndavélina.",
+        "hypothesis": "þrír menn horfa í myndavélina",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Þrír menn, einn með pípur, annar með stóran hlut fyrir ofan höfuðið og einn sem hvílir á pípubekknum á vörubílnum, horfa í myndavélina.",
+        "hypothesis": "þrír menn sofandi í tjaldi",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Ford bíll er að beygja til hægri þar sem 3 karlmenn ganga yfir götuna fyrir aftan bílinn.",
+        "hypothesis": "Þrír gangandi vegfarendur fóru yfir á bak við bíl sem var í hægri beygju.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Ford bíll er að beygja til hægri þar sem 3 karlmenn ganga yfir götuna fyrir aftan bílinn.",
+        "hypothesis": "Fólksbifreið var að beygja beygju þegar göngumenn voru að fara yfir.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Þrír drengir í hvítum skyrtum ganga aftan á eldri gerð Ford-bíls.",
+        "hypothesis": "það eru þrír strákar",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Þrír drengir í hvítum skyrtum ganga aftan á eldri gerð Ford-bíls.",
+        "hypothesis": "Það eru þrjár stúlkur",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Þrír drengir í hvítum skyrtum ganga aftan á eldri gerð Ford-bíls.",
+        "hypothesis": "Strákarnir eru á götunni",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Þrjár stúlkur blása á kerti af köku úr Peeps.",
+        "hypothesis": "Sumir eru að blása út kerti",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Þrjár stúlkur blása á kerti af köku úr Peeps.",
+        "hypothesis": "Það eru þrjár stelpur og kaka",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Þrjár stúlkur blása á kerti af köku úr Peeps.",
+        "hypothesis": "Það eru kíki í garðinum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Mannfjöldi fólks horfir upp á 3 manns á brún þaks húss.",
+        "hypothesis": "Mannfjöldinn kallar eftir hjálp fyrir fólkið á þakinu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Mannfjöldi fólks horfir upp á 3 manns á brún þaks húss.",
+        "hypothesis": "Mannfjöldinn á jörðinni fylgist með 3 mönnum á þakbrúninni.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Mannfjöldi fólks horfir upp á 3 manns á brún þaks byggingar.",
+        "hypothesis": "Þrír menn eru að klifra niður stigann á byggingunni.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona sem vinnur langan vinnudag.",
+        "hypothesis": "Kona er að vinna í verksmiðju.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona sem vinnur langan vinnudag.",
+        "hypothesis": "Kona er að vinna.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona sem vinnur langan vinnudag.",
+        "hypothesis": "Kona sefur.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tvær unglingsstúlkur spjalla við hlið skápa.",
+        "hypothesis": "Stelpur að tala við hliðina á klósettinu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tvær unglingsstúlkur spjalla við hlið skápa.",
+        "hypothesis": "Fólk að tala við hlið skápa.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Tvær unglingsstúlkur spjalla við hlið skápa.",
+        "hypothesis": "Stelpur að tala um vandamál sín við hlið skápa.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Gömul kona horfir á mann horfa niður á kúlur á jörðinni.",
+        "hypothesis": "Eldri kona er að elta karlmann.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Gömul kona horfir á mann horfa niður á kúlur á jörðinni.",
+        "hypothesis": "Tveir menn sofa í lestinni.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tvö börn, bæði í ljósbrúnum úlpum, eru að faðma hvort annað.",
+        "hypothesis": "Tvö krakkar eru að faðmast eftir að hafa lifað af hræðilegt bílslys.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Tvö börn, bæði í ljósbrúnum úlpum, eru að faðma hvort annað.",
+        "hypothesis": "Tvö börn eru að knúsast.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Tvö börn, bæði í ljósbrúnum úlpum, eru að faðma hvort annað.",
+        "hypothesis": "Tvö krakkar hlaupa niður þjóðveg.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "2 krakkar sem líta út fyrir að vera skyldir eru að hanga saman þar sem annað þeirra er mjög tilfinningaþrungið og knúsar hitt.",
+        "hypothesis": "Nokkrir ættingjar barna föðmuðust því þau voru ánægð að sjá hvort annað.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "2 krakkar sem líta út fyrir að vera skyldir eru að hanga saman þar sem annað þeirra er mjög tilfinningaþrungið og knúsar hitt.",
+        "hypothesis": "Tvö börn voru að faðmast.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "2 krakkar sem líta út fyrir að vera skyldir eru að hanga saman þar sem annað þeirra er mjög tilfinningaþrungið og knúsar hitt.",
+        "hypothesis": "Tvö ungmenni voru að ýta hvort öðru.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Mikill fjöldi fólks sem klæðist eingöngu hvítu og rauðu gengur á götu.",
+        "hypothesis": "Mikill fjöldi svartklædda gengur niður götuna.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Mikill fjöldi fólks sem klæðist eingöngu hvítu og rauðu gengur á götu.",
+        "hypothesis": "Mikill fjöldi karlmanna gengur niður götuna í rauðu og hvítu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Mikill fjöldi fólks sem klæðist eingöngu hvítu og rauðu gengur á götu.",
+        "hypothesis": "Mikill fjöldi fólks gengur á götu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Gaur á mótorhjóli nálægt ruslbílum",
+        "hypothesis": "Maðurinn er að prufukeyra mótorhjóli til að ákveða hvort hann kaupi það eða ekki.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Gaur á mótorhjóli nálægt ruslbílum",
+        "hypothesis": "Maður er á mótorhjóli.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Gaur á mótorhjóli nálægt ruslbílum",
+        "hypothesis": "Maður situr á kyrrstæðu mótorhjóli og bíður eftir vini sínum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Konur á Indlandi koma fram með bláum straumum, í fallegum bláum búningum.",
+        "hypothesis": "Indverskar konur koma fram saman í glæsilegum búningum",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Konur á Indlandi koma fram með bláum straumum, í fallegum bláum búningum.",
+        "hypothesis": "hundar þefa loftið",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Konur á Indlandi koma fram með bláum straumum, í fallegum bláum búningum.",
+        "hypothesis": "Indverskar konur stunda trúarlega helgisiði saman",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Atvinnumaður í sundi spýtir vatni út eftir að hafa komið upp á yfirborðið á meðan hann grípur í hönd einhvers sem hjálpar honum aftur á land.",
+        "hypothesis": "Maður er að synda.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Atvinnumaður í sundi spýtir vatni út eftir að hafa komið upp á yfirborðið á meðan hann grípur í hönd einhvers sem hjálpar honum aftur á land.",
+        "hypothesis": "Sundmaðurinn er að borða ristað marshmallow.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Atvinnumaður í sundi spýtir vatni út eftir að hafa komið upp á yfirborðið á meðan hann grípur í hönd einhvers sem hjálpar honum aftur á land.",
+        "hypothesis": "Sundmaðurinn drukknaði næstum eftir að hafa sogið undir hröðum straumi.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maðurinn í svörtum blautbúningnum gengur upp úr vatninu.",
+        "hypothesis": "Maður í blautbúningi gengur upp úr vatninu með brimbretti.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maðurinn í svörtum blautbúningnum gengur upp úr vatninu.",
+        "hypothesis": "maður er að ganga upp úr vatni.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maðurinn í svörtum blautbúningnum gengur upp úr vatninu.",
+        "hypothesis": "Maður liggur á ströndinni.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Fimm stúlkur og tveir strákar eru að fara yfir vegalengd.",
+        "hypothesis": "Stórfjölskyldan gengur saman á ættarmóti sínu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Fimm stúlkur og tveir strákar eru að fara yfir vegalengd.",
+        "hypothesis": "Mennirnir þrír sitja og tala um líf sitt.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Fimm stúlkur og tveir strákar eru að fara yfir vegalengd.",
+        "hypothesis": "Það er fólk fyrir utan.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður með fjólubláa skyrtu er að mála mynd af konu á hvítum vegg.",
+        "hypothesis": "Kona málar mynd af besta vini sínum.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður með fjólubláa skyrtu er að mála mynd af konu á hvítum vegg.",
+        "hypothesis": "Kona málar mynd af manneskju.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður með fjólubláa skyrtu er að mála mynd af konu á hvítum vegg.",
+        "hypothesis": "Kona málar mynd af apa.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona er að mála veggmynd af andliti konu.",
+        "hypothesis": "Þar er kona að mála.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona er að mála veggmynd af andliti konu.",
+        "hypothesis": "Þar er kona að mála sér til skemmtunar.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona er að mála veggmynd af andliti konu.",
+        "hypothesis": "Þarna er maður að reima skóna sína.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Par er að borða úti við borð og hann bendir á eitthvað.",
+        "hypothesis": "Par er að borða inni við borð og hann bendir á eitthvað.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Par er að borða úti við borð og hann bendir á eitthvað.",
+        "hypothesis": "Maðurinn bendir á töskusníp.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Par er að borða úti við borð og hann bendir á eitthvað.",
+        "hypothesis": "Fólk er að borða við borð fyrir utan.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Tvær konur ganga niður gangstétt eftir fjölfarinni götu í miðbænum.",
+        "hypothesis": "Konurnar voru á gangi í miðbænum því rúturnar voru í verkfalli",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Tvær konur ganga niður gangstétt eftir fjölfarinni götu í miðbænum.",
+        "hypothesis": "Konurnar voru að tína ber í sveitinni",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tvær konur ganga niður gangstétt eftir fjölfarinni götu í miðbænum.",
+        "hypothesis": "Konurnar voru á gangi í miðbænum",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Margir standa fyrir utan stað að tala saman fyrir framan byggingu sem er með skilti sem segir „HI-POINTE“.",
+        "hypothesis": "Fólkið er að spjalla áður en farið er inn í vinnuhúsnæðið.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Margir standa fyrir utan stað að tala saman fyrir framan byggingu sem er með skilti sem segir „HI-POINTE“.",
+        "hypothesis": "Hópurinn er ekki inni í byggingunni.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Margir standa fyrir utan stað að tala saman fyrir framan byggingu sem er með skilti sem segir „HI-POINTE“.",
+        "hypothesis": "Fólkið situr í anddyri hótelsins.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Flugfreyjan klædd í gult sýnir notkun björgunarvesta.",
+        "hypothesis": "Flugfreyja stendur fyrir framan farþega.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Flugfreyjan klædd í gult sýnir notkun björgunarvesta.",
+        "hypothesis": "Flugfreyja sýnir öryggisaðferðir fyrir flugtak.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Flugfreyjan klædd í gult sýnir notkun björgunarvesta.",
+        "hypothesis": "Kona er að útbúa drykki í flugvél.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Stelpurnar ganga niður götuna.",
+        "hypothesis": "Stúlkur ganga niður götuna.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Stelpurnar ganga niður götuna.",
+        "hypothesis": "Stelpur settust niður á götunni.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Stelpurnar ganga niður götuna.",
+        "hypothesis": "Stelpur voru að fara í garðinn.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður í rauðum einkennisbúningi og hjálm stendur á mótorhjóli sínu.",
+        "hypothesis": "maður situr í bíl.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður í rauðum einkennisbúningi og hjálm stendur á mótorhjóli sínu.",
+        "hypothesis": "manneskja sem stendur.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í rauðum einkennisbúningi og hjálm stendur á mótorhjóli sínu.",
+        "hypothesis": "maður stendur á mótorhjóli sínu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður klútsins setur svart efni á ennið á manni.",
+        "hypothesis": "Maðurinn setur eitthvað á höfuðið á hinum.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður klútsins setur svart efni á ennið á manni.",
+        "hypothesis": "Konurnar eru í garðinum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður klútsins setur svart efni á ennið á manni.",
+        "hypothesis": "Mennirnir eru í kirkjunni.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður rúllar niður hæð á vagni þegar annar horfir á.",
+        "hypothesis": "Tveir menn eru fyrir utan.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður rúllar niður hæð á vagni þegar annar horfir á.",
+        "hypothesis": "Maður starir á tóma hæð.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður rúllar niður hæð á vagni þegar annar horfir á.",
+        "hypothesis": "Barn í vagni veltir niður hæð.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "drengur sem heldur á vegg á upphækkuðum grunni gamals múrsteinshúss.",
+        "hypothesis": "drengur sem heldur á vegg á upphleyptum grunni gamals múrsteinshúss þegar framkvæmdir eiga sér stað",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "drengur sem heldur á vegg á upphækkuðum grunni gamals múrsteinshúss.",
+        "hypothesis": "stúlka hallar sér upp að vegg",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "drengur sem heldur á vegg á upphækkuðum grunni gamals múrsteinshúss.",
+        "hypothesis": "drengur stendur við vegg á upphækkuðum grunni",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Bruce Springsteen, með annan handlegginn útréttan, syngur í sviðsljósinu í dimmum tónleikasal.",
+        "hypothesis": "Bruce Springsteen er frá Flórída.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Bruce Springsteen, með annan handlegginn útréttan, syngur í sviðsljósinu í dimmum tónleikasal.",
+        "hypothesis": "Bruce Springsteen er söngvari.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Bruce Springsteen, með annan handlegginn útréttan, syngur í sviðsljósinu í dimmum tónleikasal.",
+        "hypothesis": "Bruce Springsteen er samkynhneigður",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Sex hundar synda í ánni.",
+        "hypothesis": "Sex hundar synda yfir ána.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Sex hundar synda í ánni.",
+        "hypothesis": "Sex hundar eru úti.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Sex hundar synda í ánni.",
+        "hypothesis": "Hvolparnir eru að leggjast í sófann.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Karl og kona eru að taka mynd af sér á meðan kona í trefil gengur hjá þeim.",
+        "hypothesis": "Karl og kona láta taka múgaskot vegna þess að þau hafa verið handtekin.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Karl og kona eru að taka mynd af sér á meðan kona í trefil gengur hjá þeim.",
+        "hypothesis": "Maður og kona taka selfies á meðan kona gengur hjá og dæmir þau.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Karl og kona eru að taka mynd af sér á meðan kona í trefil gengur hjá þeim.",
+        "hypothesis": "Maður og kona taka selfies af sér.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "hópur fólks að dansa saman.",
+        "hypothesis": "Fólk er að dansa.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "hópur fólks að dansa saman.",
+        "hypothesis": "Þeir eru að gera tangó.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "hópur fólks að dansa saman.",
+        "hypothesis": "Það er enginn að dansa.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Karlar í bláum einkennisbúningum sitja í strætó.",
+        "hypothesis": "Karlmenn sitja í strætó.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Karlar í bláum einkennisbúningum sitja í strætó.",
+        "hypothesis": "Karlmenn sitja í strætó að fara í vinnuna,",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Karlar í bláum einkennisbúningum sitja í strætó.",
+        "hypothesis": "Karlmenn keyra rútuna út í sjóinn.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tveir menn klifra á trépalla.",
+        "hypothesis": "Tveir menn klifra á timburpalli.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Tveir menn klifra á trépalla.",
+        "hypothesis": "Tvær konur klifra á tréspalti.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tveir menn klifra á trépalla.",
+        "hypothesis": "Tveir dapurlegir menn klifra á tréspalti.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Fugl blakar vængjunum á vatninu.",
+        "hypothesis": "Fuglinn flýgur yfir trén.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Fugl blakar vængjunum á vatninu.",
+        "hypothesis": "Öndin er að synda í vatninu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungur drengur í rauðri skyrtu og gallabuxum stendur á miðjum túni og kastar leikfangaflugvél upp í loftið.",
+        "hypothesis": "Ungur drengur er að leika sér á velli.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Ungur drengur í rauðri skyrtu og gallabuxum stendur á miðjum túni og kastar leikfangaflugvél upp í loftið.",
+        "hypothesis": "Ungur drengur er að leika sér á vellinum því móðir hans rak hann út úr húsinu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungur drengur í rauðri skyrtu og gallabuxum stendur á miðjum túni og kastar leikfangaflugvél upp í loftið.",
+        "hypothesis": "Ungur drengur er að spila tölvuleiki innandyra.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Sex eða sjö manns standa á bryggju með borð og gleraugu í forgrunni.",
+        "hypothesis": "Þeir eru að fara að veiða.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Sex eða sjö manns standa á bryggju með borð og gleraugu í forgrunni.",
+        "hypothesis": "Sex eða sjö manns standa á bryggju.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Sex eða sjö manns standa á bryggju með borð og gleraugu í forgrunni.",
+        "hypothesis": "Þeir eru í báti.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður í rauðri skyrtu og svörtum buxum hneig niður.",
+        "hypothesis": "Maður klæðist rauðri skyrtu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í rauðri skyrtu og svörtum buxum hneig niður.",
+        "hypothesis": "Maðurinn er kona.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður í rauðri skyrtu og svörtum buxum hneig niður.",
+        "hypothesis": "Maðurinn er í grænni skyrtu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Þetta barn er á tröppunum á bókasafninu.",
+        "hypothesis": "Barnið er á skólatröppunum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Þetta barn er á tröppunum á bókasafninu.",
+        "hypothesis": "Barnið er á tröppunum.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Þetta barn er á tröppunum á bókasafninu.",
+        "hypothesis": "Barnið er á tröppunum inni á bókasafninu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Húðflúraði körfuboltamaðurinn er að fara að dýfa boltanum.",
+        "hypothesis": "Maðurinn er að spila fótbolta..",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Húðflúraði körfuboltamaðurinn er að fara að dýfa boltanum.",
+        "hypothesis": "Maðurinn er að spila körfubolta.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Húðflúraði körfuboltamaðurinn er að fara að dýfa boltanum.",
+        "hypothesis": "Spilarinn er með húðflúr sem segir mamma.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "strákur í rauðri hettupeysu brosir á meðan hann horfir frá spegilmynd sinni.",
+        "hypothesis": "Strákur í rauðri hettu er ánægður.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "strákur í rauðri hettupeysu brosir á meðan hann horfir frá spegilmynd sinni.",
+        "hypothesis": "Drengurinn vill ekki sjá spegilmynd sína.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "strákur í rauðri hettupeysu brosir á meðan hann horfir frá spegilmynd sinni.",
+        "hypothesis": "Drengurinn er í uppnámi.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður með gráa kúluhúfu gengur við hlið rauðhærðrar konu klædd í bláa gallabuxnaskyrtu.",
+        "hypothesis": "maðurinn er með gráa hettu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður með gráa kúluhúfu gengur við hlið rauðhærðrar konu klædd í bláa gallabuxnaskyrtu.",
+        "hypothesis": "Maðurinn er með bláa hettu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður með gráa kúluhúfu gengur við hlið rauðhærðrar konu klædd í bláa gallabuxnaskyrtu.",
+        "hypothesis": "Manninum er kalt.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Gamall maður með hafnaboltahúfu og gömul kona í gallajakka standa fyrir utan en eru að mestu hulin skugga.",
+        "hypothesis": "Gömul kona á ljósan gallabuxnajakka.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Gamall maður með hafnaboltahúfu og gömul kona í gallajakka standa fyrir utan en eru að mestu hulin skugga.",
+        "hypothesis": "Gömul kona er með gallajakka.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Gamall maður með hafnaboltahúfu og gömul kona í gallajakka standa fyrir utan en eru að mestu hulin skugga.",
+        "hypothesis": "Gömul kona á engan jakka.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Nýgift hjón hlæja og tala sín á milli.",
+        "hypothesis": "Hjónin skemmta sér.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Nýgift hjón hlæja og tala sín á milli.",
+        "hypothesis": "Hjónin giftu sig nýlega.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Nýgift hjón hlæja og tala sín á milli.",
+        "hypothesis": "Hjónin eru skilin.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Svartur maður í löngum ermum hvítum kraga skyrtu og bindi gengur til vinnu í stórborg.",
+        "hypothesis": "Maðurinn er í stuttbuxum og stuttermabol á meðan hann skokkar.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Svartur maður í löngum ermum hvítum kraga skyrtu og bindi gengur til vinnu í stórborg.",
+        "hypothesis": "Maðurinn er að flytja.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Svartur maður í löngum ermum hvítum kraga skyrtu og bindi gengur til vinnu í stórborg.",
+        "hypothesis": "Maðurinn er í vinnufatnaði og er á leið til vinnu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Nokkrir yngri menn sitja fyrir framan styttu.",
+        "hypothesis": "nokkur ungmenni sitja úti",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Nokkrir yngri menn sitja fyrir framan styttu.",
+        "hypothesis": "nokkur ungmenni sitja í sal",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Nokkrir yngri menn sitja fyrir framan styttu.",
+        "hypothesis": "nokkur ungmenni sem sitja í skólagarði",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Hópur fullorðinna stendur á baðherberginu og horfir niður á lítið barn í baðinu.",
+        "hypothesis": "Mamma barnsins fylgist með syni sínum með vinum sínum.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Hópur fullorðinna stendur á baðherberginu og horfir niður á lítið barn í baðinu.",
+        "hypothesis": "Fólk er í húsinu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Hópur fullorðinna stendur á baðherberginu og horfir niður á lítið barn í baðinu.",
+        "hypothesis": "Barnið sefur.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kjánaleg kona syngur á sviðinu.",
+        "hypothesis": "Kona syngur.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kjánaleg kona syngur á sviðinu.",
+        "hypothesis": "Kona er að lesa ljóð á sviðinu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kjánaleg kona syngur á sviðinu.",
+        "hypothesis": "Ljóshærð kona syngur og dansar á sviðinu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Stúlkan í brúnum jakka á göngu í snjó.",
+        "hypothesis": "Kona er að borða pasta á veitingastað.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Stúlkan í brúnum jakka á göngu í snjó.",
+        "hypothesis": "Konan í jakka er að leita að týnda hundinum sínum.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Stúlkan í brúnum jakka á göngu í snjó.",
+        "hypothesis": "Stúlkan gengur fyrir utan.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður, kona og barn fá mynd af sér fyrir framan fjöllin.",
+        "hypothesis": "Fjölskylda í fríi situr fyrir.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður, kona og barn fá mynd af sér fyrir framan fjöllin.",
+        "hypothesis": "Fólk er úti.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður, kona og barn fá mynd af sér fyrir framan fjöllin.",
+        "hypothesis": "Fjölskylda er í bílnum sínum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "fólk stendur nálægt vatni með bát á leið sinni",
+        "hypothesis": "Fólkið stendur.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "fólk stendur nálægt vatni með bát á leið sinni",
+        "hypothesis": "Fólk stendur nálægt vatni með stóran bláan bát á leiðinni til þeirra.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "fólk stendur nálægt vatni með bát á leið sinni",
+        "hypothesis": "Fólk bíður í röð á veitingastaðnum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Fjórir fullorðnir borða á meðan þeir sitja á flísum á gólfi.",
+        "hypothesis": "Tvö pör borða mat á eldhúsgólfi.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Fjórir fullorðnir borða á meðan þeir sitja á flísum á gólfi.",
+        "hypothesis": "Tvö pör spila pool á bar.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Fjórir fullorðnir borða á meðan þeir sitja á flísum á gólfi.",
+        "hypothesis": "Hópur fólks borðar mat.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Hundur sem stendur nálægt snjó og horfir á vatn.",
+        "hypothesis": "Köttur liggur í sófanum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Hundur sem stendur nálægt snjó og horfir á vatn.",
+        "hypothesis": "Dýrið er úti.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Hundur sem stendur nálægt snjó og horfir á vatn.",
+        "hypothesis": "Hundurinn er að hugsa um að fara í sund.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Eldri maður hallar sér að stalli fyrir utan skrautlega byggingu.",
+        "hypothesis": "Eldri maður hallar sér fyrir utan hjúkrunarheimilið sitt",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Eldri maður hallar sér að stalli fyrir utan skrautlega byggingu.",
+        "hypothesis": "Ungur maður er að skokka",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Eldri maður hallar sér að stalli fyrir utan skrautlega byggingu.",
+        "hypothesis": "Eldri maður hallar sér fyrir utan byggingu",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í appelsínugulum fötum hvílir fyrir ofan neðanjarðarlestarinngang.",
+        "hypothesis": "Maður situr á hafnaboltaleik.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður í appelsínugulum fötum hvílir fyrir ofan neðanjarðarlestarinngang.",
+        "hypothesis": "Einhver stendur nálægt neðanjarðarlestarstöð.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í appelsínugulum fötum hvílir fyrir ofan neðanjarðarlestarinngang.",
+        "hypothesis": "Maður bíður eftir lest.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Stúlka í bláum kjól fer úr skónum og borðar blátt nammi.",
+        "hypothesis": "Stúlkan borðar blátt nammi á karnivali.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Stúlka í bláum kjól fer úr skónum og borðar blátt nammi.",
+        "hypothesis": "Stúlkan í bláum kjól er blómastelpa í brúðkaupi.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Stúlka í bláum kjól fer úr skónum og borðar blátt nammi.",
+        "hypothesis": "Stúlkan er að borða berfætt.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Svartur maður í hvítum einkennisbúningi gerir stórkostlegan öfugan slam dunk við undrun fjöldans.",
+        "hypothesis": "maðurinn er asískur",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Svartur maður í hvítum einkennisbúningi gerir stórkostlegan öfugan slam dunk við undrun fjöldans.",
+        "hypothesis": "maðurinn er að leika sér",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Svartur maður í hvítum einkennisbúningi gerir stórkostlegan öfugan slam dunk við undrun fjöldans.",
+        "hypothesis": "maðurinn er heima sofandi",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Körfuboltamaður með græna skó er að dýfa boltanum í netið á meðan mannfjöldinn horfir á.",
+        "hypothesis": "Maður er að búa til samloku á meðan mannfjöldi andast af ótta.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Körfuboltamaður með græna skó er að dýfa boltanum í netið á meðan mannfjöldinn horfir á.",
+        "hypothesis": "Mannfjöldi er að horfa á einhvern spila körfubolta.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Körfuboltamaður með græna skó er að dýfa boltanum í netið á meðan mannfjöldinn horfir á.",
+        "hypothesis": "Frægur NBA leikmaður er að spila götubolta fyrir framan mannfjöldann.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Hungrandi gamall maður í herhettu og borgaralegum jakkafötum stendur á meðal mannfjölda utandyra með skilti og blöðrur.",
+        "hypothesis": "Hópur fólks stendur fyrir utan.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Hungrandi gamall maður í herhettu og borgaralegum jakkafötum stendur á meðal mannfjölda utandyra með skilti og blöðrur.",
+        "hypothesis": "Reiður öldungur í hernum horfir á fólk mótmæla stríðinu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Hungrandi gamall maður í herhettu og borgaralegum jakkafötum stendur á meðal mannfjölda utandyra með skilti og blöðrur.",
+        "hypothesis": "Maður fylgist með hópi fólks með pylsuátskeppni.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona í hjólagalla og pilsi hjólar og er með axlarpoka.",
+        "hypothesis": "Kona á hjóli.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona í hjólagalla og pilsi hjólar og er með axlarpoka.",
+        "hypothesis": "Kona á hjóli í vinnuna.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona í hjólagalla og pilsi hjólar og er með axlarpoka.",
+        "hypothesis": "Kona að keyra bíl.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Hjólabrettaunglingur gerir bragð á járnbrautum.",
+        "hypothesis": "Ung manneskja á hjólabretti.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Hjólabrettaunglingur gerir bragð á járnbrautum.",
+        "hypothesis": "Maður að mála tré.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Hjólabrettaunglingur gerir bragð á járnbrautum.",
+        "hypothesis": "Ungur drengur sýnir vinum sínum nýju hjólabrettabrögðin.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Strákur í gallabuxum og með hatt húkir á handriði með steyptri fyllingu fyrir framan hann.",
+        "hypothesis": "Hann er í hnappaskyrtu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Strákur í gallabuxum og með hatt húkir á handriði með steyptri fyllingu fyrir framan hann.",
+        "hypothesis": "Sköllóttur höfuð hans er afhjúpaður.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Strákur í gallabuxum og með hatt húkir á handriði með steyptri fyllingu fyrir framan hann.",
+        "hypothesis": "Maður húkir á handriði.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Stelpa í rauðri úlpu, bláum hausum og gallabuxum er að búa til snjóengil.",
+        "hypothesis": "Stúlka í rauðri úlpu býr til snjóengil í fyrsta skipti.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Stelpa í rauðri úlpu, bláum hausum og gallabuxum er að búa til snjóengil.",
+        "hypothesis": "Stúlka í svartri úlpu heldur sig innandyra í burtu frá snjónum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Stelpa í rauðri úlpu, bláum hausum og gallabuxum er að búa til snjóengil.",
+        "hypothesis": "Stúlka úti leikur sér í snjónum.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Hópur fólks safnaðist saman á kvöldin og fylgdist með atburði.",
+        "hypothesis": "Vinahópurinn er sofandi.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Hópur fólks safnaðist saman á kvöldin og fylgdist með atburði.",
+        "hypothesis": "Hópur manna horfir í sömu átt.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Hópur fólks safnaðist saman á kvöldin og fylgdist með atburði.",
+        "hypothesis": "Vinahópur er að horfa á tónlistartónleikana á kvöldin.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Bandaríski knattspyrnumaðurinn í gulu grípur boltann á meðan hann er undir þrýstingi frá greiðanda í hvítu.",
+        "hypothesis": "Knattspyrnumaðurinn er undir þvingun.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Bandaríski knattspyrnumaðurinn í gulu grípur boltann á meðan hann er undir þrýstingi frá greiðanda í hvítu.",
+        "hypothesis": "Ameríski fótboltamaðurinn í gulu grípur boltann á meðan hann er undir þrýstingi frá hvítklædda leikmanninum.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Bandaríski knattspyrnumaðurinn í gulu grípur boltann á meðan hann er undir þrýstingi frá greiðanda í hvítu.",
+        "hypothesis": "Körfuboltamaðurinn skýtur þriggja stiga skoti.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður með blátt hár, hafnaboltahettu og hettu á stendur utandyra í hópi fólks.",
+        "hypothesis": "Maður hefur gaman af íþróttaviðburði.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður með blátt hár, hafnaboltahettu og hettu á stendur utandyra í hópi fólks.",
+        "hypothesis": "Maður er að dansa og syngja.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður með blátt hár, hafnaboltahettu og hettu á stendur utandyra í hópi fólks.",
+        "hypothesis": "Maður stendur utandyra.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Stúlka sem heldur á drykk bendir á málverk.",
+        "hypothesis": "Stúlkan er í baðkarinu",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Stúlka sem heldur á drykk bendir á málverk.",
+        "hypothesis": "Stúlkan er að drekka áfengan drykk.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Stúlka sem heldur á drykk bendir á málverk.",
+        "hypothesis": "Stúlkan fær sér drykk.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í svartri skyrtu í verslunareldhúsi heldur uppi kjöti sem hann tók upp úr poka.",
+        "hypothesis": "Maður í svartri skyrtu, í verslunareldhúsi, heldur uppi gamla kjötinu sem hann tók upp úr poka.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður í svartri skyrtu í verslunareldhúsi heldur uppi kjöti sem hann tók upp úr poka.",
+        "hypothesis": "Kona í svartri skyrtu í verslunareldhúsi heldur uppi kjöti sem hann tók upp úr poka.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður í svartri skyrtu í verslunareldhúsi heldur uppi kjöti sem hann tók upp úr poka.",
+        "hypothesis": "Maður í skyrtu, í verslunareldhúsi, heldur uppi kjöti sem hann tók upp úr poka.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í rauðri skyrtu er að slá grasið með grænni sláttuvél.",
+        "hypothesis": "Rauður maður er að synda á Ólympíuleikunum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður í rauðri skyrtu er að slá grasið með grænni sláttuvél.",
+        "hypothesis": "Rauður maður er að færa gras á John Deer mótor.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður í rauðri skyrtu er að slá grasið með grænni sláttuvél.",
+        "hypothesis": "Rauðklæddur maður er að slá grasið á sláttuvél",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Hópur fólks í svörtum skyrtum hjólandi í opnu ökutæki.",
+        "hypothesis": "Hópur fólks fer niður veginn á fellihýsi.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Hópur fólks í svörtum skyrtum hjólandi í opnu ökutæki.",
+        "hypothesis": "Ökumaðurinn var í fjólubláum skyrtu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Hópur fólks í svörtum skyrtum hjólandi í opnu ökutæki.",
+        "hypothesis": "Froends hjóla saman í opnu ökutæki.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Tveir menn búa til fisk við bryggju.",
+        "hypothesis": "Tveir menn eru nýkomnir frá veiðum í allan dag",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Tveir menn búa til fisk við bryggju.",
+        "hypothesis": "Tveir menn eru að þrífa fiskinn sinn",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Tveir menn búa til fisk við bryggju.",
+        "hypothesis": "Tveir menn sitja í kanó með veiðistangir sínar",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona með andlitið að hluta hulið silfri andlitsmálningu situr á plasttösku og horfir í spegil.",
+        "hypothesis": "Konan er fyrirmynd.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona með andlitið að hluta hulið silfri andlitsmálningu situr á plasttösku og horfir í spegil.",
+        "hypothesis": "Konan er með eitthvað í andlitinu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona með andlitið að hluta hulið silfri andlitsmálningu situr á plasttösku og horfir í spegil.",
+        "hypothesis": "Konan er blind.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður í Alaska-peysu stendur á bak við afgreiðsluborð.",
+        "hypothesis": "Maðurinn er í bol.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður í Alaska-peysu stendur á bak við afgreiðsluborð.",
+        "hypothesis": "Maðurinn er frá Alaska.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður í Alaska-peysu stendur á bak við afgreiðsluborð.",
+        "hypothesis": "Maðurinn á bak við afgreiðsluborðið er karlmaður.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Stór hópur fólks á göngu í annasamri borg á kvöldin.",
+        "hypothesis": "Fólk er að borða hádegismat á veitingastað.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Stór hópur fólks á göngu í annasamri borg á kvöldin.",
+        "hypothesis": "Fólk gengur um borg.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Stór hópur fólks á göngu í annasamri borg á kvöldin.",
+        "hypothesis": "Fólk er úti í garði.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona, í rauðu og hvítu, og með gleraugu, situr í herbergi með öðru fólki.",
+        "hypothesis": "Kona situr í herbergi með öðru fólki.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona, í rauðu og hvítu, og með gleraugu, situr í herbergi með öðru fólki.",
+        "hypothesis": "Kona er í símanum sínum og situr í herbergi.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona, í rauðu og hvítu, og með gleraugu, situr í herbergi með öðru fólki.",
+        "hypothesis": "Maður er að laga bílinn sinn.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Mjúkboltamaður kastar boltanum til liðsfélaga síns.",
+        "hypothesis": "Liðsfélagar keppa í meistarakeppni í mjúkbolta.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Mjúkboltamaður kastar boltanum til liðsfélaga síns.",
+        "hypothesis": "Tveir eru að spila mjúkbolta.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Mjúkboltamaður kastar boltanum til liðsfélaga síns.",
+        "hypothesis": "Tveir mjúkboltamenn sitja á bekk.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Mótorhjólamaður keppir.",
+        "hypothesis": "Maður er að hjóla",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Mótorhjólamaður keppir.",
+        "hypothesis": "Mótorhjólamaðurinn tapar keppninni",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Mótorhjólamaður keppir.",
+        "hypothesis": "Bíllinn er gulur",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tveir litlir strákar brosa og hlæja á meðan annar stendur og annar er í hoppu sæti.",
+        "hypothesis": "Það eru tveir litlir strákar sem brosa.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Tveir litlir strákar brosa og hlæja á meðan annar stendur og annar er í hoppu sæti.",
+        "hypothesis": "Litlu strákarnir eru að gráta.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tveir litlir strákar brosa og hlæja á meðan annar stendur og annar er í hoppu sæti.",
+        "hypothesis": "Strákarnir eru systkini að leika sér.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Innfæddir sjómenn á eyjunum að spóla í netin eftir langan vinnudag.",
+        "hypothesis": "Mennirnir veiddu marga fiska.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Innfæddir sjómenn á eyjunum að spóla í netin eftir langan vinnudag.",
+        "hypothesis": "Mennirnir mættu ekki til vinnu í dag en spiluðu þess í stað bridge.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Innfæddir sjómenn á eyjunum að spóla í netin eftir langan vinnudag.",
+        "hypothesis": "Mennirnir eru að klára vinnudaginn.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Þetta eru ungt fullorðið fólk sem virðist vinna saman að því að vernda plönturnar í kringum hvíta stöngina.",
+        "hypothesis": "Plönturnar eru fernur",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Þetta eru ungt fullorðið fólk sem virðist vinna saman að því að vernda plönturnar í kringum hvíta stöngina.",
+        "hypothesis": "Fullorðna fólkið er ungt",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Þetta eru ungt fullorðið fólk sem virðist vinna saman að því að vernda plönturnar í kringum hvíta stöngina.",
+        "hypothesis": "Fullorðna fólkið er gamalt",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tveir háskólaboltamenn berjast úti á vellinum á leikdegi, þar sem annar er bakvörðurinn sem reynir að kasta boltanum og hinn er í aðgerð við það að reka bakvörðinn.",
+        "hypothesis": "Tvö lið úr keppinautum háskólum eru í fjórða leikhluta.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Tveir háskólaboltamenn berjast úti á vellinum á leikdegi, þar sem annar er bakvörðurinn sem reynir að kasta boltanum og hinn er í aðgerð við það að reka bakvörðinn.",
+        "hypothesis": "Nokkrar stelpur að spila körfubolta.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tveir háskólaboltamenn berjast utandyra á vellinum á leikdegi, þar sem annar er bakvörðurinn sem reynir að kasta boltanum og hinn leikmaðurinn er að fara að reka bakvörðinn.",
+        "hypothesis": "Háskóli fótboltaleikur.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Tveir eru að spila amerískan fótbolta og er annar þeirra að reyna að koma í veg fyrir að hinn kasti boltanum.",
+        "hypothesis": "Línumaður er að reyna að tækla bakvörðinn áður en hann gerir leikinn að vinna snertimark.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Tveir eru að spila amerískan fótbolta og er annar þeirra að reyna að koma í veg fyrir að hinn kasti boltanum.",
+        "hypothesis": "Könnuður kastar hafnarboltanum að deiginu þegar hann reynir að slá hann út úr garðinum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tveir eru að spila amerískan fótbolta og er annar þeirra að reyna að koma í veg fyrir að hinn kasti boltanum.",
+        "hypothesis": "Það er verið að spila fótbolta.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður að spila billjard á bar.",
+        "hypothesis": "Maður er að leika við vini.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður að spila billjard á bar.",
+        "hypothesis": "Maður er að spila billjard.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður að spila billjard á bar.",
+        "hypothesis": "Maður er að spila tígli.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Gullhundur gefur bláum bolta til annars gullhunds á ströndinni.",
+        "hypothesis": "Hundarnir eru vinir.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Gullhundur gefur bláum bolta til annars gullhunds á ströndinni.",
+        "hypothesis": "Hundarnir neita að deila.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Gullhundur gefur bláum bolta til annars gullhunds á ströndinni.",
+        "hypothesis": "Gullhundurinn er að spila bolta við annan hund fyrir utan.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fólk er í rúllustiga og bíður eftir að komast á áfangastað á meðan það horfir út fyrir glerið sem myndar vegginn.",
+        "hypothesis": "Fólkið er að fara upp í rúllustiga.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Fólk er í rúllustiga og bíður eftir að komast á áfangastað á meðan það horfir út fyrir glerið sem myndar vegginn.",
+        "hypothesis": "Fólk er að taka lyftuna.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Fólk er í rúllustiga og bíður eftir að komast á áfangastað á meðan það horfir út fyrir glerið sem myndar vegginn.",
+        "hypothesis": "Fólk hjólar í rúllustiga.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona er að vefa með greiða í hendinni.",
+        "hypothesis": "Kona er í vinnunni.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona er að vefa með greiða í hendinni.",
+        "hypothesis": "Kona er að gera eitthvað með höndunum.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona er að vefa með greiða í hendinni.",
+        "hypothesis": "Kona situr með tómar hendur.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Drengur hjólar niður veginn á milli tveggja kúa.",
+        "hypothesis": "Drengur ríður hesti með tveimur kúm.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Drengur hjólar niður veginn á milli tveggja kúa.",
+        "hypothesis": "Strákur, vegur og tvær kýr.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Drengur hjólar niður veginn á milli tveggja kúa.",
+        "hypothesis": "Ein kýr er ein.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Afmælisveisla fyrir margt smáfólk til að njóta.",
+        "hypothesis": "Börn njóta afmælisveislu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Afmælisveisla fyrir margt smáfólk til að njóta.",
+        "hypothesis": "Börn hlaupa niður götuna.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Afmælisveisla fyrir margt smáfólk til að njóta.",
+        "hypothesis": "Börn í afmæli.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Á sviði eru fimm söngvarar, þrjár konur og tveir karlar.",
+        "hypothesis": "Það eru fleiri konur en karlar.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Á sviði eru fimm söngvarar, þrjár konur og tveir karlar.",
+        "hypothesis": "Flytjendur leika á sekkjapípur.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Á sviði eru fimm söngvarar, þrjár konur og tveir karlar.",
+        "hypothesis": "Fólkið sem kemur fram er hluti af kór.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Tveir menn standa í bát.",
+        "hypothesis": "Einhverjir menn standa ofan á bíl.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tveir menn standa í bát.",
+        "hypothesis": "Nokkrir menn eru að veiða á bát.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Tveir menn standa í bát.",
+        "hypothesis": "Sumir eru á báti.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Ung kona er að setja fötin sín í þurrkara hluta tvöfaldrar staflaðrar þvottavélar og þurrkara.",
+        "hypothesis": "Maður að þurrka föt",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Ung kona er að setja fötin sín í þurrkara hluta tvöfaldrar staflaðrar þvottavélar og þurrkara.",
+        "hypothesis": "Það er enginn að þurrka föt.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Sólin brýst í gegnum trén þegar barn hjólar í rólu.",
+        "hypothesis": "Barnið hjólar í rólu í rigningunni.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Sólin brýst í gegnum trén þegar barn hjólar í rólu.",
+        "hypothesis": "Barn hjólar í rólu á daginn.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Sólin brýst í gegnum trén þegar barn hjólar í rólu.",
+        "hypothesis": "Barnið á rólunni er stelpa.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Allir á götunni í borginni virðast vera uppteknir við að gera sitt.",
+        "hypothesis": "Fólk er að malla um borgargötuna.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Allir á götunni í borginni virðast vera uppteknir við að gera sitt.",
+        "hypothesis": "Fólkið fylgist með því sem er að gerast.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Allir á götunni í borginni virðast vera uppteknir við að gera sitt.",
+        "hypothesis": "Fólk stundar viðskipti í borginni.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í svuntu brosir þegar hann potar í kleinuhring með litlum málmstöngli.",
+        "hypothesis": "Maðurinn er að elda mat.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í svuntu brosir þegar hann potar í kleinuhring með litlum málmstöngli.",
+        "hypothesis": "Maðurinn er í eldhúsi veitingastaðar.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður í svuntu brosir þegar hann potar í kleinuhring með litlum málmstöngli.",
+        "hypothesis": "Maðurinn er að þvo bílinn sinn.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona í tennisfötum hlaupandi til að slá bolta með tennisspaðanum sínum.",
+        "hypothesis": "Kona spilar tennis.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona í tennisfötum hlaupandi til að slá bolta með tennisspaðanum sínum.",
+        "hypothesis": "Serina Williams spilar tennis.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona í tennisfötum hlaupandi til að slá bolta með tennisspaðanum sínum.",
+        "hypothesis": "Pete Sampras spilar tennis.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Nokkrar konur eru að spila blak.",
+        "hypothesis": "Konurnar eru að slá bolta með handleggjunum",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Nokkrar konur eru að spila blak.",
+        "hypothesis": "Þetta lítur ekki út eins og fótbolta",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Nokkrar konur eru að spila blak.",
+        "hypothesis": "Nokkrar konur eru að spila blak",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Tvö kvennalið í blaki keppa sín á milli á laxlituðum og túrkísbláum velli á meðan svartklæddur dómari fylgist með.",
+        "hypothesis": "Blakleikur er í gangi milli kvenna",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Tvö kvennalið í blaki keppa sín á milli á laxlituðum og túrkísbláum velli á meðan svartklæddur dómari fylgist með.",
+        "hypothesis": "12 dömur spila blak",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Tvö kvennalið í blaki keppa sín á milli á laxlituðum og túrkísbláum velli á meðan svartklæddur dómari fylgist með.",
+        "hypothesis": "tíu strákar spila krikket",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Lítill drengur með bláan reiðhjólahjálm og kona í grænum reiðhjólahjálmi eru að hjóla niður götu með öðrum ýmsum reiðhjólamönnum.",
+        "hypothesis": "Móðir og sonur hennar hjóla með öðrum niður götu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Lítill drengur með bláan reiðhjólahjálm og kona í grænum reiðhjólahjálmi eru að hjóla niður götu með öðrum ýmsum reiðhjólamönnum.",
+        "hypothesis": "Hópur fólks er að skipta um dekk á hjóli.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Lítill drengur með bláan reiðhjólahjálm og kona í grænum reiðhjólahjálmi eru að hjóla niður götu með öðrum ýmsum reiðhjólamönnum.",
+        "hypothesis": "Hópur fólks hjólar saman niður götu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fólk er á reiðhjólum úti á götu og er allt með hjálma.",
+        "hypothesis": "Vinahópur hjólar um götu, allir með hjálma",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Fólk er á reiðhjólum úti á götu og er allt með hjálma.",
+        "hypothesis": "Vinahópur er að grípa hjólin sín og gera sig klára fyrir morgunhjólatúrinn",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Fólk er á reiðhjólum úti á götu og er allt með hjálma.",
+        "hypothesis": "Hópur hjólreiðamanna er á götu fyrir utan",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Miðausturlenskur markaður.",
+        "hypothesis": "Miðausturlönd verslun.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Miðausturlenskur markaður.",
+        "hypothesis": "Bandarískt leikhús.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Miðausturlenskur markaður.",
+        "hypothesis": "Erlend verslun.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "kona í svartri skyrtu að horfa á reiðhjól.",
+        "hypothesis": "Kona sér reiðhjól.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "kona í svartri skyrtu að horfa á reiðhjól.",
+        "hypothesis": "Kona klædd í svartar verslanir fyrir reiðhjól.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "kona í svartri skyrtu að horfa á reiðhjól.",
+        "hypothesis": "Kona í grænu sefur í sófa.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Fjórir menn spila á trommur í mjög appelsínugulum lýsingu á meðan einn þeirra er líka að drekka eitthvað úr flösku.",
+        "hypothesis": "mennirnir eru tónlistarmenn",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fjórir menn spila á trommur í mjög appelsínugulum lýsingu á meðan einn þeirra er líka að drekka eitthvað úr flösku.",
+        "hypothesis": "mennirnir eru sofandi á mótelinu",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Fjórir menn spila á trommur í mjög appelsínugulum lýsingu á meðan einn þeirra er líka að drekka eitthvað úr flösku.",
+        "hypothesis": "fjórir menn spila á trommur",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Ungir strákar í grænum og bláum treyjum sparka í kringum fótbolta á meðan aðrir fótboltaleikir fara fram í bakgrunni.",
+        "hypothesis": "Ungir strákar að kasta hafnabolta á hafnaboltavöll.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Ungir strákar í grænum og bláum treyjum sparka í kringum fótbolta á meðan aðrir fótboltaleikir fara fram í bakgrunni.",
+        "hypothesis": "Ungir strákar bíða eftir fótboltaleiknum sínum.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungir strákar í grænum og bláum treyjum sparka í kringum fótbolta á meðan aðrir fótboltaleikir fara fram í bakgrunni.",
+        "hypothesis": "Ungir strákar sparka í kringum fótbolta.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í heilsömum kyrtli hjólar fyrir framan sandsteinsvegg á meðan hann snertir nefið á honum.",
+        "hypothesis": "Maðurinn er að prófa hjólið.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður í heilsömum kyrtli hjólar fyrir framan sandsteinsvegg á meðan hann snertir nefið á honum.",
+        "hypothesis": "Maðurinn ekur vörubíl.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður í heilsömum kyrtli hjólar fyrir framan sandsteinsvegg á meðan hann snertir nefið á honum.",
+        "hypothesis": "Maðurinn er á hjóli.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Strákur og stelpa horfa niður fjallgarðinn.",
+        "hypothesis": "Fólkið horfir á fjöllin.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Strákur og stelpa horfa niður fjallgarðinn.",
+        "hypothesis": "Hjónin ætla að klífa fjöllin.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Strákur og stelpa horfa niður fjallgarðinn.",
+        "hypothesis": "Fólkið horfir til himins.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður situr í græna stólnum, talar í símann og vinnur við fartölvuna, og það er byggingarsvæði við hliðina á byggingunni hans.",
+        "hypothesis": "Maðurinn gengur stressaður.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður situr í græna stólnum, talar í símann og vinnur við fartölvuna, og það er byggingarsvæði við hliðina á byggingunni hans.",
+        "hypothesis": "Maðurinn heyrir framkvæmdirnar í gangi.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður situr í græna stólnum, talar í símann og vinnur við fartölvuna, og það er byggingarsvæði við hliðina á byggingunni hans.",
+        "hypothesis": "Maður dós er í símanum.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Strákur slær tennisbolta á velli.",
+        "hypothesis": "Stúlka er að slá boltann.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Strákur slær tennisbolta á velli.",
+        "hypothesis": "Strákurinn er góður í tennis.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Strákur slær tennisbolta á velli.",
+        "hypothesis": "Strákur er að slá bolta.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Golden retriever hjúkrar hvolpum.",
+        "hypothesis": "Golden retriever hjúkrar nokkrum öðrum hundahvolpum",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Golden retriever hjúkrar hvolpum.",
+        "hypothesis": "Hvolpar við hlið móður sinnar",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Golden retriever hjúkrar hvolpum.",
+        "hypothesis": "Köttur hjúkrar hvolpum",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Ungur maður í þungum brúnum vetrarfrakka stendur fyrir framan blátt handrið með útbreiddan vopn.",
+        "hypothesis": "Ungi maðurinn er heima hjá ömmu sinni.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungur maður í þungum brúnum vetrarfrakka stendur fyrir framan blátt handrið með útbreiddan vopn.",
+        "hypothesis": "Handrið er framan við frosið vatn.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungur maður í þungum brúnum vetrarfrakka stendur fyrir framan blátt handrið með útbreiddan vopn.",
+        "hypothesis": "Maðurinn breiðir út handleggina á meðan hann stendur fyrir framan handrið.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Svartur maður klæddur dúnjakka með útbreiddan handleggi og heldur á bleikum greiðu.",
+        "hypothesis": "Maður var í jakka á veturna.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Svartur maður klæddur dúnjakka með útbreiddan handleggi og heldur á bleikum greiðu.",
+        "hypothesis": "Einhver klæddur bómullarskyrtu var að horfa á grænan hárgreiðu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Svartur maður klæddur dúnjakka með útbreiddan handleggi og heldur á bleikum greiðu.",
+        "hypothesis": "Maðurinn var í jakka á meðan hann hélt á greiðu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í brúnum jakka stendur með útbreiddan vopn.",
+        "hypothesis": "Maðurinn biður um miskunn.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður í brúnum jakka stendur með útbreiddan vopn.",
+        "hypothesis": "Maðurinn stendur uppréttur.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í brúnum jakka stendur með útbreiddan vopn.",
+        "hypothesis": "Maðurinn situr krosslagður á gólfinu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður klæddur rauðu vesti gengur framhjá svartri og grænni girðingu.",
+        "hypothesis": "Maðurinn í vestinu gengur niður götuna.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður klæddur rauðu vesti gengur framhjá svartri og grænni girðingu.",
+        "hypothesis": "Maður er í vesti.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður klæddur rauðu vesti gengur framhjá svartri og grænni girðingu.",
+        "hypothesis": "Maðurinn í vestinu situr í sófanum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Þessar stelpur skemmta sér konunglega í leit að skeljum.",
+        "hypothesis": "Stelpurnar eru ánægðar.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Þessar stelpur skemmta sér konunglega í leit að skeljum.",
+        "hypothesis": "Stelpurnar eru að fá sér blund.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Þessar stelpur skemmta sér konunglega í leit að skeljum.",
+        "hypothesis": "Stelpurnar eru úti.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður spilar á saxófón úti á götu og sumir sitja á kantinum við götuna hjá honum.",
+        "hypothesis": "Maður er að spila á hljóðfæri á götunni nálægt öðru fólki.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður spilar á saxófón úti á götu og sumir sitja á kantinum við götuna hjá honum.",
+        "hypothesis": "Maður er að reyna að vinna sér inn peninga með því að spila fyrir annað fólk á götunni.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður spilar á saxófón úti á götu og sumir sitja á kantinum við götuna hjá honum.",
+        "hypothesis": "Kona er að fljúga yfir landið.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Standandi maður talar við sitjandi konu á einhvers konar farartæki.",
+        "hypothesis": "Tveir eru að tala saman.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Standandi maður talar við sitjandi konu á einhvers konar farartæki.",
+        "hypothesis": "Þrír menn eru á fundi.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Standandi maður talar við sitjandi konu á einhvers konar farartæki.",
+        "hypothesis": "Tvær manneskjur eru að ræða samband sitt.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungur drengur með klippt hár, klæddur rauðri skikkju, heldur á svörtum katli þar sem einhver ætlar að hella einhverju í hann.",
+        "hypothesis": "lítill drengur hleypur í gegnum kornvöllinn",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Ungur drengur með klippt hár, klæddur rauðri skikkju, heldur á svörtum katli þar sem einhver ætlar að hella einhverju í hann.",
+        "hypothesis": "lítill drengur heldur á katli sem bráðum verður fylltur af salsa",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungur drengur með klippt hár, klæddur rauðri skikkju, heldur á svörtum katli þar sem einhver ætlar að hella einhverju í hann.",
+        "hypothesis": "lítill drengur heldur á katli sem bráðum verður fylltur",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fjórir einstaklingar og barn eru að fara yfir götuna á gangbraut.",
+        "hypothesis": "Fólk og barn í rútunni.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Fjórir einstaklingar og barn eru að fara yfir götuna á gangbraut.",
+        "hypothesis": "Fólk og barn á leið yfir götuna.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fjórir einstaklingar og barn eru að fara yfir götuna á gangbraut.",
+        "hypothesis": "Fólk og barn eru að fara yfir götuna á gangstétt til að komast heim.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Tvær konur í kjólum standa úti á grasi á meðan önnur þeirra heldur á bolla og undirskál.",
+        "hypothesis": "Tveir menn standa í grasinu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Tvær konur í kjólum standa úti á grasi á meðan önnur þeirra heldur á bolla og undirskál.",
+        "hypothesis": "Tvær konur í kjólum eru að gera sig klára fyrir lautarferðina.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Tvær konur í kjólum standa úti á grasi á meðan önnur þeirra heldur á bolla og undirskál.",
+        "hypothesis": "Konurnar eiga samtal á skrifstofunni,",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona hallar sér yfir litla girðingu til að taka mynd af gulu blómi.",
+        "hypothesis": "Konan er atvinnuljósmyndari",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona hallar sér yfir litla girðingu til að taka mynd af gulu blómi.",
+        "hypothesis": "Blómið er blátt",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona hallar sér yfir litla girðingu til að taka mynd af gulu blómi.",
+        "hypothesis": "Kona er að taka myndir",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fjögurra barna hópur situr fyrir á drulluströndinni, brosandi og dregur upp andlit.",
+        "hypothesis": "Fjórir krakkar sitja fyrir á ströndinni.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fjögurra barna hópur situr fyrir á drulluströndinni, brosandi og dregur upp andlit.",
+        "hypothesis": "Fjórir krakkar sitja fyrir í sumarfríinu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Fjögurra barna hópur situr fyrir á drulluströndinni, brosandi og dregur upp andlit.",
+        "hypothesis": "Maður hrærir í soðið.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Nokkrir karlmenn á bar horfa á íþróttaleik í sjónvarpinu.",
+        "hypothesis": "Sumir karlmenn eru að horfa á sjónvarpið á bar.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Nokkrir karlmenn á bar horfa á íþróttaleik í sjónvarpinu.",
+        "hypothesis": "Það eru karlmenn að drekka bjór á íþróttabar.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Nokkrir karlmenn á bar horfa á íþróttaleik í sjónvarpinu.",
+        "hypothesis": "Mennirnir eru á hafnaboltaleik.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tveir vegstarfsmenn með lime-græna öryggisjakka, hvíta hatta og hanska á með byggingarkeilur í bakgrunni",
+        "hypothesis": "Tveir menn eru í lime-grænum jökkum.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Tveir vegfarendur með lime-græna öryggisjakka, hvíta hatta og hanska á með byggingarkeilur í bakgrunni",
+        "hypothesis": "Tveir menn eru að setja byggingarkeilur við undirbúning nýrrar leiðslubyggingar.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Tveir vegfarendur með lime-græna öryggisjakka, hvíta hatta og hanska á með byggingarkeilur í bakgrunni",
+        "hypothesis": "Kona refsar öðrum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona í svörtum búningi liggur andlitið fyrst á jógamottu; nokkur málverk eru hengd upp á vegg og sólin skín inn um stóran glugga nálægt henni.",
+        "hypothesis": "Listakona slakar á á vinnustofu sinni.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona í svörtum búningi liggur andlitið fyrst á jógamottu; nokkur málverk eru hengd upp á vegg og sólin skín inn um stóran glugga nálægt henni.",
+        "hypothesis": "Það er maður í herbergi.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona í svörtum búningi liggur andlitið fyrst á jógamottu; nokkur málverk eru hengd upp á vegg og sólin skín inn um stóran glugga nálægt henni.",
+        "hypothesis": "Kona er sofandi á meðan tunglsljós síast inn um gluggann.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Börn í gulum íþróttabúningum klifra upp í turn.",
+        "hypothesis": "Börnin eru bardagalistanemar.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Börn í gulum íþróttabúningum klifra upp í turn.",
+        "hypothesis": "Krakkarnir skríða í sandi.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Börn í gulum íþróttabúningum klifra upp í turn.",
+        "hypothesis": "Börn í einkennisbúningum klifra upp í turn.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Sumir hundar hlaupa á eyðiströnd.",
+        "hypothesis": "Þeir eru á Hawaii.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Sumir hundar hlaupa á eyðiströnd.",
+        "hypothesis": "Það er aðeins einn hundur á ströndinni.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Sumir hundar hlaupa á eyðiströnd.",
+        "hypothesis": "Það eru margir hundar til staðar.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fjölmenn borgargata með fullt af gangandi vegfarendum.",
+        "hypothesis": "Það eru margir mótorhjólamenn á þessum vegi.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Fjölmenn borgargata með fullt af gangandi vegfarendum.",
+        "hypothesis": "Það eru margir gangandi vegfarendur í borgargötunni.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fjölmenn borgargata með fullt af gangandi vegfarendum.",
+        "hypothesis": "Vegfarendur bíða eftir að skrúðganga komi um þessa fjölförnu götu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona í skærappelsínugulri blússu er að vefa.",
+        "hypothesis": "Kona er með skær appelsínugula blússu og grænan hatt.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona í skærappelsínugulri blússu er að vefa.",
+        "hypothesis": "Kona er að strauja rauðar buxur.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona í skærappelsínugulri blússu er að vefa.",
+        "hypothesis": "Kona er að vefa.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Hópur fólks er í árabát í sjónum umkringdur mávum.",
+        "hypothesis": "Hópur fólks er inni og horfir á íshokkíleik.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Hópur fólks er í árabát í sjónum umkringdur mávum.",
+        "hypothesis": "Fullt af fólki er í tréhlut á vatninu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Hópur fólks er í árabát í sjónum umkringdur mávum.",
+        "hypothesis": "Hópur fólks er að róa í átt að einhverjum eyjum á meðan einn þeirra veiðir.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona í brúnri skyrtu krjúpar á götunni.",
+        "hypothesis": "Kona mótmælir á götunni.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona í brúnri skyrtu krjúpar á götunni.",
+        "hypothesis": "Kona er á jörðinni fyrir utan.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona í brúnri skyrtu krjúpar á götunni.",
+        "hypothesis": "Kona er á reiðhjóli.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður heldur á barni sem er að klappa hesti.",
+        "hypothesis": "Maður sem rænir barni er að klappa hesti.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður heldur á barni sem er að klappa hesti.",
+        "hypothesis": "Maður með barn er að klappa hesti.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður heldur á barni sem er að klappa hesti.",
+        "hypothesis": "Maður og dóttir hans eru að klappa hesti.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Menn sitja við hlið múrsteinsvegar.",
+        "hypothesis": "ég sit í vegkanti",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Menn sitja við hlið múrsteinsvegar.",
+        "hypothesis": "vegkanturinn er auður.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Menn sitja við hlið múrsteinsvegar.",
+        "hypothesis": "menn tala í vegkanti",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Svartur hundur með bláan kraga er að hoppa í vatnið.",
+        "hypothesis": "Hundur á eftir að blotna.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Svartur hundur með bláan kraga er að hoppa í vatnið.",
+        "hypothesis": "Svartur hundur klæddur bláu kraga er að elta eitthvað út í vatnið.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Svartur hundur með bláan kraga er að hoppa í vatnið.",
+        "hypothesis": "Hundur er að forðast vatnið.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Ung stúlka í gulum toppi og blómstrandi pilsi stendur á teppi og bítur í leikfang.",
+        "hypothesis": "Stúlka stendur.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Ung stúlka í gulum toppi og blómstrandi pilsi stendur á teppi og bítur í leikfang.",
+        "hypothesis": "Stúlka stendur fyrir utan.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ung stúlka í gulum toppi og blómstrandi pilsi stendur á teppi og bítur í leikfang.",
+        "hypothesis": "Allir sitja.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "mörg börn leika sér í vatninu.",
+        "hypothesis": "Börnin eru í búðum.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "mörg börn leika sér í vatninu.",
+        "hypothesis": "Sumir krakkar skvetta í vatnið og hafa samskipti sín á milli.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "mörg börn leika sér í vatninu.",
+        "hypothesis": "Börnin eru að spila minigolf.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Hópur krakka er að skvetta í djúpt vatn nálægt klettamyndun.",
+        "hypothesis": "Krakkarnir syngja í kór",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Hópur krakka er að skvetta í djúpt vatn nálægt klettamyndun.",
+        "hypothesis": "Krakkarnir eru á djúpu vatni",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Hópur krakka er að skvetta í djúpt vatn nálægt klettamyndun.",
+        "hypothesis": "Þeir eru í björgunarvestum",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "fjallgöngumaður með rauða höfuðband er að rífa sig upp gráa steina hátt fyrir ofan grænt lauf.",
+        "hypothesis": "Kvenkyns fjallgöngumaður reynir að rífa sig upp",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "fjallgöngumaður með rauða höfuðband er að rífa sig upp gráa steina hátt fyrir ofan grænt lauf.",
+        "hypothesis": "Klifrari rífur sig upp um steina",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "fjallgöngumaður með rauða höfuðband er að rífa sig upp gráa steina hátt fyrir ofan grænt lauf.",
+        "hypothesis": "Klifrari rífur sig upp 5000 fet upp yfir skógi",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "maður með rautt höfuðband klifraði upp klettakletti sem vofir yfir gróðurlendi.",
+        "hypothesis": "Maður er úti.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "maður með rautt höfuðband klifraði upp klettakletti sem vofir yfir gróðurlendi.",
+        "hypothesis": "Maður er í klifurfatnaði.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "maður með rautt höfuðband klifraði upp klettakletti sem vofir yfir gróðurlendi.",
+        "hypothesis": "Maður er að synda í sjónum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Tvær formlega klæddar, sköllóttar eldri konur",
+        "hypothesis": "Tvær sköllóttar konur.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Tvær formlega klæddar, sköllóttar eldri konur",
+        "hypothesis": "Tvær sköllóttar konur með gleraugu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Tvær formlega klæddar, sköllóttar eldri konur",
+        "hypothesis": "Tvær síðhærðar ungar konur.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Heimilislaus maður ýtir við offylltri blárri innkaupakörfu úr plasti.",
+        "hypothesis": "Maður á innkaupakörfu",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Heimilislaus maður ýtir við offylltri blárri innkaupakörfu úr plasti.",
+        "hypothesis": "Maður er að safna dósum til að endurvinna",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Heimilislaus maður ýtir við offylltri blárri innkaupakörfu úr plasti.",
+        "hypothesis": "Ríkur maður heldur á rolex",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "gamall skósmiður í verksmiðjunni sinni",
+        "hypothesis": "Skósmiðurinn er inni.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "gamall skósmiður í verksmiðjunni sinni",
+        "hypothesis": "Skósmiðurinn er að gera sig kláran fyrir 16 ára afmælið sitt.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "gamall skósmiður í verksmiðjunni sinni",
+        "hypothesis": "Skósmiðurinn er auðugur.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ljóshærð kona talar við hóp ungra dökkhærðra stúdenta sem bera pappírsstykki.",
+        "hypothesis": "Kona talar við aðrar konur.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Ljóshærð kona talar við hóp ungra dökkhærðra stúdenta sem bera pappírsstykki.",
+        "hypothesis": "Ljóshærð talar við hóp ungra dökkhærðra stúdenta sem bera pappírsstykki.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Ljóshærð kona talar við hóp ungra dökkhærðra stúdenta sem bera pappírsstykki.",
+        "hypothesis": "Maður slær á konu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Konan í svörtu skyrtunni afhendir börnunum í kringum hana pappíra.",
+        "hypothesis": "Einhver gefur út pappír.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Konan í svörtu skyrtunni afhendir börnunum í kringum hana pappíra.",
+        "hypothesis": "Konan er að gefa börnunum heimavinnu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Konan í svörtu skyrtunni afhendir börnunum í kringum hana pappíra.",
+        "hypothesis": "Kona heldur blaðinu fyrir sig.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Stúlka í rauðu hoppar upp",
+        "hypothesis": "Stúlkan er að hoppa til að ná í frisbí.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Stúlka í rauðu hoppar upp",
+        "hypothesis": "Stúlkan situr í grasinu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Stúlka í rauðu hoppar upp",
+        "hypothesis": "Rauða stúlkan er í loftinu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "3 dömur með númer á skyrtum sínum í gangi.",
+        "hypothesis": "Það eru dömur að hlaupa.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "3 dömur með númer á skyrtum sínum í gangi.",
+        "hypothesis": "Konurnar eru að hjóla.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "3 dömur með númer á skyrtum sínum í gangi.",
+        "hypothesis": "Konurnar eru í maraþoni.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungur drengur gengur á pípu sem teygir sig yfir vatni.",
+        "hypothesis": "Strákur er að búa til undirsamloku í eldhúsinu sínu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Ungur drengur gengur á pípu sem teygir sig yfir vatni.",
+        "hypothesis": "Strákur gengur fyrir utan.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Ungur drengur gengur á pípu sem teygir sig yfir vatni.",
+        "hypothesis": "Piltur er í hættu á að detta í vatn.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungur drengur í grænum stuttbuxum heldur jafnvægi á pípu fyrir ofan á.",
+        "hypothesis": "Enginn er í jafnvægi.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Ungur drengur í grænum stuttbuxum heldur jafnvægi á pípu fyrir ofan á.",
+        "hypothesis": "Snjall manneskja í jafnvægi.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungur drengur í grænum stuttbuxum heldur jafnvægi á pípu fyrir ofan á.",
+        "hypothesis": "Maður í jafnvægi.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Ungur maður, sem er svartur og ber hjólabretti, horfir á hjólabrettagarð utandyra.",
+        "hypothesis": "Strákur með hjólabretti er að skoða garð til að hjóla.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Ungur maður, sem er svartur og ber hjólabretti, horfir á hjólabrettagarð utandyra.",
+        "hypothesis": "Stúlka með hestahala er að hjóla í garði.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Ungur maður, sem er svartur og ber hjólabretti, horfir á hjólabrettagarð utandyra.",
+        "hypothesis": "Strákur er að fara á hjólabretti í dag.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungur drengur klæddur náttfötum liggjandi í rúminu og sefur á litríkum röndóttum kodda.",
+        "hypothesis": "Ungur drengur er að spila fótbolta.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Ungur drengur klæddur náttfötum liggjandi í rúminu og sefur á litríkum röndóttum kodda.",
+        "hypothesis": "Ungur drengur sefur í svefni.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungur drengur klæddur náttfötum liggjandi í rúminu og sefur á litríkum röndóttum kodda.",
+        "hypothesis": "Ungur drengur sefur á kodda.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður í bláum stuttermabol stillir sér upp við einhvern á meðan hann heldur á hebresku dagblaði.",
+        "hypothesis": "Hann er með dagblaðið á höfðinu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður í bláum stuttermabol stillir sér upp við einhvern á meðan hann heldur á hebresku dagblaði.",
+        "hypothesis": "Hann er að lesa blaðið.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður í bláum stuttermabol stillir sér upp við einhvern á meðan hann heldur á hebresku dagblaði.",
+        "hypothesis": "Hann er gyðingur.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Skeggjaður maður stekkur í snjónum með hafið í bakgrunni og appelsínugult, liggjandi hjól lagt nálægt vegskilti.",
+        "hypothesis": "Mannlegt stökk.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Skeggjaður maður stekkur í snjónum með hafið í bakgrunni og appelsínugult, liggjandi hjól lagt nálægt vegskilti.",
+        "hypothesis": "Það er enginn að hoppa.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Skeggjaður maður stekkur í snjónum með hafið í bakgrunni og appelsínugult, liggjandi hjól lagt nálægt vegskilti.",
+        "hypothesis": "Hár maður hoppar.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Fjögur börn leika sér í vatni.",
+        "hypothesis": "Börnin eru drullug.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Fjögur börn leika sér í vatni.",
+        "hypothesis": "Börnin eru blaut.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fjögur börn leika sér í vatni.",
+        "hypothesis": "Börnin eru að sinna húsverkum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Fjórar ungar stúlkur að leika sér í vatninu.",
+        "hypothesis": "Fjórar stúlkur eru í sjónum.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fjórar ungar stúlkur að leika sér í vatninu.",
+        "hypothesis": "Það eru strákar og stelpur í vatninu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Fjórar ungar stúlkur að leika sér í vatninu.",
+        "hypothesis": "Fjórar stúlkur eru í sundi.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maðurinn í svörtu stuttermabolnum er að reyna að kasta einhverju.",
+        "hypothesis": "Maðurinn gengur í burtu.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maðurinn í svörtu stuttermabolnum er að reyna að kasta einhverju.",
+        "hypothesis": "Maðurinn er í svartri skyrtu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maðurinn í svörtu stuttermabolnum er að reyna að kasta einhverju.",
+        "hypothesis": "Maðurinn er að kasta einhverju til sonar síns.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Einn ungur drengur í gulri langerma skyrtu og gallabuxum sitjandi, með fimm fullorðna fyrir framan sig, einn með myndbandsupptökuvél.",
+        "hypothesis": "Einhver tekur upp ungan dreng þegar hann fer í prufur fyrir þátt í kvikmynd.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Einn ungur drengur í gulri langerma skyrtu og gallabuxum sitjandi, með fimm fullorðna fyrir framan sig, einn með myndbandsupptökuvél.",
+        "hypothesis": "Ungur drengur að leika með þremur rauðum boltum með bundið fyrir augun.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Einn ungur drengur í gulri langerma skyrtu og gallabuxum sitjandi, með fimm fullorðna fyrir framan sig, einn með myndbandsupptökuvél.",
+        "hypothesis": "Fullorðinn sem notar myndbandsupptökuvél.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Strákar með bakið á móti öldu sem kom inn.",
+        "hypothesis": "Hópur fólks leikur sér í sjónum.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Strákar með bakið á móti öldu sem kom inn.",
+        "hypothesis": "Hópur fólks stendur saman.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Strákar með bakið á móti öldu sem kom inn.",
+        "hypothesis": "Hópur fólks situr á ströndinni.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Fjórir drengir verða fyrir barðinu á öldu sem nálgast.",
+        "hypothesis": "Bylgja snýst um að lemja nokkra stráka.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fjórir drengir verða fyrir barðinu á öldu sem nálgast.",
+        "hypothesis": "Bylgjan saknaði strákanna.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Fjórir drengir verða fyrir barðinu á öldu sem nálgast.",
+        "hypothesis": "Risastór bylgja er við það að skella á nokkra stráka.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona, sem stendur fyrir aftan stúlku, hjálpar stúlkunni við tilraun.",
+        "hypothesis": "Móðir hjálpar barninu sínu að klára tilraunina.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona, sem stendur fyrir aftan stúlku, hjálpar stúlkunni við tilraun.",
+        "hypothesis": "Kona er að hjálpa stelpu.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona er að hjálpa annarri konu að vinna í silfurhólfi, sem er líklegast tengt hjúkrunarstarfi.",
+        "hypothesis": "Kona sefur í sófa",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona er að hjálpa annarri konu að vinna í silfurhólfi, sem er líklegast tengt hjúkrunarstarfi.",
+        "hypothesis": "Kona er að hjálpa annarri konu að vinna",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Kona er að hjálpa annarri konu að vinna í silfurhólfi, sem er líklegast tengt hjúkrunarstarfi.",
+        "hypothesis": "Tvær konur eru að reyna að klára pantanir frá lækni",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Einn maður, klæddur bláum jakka, er að sparka í annan mann, klæddan rauðum jakka.",
+        "hypothesis": "Tveir menn berjast fyrir utan bar.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Einn maður, klæddur bláum jakka, er að sparka í annan mann, klæddan rauðum jakka.",
+        "hypothesis": "Kona fer í förðun",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Einn maður, klæddur bláum jakka, er að sparka í annan mann, klæddan rauðum jakka.",
+        "hypothesis": "Einn gaur sparkar í annan.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Fjöldi fólks safnaðist saman í herbergi með nokkrum mönnum á sviðinu með hljóðfæri og á veggnum \"The Early November\" á veggnum.",
+        "hypothesis": "Foreldrar koma saman á framhaldsskólatónleikum á staðnum",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Fjöldi fólks safnaðist saman í herbergi með nokkrum mönnum á sviðinu með hljóðfæri og á veggnum \"The Early November\" á veggnum.",
+        "hypothesis": "Múgur safnast saman þegar flautur berjast til dauða",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Fjöldi fólks safnaðist saman í herbergi með nokkrum mönnum á sviðinu með hljóðfæri og á veggnum \"The Early November\" á veggnum.",
+        "hypothesis": "Fólk fer þar sem tónleikarnir ákveða að rukka hverja nótu",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Hokkí leikmaður í hjálm.",
+        "hypothesis": "Leikmenn eru með hjálm.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Hokkí leikmaður í hjálm.",
+        "hypothesis": "Leikmennirnir eru að hvíla sig.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Hokkí leikmaður í hjálm.",
+        "hypothesis": "Þeir eru að spila íshokkí",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Maður klæddur bláum hneigjum á gólfi fyrir framan annan bláan mann hneigir sig á gólfinu ásamt tveimur öðrum mönnum klædd bláum krjúpandi á sömu hæð.",
+        "hypothesis": "Maður er í einhverju.",
+        "answer": "afleiðing"
+    },
+    {
+        "premise": "Maður klæddur bláum hneigjum á gólfi fyrir framan annan bláan mann hneigir sig á gólfinu ásamt tveimur öðrum mönnum klædd bláum krjúpandi á sömu hæð.",
+        "hypothesis": "Maður er ekkert klæddur.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður klæddur bláum hneigjum á gólfi fyrir framan annan bláan mann hneigir sig á gólfinu ásamt tveimur öðrum mönnum klædd bláum krjúpandi á sömu hæð.",
+        "hypothesis": "Maður er í blárri skyrtu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Mótorhjólamaður á ferð í gegnum skóginn.",
+        "hypothesis": "Fjallahjólamaður keppir í torfærukeppni.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Mótorhjólamaður á ferð í gegnum skóginn.",
+        "hypothesis": "Maður á mótorhjóli á þjóðveginum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Mótorhjólamaður á ferð í gegnum skóginn.",
+        "hypothesis": "Fjallahjólamaður nýtur staðbundinna gönguleiða.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungur maður í bláum stuttermabol og æfingabuxum stendur yfir eldavél og horfir í myndavélina á meðan annar ungur maður stendur fyrir aftan hann.",
+        "hypothesis": "Tveir menn eru að taka upp matreiðslukennslu.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Ungur maður í bláum stuttermabol og æfingabuxum stendur yfir eldavél og horfir í myndavélina á meðan annar ungur maður stendur fyrir aftan hann.",
+        "hypothesis": "tveir menn eru við sundlaugina.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "pör njóta máltíðar á meðan hópur hunda tekur sér blund.",
+        "hypothesis": "Hjónin eru að borða steik",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "pör njóta máltíðar á meðan hópur hunda tekur sér blund.",
+        "hypothesis": "ÞAÐ ER HJÓN Á GANGI HUNDA SÍNA",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Hvít önd stækkar vængi sína í vatninu.",
+        "hypothesis": "Öndin er sjaldgæf tegund, flestir eru taldir hafa verið reknir í útrýmingarhættu fyrir mörgum árum.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Hvít önd stækkar vængi sína í vatninu.",
+        "hypothesis": "Öndin sefur vært og svífur ofan á vatninu",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona í gallabuxum gengur niður götuna.",
+        "hypothesis": "Eldri kona með staf situr á stól.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Kona í gallabuxum gengur niður götuna.",
+        "hypothesis": "Kona gengur í átt að strætóskýli.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Hópur fólks stendur nálægt og á stórum svörtum ferningi á jörðinni með gulri skrift á.",
+        "hypothesis": "hópur fólks bíður",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Hópur fólks stendur nálægt og á stórum svörtum ferningi á jörðinni með gulri skrift á.",
+        "hypothesis": "maður liggur í sófanum",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Hópur fólks stendur nálægt og á stórum svörtum ferningi á jörðinni með gulri skrift á.",
+        "hypothesis": "hópur fólks stendur",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Mannfjöldi fylgist með hópi karlmanna í jakkafötum með skjalatöskur ganga í hópi niður götuna undir forystu konu sem heldur á skilti.",
+        "hypothesis": "Á skilti sem konan heldur á stendur að „Frelsið er ókeypis“.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Mannfjöldi fylgist með hópi karlmanna í jakkafötum með skjalatöskur ganga í hópi niður götuna undir forystu konu sem heldur á skilti.",
+        "hypothesis": "Hópur fólks klæddur sem trúða röltir inn í Bigtop Circus með skilti.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Litli drengurinn gerir sig tilbúinn til að sparka í fótboltann.",
+        "hypothesis": "strákurinn er tíu ára",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Litli drengurinn gerir sig tilbúinn til að sparka í fótboltann.",
+        "hypothesis": "strákurinn sefur heima",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður og kona sitja á gangstéttinni.",
+        "hypothesis": "Maðurinn og konan standa.",
+        "answer": "mótsögn"
+    },
+    {
+        "premise": "Maður og kona sitja á gangstéttinni.",
+        "hypothesis": "Maðurinn og konan eru gift.",
+        "answer": "hlutlaus"
+    },
+    {
+        "premise": "Kona í forgrunni stefnir í átt að stórum hvítum lituðum stoðum sem er í sundur stórri byggingu þar sem fólk er að dilla sér eða bíður á tröppum þessarar byggingar.",
+        "hypothesis": "Hundur hleypur upp tröppur byggingar.",
+        "answer": "mótsögn"
+    }
+]

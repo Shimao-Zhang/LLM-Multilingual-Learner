@@ -1,0 +1,3002 @@
+[
+    {
+        "premise": "Cette chorale d'église chante devant les masses pendant qu'elles chantent des chants joyeux du livre dans une église.",
+        "hypothesis": "L'église présente des fissures au plafond.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Cette chorale d'église chante devant les masses pendant qu'elles chantent des chants joyeux du livre dans une église.",
+        "hypothesis": "L'église est remplie de chants.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Cette chorale d'église chante devant les masses pendant qu'elles chantent des chants joyeux du livre dans une église.",
+        "hypothesis": "Une chorale chantant lors d'un match de baseball.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme avec un foulard vert, une chemise bleue et un très grand sourire.",
+        "hypothesis": "La femme est jeune.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme avec un foulard vert, une chemise bleue et un très grand sourire.",
+        "hypothesis": "La femme est très heureuse.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme avec un foulard vert, une chemise bleue et un très grand sourire.",
+        "hypothesis": "La femme a été abattue.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un vieil homme avec un paquet pose devant une publicité.",
+        "hypothesis": "Un homme pose devant une publicité.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un vieil homme avec un paquet pose devant une publicité.",
+        "hypothesis": "Un homme pose devant une publicité pour de la bière.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un vieil homme avec un paquet pose devant une publicité.",
+        "hypothesis": "Un homme passe devant une publicité.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une statue dans un musée que personne ne semble regarder.",
+        "hypothesis": "La statue est offensante et les gens sont furieux qu’elle soit exposée.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une statue dans un musée que personne ne semble regarder.",
+        "hypothesis": "Il y a une statue qui ne semble pas intéresser beaucoup de gens.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une statue dans un musée que personne ne semble regarder.",
+        "hypothesis": "Des tonnes de personnes sont rassemblées autour de la statue.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un Land Rover traverse une rivière.",
+        "hypothesis": "Un Land Rover éclabousse de l'eau en traversant une rivière.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un Land Rover traverse une rivière.",
+        "hypothesis": "Un véhicule traverse une rivière.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un Land Rover traverse une rivière.",
+        "hypothesis": "Une berline est coincée au milieu d'une rivière.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme jouant de la guitare électrique sur scène.",
+        "hypothesis": "Un homme jouant du banjo par terre.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme jouant de la guitare électrique sur scène.",
+        "hypothesis": "Un homme qui joue de la guitare sur scène.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme jouant de la guitare électrique sur scène.",
+        "hypothesis": "Un homme joue pour de l'argent.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un médecin aux cheveux blonds et son assistante afro-américaine ont jeté de nouveaux manuels médicaux.",
+        "hypothesis": "Un médecin regarde un livre",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un médecin aux cheveux blonds et son assistante afro-américaine ont jeté de nouveaux manuels médicaux.",
+        "hypothesis": "Un homme mange du pb et du j",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un médecin aux cheveux blonds et son assistante afro-américaine ont jeté de nouveaux manuels médicaux.",
+        "hypothesis": "Un médecin étudie",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une fille bronzée avec un chapeau de laine court et se penche sur un objet, tandis qu'une autre personne portant un chapeau de laine est assise par terre.",
+        "hypothesis": "Un garçon se heurte à un mur",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une fille bronzée avec un chapeau de laine court et se penche sur un objet, tandis qu'une autre personne portant un chapeau de laine est assise par terre.",
+        "hypothesis": "Une fille bronzée court et se penche sur un objet",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une fille bronzée avec un chapeau de laine court et se penche sur un objet, tandis qu'une autre personne portant un chapeau de laine est assise par terre.",
+        "hypothesis": "Un homme regarde sa fille sauter",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une jeune famille aime sentir les vagues de l’océan à leurs pieds.",
+        "hypothesis": "Un jeune homme et une jeune femme emmènent leur enfant à la plage pour la première fois.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une jeune famille aime sentir les vagues de l’océan à leurs pieds.",
+        "hypothesis": "Une famille est au restaurant.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une jeune famille aime sentir les vagues de l’océan à leurs pieds.",
+        "hypothesis": "Une famille est à la plage.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un couple marche main dans la main dans une rue.",
+        "hypothesis": "Un couple marche ensemble.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un couple marche main dans la main dans une rue.",
+        "hypothesis": "Le couple est marié.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un couple marche main dans la main dans une rue.",
+        "hypothesis": "Un couple est assis sur un banc.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "3 jeunes hommes encagoulés debout au milieu d'une rue calme face à la caméra.",
+        "hypothesis": "Trois personnes sont assises tête nue dans une rue animée.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "3 jeunes hommes encagoulés debout au milieu d'une rue calme face à la caméra.",
+        "hypothesis": "Trois personnes portant une cagoule posent pour une photo.",
+        "answer": "implication"
+    },
+    {
+        "premise": "3 jeunes hommes encagoulés debout au milieu d'une rue calme face à la caméra.",
+        "hypothesis": "Trois personnes portant une cagoule se tiennent dans une rue.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme lit le journal dans un bar éclairé en vert.",
+        "hypothesis": "L'homme est à l'intérieur.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme lit le journal dans un bar éclairé en vert.",
+        "hypothesis": "L'homme lit la page sportive.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme lit le journal dans un bar éclairé en vert.",
+        "hypothesis": "L'homme escalade une montagne.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Trois pompiers sortent de la station de métro.",
+        "hypothesis": "Trois pompiers éteignent un incendie dans une station de métro.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Trois pompiers sortent de la station de métro.",
+        "hypothesis": "Trois pompiers venant d'une station de métro.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Trois pompiers sortent de la station de métro.",
+        "hypothesis": "Trois pompiers jouent aux cartes dans une caserne de pompiers.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une personne portant un chapeau de paille, debout à l'extérieur, travaillant sur un appareil en acier avec un tas de noix de coco au sol.",
+        "hypothesis": "Une personne se trouve près d’un tas de noix de coco.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une personne portant un chapeau de paille, debout à l'extérieur, travaillant sur un appareil en acier avec un tas de noix de coco au sol.",
+        "hypothesis": "Une personne vend des noix de coco.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une personne portant un chapeau de paille, debout à l'extérieur, travaillant sur un appareil en acier avec un tas de noix de coco au sol.",
+        "hypothesis": "Une personne brûle un chapeau de paille.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un mâle en veste bleue décide de s'allonger dans l'herbe.",
+        "hypothesis": "Le gars en jaune se roule sur l'herbe",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un mâle en veste bleue décide de s'allonger dans l'herbe.",
+        "hypothesis": "Le gars qui porte une veste bleue est allongé sur l'herbe verte",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un mâle en veste bleue décide de s'allonger dans l'herbe.",
+        "hypothesis": "Le gars portant une veste bleue est allongé sur l'herbe verte et fait une sieste.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Pendant le cordage des veaux, un cow-boy rappelle son cheval.",
+        "hypothesis": "Un cordiste pour la première fois tombe de son cheval.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Pendant le cordage des veaux, un cow-boy rappelle son cheval.",
+        "hypothesis": "Un homme réussit à enchaîner un veau.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un petit garçon vêtu d'un pull rayé gris et blanc et d'un pantalon beige joue sur un équipement de terrain de jeu.",
+        "hypothesis": "Un garçon est sur une aire de jeux.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un petit garçon vêtu d'un pull rayé gris et blanc et d'un pantalon beige joue sur un équipement de terrain de jeu.",
+        "hypothesis": "Le garçon joue sur les balançoires après l'école.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un petit garçon vêtu d'un pull rayé gris et blanc et d'un pantalon beige joue sur un équipement de terrain de jeu.",
+        "hypothesis": "Le garçon est assis dans le bus scolaire sur le chemin du retour.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme portant une casquette s'accroupit pour toucher la terre craquelée.",
+        "hypothesis": "Un archéologue portant un chapeau s'accroupit pour examiner le site en vue de fouilles",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme portant une casquette s'accroupit pour toucher la terre craquelée.",
+        "hypothesis": "Une femme accroupie portant un chapeau touchant le sol.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme portant une casquette s'accroupit pour toucher la terre craquelée.",
+        "hypothesis": "Une femme portant un bonnet solaire plantant un jardin.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux enfants sont allongés sur un tapis avec des briques en bois disposées en carré entre eux.",
+        "hypothesis": "Deux enfants construisent un four à briques.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Deux enfants sont allongés sur un tapis avec des briques en bois disposées en carré entre eux.",
+        "hypothesis": "Deux enfants jouent au catch dans un parc.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux enfants sont allongés sur un tapis avec des briques en bois disposées en carré entre eux.",
+        "hypothesis": "Deux enfants sont sur un tapis.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme debout devant un immeuble au téléphone alors que deux hommes sur le côté ont mal au côté.",
+        "hypothesis": "un gars près d'un immeuble se tient à côté de deux autres hommes",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme debout devant un immeuble au téléphone alors que deux hommes sur le côté ont mal au côté.",
+        "hypothesis": "deux filles traversent un couloir",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme debout devant un immeuble au téléphone alors que deux hommes sur le côté ont mal au côté.",
+        "hypothesis": "un homme occupé se tient avec des gardes du corps",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Les deux jeunes filles sont habillées en fées et jouent dehors dans les feuilles.",
+        "hypothesis": "Les filles jouent dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Les deux jeunes filles sont habillées en fées et jouent dehors dans les feuilles.",
+        "hypothesis": "Deux filles jouent à se déguiser à l'intérieur.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Les deux jeunes filles sont habillées en fées et jouent dehors dans les feuilles.",
+        "hypothesis": "Les deux filles jouent en automne.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Les gens sautent par-dessus une crevasse de montagne avec une corde.",
+        "hypothesis": "Certaines personnes ont visuellement peur de sauter.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Les gens sautent par-dessus une crevasse de montagne avec une corde.",
+        "hypothesis": "Les gens sautent dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Les gens sautent par-dessus une crevasse de montagne avec une corde.",
+        "hypothesis": "Les gens glissent sur une crevasse de montagne sur un toboggan.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un snowboarder sur une large plaine de neige",
+        "hypothesis": "Un champ de neige avec un snowboarder dessus",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un snowboarder sur une large plaine de neige",
+        "hypothesis": "Un snowboarder glissant sur un champ de neige",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un snowboarder sur une large plaine de neige",
+        "hypothesis": "Une motoneige dans un blizzard",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme âgée s'occupant d'un jardin.",
+        "hypothesis": "La dame prépare le dîner",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme âgée s'occupant d'un jardin.",
+        "hypothesis": "La dame désherbe son jardin",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme âgée s'occupant d'un jardin.",
+        "hypothesis": "La dame a un jardin",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme en chemise noire surplombant l'entretien du vélo.",
+        "hypothesis": "Un homme détruit un vélo.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme en chemise noire surplombant l'entretien du vélo.",
+        "hypothesis": "Un homme regarde les réparations de vélos.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme en chemise noire surplombant l'entretien du vélo.",
+        "hypothesis": "Un homme apprend l'entretien du vélo.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme en chemise noire regarde un vélo dans un atelier.",
+        "hypothesis": "Un homme porte une chemise rouge",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme en chemise noire regarde un vélo dans un atelier.",
+        "hypothesis": "Un homme est en chemise noire",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme en chemise noire regarde un vélo dans un atelier.",
+        "hypothesis": "Un homme décide quel vélo acheter",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme regardant la roue arrière d'un vélo dans le garage d'entretien avec divers outils visibles en arrière-plan.",
+        "hypothesis": "Une personne est dans un garage.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme regardant la roue arrière d'un vélo dans le garage d'entretien avec divers outils visibles en arrière-plan.",
+        "hypothesis": "Un homme répare des vélos.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme regardant la roue arrière d'un vélo dans le garage d'entretien avec divers outils visibles en arrière-plan.",
+        "hypothesis": "Un homme attend devant un garage.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Trois personnes sont assises sur un banc dans une gare, l'homme regarde bizarrement les deux femmes, la femme rousse regarde en haut et en avant dans une position inconfortable, et la jeune fille blonde jaune se tourne les cheveux.",
+        "hypothesis": "Certaines personnes restent debout.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Trois personnes sont assises sur un banc dans une gare, l'homme regarde bizarrement les deux femmes, la femme rousse regarde en haut et en avant dans une position inconfortable, et la jeune fille blonde jaune se tourne les cheveux.",
+        "hypothesis": "Les gens courent ensemble.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Trois personnes sont assises sur un banc dans une gare, l'homme regarde bizarrement les deux femmes, la femme rousse regarde en haut et en avant dans une position inconfortable, et la jeune fille blonde jaune se tourne les cheveux.",
+        "hypothesis": "Les gens attendent dans une gare.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un enfant portant un haut rouge se tient derrière un enfant blond assis dans une brouette.",
+        "hypothesis": "Un enfant portant un haut rouge se tient derrière un enfant à tête blonde",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un enfant portant un haut rouge se tient derrière un enfant blond assis dans une brouette.",
+        "hypothesis": "Un enfant portant un haut rouge se tient debout sur un enfant à tête blonde",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un enfant portant un haut rouge se tient derrière un enfant blond assis dans une brouette.",
+        "hypothesis": "Un enfant portant un haut rouge se tient derrière un joli enfant à tête blonde",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une personne vêtue d'une robe avec des fleurs et une abeille en peluche attachée à celle-ci pousse une poussette dans la rue.",
+        "hypothesis": "Une dame assise sur un banc dans le parc.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une personne vêtue d'une robe avec des fleurs et une abeille en peluche attachée à celle-ci pousse une poussette dans la rue.",
+        "hypothesis": "Une vieille dame poussant une poussette dans une rue animée.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une personne vêtue d'une robe avec des fleurs et une abeille en peluche attachée à celle-ci pousse une poussette dans la rue.",
+        "hypothesis": "Une personne dehors poussant une poussette.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un chien sautant pour un frisbee dans la neige.",
+        "hypothesis": "Un animal de compagnie joue à aller chercher avec son propriétaire.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un chien sautant pour un frisbee dans la neige.",
+        "hypothesis": "Un chat se lave le visage et les moustaches avec sa patte avant.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un chien sautant pour un frisbee dans la neige.",
+        "hypothesis": "Un animal est dehors par temps froid et joue avec un jouet en plastique.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Les gens discutent autour d’une table à manger sous un auvent.",
+        "hypothesis": "Les gens lors d’une fête sont assis pour dîner sur la pelouse.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Les gens discutent autour d’une table à manger sous un auvent.",
+        "hypothesis": "Les gens parlent sous une couverture.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Les gens discutent autour d’une table à manger sous un auvent.",
+        "hypothesis": "Les gens crient lors d'un match de boxe.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une fille jouant du violon avec un groupe de personnes",
+        "hypothesis": "Une fille lave une charge de linge.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une fille jouant du violon avec un groupe de personnes",
+        "hypothesis": "Une fille joue d’un instrument.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une fille jouant du violon avec un groupe de personnes",
+        "hypothesis": "Un groupe de personnes joue dans une symphonie.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme au sein d’un orchestre joue du violon.",
+        "hypothesis": "Une femme joue un concert.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme au sein d’un orchestre joue du violon.",
+        "hypothesis": "Une femme joue du violon.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme au sein d’un orchestre joue du violon.",
+        "hypothesis": "Un homme regarde dans un télescope.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Trois hommes, l'un tenant des tuyaux, un autre tenant un gros objet au-dessus de sa tête et un appuyé contre le support des tuyaux du camion, regardent la caméra.",
+        "hypothesis": "trois hommes vont travailler",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Trois hommes, l'un tenant des tuyaux, un autre tenant un gros objet au-dessus de sa tête et un appuyé contre le support des tuyaux du camion, regardent la caméra.",
+        "hypothesis": "trois hommes regardent la caméra",
+        "answer": "implication"
+    },
+    {
+        "premise": "Trois hommes, l'un tenant des tuyaux, un autre tenant un gros objet au-dessus de sa tête et un appuyé contre le support des tuyaux du camion, regardent la caméra.",
+        "hypothesis": "trois hommes dormant dans une tente",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une voiture Ford tourne à droite alors que trois hommes traversent la rue derrière la voiture.",
+        "hypothesis": "Une voiture qui tournait à droite était suivie par trois piétons.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une voiture Ford tourne à droite alors que trois hommes traversent la rue derrière la voiture.",
+        "hypothesis": "Une berline tournait à un coin de rue alors que des promeneurs traversaient.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Trois garçons en chemise blanche marchent derrière un ancien modèle de voiture Ford.",
+        "hypothesis": "il y a trois garçons",
+        "answer": "implication"
+    },
+    {
+        "premise": "Trois garçons en chemise blanche marchent derrière un ancien modèle de voiture Ford.",
+        "hypothesis": "Il y a trois filles",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Trois garçons en chemise blanche marchent derrière un ancien modèle de voiture Ford.",
+        "hypothesis": "Les garçons sont dans la rue",
+        "answer": "implication"
+    },
+    {
+        "premise": "Trois filles soufflent les bougies d'un gâteau fait de Peeps.",
+        "hypothesis": "Certains soufflent les bougies",
+        "answer": "implication"
+    },
+    {
+        "premise": "Trois filles soufflent les bougies d'un gâteau fait de Peeps.",
+        "hypothesis": "Il y a trois filles et un gâteau",
+        "answer": "implication"
+    },
+    {
+        "premise": "Trois filles soufflent les bougies d'un gâteau fait de Peeps.",
+        "hypothesis": "Il y a des regards dans le jardin.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une foule de personnes regardant 3 personnes sur le bord du toit d'un immeuble.",
+        "hypothesis": "La foule appelle à l'aide pour les personnes présentes sur le toit.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une foule de personnes regardant 3 personnes sur le bord du toit d'un immeuble.",
+        "hypothesis": "La foule au sol regarde 3 personnes au bord du toit.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une foule de personnes regardant 3 personnes sur le bord du toit d'un immeuble.",
+        "hypothesis": "Trois personnes descendent l'échelle du bâtiment.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme qui travaille de longues heures.",
+        "hypothesis": "Une femme travaille dans une usine.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme qui travaille de longues heures.",
+        "hypothesis": "Une femme travaille.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme qui travaille de longues heures.",
+        "hypothesis": "Une femme dort.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux adolescentes conversant à côté de casiers.",
+        "hypothesis": "Des filles parlent à côté des toilettes.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux adolescentes conversant à côté de casiers.",
+        "hypothesis": "Des gens discutent à côté des casiers.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Deux adolescentes conversant à côté de casiers.",
+        "hypothesis": "Des filles parlent de leurs problèmes à côté des casiers.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une vieille femme regarde un homme regarder des balles par terre.",
+        "hypothesis": "Une femme âgée traque un homme.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une vieille femme regarde un homme regarder des balles par terre.",
+        "hypothesis": "Deux personnes dorment dans le train.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux enfants, tous deux vêtus de manteaux beiges, s'enlacent.",
+        "hypothesis": "Deux enfants s'embrassent après avoir survécu à un horrible accident de voiture.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Deux enfants, tous deux vêtus de manteaux beiges, s'enlacent.",
+        "hypothesis": "Deux enfants s'embrassent.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Deux enfants, tous deux vêtus de manteaux beiges, s'enlacent.",
+        "hypothesis": "Deux enfants courent sur une autoroute.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "2 enfants qui semblent liés traînent avec l'un d'eux qui a l'air très ému et serre l'autre dans ses bras.",
+        "hypothesis": "Deux enfants de la famille s'étreignaient parce qu'ils étaient heureux de se voir.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "2 enfants qui semblent liés traînent avec l'un d'eux qui a l'air très ému et serre l'autre dans ses bras.",
+        "hypothesis": "Deux enfants s'étreignaient.",
+        "answer": "implication"
+    },
+    {
+        "premise": "2 enfants qui semblent liés traînent avec l'un d'eux qui a l'air très ému et serre l'autre dans ses bras.",
+        "hypothesis": "Deux jeunes se poussaient.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un grand nombre de personnes vêtues uniquement de blanc et de rouge marchent dans la rue.",
+        "hypothesis": "Un grand nombre de personnes vêtues de noir marchent dans la rue.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un grand nombre de personnes vêtues uniquement de blanc et de rouge marchent dans la rue.",
+        "hypothesis": "Un grand nombre d’hommes marchant dans la rue en rouge et blanc.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un grand nombre de personnes vêtues uniquement de blanc et de rouge marchent dans la rue.",
+        "hypothesis": "Un grand nombre de personnes marchant dans une rue.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un gars conduisant une moto près de voitures indésirables",
+        "hypothesis": "L'homme teste une moto pour décider s'il l'achètera ou non.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un gars conduisant une moto près de voitures indésirables",
+        "hypothesis": "Un homme conduit une moto.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un gars conduisant une moto près de voitures indésirables",
+        "hypothesis": "Un homme est assis sur une moto garée et attend son ami.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Des femmes indiennes se produisant avec des banderoles bleues, dans de magnifiques costumes bleus.",
+        "hypothesis": "des femmes indiennes se produisent ensemble dans de magnifiques costumes",
+        "answer": "implication"
+    },
+    {
+        "premise": "Des femmes indiennes se produisant avec des banderoles bleues, dans de magnifiques costumes bleus.",
+        "hypothesis": "les chiens reniflent l'air",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Des femmes indiennes se produisant avec des banderoles bleues, dans de magnifiques costumes bleus.",
+        "hypothesis": "les femmes indiennes accomplissent ensemble un rituel religieux",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un nageur professionnel crache de l'eau après avoir fait surface tout en saisissant la main de quelqu'un qui l'aide à revenir à terre.",
+        "hypothesis": "Une personne nage.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un nageur professionnel crache de l'eau après avoir fait surface tout en saisissant la main de quelqu'un qui l'aide à revenir à terre.",
+        "hypothesis": "Le nageur mange une guimauve grillée.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un nageur professionnel crache de l'eau après avoir fait surface tout en saisissant la main de quelqu'un qui l'aide à revenir à terre.",
+        "hypothesis": "Le nageur a failli se noyer après avoir été aspiré par un courant rapide.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "L’homme en combinaison noire sort de l’eau.",
+        "hypothesis": "Un homme en combinaison sort de l’eau avec une planche de surf.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "L’homme en combinaison noire sort de l’eau.",
+        "hypothesis": "une personne sort de l'eau.",
+        "answer": "implication"
+    },
+    {
+        "premise": "L’homme en combinaison noire sort de l’eau.",
+        "hypothesis": "Un homme est allongé sur la plage.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Cinq filles et deux gars traversent un viaduc.",
+        "hypothesis": "La famille élargie marche ensemble lors de sa réunion de famille.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Cinq filles et deux gars traversent un viaduc.",
+        "hypothesis": "Les trois hommes s'assoient et parlent de leur vie.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Cinq filles et deux gars traversent un viaduc.",
+        "hypothesis": "Il y a du monde dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une personne vêtue d’une chemise violette peint l’image d’une femme sur un mur blanc.",
+        "hypothesis": "Une femme dresse le portrait de sa meilleure amie.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une personne vêtue d’une chemise violette peint l’image d’une femme sur un mur blanc.",
+        "hypothesis": "Une femme peint le portrait d’une personne.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une personne vêtue d’une chemise violette peint l’image d’une femme sur un mur blanc.",
+        "hypothesis": "Une femme peint le portrait d’un singe.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme peint une fresque murale représentant un visage de femme.",
+        "hypothesis": "Il y a une femme qui peint.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme peint une fresque murale représentant un visage de femme.",
+        "hypothesis": "Il y a une femme qui peint pour s'amuser.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme peint une fresque murale représentant un visage de femme.",
+        "hypothesis": "Il y a un homme qui attache ses chaussures.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un couple mange dehors à une table et il montre quelque chose du doigt.",
+        "hypothesis": "Un couple mange à l’intérieur à une table et il montre quelque chose du doigt.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un couple mange dehors à une table et il montre quelque chose du doigt.",
+        "hypothesis": "L’homme désigne un voleur de sac à main.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un couple mange dehors à une table et il montre quelque chose du doigt.",
+        "hypothesis": "Les gens mangent à une table dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Deux femmes marchent sur un trottoir le long d’une rue animée du centre-ville.",
+        "hypothesis": "Les femmes marchaient dans le centre-ville parce que les bus étaient en grève",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Deux femmes marchent sur un trottoir le long d’une rue animée du centre-ville.",
+        "hypothesis": "Les femmes cueillaient des baies à la campagne",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux femmes marchent sur un trottoir le long d’une rue animée du centre-ville.",
+        "hypothesis": "Les femmes marchaient au centre-ville",
+        "answer": "implication"
+    },
+    {
+        "premise": "De nombreuses personnes se tiennent à l'extérieur d'un endroit et se parlent devant un bâtiment portant une pancarte indiquant « HI-POINTE ».",
+        "hypothesis": "Les gens discutent avant d'entrer dans le bâtiment de travail.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "De nombreuses personnes se tiennent à l'extérieur d'un endroit et se parlent devant un bâtiment portant une pancarte indiquant « HI-POINTE ».",
+        "hypothesis": "Le groupe de personnes n'est pas à l'intérieur du bâtiment.",
+        "answer": "implication"
+    },
+    {
+        "premise": "De nombreuses personnes se tiennent à l'extérieur d'un endroit et se parlent devant un bâtiment portant une pancarte indiquant « HI-POINTE ».",
+        "hypothesis": "Les gens sont assis dans le hall de l’hôtel.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "L'agent de bord vêtu de jaune démontre l'utilisation d'un gilet de sauvetage.",
+        "hypothesis": "Une hôtesse de l'air se tient devant les passagers.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "L'agent de bord vêtu de jaune démontre l'utilisation d'un gilet de sauvetage.",
+        "hypothesis": "Un agent de bord démontre les procédures de sécurité avant le décollage.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "L'agent de bord vêtu de jaune démontre l'utilisation d'un gilet de sauvetage.",
+        "hypothesis": "Une femme prépare des boissons dans un avion.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Les filles marchent dans la rue.",
+        "hypothesis": "Les filles marchent dans la rue.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Les filles marchent dans la rue.",
+        "hypothesis": "Des filles assises dans la rue.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Les filles marchent dans la rue.",
+        "hypothesis": "Les filles allaient au parc.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme portant un uniforme rouge et un casque se tient sur sa moto.",
+        "hypothesis": "un homme assis dans une voiture.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme portant un uniforme rouge et un casque se tient sur sa moto.",
+        "hypothesis": "une personne debout.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme portant un uniforme rouge et un casque se tient sur sa moto.",
+        "hypothesis": "un homme debout sur sa moto.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme en étoffe met une substance noire sur le front d'un homme.",
+        "hypothesis": "L'homme met quelque chose sur la tête de l'autre.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme en étoffe met une substance noire sur le front d'un homme.",
+        "hypothesis": "Les femmes sont au parc.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme en étoffe met une substance noire sur le front d'un homme.",
+        "hypothesis": "Les hommes sont à l'église.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une personne dévale une colline à bord d'un chariot sous les yeux d'une autre.",
+        "hypothesis": "Deux personnes sont dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une personne dévale une colline à bord d'un chariot sous les yeux d'une autre.",
+        "hypothesis": "Une personne regarde une colline vide.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une personne dévale une colline à bord d'un chariot sous les yeux d'une autre.",
+        "hypothesis": "Un enfant dans un chariot dévale une colline.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "un garçon s'accrochant au mur des fondations surélevées d'une vieille maison en brique.",
+        "hypothesis": "un garçon s'accrochant au mur des fondations surélevées d'une vieille maison en brique pendant la construction",
+        "answer": "neutre"
+    },
+    {
+        "premise": "un garçon s'accrochant au mur des fondations surélevées d'une vieille maison en brique.",
+        "hypothesis": "une fille est appuyée contre le mur",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "un garçon s'accrochant au mur des fondations surélevées d'une vieille maison en brique.",
+        "hypothesis": "un garçon est contre le mur d'une fondation surélevée",
+        "answer": "implication"
+    },
+    {
+        "premise": "Bruce Springsteen, un bras tendu, chante sous les projecteurs dans une salle de concert sombre.",
+        "hypothesis": "Bruce Springsteen est originaire de Floride.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Bruce Springsteen, un bras tendu, chante sous les projecteurs dans une salle de concert sombre.",
+        "hypothesis": "Bruce Springsteen est chanteur.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Bruce Springsteen, un bras tendu, chante sous les projecteurs dans une salle de concert sombre.",
+        "hypothesis": "Bruce Springsteen est gay",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Six chiens nageant dans une rivière.",
+        "hypothesis": "Six chiens traversent la rivière à la nage.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Six chiens nageant dans une rivière.",
+        "hypothesis": "Six chiens sont dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Six chiens nageant dans une rivière.",
+        "hypothesis": "Les chiots sont assis sur le canapé.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme et une femme se prennent en photo tandis qu'une femme portant un foulard passe à côté d'eux.",
+        "hypothesis": "Un homme et une femme se font prendre en photo parce qu'ils ont été arrêtés.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme et une femme se prennent en photo tandis qu'une femme portant un foulard passe à côté d'eux.",
+        "hypothesis": "Un homme et une femme prennent des selfies pendant qu'une femme passe et les juge.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme et une femme se prennent en photo tandis qu'une femme portant un foulard passe à côté d'eux.",
+        "hypothesis": "Un homme et une femme prennent des selfies.",
+        "answer": "implication"
+    },
+    {
+        "premise": "un groupe de personnes dansant ensemble.",
+        "hypothesis": "Les gens dansent.",
+        "answer": "implication"
+    },
+    {
+        "premise": "un groupe de personnes dansant ensemble.",
+        "hypothesis": "Ils font le tango.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "un groupe de personnes dansant ensemble.",
+        "hypothesis": "Personne ne danse.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Des hommes portant des uniformes bleus sont assis dans un bus.",
+        "hypothesis": "Les hommes sont assis dans le bus.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Des hommes portant des uniformes bleus sont assis dans un bus.",
+        "hypothesis": "Les hommes sont assis dans le bus pour aller travailler,",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Des hommes portant des uniformes bleus sont assis dans un bus.",
+        "hypothesis": "Les hommes conduisent le bus dans l’océan.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux hommes grimpant sur un échafaudage en bois.",
+        "hypothesis": "Deux personnes grimpant sur un échafaudage en bois.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Deux hommes grimpant sur un échafaudage en bois.",
+        "hypothesis": "Deux femmes grimpant sur un échafaudage en bois.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux hommes grimpant sur un échafaudage en bois.",
+        "hypothesis": "Deux hommes tristes grimpant sur un échafaudage en bois.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un oiseau bat des ailes sur l'eau.",
+        "hypothesis": "L'oiseau vole au-dessus des arbres.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un oiseau bat des ailes sur l'eau.",
+        "hypothesis": "Le canard nage dans le lac.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un jeune garçon vêtu d’une chemise rouge et d’un jean se tient au milieu d’un champ et lance un avion jouet en l’air.",
+        "hypothesis": "Un jeune garçon joue dans un champ.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un jeune garçon vêtu d’une chemise rouge et d’un jean se tient au milieu d’un champ et lance un avion jouet en l’air.",
+        "hypothesis": "Un jeune garçon joue sur le terrain parce que sa mère l'a chassé de la maison.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un jeune garçon vêtu d’une chemise rouge et d’un jean se tient au milieu d’un champ et lance un avion jouet en l’air.",
+        "hypothesis": "Un jeune garçon joue à des jeux vidéo à l’intérieur.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Six ou sept personnes se tiennent debout sur une jetée avec une table et une paire de lunettes au premier plan.",
+        "hypothesis": "Ils vont à la pêche.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Six ou sept personnes se tiennent debout sur une jetée avec une table et une paire de lunettes au premier plan.",
+        "hypothesis": "Six ou sept personnes se tiennent sur une jetée.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Six ou sept personnes se tiennent debout sur une jetée avec une table et une paire de lunettes au premier plan.",
+        "hypothesis": "Ils sont dans un bateau.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une personne vêtue d’une chemise rouge et d’un pantalon noir se penchait.",
+        "hypothesis": "Une personne porte une chemise rouge.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une personne vêtue d’une chemise rouge et d’un pantalon noir se penchait.",
+        "hypothesis": "La personne est une femme.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une personne vêtue d’une chemise rouge et d’un pantalon noir se penchait.",
+        "hypothesis": "La personne porte une chemise verte.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Cet enfant est sur les marches de la bibliothèque.",
+        "hypothesis": "L'enfant est sur les marches de l'école.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Cet enfant est sur les marches de la bibliothèque.",
+        "hypothesis": "L'enfant est sur les marches.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Cet enfant est sur les marches de la bibliothèque.",
+        "hypothesis": "L'enfant est sur les marches de la bibliothèque.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Le basketteur tatoué est sur le point de dunk le ballon.",
+        "hypothesis": "L'homme joue au football.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Le basketteur tatoué est sur le point de dunk le ballon.",
+        "hypothesis": "La personne joue au basket.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Le basketteur tatoué est sur le point de dunk le ballon.",
+        "hypothesis": "Le joueur a un tatouage qui dit mère.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "un garçon vêtu d'un haut à capuche rouge sourit tout en détournant le regard de son reflet.",
+        "hypothesis": "Un garçon au capuchon rouge est heureux.",
+        "answer": "implication"
+    },
+    {
+        "premise": "un garçon vêtu d'un haut à capuche rouge sourit tout en détournant le regard de son reflet.",
+        "hypothesis": "Le garçon ne veut pas voir son reflet.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "un garçon vêtu d'un haut à capuche rouge sourit tout en détournant le regard de son reflet.",
+        "hypothesis": "Le garçon est bouleversé.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme portant une casquette grise marche à côté d’une femme rousse portant une chemise en jean bleu à manches longues.",
+        "hypothesis": "l'homme porte une casquette grise.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme portant une casquette grise marche à côté d’une femme rousse portant une chemise en jean bleu à manches longues.",
+        "hypothesis": "L'homme porte une casquette bleue.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme portant une casquette grise marche à côté d’une femme rousse portant une chemise en jean bleu à manches longues.",
+        "hypothesis": "L'homme a froid.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un vieil homme coiffé d’une casquette de baseball et une vieille femme vêtue d’une veste en jean se tiennent dehors, mais sont principalement couverts d’ombre.",
+        "hypothesis": "Une vieille femme porte une veste en jean légère.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un vieil homme coiffé d’une casquette de baseball et une vieille femme vêtue d’une veste en jean se tiennent dehors, mais sont principalement couverts d’ombre.",
+        "hypothesis": "Une vieille femme porte une veste en jean.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un vieil homme coiffé d’une casquette de baseball et une vieille femme vêtue d’une veste en jean se tiennent dehors, mais sont principalement couverts d’ombre.",
+        "hypothesis": "Une vieille femme n'a pas de veste.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un couple de jeunes mariés riant et parlant entre eux.",
+        "hypothesis": "Le couple s'amuse.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un couple de jeunes mariés riant et parlant entre eux.",
+        "hypothesis": "Le couple vient de se marier.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un couple de jeunes mariés riant et parlant entre eux.",
+        "hypothesis": "Le couple est divorcé.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme noir vêtu d'une chemise à col blanc à manches longues et d'une cravate se rend au travail dans une grande ville.",
+        "hypothesis": "L'homme porte un short et un t-shirt pendant qu'il fait du jogging.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme noir vêtu d'une chemise à col blanc à manches longues et d'une cravate se rend au travail dans une grande ville.",
+        "hypothesis": "L'homme bouge.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme noir vêtu d'une chemise à col blanc à manches longues et d'une cravate se rend au travail dans une grande ville.",
+        "hypothesis": "L'homme porte une tenue de travail et se rend à son travail à pied.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Plusieurs jeunes assis devant une statue.",
+        "hypothesis": "plusieurs jeunes assis dehors",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Plusieurs jeunes assis devant une statue.",
+        "hypothesis": "plusieurs jeunes sont assis dans un auditorium",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Plusieurs jeunes assis devant une statue.",
+        "hypothesis": "plusieurs jeunes assis dans une cour d’école",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un groupe d’adultes se tient dans la salle de bain et regarde un petit enfant dans le bain.",
+        "hypothesis": "La mère de l'enfant surveille son fils avec ses amis.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un groupe d’adultes se tient dans la salle de bain et regarde un petit enfant dans le bain.",
+        "hypothesis": "Les gens sont dans la maison.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un groupe d’adultes se tient dans la salle de bain et regarde un petit enfant dans le bain.",
+        "hypothesis": "L'enfant dort.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme loufoque chante sur scène.",
+        "hypothesis": "Une femme chante.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme loufoque chante sur scène.",
+        "hypothesis": "Une femme récite de la poésie sur scène.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme loufoque chante sur scène.",
+        "hypothesis": "Une femme blonde chante et danse sur scène.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "La jeune fille portant une veste marron en marchant dans la neige.",
+        "hypothesis": "Une femme mange des pâtes dans un restaurant.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "La jeune fille portant une veste marron en marchant dans la neige.",
+        "hypothesis": "La dame en veste cherche son chien perdu.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "La jeune fille portant une veste marron en marchant dans la neige.",
+        "hypothesis": "La fille marche dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme, une femme et un enfant se font prendre en photo devant les montagnes.",
+        "hypothesis": "Une famille en vacances pose.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme, une femme et un enfant se font prendre en photo devant les montagnes.",
+        "hypothesis": "Les gens sont dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme, une femme et un enfant se font prendre en photo devant les montagnes.",
+        "hypothesis": "Une famille est dans sa voiture.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "les gens se tiennent près de l’eau avec un bateau se dirigeant vers eux",
+        "hypothesis": "Les gens sont debout.",
+        "answer": "implication"
+    },
+    {
+        "premise": "les gens se tiennent près de l’eau avec un bateau se dirigeant vers eux",
+        "hypothesis": "Les gens se tiennent près de l’eau avec un grand bateau bleu se dirigeant vers eux.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "les gens se tiennent près de l’eau avec un bateau se dirigeant vers eux",
+        "hypothesis": "Les gens font la queue au restaurant.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Quatre adultes mangent assis sur un sol carrelé.",
+        "hypothesis": "Deux couples mangent de la nourriture sur le sol d’une cuisine.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Quatre adultes mangent assis sur un sol carrelé.",
+        "hypothesis": "Deux couples jouent au billard dans un bar.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Quatre adultes mangent assis sur un sol carrelé.",
+        "hypothesis": "Un groupe de personnes mange de la nourriture.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un chien debout près de la neige regardant l'eau.",
+        "hypothesis": "Un chat est allongé sur le canapé.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un chien debout près de la neige regardant l'eau.",
+        "hypothesis": "L'animal est à l'extérieur.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un chien debout près de la neige regardant l'eau.",
+        "hypothesis": "Le chien pense aller nager.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme âgé s’appuie contre un piédestal à l’extérieur d’un bâtiment richement orné.",
+        "hypothesis": "Un homme plus âgé est penché devant sa maison de retraite",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme âgé s’appuie contre un piédestal à l’extérieur d’un bâtiment richement orné.",
+        "hypothesis": "Un jeune homme fait du jogging",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme âgé s’appuie contre un piédestal à l’extérieur d’un bâtiment richement orné.",
+        "hypothesis": "Un homme plus âgé se penche à l’extérieur d’un immeuble",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une personne en tenue orange se repose au-dessus d’une entrée de métro.",
+        "hypothesis": "Une personne est assise à un match de baseball.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une personne en tenue orange se repose au-dessus d’une entrée de métro.",
+        "hypothesis": "Quelqu’un se tient près d’une station de métro.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une personne en tenue orange se repose au-dessus d’une entrée de métro.",
+        "hypothesis": "Une personne attend un train.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une fille en robe bleue enlève ses chaussures et mange de la barbe à papa bleue.",
+        "hypothesis": "La jeune fille mange de la barbe à papa bleue lors d'un carnaval.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une fille en robe bleue enlève ses chaussures et mange de la barbe à papa bleue.",
+        "hypothesis": "La jeune fille en robe bleue est une demoiselle d'honneur lors d'un mariage.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une fille en robe bleue enlève ses chaussures et mange de la barbe à papa bleue.",
+        "hypothesis": "La fille mange pieds nus.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme noir en uniforme blanc réalise un spectaculaire slam dunk inversé, au grand étonnement de la foule.",
+        "hypothesis": "l'homme est asiatique",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme noir en uniforme blanc réalise un spectaculaire slam dunk inversé, au grand étonnement de la foule.",
+        "hypothesis": "l'homme joue",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme noir en uniforme blanc réalise un spectaculaire slam dunk inversé, au grand étonnement de la foule.",
+        "hypothesis": "l'homme dort à la maison",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un basketteur avec des chaussures vertes plonge le ballon dans le filet sous les yeux de la foule de l'arène.",
+        "hypothesis": "Un homme prépare un sandwich tandis que la foule est émerveillée.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un basketteur avec des chaussures vertes plonge le ballon dans le filet sous les yeux de la foule de l'arène.",
+        "hypothesis": "Une foule regarde quelqu’un jouer au basket.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un basketteur avec des chaussures vertes plonge le ballon dans le filet sous les yeux de la foule de l'arène.",
+        "hypothesis": "Un célèbre joueur de la NBA joue au street ball devant une foule.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un vieil homme fronçant les sourcils, coiffé d'une casquette militaire et d'un costume civil, se tient parmi une foule de gens à l'extérieur portant des pancartes et des ballons.",
+        "hypothesis": "Un groupe de personnes se tient dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un vieil homme fronçant les sourcils, coiffé d'une casquette militaire et d'un costume civil, se tient parmi une foule de gens à l'extérieur portant des pancartes et des ballons.",
+        "hypothesis": "Un vétéran militaire en colère regarde les gens protester contre la guerre.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un vieil homme fronçant les sourcils, coiffé d'une casquette militaire et d'un costume civil, se tient parmi une foule de gens à l'extérieur portant des pancartes et des ballons.",
+        "hypothesis": "Un homme regarde un groupe de personnes participer à un concours de dégustation de hot-dogs.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme portant un short de vélo et une jupe fait du vélo et porte un sac à bandoulière.",
+        "hypothesis": "Une femme à vélo.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme portant un short de vélo et une jupe fait du vélo et porte un sac à bandoulière.",
+        "hypothesis": "Une femme qui fait du vélo pour aller au travail.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme portant un short de vélo et une jupe fait du vélo et porte un sac à bandoulière.",
+        "hypothesis": "Une femme conduisant une voiture.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un jeune skateur fait un tour sur un rail.",
+        "hypothesis": "Un jeune sur un skateboard.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un jeune skateur fait un tour sur un rail.",
+        "hypothesis": "Un homme peignant un arbre.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un jeune skateur fait un tour sur un rail.",
+        "hypothesis": "Un jeune garçon montrant ses nouveaux tricks en skateboard à ses amis.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un type portant un jean et un chapeau est accroupi sur une main courante avec un talus en béton situé devant lui.",
+        "hypothesis": "Il porte une chemise boutonnée.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un type portant un jean et un chapeau est accroupi sur une main courante avec un talus en béton situé devant lui.",
+        "hypothesis": "Son crâne chauve est exposé.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un type portant un jean et un chapeau est accroupi sur une main courante avec un talus en béton situé devant lui.",
+        "hypothesis": "Un homme est accroupi sur une rampe.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une fille vêtue d'un manteau rouge, d'un bandeau bleu et d'un jean fait un ange des neiges.",
+        "hypothesis": "Une fille en manteau rouge réalise pour la première fois un ange des neiges.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une fille vêtue d'un manteau rouge, d'un bandeau bleu et d'un jean fait un ange des neiges.",
+        "hypothesis": "Une fille en manteau noir reste à l'intérieur, loin de la neige.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une fille vêtue d'un manteau rouge, d'un bandeau bleu et d'un jean fait un ange des neiges.",
+        "hypothesis": "Une fille dehors joue dans la neige.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un groupe de personnes rassemblées la nuit pour regarder un événement.",
+        "hypothesis": "Le groupe d'amis dort.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un groupe de personnes rassemblées la nuit pour regarder un événement.",
+        "hypothesis": "Un groupe d’humains regarde dans la même direction.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un groupe de personnes rassemblées la nuit pour regarder un événement.",
+        "hypothesis": "Un groupe d'amis regarde le concert de musique le soir.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Le footballeur américain en jaune capte le ballon sous la pression du payeur en blanc.",
+        "hypothesis": "Le footballeur est sous la contrainte.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Le footballeur américain en jaune capte le ballon sous la pression du payeur en blanc.",
+        "hypothesis": "Le joueur de football américain en jaune attrape le ballon sous la pression du joueur en blanc.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Le footballeur américain en jaune capte le ballon sous la pression du payeur en blanc.",
+        "hypothesis": "Le basketteur tire un trois points.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une personne aux cheveux bleus, portant une casquette de baseball et une cagoule se tient dehors, dans une foule.",
+        "hypothesis": "Une personne profite d’un événement sportif.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une personne aux cheveux bleus, portant une casquette de baseball et une cagoule se tient dehors, dans une foule.",
+        "hypothesis": "Une personne danse et chante.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une personne aux cheveux bleus, portant une casquette de baseball et une cagoule se tient dehors, dans une foule.",
+        "hypothesis": "Une personne se tient dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une jeune fille tenant une boisson montre un tableau.",
+        "hypothesis": "La fille est dans la baignoire",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une jeune fille tenant une boisson montre un tableau.",
+        "hypothesis": "La jeune fille boit une boisson alcoolisée.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une jeune fille tenant une boisson montre un tableau.",
+        "hypothesis": "La fille prend un verre.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme en chemise noire, dans une cuisine commerciale, brandissant de la viande qu'il a sortie d'un sac.",
+        "hypothesis": "Un homme en chemise noire, dans une cuisine commerciale, brandissant la vieille viande qu'il a sortie d'un sac.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme en chemise noire, dans une cuisine commerciale, brandissant de la viande qu'il a sortie d'un sac.",
+        "hypothesis": "Une femme en chemise noire, dans une cuisine commerciale, brandissant de la viande qu'il a sortie d'un sac.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme en chemise noire, dans une cuisine commerciale, brandissant de la viande qu'il a sortie d'un sac.",
+        "hypothesis": "Un homme en chemise, dans une cuisine commerciale, brandissant de la viande qu'il a sortie d'un sac.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une personne en chemise rouge tond l’herbe avec une tondeuse autoportée verte.",
+        "hypothesis": "Une personne en rouge nage aux Jeux olympiques.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une personne en chemise rouge tond l’herbe avec une tondeuse autoportée verte.",
+        "hypothesis": "Une personne en rouge déplace de l'herbe sur un moteur John Deer.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une personne en chemise rouge tond l’herbe avec une tondeuse autoportée verte.",
+        "hypothesis": "Une personne en rouge coupe l'herbe sur une tondeuse autoportée",
+        "answer": "implication"
+    },
+    {
+        "premise": "Groupe de personnes portant des chemises noires montant dans un véhicule à toit ouvert.",
+        "hypothesis": "Un groupe de personnes descend la route dans une décapotable.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Groupe de personnes portant des chemises noires montant dans un véhicule à toit ouvert.",
+        "hypothesis": "Le conducteur portait une chemise violette.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Groupe de personnes portant des chemises noires montant dans un véhicule à toit ouvert.",
+        "hypothesis": "Les amis montent ensemble dans un véhicule à toit ouvert.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Deux hommes préparent un poisson sur un quai.",
+        "hypothesis": "Deux hommes reviennent de la pêche toute la journée",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Deux hommes préparent un poisson sur un quai.",
+        "hypothesis": "Deux hommes nettoient leur poisson",
+        "answer": "implication"
+    },
+    {
+        "premise": "Deux hommes préparent un poisson sur un quai.",
+        "hypothesis": "Deux hommes sont assis dans un canot avec leurs cannes à pêche",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme au visage partiellement recouvert de peinture argentée est assise sur un fourre-tout en plastique et se regarde dans un miroir.",
+        "hypothesis": "La femme est mannequin.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme au visage partiellement recouvert de peinture argentée est assise sur un fourre-tout en plastique et se regarde dans un miroir.",
+        "hypothesis": "La femme a quelque chose sur le visage.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme au visage partiellement recouvert de peinture argentée est assise sur un fourre-tout en plastique et se regarde dans un miroir.",
+        "hypothesis": "La femme est aveugle.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme vêtu d’un sweat-shirt Alaska se tient derrière un comptoir.",
+        "hypothesis": "L'homme porte un débardeur.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme vêtu d’un sweat-shirt Alaska se tient derrière un comptoir.",
+        "hypothesis": "L'homme vient de l'Alaska.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme vêtu d’un sweat-shirt Alaska se tient derrière un comptoir.",
+        "hypothesis": "La personne derrière le comptoir est un homme.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un grand groupe de personnes marchant dans une ville animée la nuit.",
+        "hypothesis": "Les gens déjeunent dans un restaurant.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un grand groupe de personnes marchant dans une ville animée la nuit.",
+        "hypothesis": "Les gens marchent dans une ville.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un grand groupe de personnes marchant dans une ville animée la nuit.",
+        "hypothesis": "Les gens sont dehors dans un parc.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme, en rouge et blanc, portant des lunettes, est assise dans une pièce avec d'autres personnes.",
+        "hypothesis": "Une femme est assise dans une pièce avec d’autres personnes.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme, en rouge et blanc, portant des lunettes, est assise dans une pièce avec d'autres personnes.",
+        "hypothesis": "Une femme est assise au téléphone dans une pièce.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme, en rouge et blanc, portant des lunettes, est assise dans une pièce avec d'autres personnes.",
+        "hypothesis": "Un homme répare sa voiture.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une joueuse de softball lance la balle à son coéquipier.",
+        "hypothesis": "Les coéquipiers participent à un championnat de softball.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une joueuse de softball lance la balle à son coéquipier.",
+        "hypothesis": "Deux personnes jouent au softball.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une joueuse de softball lance la balle à son coéquipier.",
+        "hypothesis": "Deux joueurs de softball sont assis sur un banc.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un motard fait des courses.",
+        "hypothesis": "Une personne fait du vélo",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un motard fait des courses.",
+        "hypothesis": "Le motard perd la course",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un motard fait des courses.",
+        "hypothesis": "La voiture est jaune",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux petits garçons sourient et rient tandis que l'un est debout et l'autre sur un siège gonflable.",
+        "hypothesis": "Il y a deux petits garçons qui sourient.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Deux petits garçons sourient et rient tandis que l'un est debout et l'autre sur un siège gonflable.",
+        "hypothesis": "Les petits garçons pleurent.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux petits garçons sourient et rient tandis que l'un est debout et l'autre sur un siège gonflable.",
+        "hypothesis": "Les garçons sont frères et sœurs et jouent ensemble.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Les pêcheurs autochtones de l'île remontent leurs filets après une longue journée de travail.",
+        "hypothesis": "Les hommes ont attrapé beaucoup de poissons.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Les pêcheurs autochtones de l'île remontent leurs filets après une longue journée de travail.",
+        "hypothesis": "Les hommes ne sont pas allés travailler aujourd’hui mais ont plutôt joué au bridge.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Les pêcheurs autochtones de l'île remontent leurs filets après une longue journée de travail.",
+        "hypothesis": "Les hommes terminent leur journée de travail.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Ce sont de jeunes adultes qui semblent travailler ensemble pour protéger les plantes entourant le poteau blanc.",
+        "hypothesis": "Les plantes sont des fougères",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Ce sont de jeunes adultes qui semblent travailler ensemble pour protéger les plantes entourant le poteau blanc.",
+        "hypothesis": "Les adultes sont jeunes",
+        "answer": "implication"
+    },
+    {
+        "premise": "Ce sont de jeunes adultes qui semblent travailler ensemble pour protéger les plantes entourant le poteau blanc.",
+        "hypothesis": "Les adultes sont vieux",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux joueurs de football universitaire s'affrontent à l'extérieur sur le terrain le jour du match, l'un étant le quart-arrière essayant de lancer le ballon, et l'autre joueur étant en action sur le point de limoger le quart-arrière.",
+        "hypothesis": "Deux équipes de collèges rivaux se trouvent dans le quatrième quart-temps d'un match.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Deux joueurs de football universitaire s'affrontent à l'extérieur sur le terrain le jour du match, l'un étant le quart-arrière essayant de lancer le ballon, et l'autre joueur étant en action sur le point de limoger le quart-arrière.",
+        "hypothesis": "Des filles jouent au basket.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux joueurs de football universitaire s'affrontent à l'extérieur sur le terrain le jour du match, l'un étant le quart-arrière essayant de lancer le ballon, et l'autre joueur étant en action sur le point de limoger le quart-arrière.",
+        "hypothesis": "Un match de football universitaire.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Deux personnes jouent au football américain et l’une d’elles essaie d’empêcher l’autre de lancer le ballon.",
+        "hypothesis": "Un joueur de ligne tente de s'attaquer au quart-arrière avant qu'il ne réalise le touché gagnant.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Deux personnes jouent au football américain et l’une d’elles essaie d’empêcher l’autre de lancer le ballon.",
+        "hypothesis": "Un lanceur lance la balle de baseball au frappeur alors qu'il tente de la faire sortir du parc.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux personnes jouent au football américain et l’une d’elles essaie d’empêcher l’autre de lancer le ballon.",
+        "hypothesis": "Un match de football se joue.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme joue au billard dans un bar.",
+        "hypothesis": "Un homme joue avec des amis.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme joue au billard dans un bar.",
+        "hypothesis": "Un homme joue au billard.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme joue au billard dans un bar.",
+        "hypothesis": "Un homme joue aux dames.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un chien doré passe une balle bleue à un autre chien doré sur la plage.",
+        "hypothesis": "Les chiens sont amis.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un chien doré passe une balle bleue à un autre chien doré sur la plage.",
+        "hypothesis": "Les chiens refusent de partager.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un chien doré passe une balle bleue à un autre chien doré sur la plage.",
+        "hypothesis": "Le chien doré joue au ballon avec un autre chien dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Les gens sont sur un escalator et attendent d’arriver à destination tout en regardant à l’extérieur de la vitre qui constitue le mur.",
+        "hypothesis": "Les gens montent sur l'escalator.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Les gens sont sur un escalator et attendent d’arriver à destination tout en regardant à l’extérieur de la vitre qui constitue le mur.",
+        "hypothesis": "Les gens prennent l'ascenseur.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Les gens sont sur un escalator et attendent d’arriver à destination tout en regardant à l’extérieur de la vitre qui constitue le mur.",
+        "hypothesis": "Les gens montent sur l’escalator.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme tisse avec un peigne à la main.",
+        "hypothesis": "Une femme est au travail.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme tisse avec un peigne à la main.",
+        "hypothesis": "Une femme fait quelque chose avec ses mains.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme tisse avec un peigne à la main.",
+        "hypothesis": "Une femme est assise les mains vides.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un garçon roule sur la route entre deux vaches.",
+        "hypothesis": "Un garçon monte à cheval près de deux vaches.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un garçon roule sur la route entre deux vaches.",
+        "hypothesis": "Un garçon, une route et deux vaches.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un garçon roule sur la route entre deux vaches.",
+        "hypothesis": "Une seule vache est seule.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une fête d'anniversaire qui plaira à de nombreuses petites personnes.",
+        "hypothesis": "Enfants profitant d’une fête d’anniversaire.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une fête d'anniversaire qui plaira à de nombreuses petites personnes.",
+        "hypothesis": "Les enfants courent dans la rue.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une fête d'anniversaire qui plaira à de nombreuses petites personnes.",
+        "hypothesis": "Enfants lors d'une fête d'anniversaire.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Il y a cinq chanteurs sur scène, trois femmes et deux hommes.",
+        "hypothesis": "Il y a plus de femmes que d'hommes.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Il y a cinq chanteurs sur scène, trois femmes et deux hommes.",
+        "hypothesis": "Les artistes jouent de la cornemuse.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Il y a cinq chanteurs sur scène, trois femmes et deux hommes.",
+        "hypothesis": "Les personnes qui jouent font partie d'un chœur.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Deux hommes se tiennent debout dans un bateau.",
+        "hypothesis": "Certains hommes se tiennent au sommet d'une voiture.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux hommes se tiennent debout dans un bateau.",
+        "hypothesis": "Quelques hommes pêchent sur un bateau.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Deux hommes se tiennent debout dans un bateau.",
+        "hypothesis": "Certaines personnes sont dans un bateau.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une jeune femme met ses vêtements dans la partie sécheuse d'un lave-linge et d'un sèche-linge superposés.",
+        "hypothesis": "Une personne qui sèche des vêtements",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une jeune femme met ses vêtements dans la partie sécheuse d'un lave-linge et d'un sèche-linge superposés.",
+        "hypothesis": "Personne ne sèche les vêtements.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Le soleil perce les arbres tandis qu'un enfant monte sur une balançoire.",
+        "hypothesis": "L'enfant monte sur une balançoire sous la pluie.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Le soleil perce les arbres tandis qu'un enfant monte sur une balançoire.",
+        "hypothesis": "Un enfant monte sur une balançoire pendant la journée.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Le soleil perce les arbres tandis qu'un enfant monte sur une balançoire.",
+        "hypothesis": "L'enfant sur la balançoire est une fille.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Dans la rue, tout le monde semble occupé à faire ce qu’il veut.",
+        "hypothesis": "Les gens se pressent dans les rues de la ville.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Dans la rue, tout le monde semble occupé à faire ce qu’il veut.",
+        "hypothesis": "Les gens regardent ce qui se passe.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Dans la rue, tout le monde semble occupé à faire ce qu’il veut.",
+        "hypothesis": "Les gens font des affaires dans la ville.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme en tablier sourit en piquant un beignet frit avec un petit bâton en métal.",
+        "hypothesis": "L'homme prépare de la nourriture.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme en tablier sourit en piquant un beignet frit avec un petit bâton en métal.",
+        "hypothesis": "L'homme est dans la cuisine d'un restaurant.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme en tablier sourit en piquant un beignet frit avec un petit bâton en métal.",
+        "hypothesis": "L'homme lave sa voiture.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme en tenue de tennis courant pour frapper une balle avec sa raquette de tennis.",
+        "hypothesis": "Une femme joue au tennis.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme en tenue de tennis courant pour frapper une balle avec sa raquette de tennis.",
+        "hypothesis": "Serina Williams joue au tennis.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme en tenue de tennis courant pour frapper une balle avec sa raquette de tennis.",
+        "hypothesis": "Pete Sampras joue au tennis.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Plusieurs femmes jouent au volley-ball.",
+        "hypothesis": "Ces femmes frappent une balle avec leurs bras",
+        "answer": "implication"
+    },
+    {
+        "premise": "Plusieurs femmes jouent au volley-ball.",
+        "hypothesis": "Cela ne ressemble pas au football",
+        "answer": "implication"
+    },
+    {
+        "premise": "Plusieurs femmes jouent au volley-ball.",
+        "hypothesis": "Un groupe de femmes jouent au volley-ball",
+        "answer": "implication"
+    },
+    {
+        "premise": "Deux équipes féminines de volley-ball s'affrontent sur un terrain couleur saumon et turquoise sous le regard d'un arbitre en noir.",
+        "hypothesis": "un match de volley-ball est en cours entre dames",
+        "answer": "implication"
+    },
+    {
+        "premise": "Deux équipes féminines de volley-ball s'affrontent sur un terrain couleur saumon et turquoise sous le regard d'un arbitre en noir.",
+        "hypothesis": "12 dames jouent au volley-ball",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Deux équipes féminines de volley-ball s'affrontent sur un terrain couleur saumon et turquoise sous le regard d'un arbitre en noir.",
+        "hypothesis": "dix garçons jouent au cricket",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un petit garçon avec un casque de vélo bleu et une femme avec un casque de vélo vert font du vélo dans une rue avec d'autres cyclistes.",
+        "hypothesis": "Une mère et son fils font du vélo avec d’autres dans une rue.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un petit garçon avec un casque de vélo bleu et une femme avec un casque de vélo vert font du vélo dans une rue avec d'autres cyclistes.",
+        "hypothesis": "Un groupe de personnes change un pneu de vélo.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un petit garçon avec un casque de vélo bleu et une femme avec un casque de vélo vert font du vélo dans une rue avec d'autres cyclistes.",
+        "hypothesis": "Un groupe de personnes font du vélo ensemble dans une rue.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Les gens font du vélo dans la rue et portent tous un casque.",
+        "hypothesis": "Un groupe d'amis roulent à vélo dans une rue, tous portant leur casque.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Les gens font du vélo dans la rue et portent tous un casque.",
+        "hypothesis": "Un groupe d'amis prennent leurs vélos et se préparent pour la balade à vélo du matin",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Les gens font du vélo dans la rue et portent tous un casque.",
+        "hypothesis": "Un groupe de cyclistes se trouve dans une rue à l'extérieur",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un marché du Moyen-Orient.",
+        "hypothesis": "Un magasin du Moyen-Orient.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un marché du Moyen-Orient.",
+        "hypothesis": "Un théâtre américain.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un marché du Moyen-Orient.",
+        "hypothesis": "Un magasin étranger.",
+        "answer": "implication"
+    },
+    {
+        "premise": "une femme en chemise noire regardant un vélo.",
+        "hypothesis": "Une femme voit un vélo.",
+        "answer": "implication"
+    },
+    {
+        "premise": "une femme en chemise noire regardant un vélo.",
+        "hypothesis": "Une femme vêtue de vêtements noirs pour un vélo.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "une femme en chemise noire regardant un vélo.",
+        "hypothesis": "Une femme en vert dort sur un canapé.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Quatre hommes jouent de la batterie dans un éclairage très orange tandis que l'un d'eux boit également quelque chose dans une bouteille.",
+        "hypothesis": "les hommes sont musiciens",
+        "answer": "implication"
+    },
+    {
+        "premise": "Quatre hommes jouent de la batterie dans un éclairage très orange tandis que l'un d'eux boit également quelque chose dans une bouteille.",
+        "hypothesis": "les hommes dorment dans le motel",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Quatre hommes jouent de la batterie dans un éclairage très orange tandis que l'un d'eux boit également quelque chose dans une bouteille.",
+        "hypothesis": "quatre hommes jouent de la batterie",
+        "answer": "implication"
+    },
+    {
+        "premise": "De jeunes garçons vêtus de maillots verts et bleus jouent autour d’un ballon de football tandis que d’autres matchs de football se déroulent en arrière-plan.",
+        "hypothesis": "Des jeunes garçons lancent une balle de baseball sur un terrain de baseball.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "De jeunes garçons vêtus de maillots verts et bleus jouent autour d’un ballon de football tandis que d’autres matchs de football se déroulent en arrière-plan.",
+        "hypothesis": "Des jeunes garçons attendent leur match de football.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "De jeunes garçons vêtus de maillots verts et bleus jouent autour d’un ballon de football tandis que d’autres matchs de football se déroulent en arrière-plan.",
+        "hypothesis": "Des jeunes garçons jouent autour d’un ballon de football.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme vêtu d'une tunique d'une seule pièce fait du vélo devant un mur de grès tout en se touchant le nez.",
+        "hypothesis": "L'homme teste le vélo.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme vêtu d'une tunique d'une seule pièce fait du vélo devant un mur de grès tout en se touchant le nez.",
+        "hypothesis": "L'homme conduit un camion.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme vêtu d'une tunique d'une seule pièce fait du vélo devant un mur de grès tout en se touchant le nez.",
+        "hypothesis": "L'homme fait du vélo.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un gars et une fille regardent une chaîne de montagnes.",
+        "hypothesis": "Les gens regardent les montagnes.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un gars et une fille regardent une chaîne de montagnes.",
+        "hypothesis": "Le couple va gravir les montagnes.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un gars et une fille regardent une chaîne de montagnes.",
+        "hypothesis": "Les gens regardent le ciel.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme est assis sur la chaise verte, parle au téléphone et travaille sur l'ordinateur portable, et il y a un chantier de construction à côté de son immeuble.",
+        "hypothesis": "L'homme fait les cent pas nerveusement.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme est assis sur la chaise verte, parle au téléphone et travaille sur l'ordinateur portable, et il y a un chantier de construction à côté de son immeuble.",
+        "hypothesis": "L'homme peut entendre les travaux en cours.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme est assis sur la chaise verte, parle au téléphone et travaille sur l'ordinateur portable, et il y a un chantier de construction à côté de son immeuble.",
+        "hypothesis": "Un homme peut être au téléphone.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un garçon frappe une balle de tennis sur un terrain.",
+        "hypothesis": "Une fille frappe la balle.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un garçon frappe une balle de tennis sur un terrain.",
+        "hypothesis": "Le garçon est bon au tennis.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un garçon frappe une balle de tennis sur un terrain.",
+        "hypothesis": "Un garçon frappe une balle.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un golden retriever allaite des chiots.",
+        "hypothesis": "Un golden retriever allaite d'autres chiots",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un golden retriever allaite des chiots.",
+        "hypothesis": "Chiots à côté de leur mère",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un golden retriever allaite des chiots.",
+        "hypothesis": "Un chat allaite des chiots",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un jeune homme vêtu d’un épais manteau d’hiver marron se tient devant une balustrade bleue, les bras écartés.",
+        "hypothesis": "Le jeune homme est chez sa grand-mère.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un jeune homme vêtu d’un épais manteau d’hiver marron se tient devant une balustrade bleue, les bras écartés.",
+        "hypothesis": "La balustrade se trouve devant un lac gelé.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un jeune homme vêtu d’un épais manteau d’hiver marron se tient devant une balustrade bleue, les bras écartés.",
+        "hypothesis": "L’homme écarte les bras alors qu’il se tient devant une balustrade.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme noir portant une doudoune, les bras écartés et tenant un peigne rose.",
+        "hypothesis": "Un homme portait une veste en hiver.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme noir portant une doudoune, les bras écartés et tenant un peigne rose.",
+        "hypothesis": "Quelqu’un portant une chemise en coton regardait un peigne à cheveux vert.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme noir portant une doudoune, les bras écartés et tenant un peigne rose.",
+        "hypothesis": "Un homme portait une veste et tenait un peigne.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme vêtu d’une veste marron se tient les bras écartés.",
+        "hypothesis": "L'homme demande grâce.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme vêtu d’une veste marron se tient les bras écartés.",
+        "hypothesis": "L'homme est debout.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme vêtu d’une veste marron se tient les bras écartés.",
+        "hypothesis": "L'homme est assis les jambes croisées sur le sol.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme vêtu d’un gilet rouge passe devant une clôture noire et verte.",
+        "hypothesis": "L’homme qui porte le gilet marche dans la rue.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme vêtu d’un gilet rouge passe devant une clôture noire et verte.",
+        "hypothesis": "Un homme porte un gilet.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme vêtu d’un gilet rouge passe devant une clôture noire et verte.",
+        "hypothesis": "L'homme qui porte le gilet est assis sur le canapé.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Ces filles s'amusent bien à chercher des coquillages.",
+        "hypothesis": "Les filles sont heureuses.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Ces filles s'amusent bien à chercher des coquillages.",
+        "hypothesis": "Les filles font une sieste.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Ces filles s'amusent bien à chercher des coquillages.",
+        "hypothesis": "Les filles sont dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme joue du saxophone dans la rue et des personnes sont assises sur le trottoir à côté de lui.",
+        "hypothesis": "Un homme joue d’un instrument dans la rue à proximité d’autres personnes.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme joue du saxophone dans la rue et des personnes sont assises sur le trottoir à côté de lui.",
+        "hypothesis": "Un homme essaie de gagner de l'argent en jouant pour d'autres personnes dans la rue.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme joue du saxophone dans la rue et des personnes sont assises sur le trottoir à côté de lui.",
+        "hypothesis": "Une femme fait du cross-country.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme debout parle à une femme assise alors qu'il se trouve à bord d'un véhicule.",
+        "hypothesis": "Deux personnes parlent.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme debout parle à une femme assise alors qu'il se trouve à bord d'un véhicule.",
+        "hypothesis": "Trois personnes ont une réunion.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme debout parle à une femme assise alors qu'il se trouve à bord d'un véhicule.",
+        "hypothesis": "Deux personnes discutent de leur relation.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un jeune garçon aux cheveux coupés court, vêtu d'une robe rouge, tient une bouilloire noire tandis que quelqu'un s'apprête à y verser quelque chose.",
+        "hypothesis": "un petit garçon traverse le champ de maïs",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un jeune garçon aux cheveux coupés court, vêtu d'une robe rouge, tient une bouilloire noire tandis que quelqu'un s'apprête à y verser quelque chose.",
+        "hypothesis": "un petit garçon tient une bouilloire qui sera bientôt remplie de salsa",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un jeune garçon aux cheveux coupés court, vêtu d'une robe rouge, tient une bouilloire noire tandis que quelqu'un s'apprête à y verser quelque chose.",
+        "hypothesis": "un petit garçon tient une bouilloire qui sera bientôt remplie",
+        "answer": "implication"
+    },
+    {
+        "premise": "Quatre personnes et un bébé traversent la rue à un passage pour piétons.",
+        "hypothesis": "Des gens et un bébé dans le bus.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Quatre personnes et un bébé traversent la rue à un passage pour piétons.",
+        "hypothesis": "Des gens et un bébé traversent la rue.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Quatre personnes et un bébé traversent la rue à un passage pour piétons.",
+        "hypothesis": "Des gens et un bébé traversent la rue à un passage pour piétons pour rentrer chez eux.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Deux femmes vêtues de robes se tiennent dehors sur l'herbe tandis que l'une d'elles tient une tasse et une soucoupe.",
+        "hypothesis": "Deux personnes sont debout sur l'herbe.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Deux femmes vêtues de robes se tiennent dehors sur l'herbe tandis que l'une d'elles tient une tasse et une soucoupe.",
+        "hypothesis": "Deux femmes en robes se préparent pour le pique-nique.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Deux femmes vêtues de robes se tiennent dehors sur l'herbe tandis que l'une d'elles tient une tasse et une soucoupe.",
+        "hypothesis": "Les femmes discutent au bureau,",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme se penche par-dessus une petite clôture pour prendre une photo d’une fleur jaune.",
+        "hypothesis": "La femme est une photographe professionnelle",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme se penche par-dessus une petite clôture pour prendre une photo d’une fleur jaune.",
+        "hypothesis": "La fleur est bleue",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme se penche par-dessus une petite clôture pour prendre une photo d’une fleur jaune.",
+        "hypothesis": "Une femme prend des photos",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un groupe de quatre enfants posent sur une plage boueuse, souriant et faisant des grimaces.",
+        "hypothesis": "Quatre enfants posent sur une plage.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un groupe de quatre enfants posent sur une plage boueuse, souriant et faisant des grimaces.",
+        "hypothesis": "Quatre enfants posent pendant les vacances d'été.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un groupe de quatre enfants posent sur une plage boueuse, souriant et faisant des grimaces.",
+        "hypothesis": "Un homme remue le ragoût.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Plusieurs hommes dans un bar regardent un match de sport à la télévision.",
+        "hypothesis": "Certains hommes regardent la télévision dans un bar.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Plusieurs hommes dans un bar regardent un match de sport à la télévision.",
+        "hypothesis": "Il y a des hommes qui boivent de la bière dans un bar sportif.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Plusieurs hommes dans un bar regardent un match de sport à la télévision.",
+        "hypothesis": "Les hommes assistent à un match de baseball.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux travailleurs routiers avec des vestes de sécurité vert lime, des casques de sécurité blancs et des gants avec des cônes de construction en arrière-plan",
+        "hypothesis": "Deux hommes portent des vestes vert citron.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Deux travailleurs routiers avec des vestes de sécurité vert lime, des casques de sécurité blancs et des gants avec des cônes de construction en arrière-plan",
+        "hypothesis": "Deux hommes placent des cônes de construction en vue de la construction d'un nouveau pipeline.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Deux travailleurs routiers avec des vestes de sécurité vert lime, des casques de sécurité blancs et des gants avec des cônes de construction en arrière-plan",
+        "hypothesis": "Une femme en châtie une autre.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme en tenue noire est allongée face la première sur un tapis de yoga ; plusieurs tableaux sont accrochés au mur et le soleil brille à travers une grande fenêtre près d'elle.",
+        "hypothesis": "Une artiste se détend dans son atelier.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme en tenue noire est allongée face la première sur un tapis de yoga ; plusieurs tableaux sont accrochés au mur et le soleil brille à travers une grande fenêtre près d'elle.",
+        "hypothesis": "Il y a une personne dans une pièce.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme en tenue noire est allongée face la première sur un tapis de yoga ; plusieurs tableaux sont accrochés au mur et le soleil brille à travers une grande fenêtre près d'elle.",
+        "hypothesis": "Une femme dort tandis que le clair de lune filtre à travers la fenêtre.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Des enfants en uniforme de sport jaune escaladent une tour.",
+        "hypothesis": "Les enfants sont des étudiants en arts martiaux.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Des enfants en uniforme de sport jaune escaladent une tour.",
+        "hypothesis": "Les enfants rampent dans le sable.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Des enfants en uniforme de sport jaune escaladent une tour.",
+        "hypothesis": "Des enfants en uniforme grimpent sur une tour.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Des chiens courent sur une plage déserte.",
+        "hypothesis": "Ils sont à Hawaï.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Des chiens courent sur une plage déserte.",
+        "hypothesis": "Il n'y a qu'un seul chien à la plage.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Des chiens courent sur une plage déserte.",
+        "hypothesis": "Plusieurs chiens sont présents.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une rue bondée de la ville avec beaucoup de piétons.",
+        "hypothesis": "Il y a beaucoup de motocyclistes sur cette route.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une rue bondée de la ville avec beaucoup de piétons.",
+        "hypothesis": "Il y a de nombreux piétons dans les rues de la ville.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une rue bondée de la ville avec beaucoup de piétons.",
+        "hypothesis": "Les piétons attendent qu'un défilé vienne dans cette rue très fréquentée.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme portant un chemisier orange vif est en train de tisser.",
+        "hypothesis": "Une femme porte un chemisier orange vif et un chapeau vert.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme portant un chemisier orange vif est en train de tisser.",
+        "hypothesis": "Une femme repasse un pantalon rouge.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme portant un chemisier orange vif est en train de tisser.",
+        "hypothesis": "Une femme tisse.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un groupe de personnes se trouve dans une barque dans l’océan, entouré de mouettes.",
+        "hypothesis": "Un groupe de personnes est à l’intérieur et regarde un match de hockey.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un groupe de personnes se trouve dans une barque dans l’océan, entouré de mouettes.",
+        "hypothesis": "Un groupe de personnes se trouve dans un objet en bois sur l'eau.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un groupe de personnes se trouve dans une barque dans l’océan, entouré de mouettes.",
+        "hypothesis": "Un groupe de personnes rame vers certaines îles pendant que l’un d’eux pêche.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme en chemise marron est agenouillée dans la rue.",
+        "hypothesis": "Une femme manifeste dans la rue.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme en chemise marron est agenouillée dans la rue.",
+        "hypothesis": "Une femme est par terre dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme en chemise marron est agenouillée dans la rue.",
+        "hypothesis": "Une femme fait du vélo.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme tenant un bébé qui caresse un poney.",
+        "hypothesis": "Un homme qui kidnappe un bébé caresse un poney.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme tenant un bébé qui caresse un poney.",
+        "hypothesis": "Un homme avec un bébé caresse un poney.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme tenant un bébé qui caresse un poney.",
+        "hypothesis": "Un homme et sa fille caressent un poney.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Des hommes assis au bord d’une route pavée.",
+        "hypothesis": "je suis assis au bord d'une route",
+        "answer": "implication"
+    },
+    {
+        "premise": "Des hommes assis au bord d’une route pavée.",
+        "hypothesis": "le bord de la route est vide.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Des hommes assis au bord d’une route pavée.",
+        "hypothesis": "les hommes parlent au bord de la route",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un chien noir au collier bleu saute à l’eau.",
+        "hypothesis": "Un chien va être mouillé.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un chien noir au collier bleu saute à l’eau.",
+        "hypothesis": "Un chien noir portant un collier bleu poursuit quelque chose dans l'eau.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un chien noir au collier bleu saute à l’eau.",
+        "hypothesis": "Un chien évite l'eau.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une jeune fille vêtue d'un haut jaune et d'une jupe fleurie est debout sur une couverture et mord un jouet.",
+        "hypothesis": "Une fille est debout.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une jeune fille vêtue d'un haut jaune et d'une jupe fleurie est debout sur une couverture et mord un jouet.",
+        "hypothesis": "Une fille se tient dehors.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une jeune fille vêtue d'un haut jaune et d'une jupe fleurie est debout sur une couverture et mord un jouet.",
+        "hypothesis": "Tout le monde est assis.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "beaucoup d'enfants jouent dans l'eau.",
+        "hypothesis": "Les enfants sont au camp.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "beaucoup d'enfants jouent dans l'eau.",
+        "hypothesis": "Certains enfants barbotent dans l’eau et interagissent les uns avec les autres.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "beaucoup d'enfants jouent dans l'eau.",
+        "hypothesis": "Les enfants jouent au mini-golf.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un groupe d’enfants barbote dans les eaux profondes à proximité d’une formation rocheuse.",
+        "hypothesis": "Les enfants chantent dans une chorale",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un groupe d’enfants barbote dans les eaux profondes à proximité d’une formation rocheuse.",
+        "hypothesis": "Les enfants sont dans les eaux profondes",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un groupe d’enfants barbote dans les eaux profondes à proximité d’une formation rocheuse.",
+        "hypothesis": "Ils portent des gilets de sauvetage",
+        "answer": "neutre"
+    },
+    {
+        "premise": "un grimpeur portant un bandeau rouge se hisse sur des rochers gris au-dessus d'un feuillage vert.",
+        "hypothesis": "Une grimpeuse tente de se relever",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "un grimpeur portant un bandeau rouge se hisse sur des rochers gris au-dessus d'un feuillage vert.",
+        "hypothesis": "Un grimpeur se hisse sur des rochers",
+        "answer": "implication"
+    },
+    {
+        "premise": "un grimpeur portant un bandeau rouge se hisse sur des rochers gris au-dessus d'un feuillage vert.",
+        "hypothesis": "Un grimpeur se hisse à 5 000 pieds d'altitude au-dessus d'une forêt",
+        "answer": "neutre"
+    },
+    {
+        "premise": "un homme avec un bandeau rouge escaladant une falaise rocheuse dominant la verdure.",
+        "hypothesis": "Un homme est dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "un homme avec un bandeau rouge escaladant une falaise rocheuse dominant la verdure.",
+        "hypothesis": "Un homme porte du matériel d'escalade.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "un homme avec un bandeau rouge escaladant une falaise rocheuse dominant la verdure.",
+        "hypothesis": "Un homme nage dans l'océan.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Deux femmes âgées chauves, habillées de façon formelle",
+        "hypothesis": "Deux femmes chauves.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Deux femmes âgées chauves, habillées de façon formelle",
+        "hypothesis": "Deux femmes chauves avec des lunettes.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Deux femmes âgées chauves, habillées de façon formelle",
+        "hypothesis": "Deux jeunes femmes aux cheveux longs.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un sans-abri pousse un caddie en plastique bleu trop rempli.",
+        "hypothesis": "Un homme a un caddie",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un sans-abri pousse un caddie en plastique bleu trop rempli.",
+        "hypothesis": "Un homme collecte des canettes pour les recycler",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un sans-abri pousse un caddie en plastique bleu trop rempli.",
+        "hypothesis": "Un homme riche tenant une rolex",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "un vieux cordonnier dans son usine",
+        "hypothesis": "Le cordonnier est à l'intérieur.",
+        "answer": "implication"
+    },
+    {
+        "premise": "un vieux cordonnier dans son usine",
+        "hypothesis": "Le cordonnier se prépare à fêter ses 16 ans.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "un vieux cordonnier dans son usine",
+        "hypothesis": "Le cordonnier est riche.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme blonde parle avec un groupe de jeunes étudiantes aux cheveux noirs portant des morceaux de papier.",
+        "hypothesis": "Une femme parle à d'autres femmes.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme blonde parle avec un groupe de jeunes étudiantes aux cheveux noirs portant des morceaux de papier.",
+        "hypothesis": "Une blonde parle avec un groupe de jeunes étudiantes aux cheveux noirs portant des morceaux de papier.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme blonde parle avec un groupe de jeunes étudiantes aux cheveux noirs portant des morceaux de papier.",
+        "hypothesis": "Un homme drague une femme.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "La femme en chemise noire remet des papiers aux enfants qui l’entourent.",
+        "hypothesis": "Quelqu'un distribue du papier.",
+        "answer": "implication"
+    },
+    {
+        "premise": "La femme en chemise noire remet des papiers aux enfants qui l’entourent.",
+        "hypothesis": "La femme donne des devoirs aux enfants.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "La femme en chemise noire remet des papiers aux enfants qui l’entourent.",
+        "hypothesis": "La femme garde le papier pour elle.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Fille en rouge sautant",
+        "hypothesis": "La fille saute pour attraper le frisbee.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Fille en rouge sautant",
+        "hypothesis": "La jeune fille est assise sur l'herbe.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Fille en rouge sautant",
+        "hypothesis": "La fille en rouge est en l’air.",
+        "answer": "implication"
+    },
+    {
+        "premise": "3 dames avec des numéros sur leurs chemises en train de courir.",
+        "hypothesis": "Il y a des dames qui courent.",
+        "answer": "implication"
+    },
+    {
+        "premise": "3 dames avec des numéros sur leurs chemises en train de courir.",
+        "hypothesis": "Les dames font du vélo.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "3 dames avec des numéros sur leurs chemises en train de courir.",
+        "hypothesis": "Les dames participent à un marathon.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un jeune garçon marche sur un tuyau qui s'étend au-dessus de l'eau.",
+        "hypothesis": "Un garçon prépare un sous-sandwich dans sa cuisine.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un jeune garçon marche sur un tuyau qui s'étend au-dessus de l'eau.",
+        "hypothesis": "Un garçon marche dehors.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un jeune garçon marche sur un tuyau qui s'étend au-dessus de l'eau.",
+        "hypothesis": "Un garçon risque de tomber à l’eau.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un jeune garçon en short vert se tient en équilibre sur un tuyau au-dessus d'une rivière.",
+        "hypothesis": "Personne n’équilibre.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un jeune garçon en short vert se tient en équilibre sur un tuyau au-dessus d'une rivière.",
+        "hypothesis": "Une personne intelligente en équilibre.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un jeune garçon en short vert se tient en équilibre sur un tuyau au-dessus d'une rivière.",
+        "hypothesis": "Une personne en équilibre.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un jeune homme vêtu de noir et portant une planche à roulettes regarde un parc de planches à roulettes en plein air.",
+        "hypothesis": "Un gars avec une planche à roulettes regarde un parc pour faire de la planche à roulettes.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un jeune homme vêtu de noir et portant une planche à roulettes regarde un parc de planches à roulettes en plein air.",
+        "hypothesis": "Une fille avec une queue de cheval fait du vélo dans un parc.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un jeune homme vêtu de noir et portant une planche à roulettes regarde un parc de planches à roulettes en plein air.",
+        "hypothesis": "Un gars va faire du skateboard aujourd'hui.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Jeune garçon en pyjama allongé dans son lit et dormant sur un oreiller rayé coloré.",
+        "hypothesis": "Un jeune garçon joue au football.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Jeune garçon en pyjama allongé dans son lit et dormant sur un oreiller rayé coloré.",
+        "hypothesis": "Un jeune garçon dort chez lui.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Jeune garçon en pyjama allongé dans son lit et dormant sur un oreiller rayé coloré.",
+        "hypothesis": "Un jeune garçon dort sur un oreiller.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme vêtu d'un t-shirt à col bleu posant sur quelqu'un tout en tenant un journal hébreu.",
+        "hypothesis": "Il porte le journal sur la tête.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme vêtu d'un t-shirt à col bleu posant sur quelqu'un tout en tenant un journal hébreu.",
+        "hypothesis": "Il lit le journal.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme vêtu d'un t-shirt à col bleu posant sur quelqu'un tout en tenant un journal hébreu.",
+        "hypothesis": "Il est juif.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme barbu saute dans la neige avec l'océan en arrière-plan et un vélo couché orange garé près d'un panneau routier.",
+        "hypothesis": "Un humain qui saute.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme barbu saute dans la neige avec l'océan en arrière-plan et un vélo couché orange garé près d'un panneau routier.",
+        "hypothesis": "Personne ne saute.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme barbu saute dans la neige avec l'océan en arrière-plan et un vélo couché orange garé près d'un panneau routier.",
+        "hypothesis": "Un grand humain qui saute.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Quatre enfants jouent dans de l'eau.",
+        "hypothesis": "Les enfants sont boueux.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Quatre enfants jouent dans de l'eau.",
+        "hypothesis": "Les enfants sont mouillés.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Quatre enfants jouent dans de l'eau.",
+        "hypothesis": "Les enfants font des corvées.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Quatre jeunes filles jouant dans l'eau.",
+        "hypothesis": "Quatre filles sont dans l'eau.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Quatre jeunes filles jouant dans l'eau.",
+        "hypothesis": "Il y a des garçons et des filles dans l'eau.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Quatre jeunes filles jouant dans l'eau.",
+        "hypothesis": "Quatre filles nagent.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "L’homme au t-shirt noir essaie de lancer quelque chose.",
+        "hypothesis": "L'homme s'éloigne.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "L’homme au t-shirt noir essaie de lancer quelque chose.",
+        "hypothesis": "L'homme porte une chemise noire.",
+        "answer": "implication"
+    },
+    {
+        "premise": "L’homme au t-shirt noir essaie de lancer quelque chose.",
+        "hypothesis": "L'homme jette quelque chose à son fils.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un jeune garçon vêtu d’une chemise jaune à manches longues et d’un jean assis, avec cinq adultes devant lui, dont l’un actionnait une caméra vidéo.",
+        "hypothesis": "Quelqu'un enregistre un jeune garçon alors qu'il auditionne pour un rôle dans un film.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un jeune garçon vêtu d’une chemise jaune à manches longues et d’un jean assis, avec cinq adultes devant lui, dont l’un actionnait une caméra vidéo.",
+        "hypothesis": "Un jeune garçon jonglant avec trois balles rouges les yeux bandés.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un jeune garçon vêtu d’une chemise jaune à manches longues et d’un jean assis, avec cinq adultes devant lui, dont l’un actionnait une caméra vidéo.",
+        "hypothesis": "Un adulte utilisant une caméra vidéo.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Des garçons dos à une vague entrante.",
+        "hypothesis": "Un groupe de personnes joue dans l’océan.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Des garçons dos à une vague entrante.",
+        "hypothesis": "Un groupe de personnes se tient ensemble.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Des garçons dos à une vague entrante.",
+        "hypothesis": "Un groupe de personnes est assis sur la plage.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Quatre garçons sont sur le point d'être frappés par une vague qui approche.",
+        "hypothesis": "Une vague est sur le point de frapper des garçons.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Quatre garçons sont sur le point d'être frappés par une vague qui approche.",
+        "hypothesis": "La vague a raté les garçons.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Quatre garçons sont sur le point d'être frappés par une vague qui approche.",
+        "hypothesis": "Une vague géante est sur le point de s'écraser sur des garçons.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une femme, debout derrière une fille, l’aidant à faire une expérience.",
+        "hypothesis": "Une mère aide son enfant à réaliser l'expérience.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme, debout derrière une fille, l’aidant à faire une expérience.",
+        "hypothesis": "Une femme aide une fille.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une dame aide une autre femme à travailler dans un compartiment en argent, ce qui est probablement lié au travail d'infirmière.",
+        "hypothesis": "Une dame dort sur un canapé",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une dame aide une autre femme à travailler dans un compartiment en argent, ce qui est probablement lié au travail d'infirmière.",
+        "hypothesis": "Une dame aide une autre femme à travailler",
+        "answer": "implication"
+    },
+    {
+        "premise": "Une dame aide une autre femme à travailler dans un compartiment en argent, ce qui est probablement lié au travail d'infirmière.",
+        "hypothesis": "Deux femmes tentent d'exécuter les ordres d'un médecin",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme, vêtu d'une veste bleue, donne des coups de pied à un autre homme, vêtu d'une veste rouge.",
+        "hypothesis": "Deux hommes se battent devant un bar.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme, vêtu d'une veste bleue, donne des coups de pied à un autre homme, vêtu d'une veste rouge.",
+        "hypothesis": "Une femme se maquille",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme, vêtu d'une veste bleue, donne des coups de pied à un autre homme, vêtu d'une veste rouge.",
+        "hypothesis": "Un gars en donne un coup de pied à un autre.",
+        "answer": "implication"
+    },
+    {
+        "premise": "De nombreuses personnes se sont rassemblées dans une salle avec plusieurs personnes sur scène avec des instruments et les mots « Début novembre » sur le mur.",
+        "hypothesis": "Les parents se réunissent pour un concert dans un lycée local",
+        "answer": "neutre"
+    },
+    {
+        "premise": "De nombreuses personnes se sont rassemblées dans une salle avec plusieurs personnes sur scène avec des instruments et les mots « Début novembre » sur le mur.",
+        "hypothesis": "La foule se rassemble tandis que les flûtes se battent jusqu'à la mort",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "De nombreuses personnes se sont rassemblées dans une salle avec plusieurs personnes sur scène avec des instruments et les mots « Début novembre » sur le mur.",
+        "hypothesis": "Les gens partent alors que le concert décide de facturer par note",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un joueur de hockey portant un casque.",
+        "hypothesis": "Les joueurs portent un casque.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un joueur de hockey portant un casque.",
+        "hypothesis": "Les joueurs se reposent.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un joueur de hockey portant un casque.",
+        "hypothesis": "Ils jouent au hockey",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un homme vêtu de bleu s'inclinant sur le sol devant un autre homme en bleu s'inclinant sur le sol avec deux autres hommes vêtus de bleu agenouillés également au même étage.",
+        "hypothesis": "Un homme porte quelque chose.",
+        "answer": "implication"
+    },
+    {
+        "premise": "Un homme vêtu de bleu s'inclinant sur le sol devant un autre homme en bleu s'inclinant sur le sol avec deux autres hommes vêtus de bleu agenouillés également au même étage.",
+        "hypothesis": "Un homme ne porte rien.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme vêtu de bleu s'inclinant sur le sol devant un autre homme en bleu s'inclinant sur le sol avec deux autres hommes vêtus de bleu agenouillés également au même étage.",
+        "hypothesis": "Un homme porte une chemise bleue.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Motard traversant la forêt.",
+        "hypothesis": "Un vététiste participe à une course hors route.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Motard traversant la forêt.",
+        "hypothesis": "Homme à moto sur l'autoroute.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Motard traversant la forêt.",
+        "hypothesis": "Vététiste profitant des sentiers locaux.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un jeune homme vêtu d'un T-shirt bleu et d'un pantalon de survêtement se tient au-dessus d'une cuisinière et regarde la caméra tandis qu'un autre jeune homme se tient derrière lui.",
+        "hypothesis": "Deux hommes enregistrent un tutoriel de cuisine.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un jeune homme vêtu d'un T-shirt bleu et d'un pantalon de survêtement se tient au-dessus d'une cuisinière et regarde la caméra tandis qu'un autre jeune homme se tient derrière lui.",
+        "hypothesis": "deux hommes sont à la piscine.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "des couples savourant un repas, pendant qu'une bande de chiens fait une sieste.",
+        "hypothesis": "LE COUPLE MANGE DU STEAK",
+        "answer": "neutre"
+    },
+    {
+        "premise": "des couples savourant un repas, pendant qu'une bande de chiens fait une sieste.",
+        "hypothesis": "IL Y A UN COUPLE PROMENANT LEURS CHIENS",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un canard blanc déployant ses ailes dans l'eau.",
+        "hypothesis": "Le canard est une race rare, dont la plupart pensent qu'elle a disparu il y a des années.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un canard blanc déployant ses ailes dans l'eau.",
+        "hypothesis": "Le canard dort profondément, flottant au-dessus de l'eau",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme en jean marche dans la rue.",
+        "hypothesis": "Une femme âgée avec une canne est assise sur une chaise.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Une femme en jean marche dans la rue.",
+        "hypothesis": "Une femme se dirige vers un arrêt de bus.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un groupe de personnes se tient à proximité et sur un grand carré noir au sol avec des inscriptions jaunes dessus.",
+        "hypothesis": "un groupe de personnes attend",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Un groupe de personnes se tient à proximité et sur un grand carré noir au sol avec des inscriptions jaunes dessus.",
+        "hypothesis": "une personne est allongée sur le canapé",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un groupe de personnes se tient à proximité et sur un grand carré noir au sol avec des inscriptions jaunes dessus.",
+        "hypothesis": "un groupe de personnes se tient debout",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une foule regarde un groupe d’hommes en costume et porte-documents marcher en formation dans la rue, menés par une femme tenant une pancarte.",
+        "hypothesis": "La pancarte que tient la femme indique que « La liberté est gratuite ».",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une foule regarde un groupe d’hommes en costume et porte-documents marcher en formation dans la rue, menés par une femme tenant une pancarte.",
+        "hypothesis": "Un groupe de personnes déguisées en clowns se promènent dans le Bigtop Circus en tenant des pancartes.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Le petit garçon s'apprête à taper dans le ballon de football.",
+        "hypothesis": "le garçon a dix ans",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Le petit garçon s'apprête à taper dans le ballon de football.",
+        "hypothesis": "le garçon dort à la maison",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme et une femme assis sur le trottoir.",
+        "hypothesis": "L'homme et la femme sont debout.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Un homme et une femme assis sur le trottoir.",
+        "hypothesis": "L'homme et la femme sont mariés.",
+        "answer": "neutre"
+    },
+    {
+        "premise": "Une femme au premier plan se dirige vers un grand pilier de couleur blanche qui fait partie d'un grand bâtiment avec des gens qui flânent ou attendent sur les marches dudit bâtiment.",
+        "hypothesis": "Un chien court sur les marches d’un immeuble.",
+        "answer": "contradiction"
+    }
+]

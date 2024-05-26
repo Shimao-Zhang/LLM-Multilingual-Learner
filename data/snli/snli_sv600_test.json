@@ -1,0 +1,3002 @@
+[
+    {
+        "premise": "Den här kyrkokören sjunger för massorna när de sjunger glada sånger från boken i en kyrka.",
+        "hypothesis": "Kyrkan har sprickor i taket.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Den här kyrkokören sjunger för massorna när de sjunger glada sånger från boken i en kyrka.",
+        "hypothesis": "Kyrkan är fylld av sång.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Den här kyrkokören sjunger för massorna när de sjunger glada sånger från boken i en kyrka.",
+        "hypothesis": "En kör som sjunger på en basebollmatch.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kvinna med grön huvudduk, blå skjorta och ett väldigt stort flin.",
+        "hypothesis": "Kvinnan är ung.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna med grön huvudduk, blå skjorta och ett väldigt stort flin.",
+        "hypothesis": "Kvinnan är väldigt glad.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kvinna med grön huvudduk, blå skjorta och ett väldigt stort flin.",
+        "hypothesis": "Kvinnan har blivit skjuten.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En gammal man med ett paket poserar framför en annons.",
+        "hypothesis": "En man poserar framför en annons.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En gammal man med ett paket poserar framför en annons.",
+        "hypothesis": "En man poserar framför en annons för öl.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En gammal man med ett paket poserar framför en annons.",
+        "hypothesis": "En man går förbi en annons.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En staty på ett museum som ingen verkar titta på.",
+        "hypothesis": "Statyn är kränkande och folk är galna över att den visas.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En staty på ett museum som ingen verkar titta på.",
+        "hypothesis": "Det finns en staty som inte många verkar vara intresserade av.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En staty på ett museum som ingen verkar titta på.",
+        "hypothesis": "Massor av människor är samlade runt statyn.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En landrover körs över en flod.",
+        "hypothesis": "En Land Rover stänker vatten när den korsar en flod.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En landrover körs över en flod.",
+        "hypothesis": "Ett fordon korsar en flod.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En landrover körs över en flod.",
+        "hypothesis": "En sedan har fastnat mitt i en flod.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man spelar en elgitarr på scenen.",
+        "hypothesis": "En man som spelar banjo på golvet.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man spelar en elgitarr på scenen.",
+        "hypothesis": "En man som spelar gitarr på scenen.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man spelar en elgitarr på scenen.",
+        "hypothesis": "En man uppträder för kontanter.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En blondhårig läkare och hennes afroamerikanska assistent som tittade kastade nya medicinska manualer.",
+        "hypothesis": "En läkare tittar på en bok",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En blondhårig läkare och hennes afroamerikanska assistent som tittade kastade nya medicinska manualer.",
+        "hypothesis": "En man äter pb och j",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En blondhårig läkare och hennes afroamerikanska assistent som tittade kastade nya medicinska manualer.",
+        "hypothesis": "En läkare studerar",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En solbränd tjej med ullhatt springer och lutar sig över ett föremål, medan en annan person i ullhatt sitter på marken.",
+        "hypothesis": "En pojke springer in i en vägg",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En solbränd tjej med ullhatt springer och lutar sig över ett föremål, medan en annan person i ullhatt sitter på marken.",
+        "hypothesis": "En solbränd tjej springer lutad över ett föremål",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En solbränd tjej med ullhatt springer och lutar sig över ett föremål, medan en annan person i ullhatt sitter på marken.",
+        "hypothesis": "En man ser sin dotter hoppa",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung familj tycker om att känna hur havsvågorna slår vid sina fötter.",
+        "hypothesis": "En ung man och kvinna tar med sitt barn till stranden för första gången.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung familj tycker om att känna hur havsvågorna slår vid sina fötter.",
+        "hypothesis": "En familj är ute på en restaurang.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En ung familj tycker om att känna hur havsvågorna slår vid sina fötter.",
+        "hypothesis": "En familj är på stranden.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Ett par går hand i hand nerför en gata.",
+        "hypothesis": "Ett par går tillsammans.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Ett par går hand i hand nerför en gata.",
+        "hypothesis": "Paret är gifta.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Ett par går hand i hand nerför en gata.",
+        "hypothesis": "Ett par sitter på en bänk.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "3 ung man i huvor som står mitt på en lugn gata vänd mot kameran.",
+        "hypothesis": "Tre personer sitter barhuvade vid en livlig gata.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "3 ung man i huvor som står mitt på en lugn gata vänd mot kameran.",
+        "hypothesis": "Tre huvor bär människor poserar för en bild.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "3 ung man i huvor som står mitt på en lugn gata vänd mot kameran.",
+        "hypothesis": "Tre huvor som bär människor står på en gata.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man läser tidningen i en bar med grön belysning.",
+        "hypothesis": "Mannen är inne.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man läser tidningen i en bar med grön belysning.",
+        "hypothesis": "Mannen läser sportsidan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man läser tidningen i en bar med grön belysning.",
+        "hypothesis": "Mannen klättrar på ett berg.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Tre brandmän kom ut från tunnelbanestationen.",
+        "hypothesis": "Tre brandmän släcker en brand inne på en tunnelbanestation.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Tre brandmän kom ut från tunnelbanestationen.",
+        "hypothesis": "Tre brandmän kommer upp från en tunnelbanestation.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Tre brandmän kom ut från tunnelbanestationen.",
+        "hypothesis": "Tre brandmän spelar kort inne på en brandstation.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En person som bär en stråhatt som står utanför och arbetar med en stålapparat med en hög med kokosnötter på marken.",
+        "hypothesis": "En person är nära en hög med kokosnötter.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En person som bär en stråhatt som står utanför och arbetar med en stålapparat med en hög med kokosnötter på marken.",
+        "hypothesis": "En person säljer kokosnötter.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En person som bär en stråhatt som står utanför och arbetar med en stålapparat med en hög med kokosnötter på marken.",
+        "hypothesis": "En person bränner en halmhatt.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Hane i blå jacka bestämmer sig för att lägga sig i gräset.",
+        "hypothesis": "Killen i gult rullar på gräset",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Hane i blå jacka bestämmer sig för att lägga sig i gräset.",
+        "hypothesis": "Killen som bär en blå jacka ligger på det gröna gräset",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Hane i blå jacka bestämmer sig för att lägga sig i gräset.",
+        "hypothesis": "Killen som bär en blå jacka ligger på det gröna gräset och tar en tupplur.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Under kalvrep ropar en cowboy av sin häst.",
+        "hypothesis": "En första ropare ramlar av sin häst.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Under kalvrep ropar en cowboy av sin häst.",
+        "hypothesis": "En man repar en kalv framgångsrikt.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En liten pojke i en grå och vit randig tröja och solbrända byxor leker på en lekplatsutrustning.",
+        "hypothesis": "En pojke är på en lekplats.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En liten pojke i en grå och vit randig tröja och solbrända byxor leker på en lekplatsutrustning.",
+        "hypothesis": "Pojken leker på gungan efter skolan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En liten pojke i en grå och vit randig tröja och solbrända byxor leker på en lekplatsutrustning.",
+        "hypothesis": "Pojken sitter på skolbussen på väg hem.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kvinna som bär en bollmössa sätter sig på huk för att röra vid den spruckna jorden.",
+        "hypothesis": "En arkeolog som bär hatt sätter sig på huk för att undersöka platsen för en utgrävning",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna som bär en bollmössa sätter sig på huk för att röra vid den spruckna jorden.",
+        "hypothesis": "En hukande kvinna som bär en hatt som rör marken.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kvinna som bär en bollmössa sätter sig på huk för att röra vid den spruckna jorden.",
+        "hypothesis": "En kvinna som bär en solhuva planterar en trädgård.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två barn ligger på en matta med några trätegelstenar utlagda i en fyrkant mellan dem.",
+        "hypothesis": "Två barn bygger en tegelugn.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Två barn ligger på en matta med några trätegelstenar utlagda i en fyrkant mellan dem.",
+        "hypothesis": "Två barn leker fångst i en park.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två barn ligger på en matta med några trätegelstenar utlagda i en fyrkant mellan dem.",
+        "hypothesis": "Två barn ligger på en matta.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man som står framför en byggnad på telefonen som två män till sidan smärta på sidan.",
+        "hypothesis": "en kille nära en byggnad står vid två andra män",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man som står framför en byggnad på telefonen som två män till sidan smärta på sidan.",
+        "hypothesis": "två tjejer går genom en hall",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man som står framför en byggnad på telefonen som två män till sidan smärta på sidan.",
+        "hypothesis": "en upptagen man står med livvakter",
+        "answer": "neutral"
+    },
+    {
+        "premise": "De två unga flickorna är utklädda till älvor och leker i löven utomhus.",
+        "hypothesis": "Flickor leker utomhus.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "De två unga flickorna är utklädda till älvor och leker i löven utomhus.",
+        "hypothesis": "Två tjejer leker klä upp inomhus.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "De två unga flickorna är utklädda till älvor och leker i löven utomhus.",
+        "hypothesis": "De två tjejerna spelar på hösten.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Människor hoppar över en bergsspricka på ett rep.",
+        "hypothesis": "Vissa människor ser visuellt rädda ut för att hoppa.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Människor hoppar över en bergsspricka på ett rep.",
+        "hypothesis": "Folk hoppar utanför.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Människor hoppar över en bergsspricka på ett rep.",
+        "hypothesis": "Människor glider över en bergsspricka på en rutschkana.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En snowboardåkare på en bred snöslätt",
+        "hypothesis": "Ett snöfält med en snowboardåkare på",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En snowboardåkare på en bred snöslätt",
+        "hypothesis": "En snowboardåkare glider över ett snöfält",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En snowboardåkare på en bred snöslätt",
+        "hypothesis": "En snöskoter i snöstorm",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En äldre kvinna som sköter en trädgård.",
+        "hypothesis": "Damen lagar middag",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En äldre kvinna som sköter en trädgård.",
+        "hypothesis": "Damen renar ogräs i sin trädgård",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En äldre kvinna som sköter en trädgård.",
+        "hypothesis": "Damen har en trädgård",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man i en svart skjorta med utsikt över cykelunderhåll.",
+        "hypothesis": "En man förstör en cykel.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man i en svart skjorta med utsikt över cykelunderhåll.",
+        "hypothesis": "En man tittar på cykelreparationer.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man i en svart skjorta med utsikt över cykelunderhåll.",
+        "hypothesis": "En man lär sig cykelunderhåll.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man i en svart skjorta tittar på en cykel i en verkstad.",
+        "hypothesis": "En man bär en röd skjorta",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man i en svart skjorta tittar på en cykel i en verkstad.",
+        "hypothesis": "En man är i en svart skjorta",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man i en svart skjorta tittar på en cykel i en verkstad.",
+        "hypothesis": "En man bestämmer sig för vilken cykel han ska köpa",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man tittar över en cykels bakhjul i underhållsgaraget med olika verktyg synliga i bakgrunden.",
+        "hypothesis": "En person befinner sig i ett garage.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man tittar över en cykels bakhjul i underhållsgaraget med olika verktyg synliga i bakgrunden.",
+        "hypothesis": "En man reparerar cyklar.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man tittar över en cykels bakhjul i underhållsgaraget med olika verktyg synliga i bakgrunden.",
+        "hypothesis": "En man väntar utanför ett garage.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Tre personer sitter på en bänk vid en station, mannen tittar konstigt på de två kvinnorna, de rödhåriga kvinnorna tittar upp och framåt i en besvärlig ställning och den gulblonda flickan vippar med håret.",
+        "hypothesis": "Vissa människor står runt.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Tre personer sitter på en bänk vid en station, mannen tittar konstigt på de två kvinnorna, de rödhåriga kvinnorna tittar upp och framåt i en besvärlig ställning och den gulblonda flickan vippar med håret.",
+        "hypothesis": "Människor springer tillsammans.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Tre personer sitter på en bänk vid en station, mannen tittar konstigt på de två kvinnorna, de rödhåriga kvinnorna tittar upp och framåt i en besvärlig ställning och den gulblonda flickan vippar med håret.",
+        "hypothesis": "Folk väntar på en station.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Ett barn som bär en röd topp står bakom ett blondt huvud som sitter i en skottkärra.",
+        "hypothesis": "Ett barn som bär en röd topp står bakom ett blondt barn",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Ett barn som bär en röd topp står bakom ett blondt huvud som sitter i en skottkärra.",
+        "hypothesis": "Ett barn som bär en röd topp står ovanpå ett barn med blond huvud",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Ett barn som bär en röd topp står bakom ett blondt huvud som sitter i en skottkärra.",
+        "hypothesis": "Ett barn som bär en röd topp står bakom ett vackert blont huvud",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En person klädd i en klänning med blommor och ett uppstoppat bi knuffar en barnvagn nerför gatan.",
+        "hypothesis": "En dam som sitter på en bänk i parken.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En person klädd i en klänning med blommor och ett uppstoppat bi knuffar en barnvagn nerför gatan.",
+        "hypothesis": "En gammal dam som skjuter en barnvagn på en livlig gata.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En person klädd i en klänning med blommor och ett uppstoppat bi knuffar en barnvagn nerför gatan.",
+        "hypothesis": "En person utanför som skjuter en barnvagn.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En hund som hoppar efter en frisbee i snön.",
+        "hypothesis": "Ett husdjur njuter av en omgång apport med sin ägare.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En hund som hoppar efter en frisbee i snön.",
+        "hypothesis": "En katt tvättar hans ansikte och morrhår med framtassen.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En hund som hoppar efter en frisbee i snön.",
+        "hypothesis": "Ett djur är ute i det kalla vädret och leker med en plastleksak.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Människor pratar vid ett matbord under en baldakin.",
+        "hypothesis": "Människor på en fest sitter för middag på gräsmattan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Människor pratar vid ett matbord under en baldakin.",
+        "hypothesis": "Folk pratar under ett täcke.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Människor pratar vid ett matbord under en baldakin.",
+        "hypothesis": "Folk skriker på en boxningsmatch.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En flicka som spelar fiol tillsammans med en grupp människor",
+        "hypothesis": "En tjej tvättar en massa tvätt.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En flicka som spelar fiol tillsammans med en grupp människor",
+        "hypothesis": "En flicka spelar ett instrument.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En flicka som spelar fiol tillsammans med en grupp människor",
+        "hypothesis": "En grupp människor spelar i en symfoni.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna i en orkester spelar fiol.",
+        "hypothesis": "En kvinna spelar en konsert.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna i en orkester spelar fiol.",
+        "hypothesis": "En kvinna spelar fiol.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kvinna i en orkester spelar fiol.",
+        "hypothesis": "En man tittar i ett teleskop.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Tre män, en med rör, en annan med ett stort föremål ovanför huvudet och en vilande mot rörflaket på lastbilen, tittar på kameran.",
+        "hypothesis": "tre män ska till jobbet",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Tre män, en med rör, en annan med ett stort föremål ovanför huvudet och en vilande mot rörflaket på lastbilen, tittar på kameran.",
+        "hypothesis": "tre män tittar på kameran",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Tre män, en med rör, en annan med ett stort föremål ovanför huvudet och en vilande mot rörflaket på lastbilen, tittar på kameran.",
+        "hypothesis": "tre män som sover i ett tält",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En Ford-bil gör en högersväng när tre män går tvärs över gatan bakom bilen.",
+        "hypothesis": "En bil som svängde höger hade tre fotgängare korsade bakom sig.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En Ford-bil gör en högersväng när tre män går tvärs över gatan bakom bilen.",
+        "hypothesis": "En sedan svängde ett hörn när vandrare korsade.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Tre pojkar i vita skjortor går bakom en äldre modell Ford-bil.",
+        "hypothesis": "det är tre pojkar",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Tre pojkar i vita skjortor går bakom en äldre modell Ford-bil.",
+        "hypothesis": "Det är tre tjejer",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Tre pojkar i vita skjortor går bakom en äldre modell Ford-bil.",
+        "hypothesis": "Pojkarna är på gatan",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Tre flickor blåser ut ljusen på en tårta gjord av Peeps.",
+        "hypothesis": "Vissa människor blåser ut ljus",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Tre flickor blåser ut ljusen på en tårta gjord av Peeps.",
+        "hypothesis": "Det är tre tjejer och en tårta",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Tre flickor blåser ut ljusen på en tårta gjord av Peeps.",
+        "hypothesis": "Det finns pip i trädgården.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En skara människor tittar upp på 3 personer på kanten av taket på en byggnad.",
+        "hypothesis": "Folkmassan ropar på hjälp till människorna på taket.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En skara människor tittar upp på 3 personer på kanten av taket på en byggnad.",
+        "hypothesis": "Folkmassan på marken tittar på 3 personer på takets kant.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En skara människor tittar upp på 3 personer på kanten av taket på en byggnad.",
+        "hypothesis": "Tre personer klättrar nerför stegen på byggnaden.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kvinna som arbetar långa timmar.",
+        "hypothesis": "En kvinna arbetar i en fabrik.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna som arbetar långa timmar.",
+        "hypothesis": "En kvinna arbetar.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kvinna som arbetar långa timmar.",
+        "hypothesis": "En kvinna sover.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två tonårsflickor som pratar bredvid skåp.",
+        "hypothesis": "Flickor pratar bredvid toaletten.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två tonårsflickor som pratar bredvid skåp.",
+        "hypothesis": "Folk pratar bredvid skåp.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Två tonårsflickor som pratar bredvid skåp.",
+        "hypothesis": "Flickor pratar om sina problem bredvid skåp.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En gammal kvinna ser en man titta ner på några bollar på marken.",
+        "hypothesis": "En äldre hona förföljer en hane.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En gammal kvinna ser en man titta ner på några bollar på marken.",
+        "hypothesis": "Två personer sover på tåget.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två barn, båda klädda i bruna rockar, omfamnar varandra.",
+        "hypothesis": "Två barn kramas efter att ha överlevt ett hemskt bilvrak.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Två barn, båda klädda i bruna rockar, omfamnar varandra.",
+        "hypothesis": "Två barn kramas.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Två barn, båda klädda i bruna rockar, omfamnar varandra.",
+        "hypothesis": "Två barn springer nerför en motorväg.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "2 barn som ser släkt ut umgås med ett av dem som ser väldigt känslomässigt ut och kramar om den andra.",
+        "hypothesis": "Ett par barnsläktingar kramades för att de var glada att se varandra.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "2 barn som ser släkt ut umgås med ett av dem som ser väldigt känslomässigt ut och kramar om den andra.",
+        "hypothesis": "Två barn kramades.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "2 barn som ser släkt ut umgås med ett av dem som ser väldigt känslomässigt ut och kramar om den andra.",
+        "hypothesis": "Två ungdomar tryckte på varandra.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Ett stort antal människor endast klädda i vitt och rött går på en gata.",
+        "hypothesis": "Ett stort antal svartklädda människor går nerför gatan.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Ett stort antal människor endast klädda i vitt och rött går på en gata.",
+        "hypothesis": "Ett stort antal män går nerför gatan i rött och vitt.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Ett stort antal människor endast klädda i vitt och rött går på en gata.",
+        "hypothesis": "Ett stort antal människor som går på en gata.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kille som kör motorcykel nära skräpbilar",
+        "hypothesis": "Mannen provkör en motorcykel för att avgöra om han ska köpa den eller inte.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kille som kör motorcykel nära skräpbilar",
+        "hypothesis": "En man åker motorcykel.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kille som kör motorcykel nära skräpbilar",
+        "hypothesis": "En man sitter på en parkerad motorcykel och väntar på sin vän.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Indiens kvinnor uppträder med blå streamers, i vackra blå kostymer.",
+        "hypothesis": "indiska kvinnor uppträder tillsammans i vackra kostymer",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Indiens kvinnor uppträder med blå streamers, i vackra blå kostymer.",
+        "hypothesis": "hundar sniffar luften",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Indiens kvinnor uppträder med blå streamers, i vackra blå kostymer.",
+        "hypothesis": "indiska kvinnor utför en religiös ritual tillsammans",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En professionell simmare spottar ut vatten efter att ha kommit upp till ytan samtidigt som han tar tag i handen på någon som hjälper honom tillbaka till land.",
+        "hypothesis": "En person simmar.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En professionell simmare spottar ut vatten efter att ha kommit upp till ytan samtidigt som han tar tag i handen på någon som hjälper honom tillbaka till land.",
+        "hypothesis": "Simmaren äter en rostad marshmallow.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En professionell simmare spottar ut vatten efter att ha kommit upp till ytan samtidigt som han tar tag i handen på någon som hjälper honom tillbaka till land.",
+        "hypothesis": "Simmaren drunknade nästan efter att ha sugits under en snabb ström.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Mannen i den svarta våtdräkten går upp ur vattnet.",
+        "hypothesis": "En man i våtdräkt går upp ur vattnet med en surfbräda.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Mannen i den svarta våtdräkten går upp ur vattnet.",
+        "hypothesis": "en person går upp ur vattnet.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Mannen i den svarta våtdräkten går upp ur vattnet.",
+        "hypothesis": "En man ligger på stranden.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Fem tjejer och två killar korsar en överfart.",
+        "hypothesis": "Den utökade familjen vandrar tillsammans på deras släktträff.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Fem tjejer och två killar korsar en överfart.",
+        "hypothesis": "De tre männen sitter och pratar om sina liv.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Fem tjejer och två killar korsar en överfart.",
+        "hypothesis": "Det finns folk utanför.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En person med en lila skjorta målar en bild av en kvinna på en vit vägg.",
+        "hypothesis": "En kvinna målar ett porträtt av sin bästa vän.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En person med en lila skjorta målar en bild av en kvinna på en vit vägg.",
+        "hypothesis": "En kvinna målar ett porträtt av en person.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En person med en lila skjorta målar en bild av en kvinna på en vit vägg.",
+        "hypothesis": "En kvinna målar ett porträtt av en apa.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kvinna målar en väggmålning av en kvinnas ansikte.",
+        "hypothesis": "Det finns en kvinna som målar.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kvinna målar en väggmålning av en kvinnas ansikte.",
+        "hypothesis": "Det finns en kvinna som målar för skojs skull.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna målar en väggmålning av en kvinnas ansikte.",
+        "hypothesis": "Det är en man som knyter sina skor.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Ett par äter ute vid ett bord och han pekar på något.",
+        "hypothesis": "Ett par äter inne vid ett bord och han pekar på något.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Ett par äter ute vid ett bord och han pekar på något.",
+        "hypothesis": "Mannen pekar på en handväska.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Ett par äter ute vid ett bord och han pekar på något.",
+        "hypothesis": "Folk äter vid ett bord utanför.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Två kvinnor går längs en trottoar längs en livlig gata i ett centrum.",
+        "hypothesis": "Kvinnorna gick i centrum eftersom bussarna strejkade",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Två kvinnor går längs en trottoar längs en livlig gata i ett centrum.",
+        "hypothesis": "Kvinnorna plockade bär på landsbygden",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två kvinnor går längs en trottoar längs en livlig gata i ett centrum.",
+        "hypothesis": "Kvinnorna gick i centrum",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Många människor står utanför en plats och pratar med varandra framför en byggnad som har en skylt som säger \"HI-POINTE.\"",
+        "hypothesis": "Människorna pratar innan de går in i arbetsbyggnaden.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Många människor står utanför en plats och pratar med varandra framför en byggnad som har en skylt som säger \"HI-POINTE.\"",
+        "hypothesis": "Gruppen människor är inte inne i byggnaden.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Många människor står utanför en plats och pratar med varandra framför en byggnad som har en skylt som säger \"HI-POINTE.\"",
+        "hypothesis": "Folket sitter i hotellets lobby.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Flygvärdinnan klädd i gult visar hur man använder flytväst.",
+        "hypothesis": "En flygvärdinna står framför passagerare.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Flygvärdinnan klädd i gult visar hur man använder flytväst.",
+        "hypothesis": "En flygvärdinna visar säkerhetsprocedurer före start.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Flygvärdinnan klädd i gult visar hur man använder flytväst.",
+        "hypothesis": "En kvinna lagar drinkar på ett flygplan.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Flickorna går nerför gatan.",
+        "hypothesis": "Flickor går nerför gatan.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Flickorna går nerför gatan.",
+        "hypothesis": "Flickor satte sig på gatan.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Flickorna går nerför gatan.",
+        "hypothesis": "Flickor skulle till parken.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man som bär en röd uniform och hjälm står på sin motorcykel.",
+        "hypothesis": "en man som sitter i en bil.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man som bär en röd uniform och hjälm står på sin motorcykel.",
+        "hypothesis": "en person som står.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man som bär en röd uniform och hjälm står på sin motorcykel.",
+        "hypothesis": "en man som står på sin motorcykel.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man av tyget lägger en svart substans på en mans panna.",
+        "hypothesis": "Mannen sätter något på den andres huvud.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man av tyget lägger en svart substans på en mans panna.",
+        "hypothesis": "Kvinnorna är i parken.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man av tyget lägger en svart substans på en mans panna.",
+        "hypothesis": "Männen är i kyrkan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En person rullar nerför en kulle åker på en vagn medan en annan tittar på.",
+        "hypothesis": "Två personer är utanför.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En person rullar nerför en kulle åker på en vagn medan en annan tittar på.",
+        "hypothesis": "En person stirrar på en tom kulle.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En person rullar nerför en kulle åker på en vagn medan en annan tittar på.",
+        "hypothesis": "Ett barn i en vagn rullar nerför en backe.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "en pojke som håller i väggen på ett gammalt tegelhuss upphöjda grund.",
+        "hypothesis": "en pojke som håller i väggen på ett gammalt tegelhuss upphöjda grund när konstruktionen sker",
+        "answer": "neutral"
+    },
+    {
+        "premise": "en pojke som håller i väggen på ett gammalt tegelhuss upphöjda grund.",
+        "hypothesis": "en tjej lutar sig mot väggen",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "en pojke som håller i väggen på ett gammalt tegelhuss upphöjda grund.",
+        "hypothesis": "en pojke står mot väggen på en upphöjd grund",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Bruce Springsteen, med ena armen utsträckt, sjunger i rampljuset i en mörk konsertsal.",
+        "hypothesis": "Bruce Springsteen är från Florida.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Bruce Springsteen, med ena armen utsträckt, sjunger i rampljuset i en mörk konsertsal.",
+        "hypothesis": "Bruce Springsteen är en sångare.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Bruce Springsteen, med ena armen utsträckt, sjunger i rampljuset i en mörk konsertsal.",
+        "hypothesis": "Bruce Springsteen är gay",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sex hundar simmar i en flod.",
+        "hypothesis": "Sex hundar simmar över floden.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sex hundar simmar i en flod.",
+        "hypothesis": "Sex hundar är utomhus.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Sex hundar simmar i en flod.",
+        "hypothesis": "Valparna lägger sig i soffan.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man och kvinna tar en bild på sig själva medan en kvinna i halsduk går förbi dem.",
+        "hypothesis": "En man och kvinna har tagit muggskott eftersom de har gripits.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man och kvinna tar en bild på sig själva medan en kvinna i halsduk går förbi dem.",
+        "hypothesis": "En man och kvinna tar selfies medan en kvinna går förbi och dömer dem.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man och kvinna tar en bild på sig själva medan en kvinna i halsduk går förbi dem.",
+        "hypothesis": "En man och kvinna tar selfies av sig själva.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "en grupp människor som dansar tillsammans.",
+        "hypothesis": "Folk dansar.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "en grupp människor som dansar tillsammans.",
+        "hypothesis": "De håller på med tango.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "en grupp människor som dansar tillsammans.",
+        "hypothesis": "Ingen dansar.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Män som bär blå uniformer sitter på en buss.",
+        "hypothesis": "Männen sitter på bussen.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Män som bär blå uniformer sitter på en buss.",
+        "hypothesis": "Män sitter på bussen på väg till jobbet,",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Män som bär blå uniformer sitter på en buss.",
+        "hypothesis": "Män kör bussen ut i havet.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två män som klättrar på en träställning.",
+        "hypothesis": "Två personer klättrar på en träställning.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Två män som klättrar på en träställning.",
+        "hypothesis": "Två kvinnor som klättrar på en träställning.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två män som klättrar på en träställning.",
+        "hypothesis": "Två ledsna män som klättrar på en träställning.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En fågel slår med vingarna på vattnet.",
+        "hypothesis": "Fågeln flyger över träden.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En fågel slår med vingarna på vattnet.",
+        "hypothesis": "Ankan simmar i sjön.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung pojke i röd skjorta och jeans står mitt på en åker och kastar ett leksaksplan i luften.",
+        "hypothesis": "En ung pojke leker i en fält.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En ung pojke i röd skjorta och jeans står mitt på en åker och kastar ett leksaksplan i luften.",
+        "hypothesis": "En ung pojke leker på fältet eftersom hans mamma sparkade ut honom ur huset.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung pojke i röd skjorta och jeans står mitt på en åker och kastar ett leksaksplan i luften.",
+        "hypothesis": "En ung pojke spelar tv-spel inomhus.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Sex-sju personer står på en brygga med ett bord och ett par glasögon i förgrunden.",
+        "hypothesis": "De ska ut och fiska.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sex-sju personer står på en brygga med ett bord och ett par glasögon i förgrunden.",
+        "hypothesis": "Sex-sju personer står på en brygga.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Sex-sju personer står på en brygga med ett bord och ett par glasögon i förgrunden.",
+        "hypothesis": "De är i en båt.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En person i röd skjorta och svarta byxor krökt.",
+        "hypothesis": "En person bär en röd skjorta.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En person i röd skjorta och svarta byxor krökt.",
+        "hypothesis": "Personen är en kvinna.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En person i röd skjorta och svarta byxor krökt.",
+        "hypothesis": "Personen bär en grön skjorta.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Det här barnet är på bibliotekstrappan.",
+        "hypothesis": "Barnet är på skoltrappan.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Det här barnet är på bibliotekstrappan.",
+        "hypothesis": "Barnet är på trappan.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Det här barnet är på bibliotekstrappan.",
+        "hypothesis": "Barnet är på trappan inne i biblioteket.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Den tatuerade basketspelaren är på väg att dunk bollen.",
+        "hypothesis": "Mannen spelar fotboll..",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Den tatuerade basketspelaren är på väg att dunk bollen.",
+        "hypothesis": "Personen spelar basket.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Den tatuerade basketspelaren är på väg att dunk bollen.",
+        "hypothesis": "Spelaren har en tatuering som säger mamma.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "en pojke i en röd huva ler samtidigt som han tittar bort från sin reflektion.",
+        "hypothesis": "En pojke i röd luva är glad.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "en pojke i en röd huva ler samtidigt som han tittar bort från sin reflektion.",
+        "hypothesis": "Pojken vill inte se sin spegelbild.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "en pojke i en röd huva ler samtidigt som han tittar bort från sin reflektion.",
+        "hypothesis": "Pojken är upprörd.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man som bär en grå bollkeps går bredvid en rödhårig kvinna som bär en långärmad jeansskjorta.",
+        "hypothesis": "mannen bär en grå keps.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man som bär en grå bollkeps går bredvid en rödhårig kvinna som bär en långärmad jeansskjorta.",
+        "hypothesis": "Mannen bär en blå keps.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man som bär en grå bollkeps går bredvid en rödhårig kvinna som bär en långärmad jeansskjorta.",
+        "hypothesis": "Mannen är kall.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En gammal man i basebollhatt och en gammal kvinna i jeansjacka står utanför, men är mest täckta av skugga.",
+        "hypothesis": "En gammal kvinna har en ljus jeansjacka.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En gammal man i basebollhatt och en gammal kvinna i jeansjacka står utanför, men är mest täckta av skugga.",
+        "hypothesis": "En gammal kvinna har en jeansjacka.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En gammal man i basebollhatt och en gammal kvinna i jeansjacka står utanför, men är mest täckta av skugga.",
+        "hypothesis": "En gammal kvinna har ingen jacka.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Ett nygift par som skrattar och pratar sinsemellan.",
+        "hypothesis": "Paret har roligt.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Ett nygift par som skrattar och pratar sinsemellan.",
+        "hypothesis": "Paret har precis gift sig.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Ett nygift par som skrattar och pratar sinsemellan.",
+        "hypothesis": "Paret är skilda.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En svart man i en långärmad skjorta med vit krage och en slips går till jobbet i en storstad.",
+        "hypothesis": "Mannen har shorts och t-shirt på sig när han joggar.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En svart man i en långärmad skjorta med vit krage och en slips går till jobbet i en storstad.",
+        "hypothesis": "Mannen rör på sig.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En svart man i en långärmad skjorta med vit krage och en slips går till jobbet i en storstad.",
+        "hypothesis": "Mannen är klädd i arbetskläder och går till sitt jobb.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Flera yngre personer sitter framför en staty.",
+        "hypothesis": "flera ungdomar som sitter utanför",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Flera yngre personer sitter framför en staty.",
+        "hypothesis": "flera ungdomar sitter i en auditorium",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Flera yngre personer sitter framför en staty.",
+        "hypothesis": "flera ungdomar som sitter på en skolgård",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En grupp vuxna står i badrummet och tittar ner ett litet barn i badet.",
+        "hypothesis": "Barnets mamma tittar på sin son med sina vänner.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En grupp vuxna står i badrummet och tittar ner ett litet barn i badet.",
+        "hypothesis": "Folk är i huset.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En grupp vuxna står i badrummet och tittar ner ett litet barn i badet.",
+        "hypothesis": "Barnet sover.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En fånig kvinna sjunger på scenen.",
+        "hypothesis": "En kvinna sjunger.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En fånig kvinna sjunger på scenen.",
+        "hypothesis": "En kvinna reciterar poesi på scenen.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En fånig kvinna sjunger på scenen.",
+        "hypothesis": "En blond kvinna sjunger och dansar på scenen.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Flickan bär en brun jacka när hon går i snö.",
+        "hypothesis": "En kvinna äter pasta på en restaurang.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Flickan bär en brun jacka när hon går i snö.",
+        "hypothesis": "Damen som bär en jacka letar efter sin borttappade hund.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Flickan bär en brun jacka när hon går i snö.",
+        "hypothesis": "Flickan går utanför.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man, kvinna och barn får sin bild tagen framför bergen.",
+        "hypothesis": "En familj på semester poserar.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man, kvinna och barn får sin bild tagen framför bergen.",
+        "hypothesis": "Människor är utomhus.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man, kvinna och barn får sin bild tagen framför bergen.",
+        "hypothesis": "En familj sitter i sin bil.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "människor står nära vatten med en båt på väg mot dem",
+        "hypothesis": "Folket står.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "människor står nära vatten med en båt på väg mot dem",
+        "hypothesis": "Människor står nära vattnet med en stor blå båt på väg mot dem.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "människor står nära vatten med en båt på väg mot dem",
+        "hypothesis": "Folk står i kö vid restaurangen.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Fyra vuxna äter sittande på ett klinkergolv.",
+        "hypothesis": "Två par äter mat på ett köksgolv.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Fyra vuxna äter sittande på ett klinkergolv.",
+        "hypothesis": "Två par spelar biljard i en bar.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Fyra vuxna äter sittande på ett klinkergolv.",
+        "hypothesis": "En grupp människor äter mat.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En hund som står nära snö och tittar på vatten.",
+        "hypothesis": "En katt ligger på soffan.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En hund som står nära snö och tittar på vatten.",
+        "hypothesis": "Djuret är utomhus.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En hund som står nära snö och tittar på vatten.",
+        "hypothesis": "Hunden funderar på att gå och simma.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En äldre man lutar sig mot en piedestal utanför en utsmyckad byggnad.",
+        "hypothesis": "En äldre man lutar sig utanför sitt äldreboende",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En äldre man lutar sig mot en piedestal utanför en utsmyckad byggnad.",
+        "hypothesis": "En ung man joggar",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En äldre man lutar sig mot en piedestal utanför en utsmyckad byggnad.",
+        "hypothesis": "En äldre man lutar sig utanför en byggnad",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En person i orange kläder vilar ovanför en tunnelbaneentré.",
+        "hypothesis": "En person sitter på en basebollmatch.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En person i orange kläder vilar ovanför en tunnelbaneentré.",
+        "hypothesis": "Någon står nära en tunnelbanestation.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En person i orange kläder vilar ovanför en tunnelbaneentré.",
+        "hypothesis": "En person väntar på ett tåg.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En tjej i en blå klänning tar av sig skorna och äter blått sockervadd.",
+        "hypothesis": "Flickan äter blått sockervadd på en karneval.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En tjej i en blå klänning tar av sig skorna och äter blått sockervadd.",
+        "hypothesis": "Flickan i en blå klänning är en blomma på ett bröllop.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En tjej i en blå klänning tar av sig skorna och äter blått sockervadd.",
+        "hypothesis": "Flickan äter barfota.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En svart man i vit uniform gör en spektakulär omvänd slam dunk till publikens förvåning.",
+        "hypothesis": "mannen är asiatisk",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En svart man i vit uniform gör en spektakulär omvänd slam dunk till publikens förvåning.",
+        "hypothesis": "mannen spelar",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En svart man i vit uniform gör en spektakulär omvänd slam dunk till publikens förvåning.",
+        "hypothesis": "mannen ligger hemma och sover",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En basketspelare med gröna skor dunkar bollen i nätet medan arenan tittar på.",
+        "hypothesis": "En man bakar en smörgås medan en folkmassa flämtar av vördnad.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En basketspelare med gröna skor dunkar bollen i nätet medan arenan tittar på.",
+        "hypothesis": "En folkmassa tittar på någon som spelar basket.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En basketspelare med gröna skor dunkar bollen i nätet medan arenan tittar på.",
+        "hypothesis": "En berömd NBA-spelare spelar streetball framför en folkmassa.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En rynkade gammal man i militärmössa och civil kostym står bland en folkmassa utomhus och bär på skyltar och ballonger.",
+        "hypothesis": "En grupp människor står utanför.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En rynkade gammal man i militärmössa och civil kostym står bland en folkmassa utomhus och bär på skyltar och ballonger.",
+        "hypothesis": "En arg militärveteran tittar på när människor protesterar mot kriget.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En rynkade gammal man i militärmössa och civil kostym står bland en folkmassa utomhus och bär på skyltar och ballonger.",
+        "hypothesis": "En man tittar på en grupp människor som håller på att äta korv.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kvinna som bär cykelshorts och kjol cyklar och bär en axelväska.",
+        "hypothesis": "En kvinna på cykel.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kvinna som bär cykelshorts och kjol cyklar och bär en axelväska.",
+        "hypothesis": "En kvinna som cyklar till jobbet.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna som bär cykelshorts och kjol cyklar och bär en axelväska.",
+        "hypothesis": "En kvinna som kör bil.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En skateboardungdom gör ett trick på en räls.",
+        "hypothesis": "En ung person på en skateboard.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En skateboardungdom gör ett trick på en räls.",
+        "hypothesis": "En man som målar ett träd.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En skateboardungdom gör ett trick på en räls.",
+        "hypothesis": "En ung pojke visar sina nya skateboardtrick för sina vänner.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kille i jeans och hatt hukar på ett ledstång med en betongbank framför sig.",
+        "hypothesis": "Han är klädd i en skjorta med knäppning.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kille i jeans och hatt hukar på ett ledstång med en betongbank framför sig.",
+        "hypothesis": "Hans kala huvud är blottat.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kille i jeans och hatt hukar på ett ledstång med en betongbank framför sig.",
+        "hypothesis": "En man hukar på en ledstång.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Flicka i en röd kappa, blå huvudomslag och jeans gör en snöängel.",
+        "hypothesis": "En flicka i röd rock gör en snöängel för första gången.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Flicka i en röd kappa, blå huvudomslag och jeans gör en snöängel.",
+        "hypothesis": "Flicka i svart rock håller sig inomhus borta från snön.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Flicka i en röd kappa, blå huvudomslag och jeans gör en snöängel.",
+        "hypothesis": "En flicka utanför leker i snön.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En grupp människor samlades på natten och tittade på en händelse.",
+        "hypothesis": "Kompisgänget sover.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En grupp människor samlades på natten och tittade på en händelse.",
+        "hypothesis": "En grupp människor tittar åt samma håll.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En grupp människor samlades på natten och tittade på en händelse.",
+        "hypothesis": "En grupp vänner tittar på musikkonserten på natten.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Den amerikanska fotbollsspelaren i gult fångar bollen under press från betalaren i vitt.",
+        "hypothesis": "Fotbollsspelaren är under tvång.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Den amerikanska fotbollsspelaren i gult fångar bollen under press från betalaren i vitt.",
+        "hypothesis": "Den amerikanska fotbollsspelaren i gult fångar bollen under press från spelaren i vitt.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Den amerikanska fotbollsspelaren i gult fångar bollen under press från betalaren i vitt.",
+        "hypothesis": "Basketspelaren skjuter en trepekare.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En person med blått hår, basebollkeps och huva på står utomhus i en folkmassa.",
+        "hypothesis": "En person njuter av ett sportevenemang.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En person med blått hår, basebollkeps och huva på står utomhus i en folkmassa.",
+        "hypothesis": "En person dansar och sjunger.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En person med blått hår, basebollkeps och huva på står utomhus i en folkmassa.",
+        "hypothesis": "En person står utomhus.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En flicka som håller en dryck pekar på en målning.",
+        "hypothesis": "Flickan ligger i badkaret",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En flicka som håller en dryck pekar på en målning.",
+        "hypothesis": "Flickan dricker en alkoholhaltig dryck.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En flicka som håller en dryck pekar på en målning.",
+        "hypothesis": "Flickan har en drink.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man i svart skjorta, i ett storkök, håller upp kött som han tog ur en påse.",
+        "hypothesis": "En man i en svart skjorta, i ett storkök, håller upp det gamla köttet han tog ur en påse.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man i svart skjorta, i ett storkök, håller upp kött som han tog ur en påse.",
+        "hypothesis": "En kvinna i en svart skjorta, i ett storkök, håller upp kött som han tog ur en påse.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man i svart skjorta, i ett storkök, håller upp kött som han tog ur en påse.",
+        "hypothesis": "En man i skjorta, i ett storkök, håller upp kött som han tog ur en påse.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En person i röd skjorta klipper gräset med en grön åkgräsklippare.",
+        "hypothesis": "En person i rött simmar i OS.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En person i röd skjorta klipper gräset med en grön åkgräsklippare.",
+        "hypothesis": "En person i rött flyttar gräs på en John Deer-motor.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En person i röd skjorta klipper gräset med en grön åkgräsklippare.",
+        "hypothesis": "En person i rött klipper gräset på en åkgräsklippare",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Grupp människor som bär svarta skjortor som rider i ett fordon med öppen topp.",
+        "hypothesis": "En grupp människor åker nerför vägen i en cabriolet.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Grupp människor som bär svarta skjortor som rider i ett fordon med öppen topp.",
+        "hypothesis": "Föraren var klädd i en lila skjorta.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Grupp människor som bär svarta skjortor som rider i ett fordon med öppen topp.",
+        "hypothesis": "Froends åker i ett fordon med öppen topp tillsammans.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Två män förbereder en fisk vid en brygga.",
+        "hypothesis": "Två män har precis kommit in från fiske hela dagen",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Två män förbereder en fisk vid en brygga.",
+        "hypothesis": "Två män rensar sina fiskar",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Två män förbereder en fisk vid en brygga.",
+        "hypothesis": "Två män sitter i en kanot med sina fiskespön",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kvinna med ansiktet delvis täckt av silver ansiktsfärg sitter på en plastväska och tittar i en spegel.",
+        "hypothesis": "Kvinnan är modell.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna med ansiktet delvis täckt av silver ansiktsfärg sitter på en plastväska och tittar i en spegel.",
+        "hypothesis": "Kvinnan har något i ansiktet.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kvinna med ansiktet delvis täckt av silver ansiktsfärg sitter på en plastväska och tittar i en spegel.",
+        "hypothesis": "Kvinnan är blind.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man i en Alaska-tröja står bakom en disk.",
+        "hypothesis": "Mannen är klädd i linne.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man i en Alaska-tröja står bakom en disk.",
+        "hypothesis": "Mannen är från Alaska.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man i en Alaska-tröja står bakom en disk.",
+        "hypothesis": "Personen bakom disken är en man.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En stor grupp människor går i en livlig stad på natten.",
+        "hypothesis": "Folk äter lunch på en restaurang.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En stor grupp människor går i en livlig stad på natten.",
+        "hypothesis": "Människor går en stad.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En stor grupp människor går i en livlig stad på natten.",
+        "hypothesis": "Människor är ute i en park.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kvinna, i rött och vitt, och med glasögon, sitter i ett rum med andra människor.",
+        "hypothesis": "En kvinna sitter i ett rum med andra människor.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kvinna, i rött och vitt, och med glasögon, sitter i ett rum med andra människor.",
+        "hypothesis": "En kvinna sitter i ett rum i telefonen.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna, i rött och vitt, och med glasögon, sitter i ett rum med andra människor.",
+        "hypothesis": "En man fixar sin bil.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En softbollspelare kastar bollen till sin lagkamrat.",
+        "hypothesis": "Lagkamrater tävlar i ett mästerskap i mjukboll.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En softbollspelare kastar bollen till sin lagkamrat.",
+        "hypothesis": "Två personer spelar softball.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En softbollspelare kastar bollen till sin lagkamrat.",
+        "hypothesis": "Två softballspelare sitter på en bänk.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En motorcyklist tävlar.",
+        "hypothesis": "En person cyklar",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En motorcyklist tävlar.",
+        "hypothesis": "Motorcyklisten förlorar loppet",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En motorcyklist tävlar.",
+        "hypothesis": "Bilen är gul",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två små pojkar ler och skrattar medan en står och en i en studsad sits.",
+        "hypothesis": "Det är två små pojkar som ler.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Två små pojkar ler och skrattar medan en står och en i en studsad sits.",
+        "hypothesis": "De små pojkarna gråter.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två små pojkar ler och skrattar medan en står och en i en studsad sits.",
+        "hypothesis": "Pojkarna är syskon som leker med varandra.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Infödda fiskare som rullar i sina nät efter en lång dags arbete.",
+        "hypothesis": "Männen fångade många fiskar.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Infödda fiskare som rullar i sina nät efter en lång dags arbete.",
+        "hypothesis": "Männen gick inte till jobbet idag utan spelade istället bridge.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Infödda fiskare som rullar i sina nät efter en lång dags arbete.",
+        "hypothesis": "Männen avslutar sin arbetsdag.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Det här är unga vuxna som verkar arbeta tillsammans för att skydda växterna som omger den vita stolpen.",
+        "hypothesis": "Växterna är ormbunkar",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Det här är unga vuxna som verkar arbeta tillsammans för att skydda växterna som omger den vita stolpen.",
+        "hypothesis": "De vuxna är unga",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Det här är unga vuxna som verkar arbeta tillsammans för att skydda växterna som omger den vita stolpen.",
+        "hypothesis": "De vuxna är gamla",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två collegefotbollsspelare slåss utomhus på planen under matchdagen, där en är quarterbacken som försöker kasta bollen och den andra spelaren är i aktion på väg att sparka quarterbacken.",
+        "hypothesis": "Två lag från rivaliserande högskolor är i fjärde kvartalet av en match.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Två collegefotbollsspelare slåss utomhus på planen under matchdagen, där en är quarterbacken som försöker kasta bollen och den andra spelaren är i aktion på väg att sparka quarterbacken.",
+        "hypothesis": "Några tjejer spelar basket.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två collegefotbollsspelare slåss utomhus på planen under matchdagen, där en är quarterbacken som försöker kasta bollen och den andra spelaren är i aktion på väg att sparka quarterbacken.",
+        "hypothesis": "En college fotbollsmatch.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Två personer spelar amerikansk fotboll och en av dem försöker hindra den andra från att kasta bollen.",
+        "hypothesis": "En linjeman försöker tackla quarterbacken innan han gör spelets vinnande touchdown.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Två personer spelar amerikansk fotboll och en av dem försöker hindra den andra från att kasta bollen.",
+        "hypothesis": "En kanna kastar basebollen till smeten när han försöker slå ut den ur parken.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två personer spelar amerikansk fotboll och en av dem försöker hindra den andra från att kasta bollen.",
+        "hypothesis": "En omgång fotboll spelas.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man som spelar biljard på en bar.",
+        "hypothesis": "En man leker med vänner.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man som spelar biljard på en bar.",
+        "hypothesis": "En man spelar biljard.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man som spelar biljard på en bar.",
+        "hypothesis": "En man spelar dam.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En gyllene hund skickar en blå boll till en annan gyllene hund på stranden.",
+        "hypothesis": "Hundarna är vänner.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En gyllene hund skickar en blå boll till en annan gyllene hund på stranden.",
+        "hypothesis": "Hundarna vägrar att dela.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En gyllene hund skickar en blå boll till en annan gyllene hund på stranden.",
+        "hypothesis": "Den gyllene hunden spelar boll med en annan hund utanför.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Människor är på en rulltrappa och väntar på att komma till sin destination medan de tittar utanför glaset som utgör väggen.",
+        "hypothesis": "Människorna går upp i rulltrappan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Människor är på en rulltrappa och väntar på att komma till sin destination medan de tittar utanför glaset som utgör väggen.",
+        "hypothesis": "Folk tar hissen.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Människor är på en rulltrappa och väntar på att komma till sin destination medan de tittar utanför glaset som utgör väggen.",
+        "hypothesis": "Folk åker i rulltrappan.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kvinna väver med en kam i handen.",
+        "hypothesis": "En kvinna är på jobbet.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna väver med en kam i handen.",
+        "hypothesis": "En kvinna gör något med sina händer.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kvinna väver med en kam i handen.",
+        "hypothesis": "En kvinna sitter med tomma händer.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En pojke rider på vägen mellan två kor.",
+        "hypothesis": "En pojke rider en häst med två kor.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En pojke rider på vägen mellan två kor.",
+        "hypothesis": "En pojke, en väg och två kor.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En pojke rider på vägen mellan två kor.",
+        "hypothesis": "En enda ko är ensam.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En födelsedagsfest för många små människor att njuta av.",
+        "hypothesis": "Barn njuter av en födelsedagsfest.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En födelsedagsfest för många små människor att njuta av.",
+        "hypothesis": "Barn springer nerför gatan.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En födelsedagsfest för många små människor att njuta av.",
+        "hypothesis": "Barn på en födelsedagsfest.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "På en scen står fem sångare, tre kvinnor och två män.",
+        "hypothesis": "Det finns fler honor än män.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "På en scen står fem sångare, tre kvinnor och två män.",
+        "hypothesis": "Artisterna spelar säckpipa.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "På en scen står fem sångare, tre kvinnor och två män.",
+        "hypothesis": "Människorna som uppträder är en del av en kör.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Två män står i en båt.",
+        "hypothesis": "Några män står ovanpå en bil.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två män står i en båt.",
+        "hypothesis": "Några män fiskar på en båt.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Två män står i en båt.",
+        "hypothesis": "Vissa människor är i en båt.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Ung kvinna lägger sina kläder i torktumlardelen av en dubbelstaplad tvättmaskin och torktumlare.",
+        "hypothesis": "En person som torkar kläder",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Ung kvinna lägger sina kläder i torktumlardelen av en dubbelstaplad tvättmaskin och torktumlare.",
+        "hypothesis": "Ingen torkar kläder.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Solen bryter igenom träden när ett barn åker gunga.",
+        "hypothesis": "Barnet rider en gunga i regnet.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Solen bryter igenom träden när ett barn åker gunga.",
+        "hypothesis": "Ett barn rider en gunga på dagtid.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Solen bryter igenom träden när ett barn åker gunga.",
+        "hypothesis": "Barnet på gungan är en flicka.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Alla på gatan i staden verkar vara upptagna med att göra sin egen grej.",
+        "hypothesis": "Folk fräser omkring på stadsgatan.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Alla på gatan i staden verkar vara upptagna med att göra sin egen grej.",
+        "hypothesis": "Folket tittar på vad som händer.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Alla på gatan i staden verkar vara upptagna med att göra sin egen grej.",
+        "hypothesis": "Folk bedriver affärer i staden.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man i förkläde ler när han petar på en stekmunk med en liten metallpinne.",
+        "hypothesis": "Mannen lagar mat.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man i förkläde ler när han petar på en stekmunk med en liten metallpinne.",
+        "hypothesis": "Mannen befinner sig i köket på en restaurang.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man i förkläde ler när han petar på en stekmunk med en liten metallpinne.",
+        "hypothesis": "Mannen tvättar sin bil.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kvinna i tenniskläder springer för att slå en boll med sin tennisracket.",
+        "hypothesis": "En kvinna spelar tennis.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kvinna i tenniskläder springer för att slå en boll med sin tennisracket.",
+        "hypothesis": "Serina Williams spelar tennis.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna i tenniskläder springer för att slå en boll med sin tennisracket.",
+        "hypothesis": "Pete Sampras spelar tennis.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Flera kvinnor spelar volleyboll.",
+        "hypothesis": "De kvinnorna slår en boll med sina armar",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Flera kvinnor spelar volleyboll.",
+        "hypothesis": "Det här ser inte ut som fotboll",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Flera kvinnor spelar volleyboll.",
+        "hypothesis": "Ett gäng kvinnor spelar volleyboll",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Två kvinnliga volleybollag tävlar mot varandra på en laxfärgad och turkos bana medan en domare i svart tittar på.",
+        "hypothesis": "volleybollmatch pågår mellan damer",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Två kvinnliga volleybollag tävlar mot varandra på en laxfärgad och turkos bana medan en domare i svart tittar på.",
+        "hypothesis": "12 damer spelar volleyboll",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Två kvinnliga volleybollag tävlar mot varandra på en laxfärgad och turkos bana medan en domare i svart tittar på.",
+        "hypothesis": "tio pojkar spelar cricket",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En liten pojke med en blå cykelhjälm och en kvinna i en grön cykelhjälm cyklar på en gata tillsammans med andra olika cyklister.",
+        "hypothesis": "En mamma och hennes son cyklar tillsammans med andra längs en gata.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En liten pojke med en blå cykelhjälm och en kvinna i en grön cykelhjälm cyklar på en gata tillsammans med andra olika cyklister.",
+        "hypothesis": "En grupp människor byter ett cykeldäck.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En liten pojke med en blå cykelhjälm och en kvinna i en grön cykelhjälm cyklar på en gata tillsammans med andra olika cyklister.",
+        "hypothesis": "En grupp människor cyklar tillsammans på en gata.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Folk cyklar på gatan och alla har hjälmar på sig.",
+        "hypothesis": "En grupp vänner cyklar genom en gata, alla med sina hjälmar",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Folk cyklar på gatan och alla har hjälmar på sig.",
+        "hypothesis": "En grupp vänner tar tag i sina cyklar och gör sig redo för morgoncykelturen",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Folk cyklar på gatan och alla har hjälmar på sig.",
+        "hypothesis": "En grupp cyklister står på en gata utanför",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En marknadsplats i Mellanöstern.",
+        "hypothesis": "En butik i Mellanöstern.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En marknadsplats i Mellanöstern.",
+        "hypothesis": "En amerikansk teater.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En marknadsplats i Mellanöstern.",
+        "hypothesis": "En utländsk butik.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "en kvinna i svart skjorta tittar på en cykel.",
+        "hypothesis": "En kvinna ser en cykel.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "en kvinna i svart skjorta tittar på en cykel.",
+        "hypothesis": "En kvinna klädd i svarta butiker för en cykel.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "en kvinna i svart skjorta tittar på en cykel.",
+        "hypothesis": "En kvinna i grönt sover på en soffa.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Fyra män spelar trummor i mycket orange ljus medan en av dem också dricker något ur en flaska.",
+        "hypothesis": "männen är musiker",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Fyra män spelar trummor i mycket orange ljus medan en av dem också dricker något ur en flaska.",
+        "hypothesis": "männen sover på motellet",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Fyra män spelar trummor i mycket orange ljus medan en av dem också dricker något ur en flaska.",
+        "hypothesis": "fyra män spelar trummor",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Unga pojkar i gröna och blå tröjor sparkar runt en fotboll medan andra fotbollsmatcher äger rum i bakgrunden.",
+        "hypothesis": "Unga pojkar kastar en baseboll på en basebollplan.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Unga pojkar i gröna och blå tröjor sparkar runt en fotboll medan andra fotbollsmatcher äger rum i bakgrunden.",
+        "hypothesis": "Unga pojkar väntar på sin fotbollsmatch.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Unga pojkar i gröna och blå tröjor sparkar runt en fotboll medan andra fotbollsmatcher äger rum i bakgrunden.",
+        "hypothesis": "Unga pojkar som sparkar runt en fotboll.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man i en tunika i ett stycke cyklar framför en sandstensvägg medan han rör vid hans näsa.",
+        "hypothesis": "Mannen testar cykeln.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man i en tunika i ett stycke cyklar framför en sandstensvägg medan han rör vid hans näsa.",
+        "hypothesis": "Mannen kör lastbil.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man i en tunika i ett stycke cyklar framför en sandstensvägg medan han rör vid hans näsa.",
+        "hypothesis": "Mannen cyklar.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kille och en tjej tittar nerför en bergskedja.",
+        "hypothesis": "Folket tittar på bergen.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kille och en tjej tittar nerför en bergskedja.",
+        "hypothesis": "Paret ska bestiga bergen.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kille och en tjej tittar nerför en bergskedja.",
+        "hypothesis": "Människorna tittar upp i himlen.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man sitter i den gröna stolen, pratar i telefon och arbetar på den bärbara datorn, och det finns en byggarbetsplats bredvid hans byggnad.",
+        "hypothesis": "Mannen går nervöst.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man sitter i den gröna stolen, pratar i telefon och arbetar på den bärbara datorn, och det finns en byggarbetsplats bredvid hans byggnad.",
+        "hypothesis": "Mannen hör hur bygget pågår.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man sitter i den gröna stolen, pratar i telefon och arbetar på den bärbara datorn, och det finns en byggarbetsplats bredvid hans byggnad.",
+        "hypothesis": "En man kan är i telefon.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En pojke slår en tennisboll på en bana.",
+        "hypothesis": "En tjej slår bollen.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En pojke slår en tennisboll på en bana.",
+        "hypothesis": "Pojken är bra på tennis.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En pojke slår en tennisboll på en bana.",
+        "hypothesis": "En pojke slår en boll.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En golden retriever sköter valpar.",
+        "hypothesis": "En golden retriever ammar några andra hundvalpar",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En golden retriever sköter valpar.",
+        "hypothesis": "Valpar bredvid sin mamma",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En golden retriever sköter valpar.",
+        "hypothesis": "En katt sköter valpar",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En ung man i en tung brun vinterrock står framför ett blått räcke med armarna utspridda.",
+        "hypothesis": "Den unge mannen är hemma hos sin mormor.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung man i en tung brun vinterrock står framför ett blått räcke med armarna utspridda.",
+        "hypothesis": "Räcket ligger framför en frusen sjö.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung man i en tung brun vinterrock står framför ett blått räcke med armarna utspridda.",
+        "hypothesis": "Mannen breder ut armarna medan han står framför ett räcke.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En svart man bär en dunjacka med armarna utspridda och håller i en rosa kam.",
+        "hypothesis": "En man bar jacka på vintern.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En svart man bär en dunjacka med armarna utspridda och håller i en rosa kam.",
+        "hypothesis": "Någon klädd i bomullsskjorta tittade på en grön hårkam.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En svart man bär en dunjacka med armarna utspridda och håller i en rosa kam.",
+        "hypothesis": "En man bar en jacka medan han höll i en kam.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man i brun jacka står med armarna utspridda.",
+        "hypothesis": "Mannen vädjar om nåd.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man i brun jacka står med armarna utspridda.",
+        "hypothesis": "Mannen är upprätt.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man i brun jacka står med armarna utspridda.",
+        "hypothesis": "Mannen sitter i kors på golvet.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man som bär en röd väst går förbi ett svart och grönt staket.",
+        "hypothesis": "Mannen som bär västen går nerför gatan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man som bär en röd väst går förbi ett svart och grönt staket.",
+        "hypothesis": "En man bär en väst.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man som bär en röd väst går förbi ett svart och grönt staket.",
+        "hypothesis": "Mannen som bär västen sitter i soffan.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "De här tjejerna har det bra när de letar efter snäckskal.",
+        "hypothesis": "Tjejerna är glada.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "De här tjejerna har det bra när de letar efter snäckskal.",
+        "hypothesis": "Tjejerna tar en tupplur.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "De här tjejerna har det bra när de letar efter snäckskal.",
+        "hypothesis": "Tjejerna är utanför.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man spelar saxofon på gatan och några personer sitter på trottoarkanten bredvid gatan vid honom.",
+        "hypothesis": "En man spelar ett instrument på gatan nära andra människor.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man spelar saxofon på gatan och några personer sitter på trottoarkanten bredvid gatan vid honom.",
+        "hypothesis": "En man försöker tjäna pengar genom att spela för andra människor på gatan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man spelar saxofon på gatan och några personer sitter på trottoarkanten bredvid gatan vid honom.",
+        "hypothesis": "En kvinna flyger över landet.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En stående man pratar med en sittande kvinna på något slags fordon.",
+        "hypothesis": "Två personer pratar.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En stående man pratar med en sittande kvinna på något slags fordon.",
+        "hypothesis": "Tre personer har ett möte.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En stående man pratar med en sittande kvinna på något slags fordon.",
+        "hypothesis": "Två personer diskuterar sin relation.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung pojke med kortklippt hår, iklädd en röd mantel, håller i en svart vattenkokare när någon ska hälla något i den.",
+        "hypothesis": "en liten pojke springer genom majsfältet",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En ung pojke med kortklippt hår, iklädd en röd mantel, håller i en svart vattenkokare när någon ska hälla något i den.",
+        "hypothesis": "en liten pojke håller i en vattenkokare som snart ska fyllas med salsa",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung pojke med kortklippt hår, iklädd en röd mantel, håller i en svart vattenkokare när någon ska hälla något i den.",
+        "hypothesis": "en liten pojke håller i en vattenkokare som snart ska fyllas",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Fyra personer och en baby korsar gatan vid ett övergångsställe.",
+        "hypothesis": "Människor och en bebis som åker bussen.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Fyra personer och en baby korsar gatan vid ett övergångsställe.",
+        "hypothesis": "Människor och en baby som korsar gatan.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Fyra personer och en baby korsar gatan vid ett övergångsställe.",
+        "hypothesis": "Människor och en baby korsar gatan vid ett övergångsställe för att ta sig hem.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Två kvinnor som bär klänningar står utanför på gräset medan en av dem håller en kopp och ett fat.",
+        "hypothesis": "Två personer står på gräset.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Två kvinnor som bär klänningar står utanför på gräset medan en av dem håller en kopp och ett fat.",
+        "hypothesis": "Två kvinnor i klänning gör sig redo för picknicken.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Två kvinnor som bär klänningar står utanför på gräset medan en av dem håller en kopp och ett fat.",
+        "hypothesis": "Kvinnorna har ett samtal på kontoret,",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kvinna lutar sig över ett litet staket för att ta en bild av en gul blomma.",
+        "hypothesis": "Kvinnan är en professionell fotograf",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna lutar sig över ett litet staket för att ta en bild av en gul blomma.",
+        "hypothesis": "Blomman är blå",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kvinna lutar sig över ett litet staket för att ta en bild av en gul blomma.",
+        "hypothesis": "En kvinna tar bilder",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En grupp på fyra barn poserar på en lerig strand, ler och gör miner.",
+        "hypothesis": "Fyra barn poserar på en strand.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En grupp på fyra barn poserar på en lerig strand, ler och gör miner.",
+        "hypothesis": "Fyra barn poserar under sommarlovet.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En grupp på fyra barn poserar på en lerig strand, ler och gör miner.",
+        "hypothesis": "En man rör i grytan.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Flera män på en bar tittar på en sportmatch på tv.",
+        "hypothesis": "Några män tittar på TV på en bar.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Flera män på en bar tittar på en sportmatch på tv.",
+        "hypothesis": "Det finns män som dricker öl på en sportbar.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Flera män på en bar tittar på en sportmatch på tv.",
+        "hypothesis": "Männen är på en basebollmatch.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två vägarbetare med limegröna skyddsjackor, vita hårda hattar och handskar på med byggkoner i bakgrunden",
+        "hypothesis": "Två män bär limegröna jackor.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Två vägarbetare med limegröna skyddsjackor, vita hårda hattar och handskar på med byggkoner i bakgrunden",
+        "hypothesis": "Två män placerar ut konstruktionskoner inför en ny rörledningsbyggnad.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Två vägarbetare med limegröna skyddsjackor, vita hårda hattar och handskar på med byggkoner i bakgrunden",
+        "hypothesis": "En kvinna tuktar en annan.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kvinna i en svart outfit ligger med ansiktet först på en yogamatta; flera målningar hängs på väggen, och solen skiner genom ett stort fönster nära henne.",
+        "hypothesis": "En konstnär kopplar av i sin ateljé.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna i en svart outfit ligger med ansiktet först på en yogamatta; flera målningar hängs på väggen, och solen skiner genom ett stort fönster nära henne.",
+        "hypothesis": "Det finns en person i ett rum.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kvinna i en svart outfit ligger med ansiktet först på en yogamatta; flera målningar hängs på väggen, och solen skiner genom ett stort fönster nära henne.",
+        "hypothesis": "En kvinna sover medan månskenet silar in i fönstret.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Barn i gula sportuniformer som klättrar i ett torn.",
+        "hypothesis": "Barnen är kampsportstudenter.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Barn i gula sportuniformer som klättrar i ett torn.",
+        "hypothesis": "Barnen kryper i sanden.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Barn i gula sportuniformer som klättrar i ett torn.",
+        "hypothesis": "Barn i uniform klättrar upp i ett torn.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Några hundar springer på en öde strand.",
+        "hypothesis": "De är på Hawaii.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Några hundar springer på en öde strand.",
+        "hypothesis": "Det finns bara en hund på stranden.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Några hundar springer på en öde strand.",
+        "hypothesis": "Det finns flera hundar närvarande.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En fullsatt stadsgata med massor av fotgängare.",
+        "hypothesis": "Det är många motorcyklister på denna väg.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En fullsatt stadsgata med massor av fotgängare.",
+        "hypothesis": "Det finns många fotgängare på stadsgatan.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En fullsatt stadsgata med massor av fotgängare.",
+        "hypothesis": "Fotgängarna väntar på att en parad ska komma genom denna livliga gata.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna som bär en ljus orange blus väver.",
+        "hypothesis": "En kvinna bär en ljus orange blus och en grön hatt.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna som bär en ljus orange blus väver.",
+        "hypothesis": "En kvinna stryker röda byxor.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kvinna som bär en ljus orange blus väver.",
+        "hypothesis": "En kvinna väver.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En grupp människor befinner sig i en roddbåt i havet omgiven av måsar.",
+        "hypothesis": "En grupp människor är inne och tittar på en hockeymatch.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En grupp människor befinner sig i en roddbåt i havet omgiven av måsar.",
+        "hypothesis": "Ett gäng människor befinner sig i ett träföremål på vattnet.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En grupp människor befinner sig i en roddbåt i havet omgiven av måsar.",
+        "hypothesis": "En grupp människor ror mot några öar medan en av dem fiskar.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna i brun skjorta står på knä på gatan.",
+        "hypothesis": "En kvinna protesterar på gatan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna i brun skjorta står på knä på gatan.",
+        "hypothesis": "En kvinna står på marken utanför.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kvinna i brun skjorta står på knä på gatan.",
+        "hypothesis": "En kvinna cyklar.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man som håller en bebis som klappar en ponny.",
+        "hypothesis": "En man som kidnappar en bebis klappar en ponny.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man som håller en bebis som klappar en ponny.",
+        "hypothesis": "En man med en bebis klappar en ponny.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man som håller en bebis som klappar en ponny.",
+        "hypothesis": "En man och hans dotter klappar en ponny.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Män som sitter på sidan av en tegelväg.",
+        "hypothesis": "jag sitter vid sidan av en väg",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Män som sitter på sidan av en tegelväg.",
+        "hypothesis": "sidan av vägen är tom.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Män som sitter på sidan av en tegelväg.",
+        "hypothesis": "män pratar vid sidan av vägen",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En svart hund med blå halsband hoppar i vattnet.",
+        "hypothesis": "En hund kommer att bli blöt.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En svart hund med blå halsband hoppar i vattnet.",
+        "hypothesis": "En svart hund som bär ett blått halsband jagar något i vattnet.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En svart hund med blå halsband hoppar i vattnet.",
+        "hypothesis": "En hund undviker vattnet.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En ung flicka i en gul topp och en blommig kjol står på en filt och biter på en leksak.",
+        "hypothesis": "En tjej står.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En ung flicka i en gul topp och en blommig kjol står på en filt och biter på en leksak.",
+        "hypothesis": "En tjej står utanför.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung flicka i en gul topp och en blommig kjol står på en filt och biter på en leksak.",
+        "hypothesis": "Alla sitter.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "många barn leker i vattnet.",
+        "hypothesis": "Barnen är på läger.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "många barn leker i vattnet.",
+        "hypothesis": "Vissa barn plaskar i vattnet och interagerar med varandra.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "många barn leker i vattnet.",
+        "hypothesis": "Barnen spelar minigolf.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En grupp barn plaskar på djupt vatten i närheten av en klippformation.",
+        "hypothesis": "Barnen sjunger i kör",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En grupp barn plaskar på djupt vatten i närheten av en klippformation.",
+        "hypothesis": "Barnen är på djupt vatten",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En grupp barn plaskar på djupt vatten i närheten av en klippformation.",
+        "hypothesis": "De har flytvästar på sig",
+        "answer": "neutral"
+    },
+    {
+        "premise": "en klättrare som bär ett rött pannband drar sig uppför några grå stenar högt ovanför något grönt bladverk.",
+        "hypothesis": "En kvinnlig klättrare försöker ta sig upp",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "en klättrare som bär ett rött pannband drar sig uppför några grå stenar högt ovanför något grönt bladverk.",
+        "hypothesis": "En klättrare drar sig uppför några stenar",
+        "answer": "medföring"
+    },
+    {
+        "premise": "en klättrare som bär ett rött pannband drar sig uppför några grå stenar högt ovanför något grönt bladverk.",
+        "hypothesis": "En klättrare drar sig upp 5000 fot upp över en skog",
+        "answer": "neutral"
+    },
+    {
+        "premise": "en man med ett rött pannband som klättrar på en klippa som skymtar över grönska.",
+        "hypothesis": "En man är utomhus.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "en man med ett rött pannband som klättrar på en klippa som skymtar över grönska.",
+        "hypothesis": "En man har klätterkläder på sig.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "en man med ett rött pannband som klättrar på en klippa som skymtar över grönska.",
+        "hypothesis": "En man simmar i havet.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Två formellt klädda, skalliga äldre kvinnor",
+        "hypothesis": "Två skalliga kvinnor.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Två formellt klädda, skalliga äldre kvinnor",
+        "hypothesis": "Två skalliga kvinnor med glasögon.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Två formellt klädda, skalliga äldre kvinnor",
+        "hypothesis": "Två långhåriga unga kvinnor.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En hemlös man skjuter en överfylld blå plastvagn.",
+        "hypothesis": "En man har en kundvagn",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En hemlös man skjuter en överfylld blå plastvagn.",
+        "hypothesis": "En man samlar på burkar för att återvinna",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En hemlös man skjuter en överfylld blå plastvagn.",
+        "hypothesis": "En rik man som håller en rolex",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "en gammal skomakare i sin fabrik",
+        "hypothesis": "Skomakaren är inne.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "en gammal skomakare i sin fabrik",
+        "hypothesis": "Skomakaren gör sig redo för sin 16-årsdag.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "en gammal skomakare i sin fabrik",
+        "hypothesis": "Skomakaren är rik.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En blond kvinna talar med en grupp unga mörkhåriga kvinnliga studenter som bär papper.",
+        "hypothesis": "En kvinna pratar med andra kvinnor.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En blond kvinna talar med en grupp unga mörkhåriga kvinnliga studenter som bär papper.",
+        "hypothesis": "En blondin pratar med en grupp unga mörkhåriga studenter som bär papper.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En blond kvinna talar med en grupp unga mörkhåriga kvinnliga studenter som bär papper.",
+        "hypothesis": "En man slår på en kvinna.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Kvinnan i den svarta skjortan lämnar papper till barnen som omger henne.",
+        "hypothesis": "Någon ger ut papper.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Kvinnan i den svarta skjortan lämnar papper till barnen som omger henne.",
+        "hypothesis": "Kvinnan ger läxor till barnen.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Kvinnan i den svarta skjortan lämnar papper till barnen som omger henne.",
+        "hypothesis": "Kvinnan håller tidningen för sig själv.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Flicka i rött hoppar upp",
+        "hypothesis": "Flickan hoppar för att fånga frisbeen.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Flicka i rött hoppar upp",
+        "hypothesis": "Flickan sitter på gräset.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Flicka i rött hoppar upp",
+        "hypothesis": "Flickan i rött är i luften.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "3 damer med nummer på sina tröjor igång.",
+        "hypothesis": "Det är damer som springer.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "3 damer med nummer på sina tröjor igång.",
+        "hypothesis": "Damerna cyklar.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "3 damer med nummer på sina tröjor igång.",
+        "hypothesis": "Damerna är i ett maratonlopp.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung pojke går på ett rör som sträcker sig över vatten.",
+        "hypothesis": "En pojke gör en submacka i sitt kök.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En ung pojke går på ett rör som sträcker sig över vatten.",
+        "hypothesis": "En pojke går utanför.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En ung pojke går på ett rör som sträcker sig över vatten.",
+        "hypothesis": "En pojke riskerar att falla i vattnet.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung pojke i gröna shorts balanserar på ett rör ovanför en flod.",
+        "hypothesis": "Ingen balanserar.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En ung pojke i gröna shorts balanserar på ett rör ovanför en flod.",
+        "hypothesis": "En smart person som balanserar.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung pojke i gröna shorts balanserar på ett rör ovanför en flod.",
+        "hypothesis": "En person som balanserar.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En ung man som är svart och bär en skateboard tittar på en utomhus skateboardpark.",
+        "hypothesis": "En kille med en skateboard tittar på en park för att åka skateboard.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En ung man som är svart och bär en skateboard tittar på en utomhus skateboardpark.",
+        "hypothesis": "En tjej med hästsvans cyklar i en park.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En ung man som är svart och bär en skateboard tittar på en utomhus skateboardpark.",
+        "hypothesis": "En kille ska åka skateboard idag.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Ung pojke som bär pyjamas liggandes i sängen och sover på en färgglad randig kudde.",
+        "hypothesis": "En ung pojke spelar fotboll.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Ung pojke som bär pyjamas liggandes i sängen och sover på en färgglad randig kudde.",
+        "hypothesis": "En ung pojke sover vid en sleep over.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Ung pojke som bär pyjamas liggandes i sängen och sover på en färgglad randig kudde.",
+        "hypothesis": "En ung pojke sover på en kudde.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En man i en t-shirt med blå krage poserar mot någon medan han håller i en hebreisk tidning.",
+        "hypothesis": "Han har tidningen på sig.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man i en t-shirt med blå krage poserar mot någon medan han håller i en hebreisk tidning.",
+        "hypothesis": "Han läser tidningen.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man i en t-shirt med blå krage poserar mot någon medan han håller i en hebreisk tidning.",
+        "hypothesis": "Han är jude.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En skäggig man hoppar i snön med havet i bakgrunden och en orange, liggande cykel parkerad nära en vägskylt.",
+        "hypothesis": "En människa som hoppar.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En skäggig man hoppar i snön med havet i bakgrunden och en orange, liggande cykel parkerad nära en vägskylt.",
+        "hypothesis": "Ingen hoppar.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En skäggig man hoppar i snön med havet i bakgrunden och en orange, liggande cykel parkerad nära en vägskylt.",
+        "hypothesis": "En lång människa hoppar.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Fyra barn leker i lite vatten.",
+        "hypothesis": "Barnen är leriga.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Fyra barn leker i lite vatten.",
+        "hypothesis": "Barnen är blöta.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Fyra barn leker i lite vatten.",
+        "hypothesis": "Barnen gör sysslor.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Fyra unga flickor som leker i vattnet.",
+        "hypothesis": "Fyra flickor är i vattnet.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Fyra unga flickor som leker i vattnet.",
+        "hypothesis": "Det finns pojkar och flickor i vattnet.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Fyra unga flickor som leker i vattnet.",
+        "hypothesis": "Fyra tjejer simmar.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Mannen i den svarta t-shirten försöker kasta något.",
+        "hypothesis": "Mannen går iväg.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Mannen i den svarta t-shirten försöker kasta något.",
+        "hypothesis": "Mannen är i en svart skjorta.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Mannen i den svarta t-shirten försöker kasta något.",
+        "hypothesis": "Mannen kastar något till sin son.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung pojke i gul långärmad skjorta och jeans sitter ner, med fem vuxna framför sig, en som använder en videokamera.",
+        "hypothesis": "Någon spelar in en ung pojke när han provspelar för en roll i en film.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung pojke i gul långärmad skjorta och jeans sitter ner, med fem vuxna framför sig, en som använder en videokamera.",
+        "hypothesis": "En ung pojke som jonglerar med tre röda bollar med ögonbindel.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En ung pojke i gul långärmad skjorta och jeans sitter ner, med fem vuxna framför sig, en som använder en videokamera.",
+        "hypothesis": "En vuxen som använder en videokamera.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Pojkar med ryggen mot en inkommande våg.",
+        "hypothesis": "En grupp människor leker i havet.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Pojkar med ryggen mot en inkommande våg.",
+        "hypothesis": "En grupp människor står tillsammans.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Pojkar med ryggen mot en inkommande våg.",
+        "hypothesis": "En grupp människor sitter på stranden.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Fyra pojkar är på väg att träffas av en annalkande våg.",
+        "hypothesis": "En våg handlar om att träffa några pojkar.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Fyra pojkar är på väg att träffas av en annalkande våg.",
+        "hypothesis": "Vågen saknade pojkarna.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Fyra pojkar är på väg att träffas av en annalkande våg.",
+        "hypothesis": "En jättevåg är på väg att slå mot några pojkar.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En kvinna som står bakom en tjej och hjälper flickan med ett experiment.",
+        "hypothesis": "En mamma hjälper sitt barn att slutföra experimentet.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En kvinna som står bakom en tjej och hjälper flickan med ett experiment.",
+        "hypothesis": "En kvinna hjälper en flicka.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En dam hjälper en annan kvinna att arbeta i ett silverfack, vilket med största sannolikhet är relaterat till sjuksköterskearbete.",
+        "hypothesis": "En dam sover på en soffa",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En dam hjälper en annan kvinna att arbeta i ett silverfack, vilket med största sannolikhet är relaterat till sjuksköterskearbete.",
+        "hypothesis": "En kvinna hjälper en annan kvinna att arbeta",
+        "answer": "medföring"
+    },
+    {
+        "premise": "En dam hjälper en annan kvinna att arbeta i ett silverfack, vilket med största sannolikhet är relaterat till sjuksköterskearbete.",
+        "hypothesis": "Två kvinnor försöker avsluta beställningar från en läkare",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man, klädd i en blå jacka, sparkar en annan man, klädd i en röd jacka.",
+        "hypothesis": "Två män slåss utanför en bar.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En man, klädd i en blå jacka, sparkar en annan man, klädd i en röd jacka.",
+        "hypothesis": "En kvinna sminkar sig",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man, klädd i en blå jacka, sparkar en annan man, klädd i en röd jacka.",
+        "hypothesis": "En kille sparkar en annan.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Många människor samlades i ett rum med flera personer på scen med instrument och orden \"The Early November\" på väggen.",
+        "hypothesis": "Föräldrar samlas för en lokal gymnasiekonsert",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Många människor samlades i ett rum med flera personer på scen med instrument och orden \"The Early November\" på väggen.",
+        "hypothesis": "Mob samlas medan flöjter slåss till döden",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Många människor samlades i ett rum med flera personer på scen med instrument och orden \"The Early November\" på väggen.",
+        "hypothesis": "Folk går då konserten bestämmer sig för att ta betalt per ton",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En hockeyspelare i hjälm.",
+        "hypothesis": "Spelare bär hjälm.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En hockeyspelare i hjälm.",
+        "hypothesis": "Spelarna tar vila.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En hockeyspelare i hjälm.",
+        "hypothesis": "De spelar hockey",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Man klädd i blå pilbåge på golvet framför en annan man i blått bugning på golvet med två andra män i blått på knä på samma våning också.",
+        "hypothesis": "En man har på sig något.",
+        "answer": "medföring"
+    },
+    {
+        "premise": "Man klädd i blå pilbåge på golvet framför en annan man i blått bugning på golvet med två andra män i blått på knä på samma våning också.",
+        "hypothesis": "En man har ingenting på sig.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Man klädd i blå pilbåge på golvet framför en annan man i blått bugning på golvet med två andra män i blått på knä på samma våning också.",
+        "hypothesis": "En man bär en blå skjorta.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Cykelcyklist genom skogen.",
+        "hypothesis": "Mountainbike tävlar i terränglopp.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Cykelcyklist genom skogen.",
+        "hypothesis": "Man rider motorcykel på motorvägen.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Cykelcyklist genom skogen.",
+        "hypothesis": "Mountainbike njuter av de lokala stigarna.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung man i blå T-shirt och träningsbyxor står över en spis och tittar i kameran medan en annan ung man står bakom honom.",
+        "hypothesis": "Två män spelar in en matlagningsguide.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En ung man i blå T-shirt och träningsbyxor står över en spis och tittar i kameran medan en annan ung man står bakom honom.",
+        "hypothesis": "två män är vid poolen.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "par som njuter av en måltid medan ett gäng hundar tar en tupplur.",
+        "hypothesis": "PARET ÄTER Biff",
+        "answer": "neutral"
+    },
+    {
+        "premise": "par som njuter av en måltid medan ett gäng hundar tar en tupplur.",
+        "hypothesis": "DET ÄR ETT PAR SOM GÅR MED SINA HUNDAR",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En vit anka expanderar sina vingar i vattnet.",
+        "hypothesis": "Ankan är en sällsynt ras, de flesta tros ha drivits till utrotning för flera år sedan.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En vit anka expanderar sina vingar i vattnet.",
+        "hypothesis": "Ankan sover gott och flyter ovanpå vattnet",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kvinna klädd i jeans går nerför gatan.",
+        "hypothesis": "En äldre kvinna med käpp sitter på en stol.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En kvinna klädd i jeans går nerför gatan.",
+        "hypothesis": "En kvinna går mot en busshållplats.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En grupp människor står nära och på en stor svart fyrkant på marken med någon gul skrift på.",
+        "hypothesis": "en grupp människor väntar",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En grupp människor står nära och på en stor svart fyrkant på marken med någon gul skrift på.",
+        "hypothesis": "en person ligger på soffan",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En grupp människor står nära och på en stor svart fyrkant på marken med någon gul skrift på.",
+        "hypothesis": "en grupp människor står",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En folkmassa tittar på en grupp män i kostym med portföljer gå i formation nerför gatan ledd av en kvinna som håller i en skylt.",
+        "hypothesis": "På skylten kvinnan håller står det att \"Frihet är gratis\".",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En folkmassa tittar på en grupp män i kostym med portföljer gå i formation nerför gatan ledd av en kvinna som håller i en skylt.",
+        "hypothesis": "En grupp människor utklädda till clowner promenerar in i Bigtop Circus med skyltar.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "Den lilla pojken gör sig redo att sparka fotbollen.",
+        "hypothesis": "pojken är tio år gammal",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Den lilla pojken gör sig redo att sparka fotbollen.",
+        "hypothesis": "pojken sover hemma",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man och kvinna sitter på trottoaren.",
+        "hypothesis": "Mannen och kvinnan står.",
+        "answer": "motsägelse"
+    },
+    {
+        "premise": "En man och kvinna sitter på trottoaren.",
+        "hypothesis": "Mannen och kvinnan är gifta.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "En hona i förgrunden är på väg mot en stor vit pelare som ligger utanför en stor byggnad med människor som slentrior eller väntar på trappan till nämnda byggnad.",
+        "hypothesis": "En hund springer uppför trappan i en byggnad.",
+        "answer": "motsägelse"
+    }
+]

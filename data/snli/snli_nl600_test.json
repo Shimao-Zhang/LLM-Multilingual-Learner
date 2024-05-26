@@ -1,0 +1,3002 @@
+[
+    {
+        "premise": "Dit kerkkoor zingt voor de massa terwijl ze in een kerk vrolijke liederen uit het boek zingen.",
+        "hypothesis": "De kerk heeft scheuren in het plafond.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Dit kerkkoor zingt voor de massa terwijl ze in een kerk vrolijke liederen uit het boek zingen.",
+        "hypothesis": "De kerk is gevuld met zang.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Dit kerkkoor zingt voor de massa terwijl ze in een kerk vrolijke liederen uit het boek zingen.",
+        "hypothesis": "Een koor dat zingt tijdens een honkbalwedstrijd.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vrouw met een groene hoofddoek, blauw shirt en een hele grote grijns.",
+        "hypothesis": "De vrouw is jong.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw met een groene hoofddoek, blauw shirt en een hele grote grijns.",
+        "hypothesis": "De vrouw is erg blij.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een vrouw met een groene hoofddoek, blauw shirt en een hele grote grijns.",
+        "hypothesis": "De vrouw is neergeschoten.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een oude man met een pakje poseert voor een advertentie.",
+        "hypothesis": "Een man poseert voor een advertentie.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een oude man met een pakje poseert voor een advertentie.",
+        "hypothesis": "Een man poseert voor een advertentie voor bier.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een oude man met een pakje poseert voor een advertentie.",
+        "hypothesis": "Er loopt een man langs een advertentie.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een standbeeld in een museum waar niemand naar lijkt te kijken.",
+        "hypothesis": "Het beeld is aanstootgevend en mensen zijn boos dat het tentoongesteld wordt.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een standbeeld in een museum waar niemand naar lijkt te kijken.",
+        "hypothesis": "Er staat een standbeeld waar niet veel mensen in geïnteresseerd lijken te zijn.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een standbeeld in een museum waar niemand naar lijkt te kijken.",
+        "hypothesis": "Talloze mensen hebben zich rond het standbeeld verzameld.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een landrover wordt over een rivier gereden.",
+        "hypothesis": "Een Land Rover spettert water terwijl hij een rivier oversteekt.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een landrover wordt over een rivier gereden.",
+        "hypothesis": "Een voertuig steekt een rivier over.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een landrover wordt over een rivier gereden.",
+        "hypothesis": "Een sedan zit vast midden in een rivier.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man die een elektrische gitaar speelt op het podium.",
+        "hypothesis": "Een man speelt banjo op de grond.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man die een elektrische gitaar speelt op het podium.",
+        "hypothesis": "Een man die gitaar speelt op het podium.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man die een elektrische gitaar speelt op het podium.",
+        "hypothesis": "Een man treedt op voor geld.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een blondharige dokter en haar Afro-Amerikaanse assistent gooiden nieuwe medische handleidingen.",
+        "hypothesis": "Een dokter kijkt naar een boek",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een blondharige dokter en haar Afro-Amerikaanse assistent gooiden nieuwe medische handleidingen.",
+        "hypothesis": "Een man eet pb en j",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een blondharige dokter en haar Afro-Amerikaanse assistent gooiden nieuwe medische handleidingen.",
+        "hypothesis": "Een dokter studeert",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een lichtbruin meisje met een wollen hoed rent en leunt over een voorwerp, terwijl een ander persoon met een wollen hoed op de grond zit.",
+        "hypothesis": "Een jongen loopt tegen een muur aan",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een lichtbruin meisje met een wollen hoed rent en leunt over een voorwerp, terwijl een ander persoon met een wollen hoed op de grond zit.",
+        "hypothesis": "Een bruin meisje rent en leunt over een voorwerp",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een lichtbruin meisje met een wollen hoed rent en leunt over een voorwerp, terwijl een ander persoon met een wollen hoed op de grond zit.",
+        "hypothesis": "Een man ziet zijn dochter springen",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jong gezin geniet ervan de golven van de oceaan aan hun voeten te voelen klotsen.",
+        "hypothesis": "Een jonge man en vrouw nemen hun kind voor het eerst mee naar het strand.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jong gezin geniet ervan de golven van de oceaan aan hun voeten te voelen klotsen.",
+        "hypothesis": "Een gezin is uit in een restaurant.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een jong gezin geniet ervan de golven van de oceaan aan hun voeten te voelen klotsen.",
+        "hypothesis": "Er is een gezin op het strand.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een echtpaar loopt hand in hand door een straat.",
+        "hypothesis": "Een stel loopt samen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een echtpaar loopt hand in hand door een straat.",
+        "hypothesis": "Het echtpaar is getrouwd.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een echtpaar loopt hand in hand door een straat.",
+        "hypothesis": "Op een bankje zit een echtpaar.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "3 jonge mannen met capuchons staan midden in een rustige straat en kijken naar de camera.",
+        "hypothesis": "Drie mensen zitten blootshoofds aan een drukke straat.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "3 jonge mannen met capuchons staan midden in een rustige straat en kijken naar de camera.",
+        "hypothesis": "Drie mensen met capuchon poseren voor een foto.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "3 jonge mannen met capuchons staan midden in een rustige straat en kijken naar de camera.",
+        "hypothesis": "Drie mensen met capuchons staan in een straat.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man leest de krant in een bar met groene verlichting.",
+        "hypothesis": "De man is binnen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man leest de krant in een bar met groene verlichting.",
+        "hypothesis": "De man leest de sportpagina.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man leest de krant in een bar met groene verlichting.",
+        "hypothesis": "De man beklimt een berg.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Drie brandweerlieden komen uit het metrostation.",
+        "hypothesis": "Drie brandweerlieden blussen een brand in een metrostation.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Drie brandweerlieden komen uit het metrostation.",
+        "hypothesis": "Drie brandweerlieden komen uit een metrostation.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Drie brandweerlieden komen uit het metrostation.",
+        "hypothesis": "Drie brandweerlieden die kaarten spelen in een brandweerkazerne.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een persoon met een strooien hoed die buiten aan een stalen apparaat staat en een stapel kokosnoten op de grond heeft liggen.",
+        "hypothesis": "Een persoon staat in de buurt van een stapel kokosnoten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een persoon met een strooien hoed die buiten aan een stalen apparaat staat en een stapel kokosnoten op de grond heeft liggen.",
+        "hypothesis": "Iemand verkoopt kokosnoten.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een persoon met een strooien hoed die buiten aan een stalen apparaat staat en een stapel kokosnoten op de grond heeft liggen.",
+        "hypothesis": "Een persoon verbrandt een strohoed.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Mannetje in een blauw jasje besluit in het gras te gaan liggen.",
+        "hypothesis": "De man in het geel rolt over het gras",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Mannetje in een blauw jasje besluit in het gras te gaan liggen.",
+        "hypothesis": "De man met een blauw jasje ligt op het groene gras",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Mannetje in een blauw jasje besluit in het gras te gaan liggen.",
+        "hypothesis": "De man met een blauw jasje ligt op het groene gras een dutje te doen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Tijdens het touwtrekken van de kalveren roept een cowboy zijn paard af.",
+        "hypothesis": "Een touwslager valt voor het eerst van zijn paard.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Tijdens het touwtrekken van de kalveren roept een cowboy zijn paard af.",
+        "hypothesis": "Een man bindt met succes een kalf vast.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een kleine jongen in een grijs-wit gestreepte trui en lichtbruine broek speelt op een speeltoestel.",
+        "hypothesis": "Een jongen is op een speelplaats.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een kleine jongen in een grijs-wit gestreepte trui en lichtbruine broek speelt op een speeltoestel.",
+        "hypothesis": "De jongen speelt na school op de schommels.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een kleine jongen in een grijs-wit gestreepte trui en lichtbruine broek speelt op een speeltoestel.",
+        "hypothesis": "De jongen zit in de schoolbus op weg naar huis.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vrouw met een kogelmuts hurkt op haar hurken om de gebarsten aarde aan te raken.",
+        "hypothesis": "Een archeoloog met een hoed op hurkt om de locatie te onderzoeken op opgravingen",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw met een kogelmuts hurkt op haar hurken om de gebarsten aarde aan te raken.",
+        "hypothesis": "Een gehurkte vrouw met een hoed die de grond raakt.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een vrouw met een kogelmuts hurkt op haar hurken om de gebarsten aarde aan te raken.",
+        "hypothesis": "Een vrouw met een zonnekap die een tuin aanplant.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee kinderen liggen op een kleed met een paar houten stenen in een vierkant ertussen.",
+        "hypothesis": "Twee kinderen bouwen een steenoven.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Twee kinderen liggen op een kleed met een paar houten stenen in een vierkant ertussen.",
+        "hypothesis": "Twee kinderen spelen vangst in een park.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee kinderen liggen op een kleed met een paar houten stenen in een vierkant ertussen.",
+        "hypothesis": "Twee kinderen liggen op een kleed.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man staat voor een gebouw aan de telefoon terwijl twee mannen aan de zijkant pijn aan de zijkant hebben.",
+        "hypothesis": "een man bij een gebouw staat naast twee andere mannen",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man staat voor een gebouw aan de telefoon terwijl twee mannen aan de zijkant pijn aan de zijkant hebben.",
+        "hypothesis": "twee meisjes lopen door een hal",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man staat voor een gebouw aan de telefoon terwijl twee mannen aan de zijkant pijn aan de zijkant hebben.",
+        "hypothesis": "een drukke man staat met lijfwachten",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "De twee jonge meisjes zijn verkleed als feeën en spelen buiten in de bladeren.",
+        "hypothesis": "Meisjes spelen buiten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "De twee jonge meisjes zijn verkleed als feeën en spelen buiten in de bladeren.",
+        "hypothesis": "Twee meisjes spelen binnenshuis verkleedpartijen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "De twee jonge meisjes zijn verkleed als feeën en spelen buiten in de bladeren.",
+        "hypothesis": "De twee meisjes spelen in de herfst.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Mensen springen aan een touw over een bergspleet.",
+        "hypothesis": "Sommige mensen zien er visueel bang uit om te springen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Mensen springen aan een touw over een bergspleet.",
+        "hypothesis": "Mensen springen naar buiten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Mensen springen aan een touw over een bergspleet.",
+        "hypothesis": "Mensen glijden over een bergspleet op een glijbaan.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een snowboarder op een brede sneeuwvlakte",
+        "hypothesis": "Een sneeuwveld met een snowboarder erop",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een snowboarder op een brede sneeuwvlakte",
+        "hypothesis": "Een snowboarder die over een sneeuwveld glijdt",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een snowboarder op een brede sneeuwvlakte",
+        "hypothesis": "Een sneeuwscooter in een sneeuwstorm",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een oudere vrouw die een tuin onderhoudt.",
+        "hypothesis": "De dame kookt het avondeten",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een oudere vrouw die een tuin onderhoudt.",
+        "hypothesis": "De dame is haar tuin aan het wieden",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een oudere vrouw die een tuin onderhoudt.",
+        "hypothesis": "De dame heeft een tuin",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man in een zwart shirt met uitzicht op fietsonderhoud.",
+        "hypothesis": "Een man vernielt een fiets.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man in een zwart shirt met uitzicht op fietsonderhoud.",
+        "hypothesis": "Een man kijkt naar fietsreparaties.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man in een zwart shirt met uitzicht op fietsonderhoud.",
+        "hypothesis": "Een man leert fietsonderhoud.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man in een zwart shirt kijkt naar een fiets in een werkplaats.",
+        "hypothesis": "Een man draagt een rood shirt",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man in een zwart shirt kijkt naar een fiets in een werkplaats.",
+        "hypothesis": "Een man draagt een zwart shirt",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man in een zwart shirt kijkt naar een fiets in een werkplaats.",
+        "hypothesis": "Een man besluit welke fiets hij wil kopen",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man kijkt over het achterwiel van een fiets in de onderhoudsgarage met op de achtergrond diverse gereedschappen zichtbaar.",
+        "hypothesis": "Er staat een persoon in een garage.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man kijkt over het achterwiel van een fiets in de onderhoudsgarage met op de achtergrond diverse gereedschappen zichtbaar.",
+        "hypothesis": "Een man repareert fietsen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man kijkt over het achterwiel van een fiets in de onderhoudsgarage met op de achtergrond diverse gereedschappen zichtbaar.",
+        "hypothesis": "Buiten een garage wacht een man.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Op een station zitten drie mensen op een bankje, de man kijkt vreemd naar de twee vrouwen, de roodharige vrouwen kijken in een ongemakkelijke houding op en naar voren, en het geelblonde meisje speelt met haar haar.",
+        "hypothesis": "Sommige mensen staan er omheen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Op een station zitten drie mensen op een bankje, de man kijkt vreemd naar de twee vrouwen, de roodharige vrouwen kijken in een ongemakkelijke houding op en naar voren, en het geelblonde meisje speelt met haar haar.",
+        "hypothesis": "Mensen rennen samen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Op een station zitten drie mensen op een bankje, de man kijkt vreemd naar de twee vrouwen, de roodharige vrouwen kijken in een ongemakkelijke houding op en naar voren, en het geelblonde meisje speelt met haar haar.",
+        "hypothesis": "Mensen wachten bij een station.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een kind met een rood topje staat achter een kind met blond hoofd dat in een kruiwagen zit.",
+        "hypothesis": "Een kind met een rood topje staat achter een kind met blond hoofd",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een kind met een rood topje staat achter een kind met blond hoofd dat in een kruiwagen zit.",
+        "hypothesis": "Een kind met een rood topje staat bovenop een kind met blond hoofd",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een kind met een rood topje staat achter een kind met blond hoofd dat in een kruiwagen zit.",
+        "hypothesis": "Een kind met een rood topje staat achter een mooi blond kind",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een persoon gekleed in een jurk met bloemen en een opgezette bij eraan, duwt een kinderwagen door de straat.",
+        "hypothesis": "Een dame zittend op een bankje in het park.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een persoon gekleed in een jurk met bloemen en een opgezette bij eraan, duwt een kinderwagen door de straat.",
+        "hypothesis": "Een oude dame duwt een kinderwagen door een drukke straat.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een persoon gekleed in een jurk met bloemen en een opgezette bij eraan, duwt een kinderwagen door de straat.",
+        "hypothesis": "Een persoon buiten die een kinderwagen duwt.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een hond die voor een frisbee springt in de sneeuw.",
+        "hypothesis": "Een huisdier geniet van een spelletje apporteren met zijn baasje.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een hond die voor een frisbee springt in de sneeuw.",
+        "hypothesis": "Een kat wast zijn gezicht en snorharen met zijn voorpoot.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een hond die voor een frisbee springt in de sneeuw.",
+        "hypothesis": "Een dier is buiten bij koud weer en speelt met plastic speelgoed.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Aan een eettafel onder een baldakijn zijn mensen met elkaar in gesprek.",
+        "hypothesis": "Mensen op een feestje zitten op het grasveld te eten.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Aan een eettafel onder een baldakijn zijn mensen met elkaar in gesprek.",
+        "hypothesis": "Onder een afdekking staan mensen te praten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Aan een eettafel onder een baldakijn zijn mensen met elkaar in gesprek.",
+        "hypothesis": "Mensen schreeuwen tijdens een bokswedstrijd.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een meisje speelt viool samen met een groep mensen",
+        "hypothesis": "Een meisje wast een lading wasgoed.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een meisje speelt viool samen met een groep mensen",
+        "hypothesis": "Een meisje bespeelt een instrument.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een meisje speelt viool samen met een groep mensen",
+        "hypothesis": "Een groep mensen speelt een symfonie.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw in een orkest speelt viool.",
+        "hypothesis": "Een vrouw speelt een concert.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw in een orkest speelt viool.",
+        "hypothesis": "Een vrouw speelt viool.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een vrouw in een orkest speelt viool.",
+        "hypothesis": "Een man kijkt in een telescoop.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Drie mannen, één met pijpen, een ander met een groot voorwerp boven zijn hoofd, en één rustend tegen het pijpenbed op de vrachtwagen, kijken naar de camera.",
+        "hypothesis": "drie mannen gaan werken",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Drie mannen, één met pijpen, een ander met een groot voorwerp boven zijn hoofd, en één rustend tegen het pijpenbed op de vrachtwagen, kijken naar de camera.",
+        "hypothesis": "drie mannen kijken naar de camera",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Drie mannen, één met pijpen, een ander met een groot voorwerp boven zijn hoofd, en één rustend tegen het pijpenbed op de vrachtwagen, kijken naar de camera.",
+        "hypothesis": "drie mannen slapen in een tent",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een Ford-auto maakt een bocht naar rechts terwijl 3 mannen achter de auto de straat oversteken.",
+        "hypothesis": "Een auto die een bocht naar rechts maakte, kruiste drie voetgangers achter zich.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een Ford-auto maakt een bocht naar rechts terwijl 3 mannen achter de auto de straat oversteken.",
+        "hypothesis": "Een sedan sloeg de hoek om terwijl wandelaars overstaken.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Drie jongens in witte shirts lopen achter een ouder model Ford-auto.",
+        "hypothesis": "er zijn drie jongens",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Drie jongens in witte shirts lopen achter een ouder model Ford-auto.",
+        "hypothesis": "Er zijn drie meisjes",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Drie jongens in witte shirts lopen achter een ouder model Ford-auto.",
+        "hypothesis": "De jongens staan op straat",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Drie meisjes blazen de kaarsjes uit van een taart gemaakt van Peeps.",
+        "hypothesis": "Sommige mensen blazen kaarsjes uit",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Drie meisjes blazen de kaarsjes uit van een taart gemaakt van Peeps.",
+        "hypothesis": "Er zijn drie meisjes en een taart",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Drie meisjes blazen de kaarsjes uit van een taart gemaakt van Peeps.",
+        "hypothesis": "Er zijn piepgeluiden in de tuin.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een menigte mensen kijkt op naar 3 mensen op de rand van het dak van een gebouw.",
+        "hypothesis": "De menigte roept om hulp voor de mensen op het dak.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een menigte mensen kijkt op naar 3 mensen op de rand van het dak van een gebouw.",
+        "hypothesis": "De menigte op de grond kijkt naar drie mensen op de rand van het dak.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een menigte mensen kijkt op naar 3 mensen op de rand van het dak van een gebouw.",
+        "hypothesis": "Drie mensen klimmen de ladder van het gebouw af.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vrouw die lange uren maakt.",
+        "hypothesis": "Een vrouw werkt in een fabriek.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw die lange uren maakt.",
+        "hypothesis": "Er is een vrouw aan het werk.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een vrouw die lange uren maakt.",
+        "hypothesis": "Een vrouw slaapt.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee tienermeisjes praten naast kluisjes.",
+        "hypothesis": "Meisjes praten naast het toilet.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee tienermeisjes praten naast kluisjes.",
+        "hypothesis": "Mensen praten naast kluisjes.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Twee tienermeisjes praten naast kluisjes.",
+        "hypothesis": "Meisjes praten over hun problemen naast kluisjes.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een oude vrouw kijkt toe hoe een man naar een paar ballen op de grond kijkt.",
+        "hypothesis": "Een oudere vrouw stalkt een man.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een oude vrouw kijkt toe hoe een man naar een paar ballen op de grond kijkt.",
+        "hypothesis": "In de trein slapen twee mensen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee kinderen, allebei gekleed in een lichtbruine jas, omhelzen elkaar.",
+        "hypothesis": "Twee kinderen knuffelen elkaar nadat ze een vreselijk auto-ongeluk hebben overleefd.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Twee kinderen, allebei gekleed in een lichtbruine jas, omhelzen elkaar.",
+        "hypothesis": "Twee kinderen knuffelen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Twee kinderen, allebei gekleed in een lichtbruine jas, omhelzen elkaar.",
+        "hypothesis": "Twee kinderen rennen over een snelweg.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "2 kinderen die verwant lijken, hangen rond, waarbij 1 van hen erg emotioneel kijkt en de ander knuffelt.",
+        "hypothesis": "Een paar minderjarige familieleden omhelsden elkaar omdat ze blij waren elkaar te zien.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "2 kinderen die verwant lijken, hangen rond, waarbij 1 van hen erg emotioneel kijkt en de ander knuffelt.",
+        "hypothesis": "Twee kinderen waren aan het knuffelen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "2 kinderen die verwant lijken, hangen rond, waarbij 1 van hen erg emotioneel kijkt en de ander knuffelt.",
+        "hypothesis": "Twee jongeren duwden elkaar.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Op straat lopen een groot aantal mensen die uitsluitend wit en rood dragen.",
+        "hypothesis": "Een groot aantal mensen in het zwart loopt over straat.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Op straat lopen een groot aantal mensen die uitsluitend wit en rood dragen.",
+        "hypothesis": "Een groot aantal mannen loopt in rood en wit over straat.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Op straat lopen een groot aantal mensen die uitsluitend wit en rood dragen.",
+        "hypothesis": "Een groot aantal mensen loopt op straat.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man rijdt op een motorfiets in de buurt van junk-auto's",
+        "hypothesis": "De man maakt een proefrit met een motorfiets om te beslissen of hij deze wel of niet zal kopen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man rijdt op een motorfiets in de buurt van junk-auto's",
+        "hypothesis": "Een man rijdt op een motorfiets.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man rijdt op een motorfiets in de buurt van junk-auto's",
+        "hypothesis": "Een man zit op een geparkeerde motorfiets te wachten op zijn vriend.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Vrouwen uit India treden op met blauwe slingers, in prachtige blauwe kostuums.",
+        "hypothesis": "Indiase vrouwen treden samen op in prachtige kostuums",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Vrouwen uit India treden op met blauwe slingers, in prachtige blauwe kostuums.",
+        "hypothesis": "honden snuiven de lucht op",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Vrouwen uit India treden op met blauwe slingers, in prachtige blauwe kostuums.",
+        "hypothesis": "Indiase vrouwen voeren samen een religieus ritueel uit",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een professionele zwemmer spuugt water uit nadat hij boven is gekomen, terwijl hij de hand vastpakt van iemand die hem weer aan land helpt.",
+        "hypothesis": "Een persoon zwemt.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een professionele zwemmer spuugt water uit nadat hij boven is gekomen, terwijl hij de hand vastpakt van iemand die hem weer aan land helpt.",
+        "hypothesis": "De zwemmer eet een geroosterde marshmallow.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een professionele zwemmer spuugt water uit nadat hij boven is gekomen, terwijl hij de hand vastpakt van iemand die hem weer aan land helpt.",
+        "hypothesis": "De zwemmer verdronk bijna nadat hij door een snelle stroming werd meegezogen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "De man in het zwarte wetsuit loopt het water uit.",
+        "hypothesis": "Een man in een wetsuit loopt met een surfplank het water uit.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "De man in het zwarte wetsuit loopt het water uit.",
+        "hypothesis": "een persoon loopt uit het water.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "De man in het zwarte wetsuit loopt het water uit.",
+        "hypothesis": "Een man ligt op het strand.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Vijf meisjes en twee jongens steken een viaduct over.",
+        "hypothesis": "De uitgebreide familie wandelt samen tijdens hun familiereünie.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Vijf meisjes en twee jongens steken een viaduct over.",
+        "hypothesis": "De drie mannen zitten en praten over hun leven.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Vijf meisjes en twee jongens steken een viaduct over.",
+        "hypothesis": "Er zijn mensen buiten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een persoon met een paars shirt schildert een afbeelding van een vrouw op een witte muur.",
+        "hypothesis": "Een vrouw schildert een portret van haar beste vriendin.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een persoon met een paars shirt schildert een afbeelding van een vrouw op een witte muur.",
+        "hypothesis": "Een vrouw schildert een portret van een persoon.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een persoon met een paars shirt schildert een afbeelding van een vrouw op een witte muur.",
+        "hypothesis": "Een vrouw schildert een portret van een aap.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vrouw schildert een muurschildering van het gezicht van een vrouw.",
+        "hypothesis": "Er is een schilderij van een vrouw.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een vrouw schildert een muurschildering van het gezicht van een vrouw.",
+        "hypothesis": "Er is een vrouw die voor de lol schildert.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw schildert een muurschildering van het gezicht van een vrouw.",
+        "hypothesis": "Er is een man die zijn schoenen aan het strikken is.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een stel zit buiten aan een tafel te eten en hij wijst naar iets.",
+        "hypothesis": "Een stel zit binnen aan een tafel te eten en hij wijst naar iets.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een stel zit buiten aan een tafel te eten en hij wijst naar iets.",
+        "hypothesis": "De man wijst naar een portemonnee-diefstal.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een stel zit buiten aan een tafel te eten en hij wijst naar iets.",
+        "hypothesis": "Buiten eten mensen aan een tafel.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Twee vrouwen lopen over een trottoir langs een drukke straat in een binnenstad.",
+        "hypothesis": "De vrouwen liepen door het centrum omdat de bussen staakten",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Twee vrouwen lopen over een trottoir langs een drukke straat in een binnenstad.",
+        "hypothesis": "De vrouwen waren bessen aan het plukken op het platteland",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee vrouwen lopen over een trottoir langs een drukke straat in een binnenstad.",
+        "hypothesis": "De vrouwen liepen door het centrum",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Veel mensen staan buiten een plaats met elkaar te praten voor een gebouw met een bord met de tekst 'HI-POINTE'.",
+        "hypothesis": "De mensen maken een praatje voordat ze het werkgebouw binnengaan.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Veel mensen staan buiten een plaats met elkaar te praten voor een gebouw met een bord met de tekst 'HI-POINTE'.",
+        "hypothesis": "De groep mensen bevindt zich niet in het gebouw.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Veel mensen staan buiten een plaats met elkaar te praten voor een gebouw met een bord met de tekst 'HI-POINTE'.",
+        "hypothesis": "De mensen zitten in de lobby van het hotel.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "De in het geel geklede stewardess demonstreert het gebruik van het reddingsvest.",
+        "hypothesis": "Voor de passagiers staat een stewardess.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "De in het geel geklede stewardess demonstreert het gebruik van het reddingsvest.",
+        "hypothesis": "Een stewardess demonstreert veiligheidsprocedures vóór het opstijgen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "De in het geel geklede stewardess demonstreert het gebruik van het reddingsvest.",
+        "hypothesis": "Een vrouw bereidt drankjes in een vliegtuig.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "De meisjes lopen door de straat.",
+        "hypothesis": "Meisjes lopen door de straat.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "De meisjes lopen door de straat.",
+        "hypothesis": "Meisjes gingen op straat zitten.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "De meisjes lopen door de straat.",
+        "hypothesis": "Meisjes gingen naar het park.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man in een rood uniform en helm staat op zijn motor.",
+        "hypothesis": "een man die in een auto zit.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man in een rood uniform en helm staat op zijn motor.",
+        "hypothesis": "een persoon die staat.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man in een rood uniform en helm staat op zijn motor.",
+        "hypothesis": "een man die op zijn motor staat.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man van de stof smeert een zwarte substantie op het voorhoofd van een man.",
+        "hypothesis": "De man legt iets op het hoofd van de andere man.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man van de stof smeert een zwarte substantie op het voorhoofd van een man.",
+        "hypothesis": "De vrouwen zijn in het park.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man van de stof smeert een zwarte substantie op het voorhoofd van een man.",
+        "hypothesis": "De mannen zijn in de kerk.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Iemand rolt op een wagen een heuvel af terwijl een ander toekijkt.",
+        "hypothesis": "Er staan twee mensen buiten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Iemand rolt op een wagen een heuvel af terwijl een ander toekijkt.",
+        "hypothesis": "Een persoon staart naar een lege heuvel.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Iemand rolt op een wagen een heuvel af terwijl een ander toekijkt.",
+        "hypothesis": "Een kind in een wagen rolt een heuvel af.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "een jongen die zich vasthoudt aan de muur van de verhoogde fundering van een oud bakstenen huis.",
+        "hypothesis": "een jongen die zich tijdens de bouw vasthoudt aan de muur van de verhoogde fundering van een oud bakstenen huis",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "een jongen die zich vasthoudt aan de muur van de verhoogde fundering van een oud bakstenen huis.",
+        "hypothesis": "een meisje leunt tegen de muur",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "een jongen die zich vasthoudt aan de muur van de verhoogde fundering van een oud bakstenen huis.",
+        "hypothesis": "een jongen staat tegen de muur van een verhoogde fundering",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Bruce Springsteen zingt met één arm uitgestrekt in de spotlights in een donkere concertzaal.",
+        "hypothesis": "Bruce Springsteen komt uit Florida.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Bruce Springsteen zingt met één arm uitgestrekt in de spotlights in een donkere concertzaal.",
+        "hypothesis": "Bruce Springsteen is een zanger.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Bruce Springsteen zingt met één arm uitgestrekt in de spotlights in een donkere concertzaal.",
+        "hypothesis": "Bruce Springsteen is homo",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Zes honden zwemmen in een rivier.",
+        "hypothesis": "Zes honden zwemmen over de rivier.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Zes honden zwemmen in een rivier.",
+        "hypothesis": "Zes honden zijn buiten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Zes honden zwemmen in een rivier.",
+        "hypothesis": "De puppy's zitten op de bank.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man en een vrouw maken een foto van zichzelf terwijl een vrouw met een sjaal langs hen loopt.",
+        "hypothesis": "Van een man en een vrouw zijn politiefoto's gemaakt omdat ze zijn gearresteerd.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man en een vrouw maken een foto van zichzelf terwijl een vrouw met een sjaal langs hen loopt.",
+        "hypothesis": "Een man en een vrouw maken selfies terwijl een vrouw langsloopt en hen beoordeelt.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man en een vrouw maken een foto van zichzelf terwijl een vrouw met een sjaal langs hen loopt.",
+        "hypothesis": "Een man en een vrouw maken selfies van zichzelf.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "een groep mensen die samen dansen.",
+        "hypothesis": "Mensen dansen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "een groep mensen die samen dansen.",
+        "hypothesis": "Ze doen de tango.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "een groep mensen die samen dansen.",
+        "hypothesis": "Niemand danst.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Mannen in blauwe uniformen zitten in een bus.",
+        "hypothesis": "Mannen zitten in de bus.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Mannen in blauwe uniformen zitten in een bus.",
+        "hypothesis": "Mannen zitten in de bus naar hun werk,",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Mannen in blauwe uniformen zitten in een bus.",
+        "hypothesis": "Mannen rijden de bus de oceaan in.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee mannen klimmen op een houten steiger.",
+        "hypothesis": "Twee mensen klimmen op een houten steiger.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Twee mannen klimmen op een houten steiger.",
+        "hypothesis": "Twee vrouwen klimmen op een houten steiger.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee mannen klimmen op een houten steiger.",
+        "hypothesis": "Twee verdrietige mannen klimmen op een houten steiger.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vogel klappert met zijn vleugels over het water.",
+        "hypothesis": "De vogel vliegt over de bomen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vogel klappert met zijn vleugels over het water.",
+        "hypothesis": "De eend zwemt in het meer.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jonge jongen, gekleed in een rood shirt en een spijkerbroek, staat midden in een veld en gooit een speelgoedvliegtuig in de lucht.",
+        "hypothesis": "Een jonge jongen speelt in een veld.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een jonge jongen, gekleed in een rood shirt en een spijkerbroek, staat midden in een veld en gooit een speelgoedvliegtuig in de lucht.",
+        "hypothesis": "Een jonge jongen speelt in het veld omdat zijn moeder hem het huis uit heeft gezet.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jonge jongen, gekleed in een rood shirt en een spijkerbroek, staat midden in een veld en gooit een speelgoedvliegtuig in de lucht.",
+        "hypothesis": "Een jonge jongen speelt binnenshuis videogames.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Op een pier staan zes à zeven mensen, met op de voorgrond een tafel en een bril.",
+        "hypothesis": "Ze gaan vissen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Op een pier staan zes à zeven mensen, met op de voorgrond een tafel en een bril.",
+        "hypothesis": "Op een pier staan zes à zeven mensen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Op een pier staan zes à zeven mensen, met op de voorgrond een tafel en een bril.",
+        "hypothesis": "Ze zitten in een boot.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een persoon in een rood shirt en een zwarte broek boog zich voorover.",
+        "hypothesis": "Een persoon draagt een rood shirt.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een persoon in een rood shirt en een zwarte broek boog zich voorover.",
+        "hypothesis": "De persoon is een vrouw.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een persoon in een rood shirt en een zwarte broek boog zich voorover.",
+        "hypothesis": "De persoon draagt een groen shirt.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Dit kind staat op de trappen van de bibliotheek.",
+        "hypothesis": "Het kind staat op de schooltrap.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Dit kind staat op de trappen van de bibliotheek.",
+        "hypothesis": "Het kind staat op de trap.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Dit kind staat op de trappen van de bibliotheek.",
+        "hypothesis": "Het kind staat op de trap in de bibliotheek.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "De getatoeëerde basketbalspeler staat op het punt de bal te dunken.",
+        "hypothesis": "De man is aan het voetballen..",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "De getatoeëerde basketbalspeler staat op het punt de bal te dunken.",
+        "hypothesis": "De persoon speelt basketbal.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "De getatoeëerde basketbalspeler staat op het punt de bal te dunken.",
+        "hypothesis": "De speler heeft een tatoeage met de tekst moeder.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "een jongen in een rode top met capuchon glimlacht terwijl hij wegkijkt van zijn spiegelbeeld.",
+        "hypothesis": "Een jongen met een rode kap is blij.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "een jongen in een rode top met capuchon glimlacht terwijl hij wegkijkt van zijn spiegelbeeld.",
+        "hypothesis": "De jongen wil zijn spiegelbeeld niet zien.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "een jongen in een rode top met capuchon glimlacht terwijl hij wegkijkt van zijn spiegelbeeld.",
+        "hypothesis": "De jongen is boos.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man met een grijze pet loopt naast een roodharige vrouw die een blauw jeansshirt met lange mouwen draagt.",
+        "hypothesis": "de man draagt een grijze pet.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man met een grijze pet loopt naast een roodharige vrouw die een blauw jeansshirt met lange mouwen draagt.",
+        "hypothesis": "De man draagt een blauwe pet.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man met een grijze pet loopt naast een roodharige vrouw die een blauw jeansshirt met lange mouwen draagt.",
+        "hypothesis": "De man heeft het koud.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een oude man met een honkbalhoed en een oude vrouw met een spijkerjasje staan buiten, maar zijn grotendeels in de schaduw gehuld.",
+        "hypothesis": "Een oude vrouw heeft een licht jeansjasje.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een oude man met een honkbalhoed en een oude vrouw met een spijkerjasje staan buiten, maar zijn grotendeels in de schaduw gehuld.",
+        "hypothesis": "Een oude vrouw heeft een spijkerjasje.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een oude man met een honkbalhoed en een oude vrouw met een spijkerjasje staan buiten, maar zijn grotendeels in de schaduw gehuld.",
+        "hypothesis": "Een oude vrouw heeft geen jas.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een pasgetrouwd stel lacht en praat met elkaar.",
+        "hypothesis": "Het echtpaar heeft plezier.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een pasgetrouwd stel lacht en praat met elkaar.",
+        "hypothesis": "Het stel is net getrouwd.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een pasgetrouwd stel lacht en praat met elkaar.",
+        "hypothesis": "Het echtpaar is gescheiden.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een zwarte man in een wit overhemd met lange mouwen en een stropdas loopt naar zijn werk in een grote stad.",
+        "hypothesis": "De man draagt een korte broek en een t-shirt terwijl hij jogt.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een zwarte man in een wit overhemd met lange mouwen en een stropdas loopt naar zijn werk in een grote stad.",
+        "hypothesis": "De man beweegt.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een zwarte man in een wit overhemd met lange mouwen en een stropdas loopt naar zijn werk in een grote stad.",
+        "hypothesis": "De man draagt werkkleding en loopt naar zijn werk.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een aantal jongere mensen zitten voor een standbeeld.",
+        "hypothesis": "verschillende jonge mensen zitten buiten",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een aantal jongere mensen zitten voor een standbeeld.",
+        "hypothesis": "meerdere jongeren zitten in een zaal",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een aantal jongere mensen zitten voor een standbeeld.",
+        "hypothesis": "verschillende jonge mensen zitten op de binnenplaats van een school",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een groep volwassenen staat in de badkamer en kijkt naar een klein kind in bad.",
+        "hypothesis": "De moeder van het kind kijkt met haar vrienden naar haar zoon.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een groep volwassenen staat in de badkamer en kijkt naar een klein kind in bad.",
+        "hypothesis": "Er zijn mensen in huis.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een groep volwassenen staat in de badkamer en kijkt naar een klein kind in bad.",
+        "hypothesis": "Het kind slaapt.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Op het podium staat een maf uitziende vrouw te zingen.",
+        "hypothesis": "Een vrouw zingt.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Op het podium staat een maf uitziende vrouw te zingen.",
+        "hypothesis": "Een vrouw draagt poëzie voor op het podium.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Op het podium staat een maf uitziende vrouw te zingen.",
+        "hypothesis": "Een blonde vrouw zingt en danst op het podium.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Het meisje draagt een bruin jasje terwijl ze door de sneeuw loopt.",
+        "hypothesis": "Een vrouw eet pasta in een restaurant.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Het meisje draagt een bruin jasje terwijl ze door de sneeuw loopt.",
+        "hypothesis": "De dame die een jas draagt, is op zoek naar haar verloren hond.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Het meisje draagt een bruin jasje terwijl ze door de sneeuw loopt.",
+        "hypothesis": "Het meisje loopt naar buiten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man, vrouw en kind gaan op de foto voor de bergen.",
+        "hypothesis": "Een gezin op vakantie poseert.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man, vrouw en kind gaan op de foto voor de bergen.",
+        "hypothesis": "Mensen zijn buiten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man, vrouw en kind gaan op de foto voor de bergen.",
+        "hypothesis": "Er zit een gezin in hun auto.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "mensen staan bij het water met een boot in hun richting",
+        "hypothesis": "De mensen staan.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "mensen staan bij het water met een boot in hun richting",
+        "hypothesis": "Mensen staan bij het water met een grote blauwe boot in hun richting.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "mensen staan bij het water met een boot in hun richting",
+        "hypothesis": "Bij het restaurant staan mensen in de rij.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Vier volwassenen eten zittend op een tegelvloer.",
+        "hypothesis": "Twee koppels eten voedsel op een keukenvloer.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Vier volwassenen eten zittend op een tegelvloer.",
+        "hypothesis": "Twee koppels spelen pool in een bar.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Vier volwassenen eten zittend op een tegelvloer.",
+        "hypothesis": "Een groep mensen eet voedsel.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een hond die in de buurt van sneeuw staat en naar water kijkt.",
+        "hypothesis": "Op de bank ligt een kat.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een hond die in de buurt van sneeuw staat en naar water kijkt.",
+        "hypothesis": "Dier is buiten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een hond die in de buurt van sneeuw staat en naar water kijkt.",
+        "hypothesis": "De hond overweegt om te gaan zwemmen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een oudere man leunt tegen een voetstuk buiten een sierlijk gebouw.",
+        "hypothesis": "Een oudere man leunt buiten zijn verpleeghuis",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een oudere man leunt tegen een voetstuk buiten een sierlijk gebouw.",
+        "hypothesis": "Een jonge man is aan het joggen",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een oudere man leunt tegen een voetstuk buiten een sierlijk gebouw.",
+        "hypothesis": "Een oudere man leunt buiten een gebouw",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een persoon in oranje kleding rust boven een metro-ingang.",
+        "hypothesis": "Een persoon zit bij een honkbalwedstrijd.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een persoon in oranje kleding rust boven een metro-ingang.",
+        "hypothesis": "Er staat iemand vlakbij een metrostation.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een persoon in oranje kleding rust boven een metro-ingang.",
+        "hypothesis": "Een persoon wacht op een trein.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een meisje in een blauwe jurk trekt haar schoenen uit en eet blauwe suikerspin.",
+        "hypothesis": "Het meisje eet blauwe suikerspin op een carnaval.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een meisje in een blauwe jurk trekt haar schoenen uit en eet blauwe suikerspin.",
+        "hypothesis": "Het meisje in een blauwe jurk is een bloemenmeisje op een bruiloft.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een meisje in een blauwe jurk trekt haar schoenen uit en eet blauwe suikerspin.",
+        "hypothesis": "Het meisje eet op blote voeten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een zwarte man in een wit uniform maakt een spectaculaire reverse slam dunk, tot verbazing van het publiek.",
+        "hypothesis": "de man is Aziatisch",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een zwarte man in een wit uniform maakt een spectaculaire reverse slam dunk, tot verbazing van het publiek.",
+        "hypothesis": "de man speelt",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een zwarte man in een wit uniform maakt een spectaculaire reverse slam dunk, tot verbazing van het publiek.",
+        "hypothesis": "de man slaapt thuis",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een basketbalspeler met groene schoenen dompelt de bal in het net terwijl het publiek toekijkt.",
+        "hypothesis": "Een man maakt een broodje terwijl een menigte vol ontzag naar adem snakt.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een basketbalspeler met groene schoenen dompelt de bal in het net terwijl het publiek toekijkt.",
+        "hypothesis": "Een menigte kijkt toe hoe iemand basketbal speelt.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een basketbalspeler met groene schoenen dompelt de bal in het net terwijl het publiek toekijkt.",
+        "hypothesis": "Een beroemde NBA-speler speelt straatbal voor een menigte.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een fronsende oude man met een militaire pet en een burgerpak staat buiten tussen een menigte mensen met borden en ballonnen.",
+        "hypothesis": "Buiten staat een groep mensen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een fronsende oude man met een militaire pet en een burgerpak staat buiten tussen een menigte mensen met borden en ballonnen.",
+        "hypothesis": "Een boze militaire veteraan kijkt toe terwijl mensen protesteren tegen de oorlog.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een fronsende oude man met een militaire pet en een burgerpak staat buiten tussen een menigte mensen met borden en ballonnen.",
+        "hypothesis": "Een man kijkt naar een groep mensen die een hotdog-eetwedstrijd houden.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vrouw, gekleed in een fietsbroek en een rok, fietst en draagt een schoudertas.",
+        "hypothesis": "Een vrouw op een fiets.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een vrouw, gekleed in een fietsbroek en een rok, fietst en draagt een schoudertas.",
+        "hypothesis": "Een vrouw die op de fiets naar haar werk rijdt.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw, gekleed in een fietsbroek en een rok, fietst en draagt een schoudertas.",
+        "hypothesis": "Een vrouw die een auto bestuurt.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een skateboardende jongere doet een trucje op een rail.",
+        "hypothesis": "Een jongere op een skateboard.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een skateboardende jongere doet een trucje op een rail.",
+        "hypothesis": "Een man schildert een boom.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een skateboardende jongere doet een trucje op een rail.",
+        "hypothesis": "Een jonge jongen die zijn nieuwe skateboardtrucs aan zijn vrienden laat zien.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man met een spijkerbroek en een hoed zit gehurkt op een leuning met een betonnen dijk voor hem.",
+        "hypothesis": "Hij draagt een overhemd met knopen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man met een spijkerbroek en een hoed zit gehurkt op een leuning met een betonnen dijk voor hem.",
+        "hypothesis": "Zijn kale hoofd is zichtbaar.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man met een spijkerbroek en een hoed zit gehurkt op een leuning met een betonnen dijk voor hem.",
+        "hypothesis": "Een man hurkt op een leuning.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Meisje in een rode jas, blauwe hoofddoek en spijkerbroek maakt een sneeuwengel.",
+        "hypothesis": "Een meisje in een rode jas maakt voor het eerst een sneeuwengel.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Meisje in een rode jas, blauwe hoofddoek en spijkerbroek maakt een sneeuwengel.",
+        "hypothesis": "Meisje in een zwarte jas blijft binnen, weg van de sneeuw.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Meisje in een rode jas, blauwe hoofddoek en spijkerbroek maakt een sneeuwengel.",
+        "hypothesis": "Een meisje speelt buiten in de sneeuw.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een groep mensen verzamelde zich 's nachts om naar een evenement te kijken.",
+        "hypothesis": "De vriendengroep slaapt.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een groep mensen verzamelde zich 's nachts om naar een evenement te kijken.",
+        "hypothesis": "Een groep mensen kijkt in dezelfde richting.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een groep mensen verzamelde zich 's nachts om naar een evenement te kijken.",
+        "hypothesis": "Een groep vrienden kijkt 's avonds naar het muziekconcert.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "De Amerikaanse voetballer in het geel vangt de bal terwijl hij onder druk staat van de betaler in het wit.",
+        "hypothesis": "De voetballer staat onder dwang.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "De Amerikaanse voetballer in het geel vangt de bal terwijl hij onder druk staat van de betaler in het wit.",
+        "hypothesis": "De American football-speler in het geel vangt de bal terwijl hij onder druk staat van de speler in het wit.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "De Amerikaanse voetballer in het geel vangt de bal terwijl hij onder druk staat van de betaler in het wit.",
+        "hypothesis": "De basketbalspeler schiet een driepunter.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een persoon met blauw haar, een baseballpet en een capuchon staat buiten in een menigte.",
+        "hypothesis": "Een persoon geniet van een sportevenement.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een persoon met blauw haar, een baseballpet en een capuchon staat buiten in een menigte.",
+        "hypothesis": "Een persoon danst en zingt.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een persoon met blauw haar, een baseballpet en een capuchon staat buiten in een menigte.",
+        "hypothesis": "Buiten staat een persoon.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een meisje met een drankje in de hand wijst naar een schilderij.",
+        "hypothesis": "Het meisje ligt in de badkuip",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een meisje met een drankje in de hand wijst naar een schilderij.",
+        "hypothesis": "Het meisje drinkt een alcoholische drank.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een meisje met een drankje in de hand wijst naar een schilderij.",
+        "hypothesis": "Het meisje heeft een drankje.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man in een zwart shirt, in een commerciële keuken, met vlees omhoog dat hij uit een zak haalde.",
+        "hypothesis": "Een man in een zwart shirt, in een commerciële keuken, die het oude vlees omhoog hield dat hij uit een zak haalde.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man in een zwart shirt, in een commerciële keuken, met vlees omhoog dat hij uit een zak haalde.",
+        "hypothesis": "Een vrouw in een zwart shirt, in een commerciële keuken, die vlees omhoog hield dat hij uit een zak haalde.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man in een zwart shirt, in een commerciële keuken, met vlees omhoog dat hij uit een zak haalde.",
+        "hypothesis": "Een man in een overhemd, in een commerciële keuken, die vlees omhoog hield dat hij uit een zak haalde.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een persoon in een rood shirt maait het gras met een groene zitmaaier.",
+        "hypothesis": "Een persoon in het rood zwemt op de Olympische Spelen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een persoon in een rood shirt maait het gras met een groene zitmaaier.",
+        "hypothesis": "Een persoon in het rood verplaatst gras op een John Deer-motor.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een persoon in een rood shirt maait het gras met een groene zitmaaier.",
+        "hypothesis": "Een persoon in het rood maait het gras op een zitmaaier",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Groep mensen die zwarte shirts dragen en in een voertuig met open dak rijden.",
+        "hypothesis": "Een groep mensen gaat in een cabriolet de weg op.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Groep mensen die zwarte shirts dragen en in een voertuig met open dak rijden.",
+        "hypothesis": "De bestuurder droeg een paars shirt.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Groep mensen die zwarte shirts dragen en in een voertuig met open dak rijden.",
+        "hypothesis": "Vrienden rijden samen in een voertuig met open dak.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Twee mannen bereiden een vis voor op een kade.",
+        "hypothesis": "Twee mannen komen net de hele dag vissen",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Twee mannen bereiden een vis voor op een kade.",
+        "hypothesis": "Twee mannen zijn hun vis aan het schoonmaken",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Twee mannen bereiden een vis voor op een kade.",
+        "hypothesis": "Twee mannen zitten met hun hengels in een kano",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vrouw met haar gezicht gedeeltelijk bedekt met zilveren schmink, zit op een plastic draagtas en kijkt in een spiegel.",
+        "hypothesis": "De vrouw is een model.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw met haar gezicht gedeeltelijk bedekt met zilveren schmink, zit op een plastic draagtas en kijkt in een spiegel.",
+        "hypothesis": "De vrouw heeft iets op haar gezicht.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een vrouw met haar gezicht gedeeltelijk bedekt met zilveren schmink, zit op een plastic draagtas en kijkt in een spiegel.",
+        "hypothesis": "De vrouw is blind.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man in een Alaska-sweatshirt staat achter een toonbank.",
+        "hypothesis": "De man draagt een tanktop.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man in een Alaska-sweatshirt staat achter een toonbank.",
+        "hypothesis": "De man komt uit Alaska.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man in een Alaska-sweatshirt staat achter een toonbank.",
+        "hypothesis": "De persoon achter de balie is een man.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een grote groep mensen loopt 's nachts door een drukke stad.",
+        "hypothesis": "Mensen lunchen in een restaurant.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een grote groep mensen loopt 's nachts door een drukke stad.",
+        "hypothesis": "Mensen lopen door een stad.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een grote groep mensen loopt 's nachts door een drukke stad.",
+        "hypothesis": "Mensen zijn buiten in een park.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vrouw, in rood en wit, met een bril op, zit met andere mensen in een kamer.",
+        "hypothesis": "Een vrouw zit met andere mensen in een kamer.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een vrouw, in rood en wit, met een bril op, zit met andere mensen in een kamer.",
+        "hypothesis": "Een vrouw zit in een kamer op haar telefoon.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw, in rood en wit, met een bril op, zit met andere mensen in een kamer.",
+        "hypothesis": "Een man repareert zijn auto.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een softbalspeelster gooit de bal naar haar teamgenoot.",
+        "hypothesis": "Teamgenoten doen mee aan een softbalkampioenschap.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een softbalspeelster gooit de bal naar haar teamgenoot.",
+        "hypothesis": "Twee mensen spelen softbal.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een softbalspeelster gooit de bal naar haar teamgenoot.",
+        "hypothesis": "Twee softbalspelers zitten op een bankje.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een motorrijder racet.",
+        "hypothesis": "Een persoon rijdt op een fiets",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een motorrijder racet.",
+        "hypothesis": "De motorrijder verliest de race",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een motorrijder racet.",
+        "hypothesis": "De auto is geel",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee kleine jongens glimlachen en lachen terwijl één staat en één op een springkussen zit.",
+        "hypothesis": "Er zijn twee kleine jongens die glimlachen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Twee kleine jongens glimlachen en lachen terwijl één staat en één op een springkussen zit.",
+        "hypothesis": "De kleine jongens huilen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee kleine jongens glimlachen en lachen terwijl één staat en één op een springkussen zit.",
+        "hypothesis": "De jongens zijn broers en zussen die met elkaar spelen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Vissers van eilandbewoners die hun netten binnenhalen na een lange dag werken.",
+        "hypothesis": "De mannen vingen veel vis.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Vissers van eilandbewoners die hun netten binnenhalen na een lange dag werken.",
+        "hypothesis": "De mannen gingen vandaag niet naar hun werk, maar speelden bridge.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Vissers van eilandbewoners die hun netten binnenhalen na een lange dag werken.",
+        "hypothesis": "De mannen zijn hun werkdag aan het afronden.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Dit zijn jongvolwassenen die lijken samen te werken om de planten rondom de witte paal te beschermen.",
+        "hypothesis": "De planten zijn varens",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Dit zijn jongvolwassenen die lijken samen te werken om de planten rondom de witte paal te beschermen.",
+        "hypothesis": "De volwassenen zijn jong",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Dit zijn jongvolwassenen die lijken samen te werken om de planten rondom de witte paal te beschermen.",
+        "hypothesis": "De volwassenen zijn oud",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee universiteitsvoetballers strijden tijdens de wedstrijddag buiten op het veld, waarbij de ene de quarterback is die de bal probeert te gooien, en de andere speler in actie staat op het punt de quarterback te ontslaan.",
+        "hypothesis": "Twee teams van rivaliserende hogescholen zitten in het vierde kwart van een wedstrijd.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Twee universiteitsvoetballers strijden tijdens de wedstrijddag buiten op het veld, waarbij de ene de quarterback is die de bal probeert te gooien, en de andere speler in actie staat op het punt de quarterback te ontslaan.",
+        "hypothesis": "Sommige meisjes spelen basketbal.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee universiteitsvoetballers strijden tijdens de wedstrijddag buiten op het veld, waarbij de ene de quarterback is die de bal probeert te gooien, en de andere speler in actie staat op het punt de quarterback te ontslaan.",
+        "hypothesis": "Een universiteitsvoetbalwedstrijd.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Twee mensen spelen American Football en een van hen probeert de ander ervan te weerhouden de bal te gooien.",
+        "hypothesis": "Een lijnwachter probeert de quarterback aan te pakken voordat hij de winnende touchdown maakt.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Twee mensen spelen American Football en een van hen probeert de ander ervan te weerhouden de bal te gooien.",
+        "hypothesis": "Een werper gooit de honkbal naar de slagman terwijl hij hem uit het park probeert te slaan.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee mensen spelen American Football en een van hen probeert de ander ervan te weerhouden de bal te gooien.",
+        "hypothesis": "Er wordt een potje voetbal gespeeld.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man die biljart speelt in een bar.",
+        "hypothesis": "Een man speelt met vrienden.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man die biljart speelt in een bar.",
+        "hypothesis": "Een man speelt biljart.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man die biljart speelt in een bar.",
+        "hypothesis": "Een man speelt dammen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een gouden hond geeft een blauwe bal door aan een andere gouden hond op het strand.",
+        "hypothesis": "De honden zijn vrienden.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een gouden hond geeft een blauwe bal door aan een andere gouden hond op het strand.",
+        "hypothesis": "De honden weigeren te delen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een gouden hond geeft een blauwe bal door aan een andere gouden hond op het strand.",
+        "hypothesis": "De gouden hond speelt buiten met een andere hond.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Mensen staan op een roltrap te wachten om hun bestemming te bereiken terwijl ze door het glas van de muur kijken.",
+        "hypothesis": "De mensen gaan met de roltrap naar boven.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Mensen staan op een roltrap te wachten om hun bestemming te bereiken terwijl ze door het glas van de muur kijken.",
+        "hypothesis": "Mensen nemen de lift.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Mensen staan op een roltrap te wachten om hun bestemming te bereiken terwijl ze door het glas van de muur kijken.",
+        "hypothesis": "Mensen rijden op de roltrap.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een vrouw is aan het weven met een kam in haar hand.",
+        "hypothesis": "Een vrouw is aan het werk.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw is aan het weven met een kam in haar hand.",
+        "hypothesis": "Een vrouw doet iets met haar handen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een vrouw is aan het weven met een kam in haar hand.",
+        "hypothesis": "Een vrouw zit met lege handen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een jongen rijdt tussen twee koeien over de weg.",
+        "hypothesis": "Een jongen berijdt een paard met twee koeien.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jongen rijdt tussen twee koeien over de weg.",
+        "hypothesis": "Een jongen, een weg en twee koeien.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een jongen rijdt tussen twee koeien over de weg.",
+        "hypothesis": "Eén enkele koe is alleen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een verjaardagsfeestje waar veel kleine mensen van kunnen genieten.",
+        "hypothesis": "Kinderen genieten van een verjaardagsfeestje.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een verjaardagsfeestje waar veel kleine mensen van kunnen genieten.",
+        "hypothesis": "Kinderen rennen door de straat.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een verjaardagsfeestje waar veel kleine mensen van kunnen genieten.",
+        "hypothesis": "Kinderen op een verjaardagsfeestje.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Er staan vijf zangers op een podium, drie vrouwen en twee mannen.",
+        "hypothesis": "Er zijn meer vrouwtjes dan mannetjes.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Er staan vijf zangers op een podium, drie vrouwen en twee mannen.",
+        "hypothesis": "De artiesten spelen doedelzakken.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Er staan vijf zangers op een podium, drie vrouwen en twee mannen.",
+        "hypothesis": "De mensen die optreden, maken deel uit van een koor.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Twee mannen staan in een boot.",
+        "hypothesis": "Sommige mannen staan bovenop een auto.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee mannen staan in een boot.",
+        "hypothesis": "Een paar mannen zijn aan het vissen op een boot.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Twee mannen staan in een boot.",
+        "hypothesis": "Sommige mensen zitten in een boot.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Jonge vrouw stopt haar kleren in het drogergedeelte van een dubbel gestapelde wasmachine- en drogerunit.",
+        "hypothesis": "Een persoon die kleding droogt",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Jonge vrouw stopt haar kleren in het drogergedeelte van een dubbel gestapelde wasmachine- en drogerunit.",
+        "hypothesis": "Niemand droogt kleding.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "De zon breekt door de bomen terwijl een kind op een schommel zit.",
+        "hypothesis": "Het kind rijdt op een schommel in de regen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "De zon breekt door de bomen terwijl een kind op een schommel zit.",
+        "hypothesis": "Een kind rijdt overdag op een schommel.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "De zon breekt door de bomen terwijl een kind op een schommel zit.",
+        "hypothesis": "Het kind op de schommel is een meisje.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Iedereen op straat in de stad lijkt druk bezig met zijn eigen ding.",
+        "hypothesis": "Mensen dwalen door de stadsstraat.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Iedereen op straat in de stad lijkt druk bezig met zijn eigen ding.",
+        "hypothesis": "De mensen kijken naar wat er gebeurt.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Iedereen op straat in de stad lijkt druk bezig met zijn eigen ding.",
+        "hypothesis": "Mensen doen zaken in de stad.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man met een schort glimlacht terwijl hij met een metalen stokje in een frituurdonut prikt.",
+        "hypothesis": "De man kookt eten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man met een schort glimlacht terwijl hij met een metalen stokje in een frituurdonut prikt.",
+        "hypothesis": "De man staat in de keuken van een restaurant.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man met een schort glimlacht terwijl hij met een metalen stokje in een frituurdonut prikt.",
+        "hypothesis": "De man wast zijn auto.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vrouw in tenniskleding rent weg om een bal te slaan met haar tennisracket.",
+        "hypothesis": "Een vrouw speelt tennis.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een vrouw in tenniskleding rent weg om een bal te slaan met haar tennisracket.",
+        "hypothesis": "Serina Williams speelt tennis.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw in tenniskleding rent weg om een bal te slaan met haar tennisracket.",
+        "hypothesis": "Pete Sampras speelt tennis.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Verschillende vrouwen spelen volleybal.",
+        "hypothesis": "De vrouwen slaan met hun armen een bal",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Verschillende vrouwen spelen volleybal.",
+        "hypothesis": "Dit lijkt niet op voetbal",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Verschillende vrouwen spelen volleybal.",
+        "hypothesis": "Een groep vrouwen is aan het volleyballen",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Twee damesvolleybalteams strijden tegen elkaar op een zalmkleurige en turquoise baan terwijl een scheidsrechter in het zwart toekijkt.",
+        "hypothesis": "Er is een volleybalwedstrijd aan de gang tussen dames",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Twee damesvolleybalteams strijden tegen elkaar op een zalmkleurige en turquoise baan terwijl een scheidsrechter in het zwart toekijkt.",
+        "hypothesis": "12 dames volleyballen",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Twee damesvolleybalteams strijden tegen elkaar op een zalmkleurige en turquoise baan terwijl een scheidsrechter in het zwart toekijkt.",
+        "hypothesis": "tien jongens spelen cricket",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een kleine jongen met een blauwe fietshelm en een vrouw met een groene fietshelm fietsen samen met andere fietsers door de straat.",
+        "hypothesis": "Een moeder en haar zoon fietsen samen met anderen door de straat.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een kleine jongen met een blauwe fietshelm en een vrouw met een groene fietshelm fietsen samen met andere fietsers door de straat.",
+        "hypothesis": "Een groep mensen verwisselt een fietsband.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een kleine jongen met een blauwe fietshelm en een vrouw met een groene fietshelm fietsen samen met andere fietsers door de straat.",
+        "hypothesis": "Een groep mensen fietst samen door een straat.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Mensen fietsen op straat en dragen allemaal een helm.",
+        "hypothesis": "Een groep vrienden fietst door de straat, allemaal met hun helm op",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Mensen fietsen op straat en dragen allemaal een helm.",
+        "hypothesis": "Een groep vrienden pakt hun fietsen en maakt zich klaar voor de ochtendfietstocht",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Mensen fietsen op straat en dragen allemaal een helm.",
+        "hypothesis": "Buiten staat een groep fietsers op straat",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een marktplaats uit het Midden-Oosten.",
+        "hypothesis": "Een winkel uit het Midden-Oosten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een marktplaats uit het Midden-Oosten.",
+        "hypothesis": "Een Amerikaans theater.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een marktplaats uit het Midden-Oosten.",
+        "hypothesis": "Een buitenlandse winkel.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "een vrouw in een zwart shirt die naar een fiets kijkt.",
+        "hypothesis": "Een vrouw ziet een fiets.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "een vrouw in een zwart shirt die naar een fiets kijkt.",
+        "hypothesis": "Een vrouw gekleed in het zwart winkelt voor een fiets.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "een vrouw in een zwart shirt die naar een fiets kijkt.",
+        "hypothesis": "Een vrouw in het groen slaapt op een bank.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Vier mannen drummen in heel oranje licht terwijl één van hen ook iets uit een fles drinkt.",
+        "hypothesis": "de mannen zijn muzikanten",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Vier mannen drummen in heel oranje licht terwijl één van hen ook iets uit een fles drinkt.",
+        "hypothesis": "de mannen slapen in het motel",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Vier mannen drummen in heel oranje licht terwijl één van hen ook iets uit een fles drinkt.",
+        "hypothesis": "vier mannen spelen drums",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Jonge jongens in groene en blauwe truien trappen rond een voetbal terwijl op de achtergrond andere voetbalwedstrijden plaatsvinden.",
+        "hypothesis": "Jonge jongens gooien een honkbal naar een honkbalveld.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Jonge jongens in groene en blauwe truien trappen rond een voetbal terwijl op de achtergrond andere voetbalwedstrijden plaatsvinden.",
+        "hypothesis": "Jonge jongens wachten op hun voetbalwedstrijd.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Jonge jongens in groene en blauwe truien trappen rond een voetbal terwijl op de achtergrond andere voetbalwedstrijden plaatsvinden.",
+        "hypothesis": "Jonge jongens die een voetbal rondschoppen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man in een tuniek uit één stuk fietst voor een zandstenen muur terwijl hij zijn neus aanraakt.",
+        "hypothesis": "De man test de fiets.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man in een tuniek uit één stuk fietst voor een zandstenen muur terwijl hij zijn neus aanraakt.",
+        "hypothesis": "De man bestuurt een vrachtwagen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man in een tuniek uit één stuk fietst voor een zandstenen muur terwijl hij zijn neus aanraakt.",
+        "hypothesis": "De man rijdt op een fiets.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een jongen en een meisje kijken naar beneden op een bergketen.",
+        "hypothesis": "De mensen kijken naar de bergen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een jongen en een meisje kijken naar beneden op een bergketen.",
+        "hypothesis": "Het stel gaat de bergen beklimmen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jongen en een meisje kijken naar beneden op een bergketen.",
+        "hypothesis": "De mensen kijken naar de lucht.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man zit in de groene stoel, praat aan de telefoon en werkt op de laptop, en er is een bouwplaats naast zijn gebouw.",
+        "hypothesis": "De man loopt zenuwachtig heen en weer.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man zit in de groene stoel, praat aan de telefoon en werkt op de laptop, en er is een bouwplaats naast zijn gebouw.",
+        "hypothesis": "De man kan de bouw horen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man zit in de groene stoel, praat aan de telefoon en werkt op de laptop, en er is een bouwplaats naast zijn gebouw.",
+        "hypothesis": "Er is een man aan de telefoon.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een jongen slaat een tennisbal op een veld.",
+        "hypothesis": "Een meisje slaat de bal.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een jongen slaat een tennisbal op een veld.",
+        "hypothesis": "De jongen is goed in tennis.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jongen slaat een tennisbal op een veld.",
+        "hypothesis": "Een jongen slaat een bal.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een golden retriever verzorgt puppy's.",
+        "hypothesis": "Een golden retriever verzorgt de puppy's van enkele andere honden",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een golden retriever verzorgt puppy's.",
+        "hypothesis": "Pups naast hun moeder",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een golden retriever verzorgt puppy's.",
+        "hypothesis": "Een kat verzorgt puppy's",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een jonge man in een zware bruine winterjas staat met zijn armen gespreid voor een blauwe balustrade.",
+        "hypothesis": "De jongeman is bij zijn grootmoeder.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jonge man in een zware bruine winterjas staat met zijn armen gespreid voor een blauwe balustrade.",
+        "hypothesis": "De reling bevindt zich voor een bevroren meer.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jonge man in een zware bruine winterjas staat met zijn armen gespreid voor een blauwe balustrade.",
+        "hypothesis": "De man spreidt zijn armen terwijl hij voor een reling staat.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een zwarte man draagt een donsjack met zijn armen gespreid en houdt een roze kam vast.",
+        "hypothesis": "In de winter droeg een man een jas.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een zwarte man draagt een donsjack met zijn armen gespreid en houdt een roze kam vast.",
+        "hypothesis": "Iemand die een katoenen overhemd droeg, keek naar een groene haarkam.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een zwarte man draagt een donsjack met zijn armen gespreid en houdt een roze kam vast.",
+        "hypothesis": "Een man droeg een jas terwijl hij een kam vasthield.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man in een bruin jasje staat met zijn armen gespreid.",
+        "hypothesis": "De man smeekt om genade.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man in een bruin jasje staat met zijn armen gespreid.",
+        "hypothesis": "De man staat rechtop.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man in een bruin jasje staat met zijn armen gespreid.",
+        "hypothesis": "De man zit met gekruiste benen op de grond.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man met een rood vest loopt langs een zwart en groen hek.",
+        "hypothesis": "De man die het vest draagt, loopt over straat.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man met een rood vest loopt langs een zwart en groen hek.",
+        "hypothesis": "Een man draagt een vest.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man met een rood vest loopt langs een zwart en groen hek.",
+        "hypothesis": "De man die het vest draagt, zit op de bank.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Deze meiden hebben een geweldige tijd met het zoeken naar schelpen.",
+        "hypothesis": "De meisjes zijn blij.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Deze meiden hebben een geweldige tijd met het zoeken naar schelpen.",
+        "hypothesis": "De meisjes doen een dutje.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Deze meiden hebben een geweldige tijd met het zoeken naar schelpen.",
+        "hypothesis": "De meisjes zijn buiten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Op straat speelt een man saxofoon en een paar mensen zitten naast hem op de stoep.",
+        "hypothesis": "Een man bespeelt een instrument op straat, in de buurt van andere mensen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Op straat speelt een man saxofoon en een paar mensen zitten naast hem op de stoep.",
+        "hypothesis": "Een man probeert geld te verdienen door op straat voor andere mensen te spelen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Op straat speelt een man saxofoon en een paar mensen zitten naast hem op de stoep.",
+        "hypothesis": "Een vrouw vliegt door het land.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een staande man praat met een zittende vrouw terwijl hij in een voertuig zit.",
+        "hypothesis": "Er zijn twee mensen aan het praten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een staande man praat met een zittende vrouw terwijl hij in een voertuig zit.",
+        "hypothesis": "Drie mensen hebben een vergadering.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een staande man praat met een zittende vrouw terwijl hij in een voertuig zit.",
+        "hypothesis": "Twee mensen bespreken hun relatie.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jonge jongen met kortgeknipt haar, gekleed in een rood gewaad, houdt een zwarte ketel vast terwijl iemand op het punt staat er iets in te gieten.",
+        "hypothesis": "een kleine jongen rent door het maïsveld",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een jonge jongen met kortgeknipt haar, gekleed in een rood gewaad, houdt een zwarte ketel vast terwijl iemand op het punt staat er iets in te gieten.",
+        "hypothesis": "een kleine jongen houdt een ketel vast die binnenkort gevuld zal worden met salsa",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jonge jongen met kortgeknipt haar, gekleed in een rood gewaad, houdt een zwarte ketel vast terwijl iemand op het punt staat er iets in te gieten.",
+        "hypothesis": "een kleine jongen houdt een ketel vast die binnenkort gevuld zal worden",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Vier mensen en een baby steken de straat over op een zebrapad.",
+        "hypothesis": "Mensen en een baby rijden in de bus.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Vier mensen en een baby steken de straat over op een zebrapad.",
+        "hypothesis": "Mensen en een baby steken de straat over.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Vier mensen en een baby steken de straat over op een zebrapad.",
+        "hypothesis": "Mensen en een baby steken de straat over op een zebrapad om thuis te komen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Twee vrouwen in jurken staan buiten op het gras, terwijl een van hen een kop en schotel vasthoudt.",
+        "hypothesis": "Er staan twee mensen op het gras.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Twee vrouwen in jurken staan buiten op het gras, terwijl een van hen een kop en schotel vasthoudt.",
+        "hypothesis": "Twee vrouwen in jurken maken zich klaar voor de picknick.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Twee vrouwen in jurken staan buiten op het gras, terwijl een van hen een kop en schotel vasthoudt.",
+        "hypothesis": "De vrouwen voeren een gesprek op kantoor,",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vrouw leunt over een klein hek om een foto te maken van een gele bloem.",
+        "hypothesis": "De vrouw is een professionele fotograaf",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw leunt over een klein hek om een foto te maken van een gele bloem.",
+        "hypothesis": "De bloem is blauw",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vrouw leunt over een klein hek om een foto te maken van een gele bloem.",
+        "hypothesis": "Een vrouw maakt foto's",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een groep van vier kinderen poseert op een modderig strand, glimlacht en trekt gezichten.",
+        "hypothesis": "Vier kinderen poseren op een strand.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een groep van vier kinderen poseert op een modderig strand, glimlacht en trekt gezichten.",
+        "hypothesis": "Vier kinderen poseren tijdens de zomervakantie.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een groep van vier kinderen poseert op een modderig strand, glimlacht en trekt gezichten.",
+        "hypothesis": "Een man roert in de stoofpot.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Verschillende mannen in een bar kijken naar een sportwedstrijd op de televisie.",
+        "hypothesis": "Sommige mannen kijken tv in een bar.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Verschillende mannen in een bar kijken naar een sportwedstrijd op de televisie.",
+        "hypothesis": "Er zijn mannen die bier drinken in een sportbar.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Verschillende mannen in een bar kijken naar een sportwedstrijd op de televisie.",
+        "hypothesis": "De mannen zijn bij een honkbalwedstrijd.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee wegwerkers met limoengroene veiligheidsvesten, witte veiligheidshelmen en handschoenen aan met bouwkegels op de achtergrond",
+        "hypothesis": "Twee mannen dragen limoengroene jassen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Twee wegwerkers met limoengroene veiligheidsvesten, witte veiligheidshelmen en handschoenen aan met bouwkegels op de achtergrond",
+        "hypothesis": "Twee mannen plaatsen bouwkegels ter voorbereiding van een nieuw leidinggebouw.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Twee wegwerkers met limoengroene veiligheidsvesten, witte veiligheidshelmen en handschoenen aan met bouwkegels op de achtergrond",
+        "hypothesis": "Een vrouw straft een ander.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vrouw in een zwarte outfit ligt met haar gezicht eerst op een yogamat; Er hangen verschillende schilderijen aan de muur en de zon schijnt door een groot raam naast haar.",
+        "hypothesis": "Een kunstenaar ontspant in haar atelier.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw in een zwarte outfit ligt met haar gezicht eerst op een yogamat; Er hangen verschillende schilderijen aan de muur en de zon schijnt door een groot raam naast haar.",
+        "hypothesis": "Er is een persoon in een kamer.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een vrouw in een zwarte outfit ligt met haar gezicht eerst op een yogamat; Er hangen verschillende schilderijen aan de muur en de zon schijnt door een groot raam naast haar.",
+        "hypothesis": "Een vrouw slaapt terwijl het maanlicht door het raam filtert.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Kinderen in gele sportuniformen die een toren beklimmen.",
+        "hypothesis": "De kinderen zijn vechtsportstudenten.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Kinderen in gele sportuniformen die een toren beklimmen.",
+        "hypothesis": "De kinderen kruipen in het zand.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Kinderen in gele sportuniformen die een toren beklimmen.",
+        "hypothesis": "Kinderen in uniform beklimmen een toren.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Sommige honden rennen op een verlaten strand.",
+        "hypothesis": "Ze zijn op Hawaï.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Sommige honden rennen op een verlaten strand.",
+        "hypothesis": "Er is slechts één hond op het strand.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Sommige honden rennen op een verlaten strand.",
+        "hypothesis": "Er zijn meerdere honden aanwezig.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een drukke stadsstraat met veel voetgangers.",
+        "hypothesis": "Er zijn veel motorrijders op deze weg.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een drukke stadsstraat met veel voetgangers.",
+        "hypothesis": "Er zijn veel voetgangers in de stadsstraat.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een drukke stadsstraat met veel voetgangers.",
+        "hypothesis": "De voetgangers wachten op een parade die door deze drukke straat komt.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw, gekleed in een feloranje blouse, is aan het weven.",
+        "hypothesis": "Een vrouw draagt een feloranje blouse en een groene hoed.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw, gekleed in een feloranje blouse, is aan het weven.",
+        "hypothesis": "Een vrouw strijkt een rode broek.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vrouw, gekleed in een feloranje blouse, is aan het weven.",
+        "hypothesis": "Een vrouw is aan het weven.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een groep mensen zit in een roeiboot in de oceaan, omringd door meeuwen.",
+        "hypothesis": "Een groep mensen kijkt binnen naar een hockeywedstrijd.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een groep mensen zit in een roeiboot in de oceaan, omringd door meeuwen.",
+        "hypothesis": "Een groepje mensen zit in een houten voorwerp op het water.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een groep mensen zit in een roeiboot in de oceaan, omringd door meeuwen.",
+        "hypothesis": "Een groep mensen roeit richting enkele eilanden terwijl een van hen vist.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw in een bruin overhemd knielt op straat.",
+        "hypothesis": "Een vrouw protesteert op straat.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw in een bruin overhemd knielt op straat.",
+        "hypothesis": "Buiten ligt een vrouw op de grond.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een vrouw in een bruin overhemd knielt op straat.",
+        "hypothesis": "Een vrouw rijdt op een fiets.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man die een baby vasthoudt en een pony aait.",
+        "hypothesis": "Een man die een baby ontvoert, aait een pony.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man die een baby vasthoudt en een pony aait.",
+        "hypothesis": "Een man met een baby aait een pony.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man die een baby vasthoudt en een pony aait.",
+        "hypothesis": "Een man en zijn dochter aaien een pony.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Mannen zitten aan de kant van een stenen weg.",
+        "hypothesis": "Ik zit aan de kant van een weg",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Mannen zitten aan de kant van een stenen weg.",
+        "hypothesis": "de kant van de weg is leeg.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Mannen zitten aan de kant van een stenen weg.",
+        "hypothesis": "mannen praten langs de kant van de weg",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een zwarte hond met blauwe halsband springt in het water.",
+        "hypothesis": "Een hond gaat nat worden.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een zwarte hond met blauwe halsband springt in het water.",
+        "hypothesis": "Een zwarte hond met een blauwe halsband jaagt iets het water in.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een zwarte hond met blauwe halsband springt in het water.",
+        "hypothesis": "Een hond vermijdt het water.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een jong meisje in een gele top en een gebloemde rok staat op een deken en bijt op speelgoed.",
+        "hypothesis": "Er staat een meisje.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een jong meisje in een gele top en een gebloemde rok staat op een deken en bijt op speelgoed.",
+        "hypothesis": "Buiten staat een meisje.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jong meisje in een gele top en een gebloemde rok staat op een deken en bijt op speelgoed.",
+        "hypothesis": "Iedereen zit.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "veel kinderen spelen in het water.",
+        "hypothesis": "De kinderen zijn op kamp.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "veel kinderen spelen in het water.",
+        "hypothesis": "Sommige kinderen plonsen in het water en communiceren met elkaar.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "veel kinderen spelen in het water.",
+        "hypothesis": "De kinderen spelen minigolf.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een groep kinderen spettert in diep water vlakbij een rotsformatie.",
+        "hypothesis": "De kinderen zingen in een koor",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een groep kinderen spettert in diep water vlakbij een rotsformatie.",
+        "hypothesis": "De kinderen zitten in diep water",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een groep kinderen spettert in diep water vlakbij een rotsformatie.",
+        "hypothesis": "Ze dragen reddingsvesten",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "een klimmer met een rode hoofdband trekt zichzelf omhoog langs een grijze rots, hoog boven groen gebladerte.",
+        "hypothesis": "Een vrouwelijke klimmer probeert zichzelf omhoog te trekken",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "een klimmer met een rode hoofdband trekt zichzelf omhoog langs een grijze rots, hoog boven groen gebladerte.",
+        "hypothesis": "Een klimmer trekt zichzelf omhoog aan een aantal rotsen",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "een klimmer met een rode hoofdband trekt zichzelf omhoog langs een grijze rots, hoog boven groen gebladerte.",
+        "hypothesis": "Een klimmer trekt zichzelf 1500 meter omhoog boven een bos",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "een man met een rode hoofdband die een rotsklif beklimt die boven het groen uitsteekt.",
+        "hypothesis": "Een man is buiten.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "een man met een rode hoofdband die een rotsklif beklimt die boven het groen uitsteekt.",
+        "hypothesis": "Een man heeft klimuitrusting aan.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "een man met een rode hoofdband die een rotsklif beklimt die boven het groen uitsteekt.",
+        "hypothesis": "Een man zwemt in de oceaan.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Twee formeel geklede, kale oudere vrouwen",
+        "hypothesis": "Twee kale vrouwen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Twee formeel geklede, kale oudere vrouwen",
+        "hypothesis": "Twee kale vrouwen met een bril.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Twee formeel geklede, kale oudere vrouwen",
+        "hypothesis": "Twee langharige jonge vrouwen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een dakloze man duwt een overvol plastic blauw winkelwagentje.",
+        "hypothesis": "Een man heeft een winkelwagentje",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een dakloze man duwt een overvol plastic blauw winkelwagentje.",
+        "hypothesis": "Een man verzamelt blikjes om te recyclen",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een dakloze man duwt een overvol plastic blauw winkelwagentje.",
+        "hypothesis": "Een rijke man die een Rolex vasthoudt",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "een oude schoenmaker in zijn fabriek",
+        "hypothesis": "De schoenmaker is binnen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "een oude schoenmaker in zijn fabriek",
+        "hypothesis": "De schoenmaker maakt zich klaar voor zijn 16e verjaardag.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "een oude schoenmaker in zijn fabriek",
+        "hypothesis": "De schoenmaker is rijk.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een blonde vrouw spreekt met een groep jonge, donkerharige vrouwelijke studenten die stukjes papier bij zich hebben.",
+        "hypothesis": "Een vrouw praat met andere vrouwen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een blonde vrouw spreekt met een groep jonge, donkerharige vrouwelijke studenten die stukjes papier bij zich hebben.",
+        "hypothesis": "Een blondine spreekt met een groep jonge, donkerharige studentes die stukjes papier dragen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een blonde vrouw spreekt met een groep jonge, donkerharige vrouwelijke studenten die stukjes papier bij zich hebben.",
+        "hypothesis": "Een man slaat een vrouw.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "De vrouw in het zwarte shirt overhandigt papieren aan de kinderen om haar heen.",
+        "hypothesis": "Iemand deelt papier uit.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "De vrouw in het zwarte shirt overhandigt papieren aan de kinderen om haar heen.",
+        "hypothesis": "De vrouw geeft huiswerk aan de kinderen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "De vrouw in het zwarte shirt overhandigt papieren aan de kinderen om haar heen.",
+        "hypothesis": "Vrouw houdt het papier voor zichzelf.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Meisje in het rood springen",
+        "hypothesis": "Het meisje springt om de frisbee te vangen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Meisje in het rood springen",
+        "hypothesis": "Het meisje zit op het gras.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Meisje in het rood springen",
+        "hypothesis": "Het meisje in het rood hangt in de lucht.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "3 dames met nummers op hun shirt rennend.",
+        "hypothesis": "Er rennen dames.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "3 dames met nummers op hun shirt rennend.",
+        "hypothesis": "De dames zijn aan het fietsen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "3 dames met nummers op hun shirt rennend.",
+        "hypothesis": "De dames doen mee aan een marathon.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jonge jongen loopt op een pijp die zich over water uitstrekt.",
+        "hypothesis": "Een jongen maakt een subsandwich in zijn keuken.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een jonge jongen loopt op een pijp die zich over water uitstrekt.",
+        "hypothesis": "Buiten loopt een jongen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een jonge jongen loopt op een pijp die zich over water uitstrekt.",
+        "hypothesis": "Een jongen dreigt in het water te vallen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jonge jongen in een groene korte broek balanceert op een pijp boven een rivier.",
+        "hypothesis": "Niemand balanceert.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een jonge jongen in een groene korte broek balanceert op een pijp boven een rivier.",
+        "hypothesis": "Een slim persoon die balanceert.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jonge jongen in een groene korte broek balanceert op een pijp boven een rivier.",
+        "hypothesis": "Een persoon die balanceert.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een jonge man die op zijn hoede is voor zwart en een skateboard draagt, kijkt naar een buitenskateboardpark.",
+        "hypothesis": "Een man met een skateboard kijkt naar een park om te skateboarden.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een jonge man die op zijn hoede is voor zwart en een skateboard draagt, kijkt naar een buitenskateboardpark.",
+        "hypothesis": "Een meisje met een paardenstaart fietst in een park.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een jonge man die op zijn hoede is voor zwart en een skateboard draagt, kijkt naar een buitenskateboardpark.",
+        "hypothesis": "Een man gaat vandaag skateboarden.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Jonge jongen die pyjama draagt die in bed ligt en op een kleurrijk gestreept kussen slaapt.",
+        "hypothesis": "Een jonge jongen is aan het voetballen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Jonge jongen die pyjama draagt die in bed ligt en op een kleurrijk gestreept kussen slaapt.",
+        "hypothesis": "Een jonge jongen slaapt in een logeerkamer.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Jonge jongen die pyjama draagt die in bed ligt en op een kleurrijk gestreept kussen slaapt.",
+        "hypothesis": "Een jonge jongen slaapt op een kussen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man in een T-shirt met blauwe kraag poseert naar iemand terwijl hij een Hebreeuwse krant vasthoudt.",
+        "hypothesis": "Hij draagt de krant op zijn hoofd.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man in een T-shirt met blauwe kraag poseert naar iemand terwijl hij een Hebreeuwse krant vasthoudt.",
+        "hypothesis": "Hij is de krant aan het lezen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man in een T-shirt met blauwe kraag poseert naar iemand terwijl hij een Hebreeuwse krant vasthoudt.",
+        "hypothesis": "Hij is joods.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man met een baard springt in de sneeuw met de oceaan op de achtergrond en een oranje ligfiets geparkeerd bij een verkeersbord.",
+        "hypothesis": "Een menselijke sprong.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man met een baard springt in de sneeuw met de oceaan op de achtergrond en een oranje ligfiets geparkeerd bij een verkeersbord.",
+        "hypothesis": "Niemand springt.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man met een baard springt in de sneeuw met de oceaan op de achtergrond en een oranje ligfiets geparkeerd bij een verkeersbord.",
+        "hypothesis": "Een lange mens die springt.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Vier kinderen spelen in een watertje.",
+        "hypothesis": "De kinderen zijn modderig.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Vier kinderen spelen in een watertje.",
+        "hypothesis": "De kinderen zijn nat.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Vier kinderen spelen in een watertje.",
+        "hypothesis": "De kinderen zijn klusjes aan het doen.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Vier jonge meisjes spelen in het water.",
+        "hypothesis": "Vier meisjes liggen in het water.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Vier jonge meisjes spelen in het water.",
+        "hypothesis": "Er zijn jongens en meisjes in het water.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Vier jonge meisjes spelen in het water.",
+        "hypothesis": "Vier meisjes zijn aan het zwemmen.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "De man in het zwarte t-shirt probeert iets te gooien.",
+        "hypothesis": "De man loopt weg.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "De man in het zwarte t-shirt probeert iets te gooien.",
+        "hypothesis": "De man draagt een zwart shirt.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "De man in het zwarte t-shirt probeert iets te gooien.",
+        "hypothesis": "De man gooit iets naar zijn zoon.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jonge jongen in een geel shirt met lange mouwen en een spijkerbroek zit, met vijf volwassenen voor hem, waarvan er één een videocamera bedient.",
+        "hypothesis": "Iemand neemt een jonge jongen op terwijl hij auditie doet voor een rol in een film.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jonge jongen in een geel shirt met lange mouwen en een spijkerbroek zit, met vijf volwassenen voor hem, waarvan er één een videocamera bedient.",
+        "hypothesis": "Een jonge jongen jongleert met drie rode ballen terwijl hij geblinddoekt is.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een jonge jongen in een geel shirt met lange mouwen en een spijkerbroek zit, met vijf volwassenen voor hem, waarvan er één een videocamera bedient.",
+        "hypothesis": "Een volwassene die een videocamera gebruikt.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Jongens met hun rug tegen een inkomende golf.",
+        "hypothesis": "Een groep mensen speelt in de oceaan.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Jongens met hun rug tegen een inkomende golf.",
+        "hypothesis": "Een groep mensen staat bij elkaar.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Jongens met hun rug tegen een inkomende golf.",
+        "hypothesis": "Een groep mensen zit op het strand.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Vier jongens staan op het punt geraakt te worden door een naderende golf.",
+        "hypothesis": "Een golf staat op het punt enkele jongens te raken.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Vier jongens staan op het punt geraakt te worden door een naderende golf.",
+        "hypothesis": "De golf miste de jongens.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Vier jongens staan op het punt geraakt te worden door een naderende golf.",
+        "hypothesis": "Een gigantische golf staat op het punt enkele jongens te treffen.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een vrouw, die achter een meisje staat, helpt het meisje met een experiment.",
+        "hypothesis": "Een moeder helpt haar kind het experiment te voltooien.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouw, die achter een meisje staat, helpt het meisje met een experiment.",
+        "hypothesis": "Een vrouw helpt een meisje.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een dame helpt een andere vrouw in een zilveren coupé, wat hoogstwaarschijnlijk verband houdt met verpleegsterswerk.",
+        "hypothesis": "Een dame slaapt op een bank",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een dame helpt een andere vrouw in een zilveren coupé, wat hoogstwaarschijnlijk verband houdt met verpleegsterswerk.",
+        "hypothesis": "Een dame helpt een andere vrouw met werken",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een dame helpt een andere vrouw in een zilveren coupé, wat hoogstwaarschijnlijk verband houdt met verpleegsterswerk.",
+        "hypothesis": "Twee vrouwen proberen bestellingen van een dokter af te ronden",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man, die een blauwe jas draagt, schopt een andere man, die een rode jas draagt.",
+        "hypothesis": "Twee mannen vechten buiten een bar.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man, die een blauwe jas draagt, schopt een andere man, die een rode jas draagt.",
+        "hypothesis": "Een vrouw doet make-up op",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man, die een blauwe jas draagt, schopt een andere man, die een rode jas draagt.",
+        "hypothesis": "De ene man schopt de andere.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Veel mensen verzamelden zich in een kamer met meerdere mensen op het podium met instrumenten en de woorden \"The Early November\" aan de muur.",
+        "hypothesis": "Ouders komen samen voor een lokaal middelbareschoolconcert",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Veel mensen verzamelden zich in een kamer met meerdere mensen op het podium met instrumenten en de woorden \"The Early November\" aan de muur.",
+        "hypothesis": "De menigte verzamelt zich terwijl fluiten vechten tot de dood",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Veel mensen verzamelden zich in een kamer met meerdere mensen op het podium met instrumenten en de woorden \"The Early November\" aan de muur.",
+        "hypothesis": "Mensen vertrekken als het concert besluit om per noot in rekening te brengen",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een hockeyspeler in helm.",
+        "hypothesis": "Spelers dragen een helm.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een hockeyspeler in helm.",
+        "hypothesis": "De spelers nemen rust.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een hockeyspeler in helm.",
+        "hypothesis": "Ze zijn aan het hockeyen",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een man met blauwe buiging op de vloer voor een andere man in blauwe buiging op de vloer, terwijl twee andere mannen in blauwe kleding ook knielend op dezelfde verdieping zitten.",
+        "hypothesis": "Een man draagt iets.",
+        "answer": "gevolg"
+    },
+    {
+        "premise": "Een man met blauwe buiging op de vloer voor een andere man in blauwe buiging op de vloer, terwijl twee andere mannen in blauwe kleding ook op dezelfde verdieping knielen.",
+        "hypothesis": "Een man draagt niets.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man met blauwe buiging op de vloer voor een andere man in blauwe buiging op de vloer, terwijl twee andere mannen in blauwe kleding ook knielend op dezelfde verdieping zitten.",
+        "hypothesis": "Een man draagt een blauw shirt.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Fietser rijdt door het bos.",
+        "hypothesis": "Mountainbiker concurreert in off-road race.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Fietser rijdt door het bos.",
+        "hypothesis": "Man rijdt motorfiets op de snelweg.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Fietser rijdt door het bos.",
+        "hypothesis": "Mountainbiker genieten van de lokale paden.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jonge man in een blauw T-shirt en joggingbroek staat boven een fornuis en kijkt naar de camera terwijl een andere jonge man achter hem staat.",
+        "hypothesis": "Twee mannen nemen een kooktutorial op.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een jonge man in een blauw T-shirt en joggingbroek staat boven een fornuis en kijkt naar de camera terwijl een andere jonge man achter hem staat.",
+        "hypothesis": "Er zijn twee mannen bij het zwembad.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "koppels genieten van een maaltijd, terwijl een stel honden een dutje doen.",
+        "hypothesis": "HET PAAR EET Biefstuk",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "koppels genieten van een maaltijd, terwijl een stel honden een dutje doen.",
+        "hypothesis": "ER IS EEN PAAR DAT HUN HONDEN LOOPT",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een witte eend spreidt zijn vleugels uit in het water.",
+        "hypothesis": "De eend is een zeldzaam ras, waarvan de meesten denken dat ze jaren geleden met uitsterven zijn bedreigd.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een witte eend spreidt zijn vleugels uit in het water.",
+        "hypothesis": "De eend slaapt heerlijk, drijvend op het water",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vrouw in spijkerbroek loopt door de straat.",
+        "hypothesis": "Een oudere vrouw met een stok zit op een stoel.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een vrouw in spijkerbroek loopt door de straat.",
+        "hypothesis": "Een vrouw loopt richting een bushalte.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een groep mensen staat vlakbij en op een groot zwart vierkant op de grond met een gele tekst erop.",
+        "hypothesis": "een groep mensen wacht",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een groep mensen staat vlakbij en op een groot zwart vierkant op de grond met een gele tekst erop.",
+        "hypothesis": "een persoon ligt op de bank",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een groep mensen staat vlakbij en op een groot zwart vierkant op de grond met een gele tekst erop.",
+        "hypothesis": "een groep mensen staat",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een menigte kijkt naar een groep mannen in pak met aktetassen die in formatie door de straat lopen, geleid door een vrouw die een bord vasthoudt.",
+        "hypothesis": "Op het bordje dat de vrouw vasthoudt staat: 'Vrijheid is gratis'.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een menigte kijkt naar een groep mannen in pak met aktetassen die in formatie door de straat lopen, geleid door een vrouw die een bord vasthoudt.",
+        "hypothesis": "Een groep mensen verkleed als clowns wandelt het Bigtop Circus binnen met borden vast.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "De kleine jongen maakt zich klaar om tegen de voetbal te trappen.",
+        "hypothesis": "de jongen is tien jaar oud",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "De kleine jongen maakt zich klaar om tegen de voetbal te trappen.",
+        "hypothesis": "de jongen slaapt thuis",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man en een vrouw zitten op de stoep.",
+        "hypothesis": "De man en de vrouw staan.",
+        "answer": "tegenspraak"
+    },
+    {
+        "premise": "Een man en een vrouw zitten op de stoep.",
+        "hypothesis": "De man en de vrouw zijn getrouwd.",
+        "answer": "neutrale"
+    },
+    {
+        "premise": "Een vrouwtje op de voorgrond loopt richting een grote witgekleurde pilaar die deel uitmaakt van een groot gebouw, waar mensen rondhangen of wachten op de trappen van dat gebouw.",
+        "hypothesis": "Een hond rent de trappen van een gebouw op.",
+        "answer": "tegenspraak"
+    }
+]

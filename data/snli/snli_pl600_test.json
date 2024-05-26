@@ -1,0 +1,3002 @@
+[
+    {
+        "premise": "Ten chór kościelny śpiewa dla mas, które śpiewają w kościele radosne pieśni z księgi.",
+        "hypothesis": "Kościół ma pęknięcia w suficie.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Ten chór kościelny śpiewa dla mas, które śpiewają w kościele radosne pieśni z księgi.",
+        "hypothesis": "Kościół wypełnia się śpiewem.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Ten chór kościelny śpiewa dla mas, które śpiewają w kościele radosne pieśni z księgi.",
+        "hypothesis": "Chór śpiewający na meczu baseballowym.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobieta w zielonej chustce, niebieskiej koszuli i bardzo szerokim uśmiechu.",
+        "hypothesis": "Kobieta jest młoda.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta w zielonej chustce, niebieskiej koszuli i bardzo szerokim uśmiechu.",
+        "hypothesis": "Kobieta jest bardzo szczęśliwa.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta w zielonej chustce, niebieskiej koszuli i bardzo szerokim uśmiechu.",
+        "hypothesis": "Kobieta została postrzelona.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Starzec z paczką pozuje przed reklamą.",
+        "hypothesis": "Mężczyzna pozuje przed reklamą.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Starzec z paczką pozuje przed reklamą.",
+        "hypothesis": "Mężczyzna pozuje przed reklamą piwa.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Starzec z paczką pozuje przed reklamą.",
+        "hypothesis": "Mężczyzna przechodzi obok reklamy.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Pomnik w muzeum, na który nikt nie patrzy.",
+        "hypothesis": "Posąg jest obraźliwy i ludzie są wściekli, że go wystawiono.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Pomnik w muzeum, na który nikt nie patrzy.",
+        "hypothesis": "Jest posąg, którym wydaje się, że niewiele osób jest zainteresowanych.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Pomnik w muzeum, na który nikt nie patrzy.",
+        "hypothesis": "Wokół pomnika gromadzą się tysiące ludzi.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Land rover jedzie przez rzekę.",
+        "hypothesis": "Land Rover rozpryskuje wodę podczas przeprawy przez rzekę.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Land rover jedzie przez rzekę.",
+        "hypothesis": "Pojazd przejeżdża przez rzekę.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Land rover jedzie przez rzekę.",
+        "hypothesis": "Sedan utknął na środku rzeki.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna gra na gitarze elektrycznej na scenie.",
+        "hypothesis": "Mężczyzna gra na banjo na podłodze.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna gra na gitarze elektrycznej na scenie.",
+        "hypothesis": "Mężczyzna gra na gitarze na scenie.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna gra na gitarze elektrycznej na scenie.",
+        "hypothesis": "Mężczyzna występuje dla pieniędzy.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Blond lekarka i jej afroamerykańska asystentka rzuciły nowe podręczniki medyczne.",
+        "hypothesis": "Lekarz przegląda książkę",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Blond lekarka i jej afroamerykańska asystentka rzuciły nowe podręczniki medyczne.",
+        "hypothesis": "Mężczyzna je pb i j",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Blond lekarka i jej afroamerykańska asystentka rzuciły nowe podręczniki medyczne.",
+        "hypothesis": "Doktor studiuje",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Jedna opalona dziewczyna w wełnianej czapce biegnie i pochyla się nad jakimś przedmiotem, podczas gdy druga osoba w wełnianej czapce siedzi na ziemi.",
+        "hypothesis": "Chłopiec wpada na ścianę",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Jedna opalona dziewczyna w wełnianej czapce biegnie i pochyla się nad jakimś przedmiotem, podczas gdy druga osoba w wełnianej czapce siedzi na ziemi.",
+        "hypothesis": "Opalona dziewczyna biegnie i pochyla się nad przedmiotem",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Jedna opalona dziewczyna w wełnianej czapce biegnie i pochyla się nad jakimś przedmiotem, podczas gdy druga osoba w wełnianej czapce siedzi na ziemi.",
+        "hypothesis": "Mężczyzna patrzy, jak jego córka skacze",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młoda rodzina lubi czuć fale oceanu uderzające u jej stóp.",
+        "hypothesis": "Młody mężczyzna i kobieta po raz pierwszy zabierają dziecko na plażę.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młoda rodzina lubi czuć fale oceanu uderzające u jej stóp.",
+        "hypothesis": "Rodzina jest w restauracji.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Młoda rodzina lubi czuć fale oceanu uderzające u jej stóp.",
+        "hypothesis": "Rodzina jest na plaży.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Para idzie ulicą trzymając się za ręce.",
+        "hypothesis": "Para idzie razem.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Para idzie ulicą trzymając się za ręce.",
+        "hypothesis": "Para jest małżeństwem.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Para idzie ulicą trzymając się za ręce.",
+        "hypothesis": "Para siedzi na ławce.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Trzech młodych mężczyzn w kapturach stojących na środku cichej ulicy twarzą w twarz z kamerą.",
+        "hypothesis": "Trzy osoby siedzą z gołymi głowami przy ruchliwej ulicy.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Trzech młodych mężczyzn w kapturach stojących na środku cichej ulicy twarzą w twarz z kamerą.",
+        "hypothesis": "Trzej ludzie w kapturach pozują do zdjęcia.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Trzech młodych mężczyzn w kapturach stojących na środku cichej ulicy twarzą w twarz z kamerą.",
+        "hypothesis": "Na ulicy stoi trzech ludzi w kapturach.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna czyta gazetę w barze z zielonym oświetleniem.",
+        "hypothesis": "Mężczyzna jest w środku.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna czyta gazetę w barze z zielonym oświetleniem.",
+        "hypothesis": "Mężczyzna czyta stronę sportową.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna czyta gazetę w barze z zielonym oświetleniem.",
+        "hypothesis": "Mężczyzna wspina się na górę.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Trzej strażacy wychodzą ze stacji metra.",
+        "hypothesis": "Trzej strażacy gaszą pożar wewnątrz stacji metra.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Trzej strażacy wychodzą ze stacji metra.",
+        "hypothesis": "Trzej strażacy nadchodzą ze stacji metra.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Trzej strażacy wychodzą ze stacji metra.",
+        "hypothesis": "Trzej strażacy grający w karty w remizie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Osoba w słomkowym kapeluszu, stojąca na zewnątrz i pracująca przy stalowym urządzeniu ze stertą kokosów na ziemi.",
+        "hypothesis": "Osoba znajduje się w pobliżu stosu kokosów.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Osoba w słomkowym kapeluszu, stojąca na zewnątrz i pracująca przy stalowym urządzeniu ze stertą kokosów na ziemi.",
+        "hypothesis": "Osoba sprzedaje kokosy.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Osoba w słomkowym kapeluszu, stojąca na zewnątrz i pracująca przy stalowym urządzeniu ze stertą kokosów na ziemi.",
+        "hypothesis": "Osoba pali słomkowy kapelusz.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna w niebieskiej kurtce postanawia położyć się na trawie.",
+        "hypothesis": "Facet w żółtym tarza się po trawie",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna w niebieskiej kurtce postanawia położyć się na trawie.",
+        "hypothesis": "Facet w niebieskiej kurtce leży na zielonej trawie",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna w niebieskiej kurtce postanawia położyć się na trawie.",
+        "hypothesis": "Facet w niebieskiej kurtce leży na zielonej trawie i drzemie.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Podczas wiązania łydek kowboj odwołuje konia.",
+        "hypothesis": "Osoba, która po raz pierwszy spadła z konia, spada na linę.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Podczas wiązania łydek kowboj odwołuje konia.",
+        "hypothesis": "Mężczyzna pomyślnie wiąże łydkę.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mały chłopiec w swetrze w szaro-białe paski i brązowych spodniach bawi się na placu zabaw.",
+        "hypothesis": "Chłopiec jest na placu zabaw.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mały chłopiec w swetrze w szaro-białe paski i brązowych spodniach bawi się na placu zabaw.",
+        "hypothesis": "Chłopiec bawi się na huśtawkach po szkole.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mały chłopiec w swetrze w szaro-białe paski i brązowych spodniach bawi się na placu zabaw.",
+        "hypothesis": "Chłopiec siedzi w autobusie szkolnym w drodze do domu.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobieta w czapce z daszkiem kuca, by dotknąć popękanej ziemi.",
+        "hypothesis": "Archeolog w kapeluszu przysiada, aby zbadać miejsce pod kątem wykopalisk",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta w czapce z daszkiem kuca, by dotknąć popękanej ziemi.",
+        "hypothesis": "Kucająca kobieta w kapeluszu dotykająca ziemi.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta w czapce z daszkiem kuca, by dotknąć popękanej ziemi.",
+        "hypothesis": "Kobieta w czapce przeciwsłonecznej sadząca ogród.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwoje dzieci leży na dywaniku, a pomiędzy nimi drewniane cegły ułożone w kwadracie.",
+        "hypothesis": "Dwoje dzieci buduje ceglany piec.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwoje dzieci leży na dywaniku, a pomiędzy nimi drewniane cegły ułożone w kwadracie.",
+        "hypothesis": "Dwoje dzieci bawi się w łapanie w parku.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwoje dzieci leży na dywaniku, a pomiędzy nimi drewniane cegły ułożone w kwadracie.",
+        "hypothesis": "Dwoje dzieci leży na dywaniku.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna stojący przed budynkiem rozmawia przez telefon, a dwóch mężczyzn z boku odczuwa ból w boku.",
+        "hypothesis": "facet w pobliżu budynku stoi obok dwóch innych mężczyzn",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna stojący przed budynkiem rozmawia przez telefon, a dwóch mężczyzn z boku odczuwa ból w boku.",
+        "hypothesis": "dwie dziewczyny idą korytarzem",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna stojący przed budynkiem rozmawia przez telefon, a dwóch mężczyzn z boku odczuwa ból w boku.",
+        "hypothesis": "zajęty mężczyzna stoi z ochroniarzami",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwie młode dziewczyny są przebrane za wróżki i bawią się w liściach na świeżym powietrzu.",
+        "hypothesis": "Dziewczyny bawią się na świeżym powietrzu.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dwie młode dziewczyny są przebrane za wróżki i bawią się w liściach na świeżym powietrzu.",
+        "hypothesis": "Dwie dziewczyny bawią się w przebieranki w pomieszczeniu.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwie młode dziewczyny są przebrane za wróżki i bawią się w liściach na świeżym powietrzu.",
+        "hypothesis": "Obie dziewczyny bawią się jesienią.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Ludzie skaczą na linie przez szczelinę górską.",
+        "hypothesis": "Niektórzy ludzie wizualnie boją się skakać.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Ludzie skaczą na linie przez szczelinę górską.",
+        "hypothesis": "Ludzie wyskakują na zewnątrz.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Ludzie skaczą na linie przez szczelinę górską.",
+        "hypothesis": "Ludzie ślizgają się po górskiej szczelinie na zjeżdżalni.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Snowboardzista na szerokiej równinie śniegu",
+        "hypothesis": "Pole śnieżne z snowboardzistą na nim",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Snowboardzista na szerokiej równinie śniegu",
+        "hypothesis": "Snowboardzista ślizgający się po polu śniegu",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Snowboardzista na szerokiej równinie śniegu",
+        "hypothesis": "Skuter śnieżny w zamieci",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Starsza kobieta zajmująca się ogrodem.",
+        "hypothesis": "Pani gotuje obiad",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Starsza kobieta zajmująca się ogrodem.",
+        "hypothesis": "Pani pieli swój ogród",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Starsza kobieta zajmująca się ogrodem.",
+        "hypothesis": "Pani ma ogród",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna w czarnej koszuli pilnujący konserwacji rowerów.",
+        "hypothesis": "Mężczyzna niszczy rower.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna w czarnej koszuli pilnujący konserwacji rowerów.",
+        "hypothesis": "Mężczyzna przygląda się naprawie rowerów.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna w czarnej koszuli pilnujący konserwacji rowerów.",
+        "hypothesis": "Mężczyzna uczy się konserwacji roweru.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna w czarnej koszuli patrzy na rower w warsztacie.",
+        "hypothesis": "Mężczyzna ma na sobie czerwoną koszulę",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna w czarnej koszuli patrzy na rower w warsztacie.",
+        "hypothesis": "Mężczyzna ma na sobie czarną koszulę",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna w czarnej koszuli patrzy na rower w warsztacie.",
+        "hypothesis": "Mężczyzna decyduje, który rower kupić",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna patrzący na tylne koło roweru w warsztacie serwisowym z różnymi narzędziami widocznymi w tle.",
+        "hypothesis": "Osoba jest w garażu.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna patrzący na tylne koło roweru w warsztacie serwisowym z różnymi narzędziami widocznymi w tle.",
+        "hypothesis": "Mężczyzna naprawia rowery.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna patrzący na tylne koło roweru w warsztacie serwisowym z różnymi narzędziami widocznymi w tle.",
+        "hypothesis": "Mężczyzna czeka przed garażem.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Trzy osoby siedzą na ławce na stacji, mężczyzna dziwnie patrzy na dwie kobiety, rudowłosa kobieta w niezręcznej pozycji spogląda w górę i do przodu, a żółta blondynka kręci włosami.",
+        "hypothesis": "Niektórzy ludzie stoją w pobliżu.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Trzy osoby siedzą na ławce na stacji, mężczyzna dziwnie patrzy na dwie kobiety, rudowłosa kobieta w niezręcznej pozycji spogląda w górę i do przodu, a żółta blondynka kręci włosami.",
+        "hypothesis": "Ludzie biegają razem.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Trzy osoby siedzą na ławce na stacji, mężczyzna dziwnie patrzy na dwie kobiety, rudowłosa kobieta w niezręcznej pozycji spogląda w górę i do przodu, a żółta blondynka kręci włosami.",
+        "hypothesis": "Ludzie czekają na stacji.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dziecko ubrane w czerwony top stoi za blondynem siedzącym na taczce.",
+        "hypothesis": "Dziecko ubrane w czerwony top stoi za dzieckiem o blond włosach",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dziecko ubrane w czerwony top stoi za blondynem siedzącym na taczce.",
+        "hypothesis": "Dziecko ubrane w czerwony top stoi na dziecku o blond włosach",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dziecko ubrane w czerwony top stoi za blondynem siedzącym na taczce.",
+        "hypothesis": "Dziecko ubrane w czerwony top stoi za ślicznym dzieckiem o blond włosach",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Osoba ubrana w sukienkę w kwiaty i przyczepioną do niej pluszową pszczołę pcha ulicą wózek dziecięcy.",
+        "hypothesis": "Pani siedzi na ławce w parku.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Osoba ubrana w sukienkę w kwiaty i przyczepioną do niej pluszową pszczołę pcha ulicą wózek dziecięcy.",
+        "hypothesis": "Starsza pani pchająca wózek ruchliwą ulicą.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Osoba ubrana w sukienkę w kwiaty i przyczepioną do niej pluszową pszczołę pcha ulicą wózek dziecięcy.",
+        "hypothesis": "Osoba na zewnątrz pchająca wózek.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Pies skaczący po frisbee na śniegu.",
+        "hypothesis": "Zwierzę lubi zabawę w aportowanie ze swoim właścicielem.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Pies skaczący po frisbee na śniegu.",
+        "hypothesis": "Kot myje twarz i wąsy przednią łapą.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Pies skaczący po frisbee na śniegu.",
+        "hypothesis": "W zimne dni zwierzę przebywa na zewnątrz i bawi się plastikową zabawką.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Ludzie rozmawiają przy stole w jadalni pod baldachimem.",
+        "hypothesis": "Ludzie na przyjęciu siedzą do kolacji na trawniku.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Ludzie rozmawiają przy stole w jadalni pod baldachimem.",
+        "hypothesis": "Ludzie rozmawiają pod przykryciem.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Ludzie rozmawiają przy stole w jadalni pod baldachimem.",
+        "hypothesis": "Ludzie krzyczą na meczu bokserskim.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dziewczyna grająca na skrzypcach wraz z grupą ludzi",
+        "hypothesis": "Dziewczyna pierze mnóstwo prania.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dziewczyna grająca na skrzypcach wraz z grupą ludzi",
+        "hypothesis": "Dziewczyna gra na instrumencie.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dziewczyna grająca na skrzypcach wraz z grupą ludzi",
+        "hypothesis": "Grupa ludzi gra w symfonii.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta w orkiestrze gra na skrzypcach.",
+        "hypothesis": "Kobieta gra koncert.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta w orkiestrze gra na skrzypcach.",
+        "hypothesis": "Kobieta gra na skrzypcach.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta w orkiestrze gra na skrzypcach.",
+        "hypothesis": "Mężczyzna patrzy przez teleskop.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Trzej mężczyźni, jeden trzymający rury, drugi trzymający duży przedmiot nad głową i jeden oparty o platformę z rurami na ciężarówce, patrzą w kamerę.",
+        "hypothesis": "trzech mężczyzn jadących do pracy",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Trzej mężczyźni, jeden trzymający rury, drugi trzymający duży przedmiot nad głową i jeden oparty o platformę z rurami na ciężarówce, patrzą w kamerę.",
+        "hypothesis": "trzech mężczyzn patrzy w kamerę",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Trzej mężczyźni, jeden trzymający rury, drugi trzymający duży przedmiot nad głową i jeden oparty o platformę z rurami na ciężarówce, patrzą w kamerę.",
+        "hypothesis": "trzech mężczyzn śpiących w namiocie",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Samochód marki Ford skręca w prawo, a za nim 3 mężczyzn idzie przez ulicę.",
+        "hypothesis": "Za samochodem skręcającym w prawo przechodziło trzech pieszych.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Samochód marki Ford skręca w prawo, a za nim 3 mężczyzn idzie przez ulicę.",
+        "hypothesis": "Sedan skręcał za róg, gdy przechodzili przez niego spacerowicze.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Trzej chłopcy w białych koszulach idą za starszym modelem samochodu Ford.",
+        "hypothesis": "jest trzech chłopców",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Trzej chłopcy w białych koszulach idą za starszym modelem samochodu Ford.",
+        "hypothesis": "Są trzy dziewczyny",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Trzej chłopcy w białych koszulach idą za starszym modelem samochodu Ford.",
+        "hypothesis": "Chłopcy są na ulicy",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Trzy dziewczynki zdmuchują świeczki z tortu z Peepsów.",
+        "hypothesis": "Niektórzy zdmuchują świeczki",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Trzy dziewczynki zdmuchują świeczki z tortu z Peepsów.",
+        "hypothesis": "Są trzy dziewczyny i tort",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Trzy dziewczynki zdmuchują świeczki z tortu z Peepsów.",
+        "hypothesis": "W ogrodzie są podglądacze.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Tłum ludzi patrzących na 3 osoby na krawędzi dachu budynku.",
+        "hypothesis": "Tłum woła o pomoc dla ludzi na dachu.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Tłum ludzi patrzących na 3 osoby na krawędzi dachu budynku.",
+        "hypothesis": "Tłum na ziemi obserwuje 3 osoby na krawędzi dachu.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Tłum ludzi patrzących na 3 osoby na krawędzi dachu budynku.",
+        "hypothesis": "Trzy osoby schodzą po drabinie znajdującej się na budynku.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobieta pracująca po godzinach.",
+        "hypothesis": "Kobieta pracuje w fabryce.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta pracująca po godzinach.",
+        "hypothesis": "Kobieta pracuje.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta pracująca po godzinach.",
+        "hypothesis": "Kobieta śpi.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwie nastolatki rozmawiające obok szafek.",
+        "hypothesis": "Dziewczyny rozmawiają obok toalety.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwie nastolatki rozmawiające obok szafek.",
+        "hypothesis": "Ludzie rozmawiają obok szafek.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dwie nastolatki rozmawiające obok szafek.",
+        "hypothesis": "Dziewczyny rozmawiają o swoich problemach obok szafek.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Stara kobieta obserwuje, jak mężczyzna patrzy na piłki leżące na ziemi.",
+        "hypothesis": "Starsza kobieta prześladuje mężczyznę.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Stara kobieta obserwuje, jak mężczyzna patrzy na piłki leżące na ziemi.",
+        "hypothesis": "W pociągu śpią dwie osoby.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwoje dzieci, oboje ubranych w brązowe płaszcze, obejmują się.",
+        "hypothesis": "Dwoje dzieci przytula się po tym, jak przeżyły straszny wypadek samochodowy.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwoje dzieci, oboje ubranych w brązowe płaszcze, obejmują się.",
+        "hypothesis": "Dwoje dzieci przytula się.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dwoje dzieci, oboje ubranych w brązowe płaszcze, obejmują się.",
+        "hypothesis": "Dwoje dzieci biegnie autostradą.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwoje dzieci, które wyglądają na spokrewnione, spędza czas, jedno z nich wygląda na bardzo emocjonalnego i przytula drugie.",
+        "hypothesis": "Kilkoro krewnych dzieci przytulało się, bo cieszyli się, że się widzą.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwoje dzieci, które wyglądają na spokrewnione, spędza czas, jedno z nich wygląda na bardzo emocjonalnego i przytula drugie.",
+        "hypothesis": "Dwoje dzieci przytulało się.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dwoje dzieci, które wyglądają na spokrewnione, spędza czas, jedno z nich wygląda na bardzo emocjonalnego i przytula drugie.",
+        "hypothesis": "Dwóch młodych ludzi popychało się nawzajem.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Po ulicy spaceruje duża liczba osób ubranych wyłącznie na biało i czerwono.",
+        "hypothesis": "Ulicą przechadza się duża liczba osób ubranych na czarno.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Po ulicy spaceruje duża liczba osób ubranych wyłącznie na biało i czerwono.",
+        "hypothesis": "Duża liczba mężczyzn idących ulicą w czerwono-białych strojach.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Po ulicy spaceruje duża liczba osób ubranych wyłącznie na biało i czerwono.",
+        "hypothesis": "Duża liczba ludzi spacerujących ulicą.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Facet jadący motocyklem w pobliżu złomowanych samochodów",
+        "hypothesis": "Mężczyzna jeździ próbnie motocyklem, aby zdecydować, czy go kupi.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Facet jadący motocyklem w pobliżu złomowanych samochodów",
+        "hypothesis": "Mężczyzna jedzie na motocyklu.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Facet jadący motocyklem w pobliżu złomowanych samochodów",
+        "hypothesis": "Mężczyzna siedzi na zaparkowanym motocyklu i czeka na swojego przyjaciela.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobiety z Indii występujące z niebieskimi serpentynami, w pięknych niebieskich strojach.",
+        "hypothesis": "indyjskie kobiety występują razem w pięknych kostiumach",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobiety z Indii występujące z niebieskimi serpentynami, w pięknych niebieskich strojach.",
+        "hypothesis": "psy wąchają powietrze",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobiety z Indii występujące z niebieskimi serpentynami, w pięknych niebieskich strojach.",
+        "hypothesis": "indyjskie kobiety wspólnie wykonują rytuał religijny",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Zawodowy pływak wypluwa wodę po wypłynięciu na powierzchnię, chwytając osobę pomagającą mu wrócić na ląd.",
+        "hypothesis": "Osoba pływa.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Zawodowy pływak wypluwa wodę po wypłynięciu na powierzchnię, chwytając osobę pomagającą mu wrócić na ląd.",
+        "hypothesis": "Pływak je prażoną piankę marshmallow.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Zawodowy pływak wypluwa wodę po wypłynięciu na powierzchnię, chwytając osobę pomagającą mu wrócić na ląd.",
+        "hypothesis": "Pływak prawie utonął po tym, jak został wessany przez szybki prąd.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Z wody wychodzi mężczyzna w czarnym kombinezonie.",
+        "hypothesis": "Z wody wychodzi mężczyzna w piance, niosąc deskę surfingową.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Z wody wychodzi mężczyzna w czarnym kombinezonie.",
+        "hypothesis": "ktoś wychodzi z wody.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Z wody wychodzi mężczyzna w czarnym kombinezonie.",
+        "hypothesis": "Na plaży leży mężczyzna.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Pięć dziewcząt i dwóch chłopaków przechodzi przez wiadukt.",
+        "hypothesis": "Wspólna wycieczka wielopokoleniowa podczas zjazdu rodzinnego.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Pięć dziewcząt i dwóch chłopaków przechodzi przez wiadukt.",
+        "hypothesis": "Trzej mężczyźni siedzą i rozmawiają o swoim życiu.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Pięć dziewcząt i dwóch chłopaków przechodzi przez wiadukt.",
+        "hypothesis": "Na zewnątrz są ludzie.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Osoba w fioletowej koszuli maluje wizerunek kobiety na białej ścianie.",
+        "hypothesis": "Kobieta maluje portret swojej najlepszej przyjaciółki.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Osoba w fioletowej koszuli maluje wizerunek kobiety na białej ścianie.",
+        "hypothesis": "Kobieta maluje portret osoby.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Osoba w fioletowej koszuli maluje wizerunek kobiety na białej ścianie.",
+        "hypothesis": "Kobieta maluje portret małpy.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobieta maluje mural przedstawiający twarz kobiety.",
+        "hypothesis": "Jest tam obraz kobiety.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta maluje mural przedstawiający twarz kobiety.",
+        "hypothesis": "Jest kobieta malująca dla zabawy.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta maluje mural przedstawiający twarz kobiety.",
+        "hypothesis": "Jest mężczyzna, który wiąże buty.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Para je przy stole na zewnątrz i on na coś wskazuje.",
+        "hypothesis": "Para je przy stole, a on na coś wskazuje.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Para je przy stole na zewnątrz i on na coś wskazuje.",
+        "hypothesis": "Mężczyzna wskazuje na złodzieja torebek.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Para je przy stole na zewnątrz i on na coś wskazuje.",
+        "hypothesis": "Ludzie jedzą przy stoliku na zewnątrz.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dwie kobiety idą chodnikiem ruchliwej ulicy w centrum miasta.",
+        "hypothesis": "Kobiety spacerowały po centrum miasta, bo autobusy strajkowały",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwie kobiety idą chodnikiem ruchliwej ulicy w centrum miasta.",
+        "hypothesis": "Kobiety zbierały jagody na wsi",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwie kobiety idą chodnikiem ruchliwej ulicy w centrum miasta.",
+        "hypothesis": "Kobiety spacerowały po centrum miasta",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Wiele osób stoi na zewnątrz i rozmawia ze sobą przed budynkiem, na którym widnieje tablica z napisem „HI-POINTE”.",
+        "hypothesis": "Ludzie rozmawiają przed wejściem do budynku pracy.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Wiele osób stoi na zewnątrz i rozmawia ze sobą przed budynkiem, na którym widnieje tablica z napisem „HI-POINTE”.",
+        "hypothesis": "Grupy ludzi nie ma w budynku.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Wiele osób stoi na zewnątrz i rozmawia ze sobą przed budynkiem, na którym widnieje tablica z napisem „HI-POINTE”.",
+        "hypothesis": "Ludzie siedzą w hotelowym lobby.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Stewardessa ubrana na żółto demonstruje użycie kamizelki ratunkowej.",
+        "hypothesis": "Stewardesa stoi przed pasażerami.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Stewardessa ubrana na żółto demonstruje użycie kamizelki ratunkowej.",
+        "hypothesis": "Stewardesa demonstruje procedury bezpieczeństwa przed startem.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Stewardessa ubrana na żółto demonstruje użycie kamizelki ratunkowej.",
+        "hypothesis": "Kobieta przygotowuje napoje w samolocie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dziewczyny idą ulicą.",
+        "hypothesis": "Dziewczyny idą ulicą.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dziewczyny idą ulicą.",
+        "hypothesis": "Dziewczyny usiadły na ulicy.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dziewczyny idą ulicą.",
+        "hypothesis": "Dziewczyny wybierały się do parku.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Na motocyklu stoi mężczyzna ubrany w czerwony mundur i kask.",
+        "hypothesis": "mężczyzna siedzący w samochodzie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Na motocyklu stoi mężczyzna ubrany w czerwony mundur i kask.",
+        "hypothesis": "osoba stojąca.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Na motocyklu stoi mężczyzna ubrany w czerwony mundur i kask.",
+        "hypothesis": "mężczyzna stojący na motocyklu.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Człowiek ubrany nakłada czarną substancję na czoło mężczyzny.",
+        "hypothesis": "Mężczyzna kładzie coś na głowie drugiego mężczyzny.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Człowiek ubrany nakłada czarną substancję na czoło mężczyzny.",
+        "hypothesis": "Kobiety są w parku.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Człowiek ubrany nakłada czarną substancję na czoło mężczyzny.",
+        "hypothesis": "Mężczyźni są w kościele.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Osoba stacza się ze wzgórza na wozie, a inna osoba patrzy.",
+        "hypothesis": "Dwie osoby są na zewnątrz.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Osoba stacza się ze wzgórza na wozie, a inna osoba patrzy.",
+        "hypothesis": "Człowiek wpatruje się w puste wzgórze.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Osoba stacza się ze wzgórza na wozie, a inna osoba patrzy.",
+        "hypothesis": "Dziecko w wozie stacza się ze wzgórza.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "chłopiec trzymający się ściany podwyższonego fundamentu starego ceglanego domu.",
+        "hypothesis": "chłopiec trzymający się ściany podwyższonego fundamentu starego ceglanego domu podczas budowy",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "chłopiec trzymający się ściany podwyższonego fundamentu starego ceglanego domu.",
+        "hypothesis": "dziewczyna opiera się o ścianę",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "chłopiec trzymający się ściany podwyższonego fundamentu starego ceglanego domu.",
+        "hypothesis": "chłopiec opiera się o ścianę podwyższonego fundamentu",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Bruce Springsteen z wyciągniętą ręką śpiewa w świetle reflektorów w ciemnej sali koncertowej.",
+        "hypothesis": "Bruce Springsteen pochodzi z Florydy.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Bruce Springsteen z wyciągniętą ręką śpiewa w świetle reflektorów w ciemnej sali koncertowej.",
+        "hypothesis": "Bruce Springsteen jest piosenkarzem.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Bruce Springsteen z wyciągniętą ręką śpiewa w świetle reflektorów w ciemnej sali koncertowej.",
+        "hypothesis": "Bruce Springsteen jest gejem",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Sześć psów pływających w rzece.",
+        "hypothesis": "Sześć psów przepływa przez rzekę.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Sześć psów pływających w rzece.",
+        "hypothesis": "Sześć psów jest na zewnątrz.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Sześć psów pływających w rzece.",
+        "hypothesis": "Szczeniaki siedzą na kanapie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna i kobieta robią sobie zdjęcie, a obok nich przechodzi kobieta w szaliku.",
+        "hypothesis": "Mężczyzna i kobieta mają zrobione zdjęcia policyjne, ponieważ zostali aresztowani.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna i kobieta robią sobie zdjęcie, a obok nich przechodzi kobieta w szaliku.",
+        "hypothesis": "Mężczyzna i kobieta robią sobie selfie, a kobieta przechodzi obok i je ocenia.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna i kobieta robią sobie zdjęcie, a obok nich przechodzi kobieta w szaliku.",
+        "hypothesis": "Mężczyzna i kobieta robią sobie selfie.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "grupa ludzi tańczących razem.",
+        "hypothesis": "Ludzie tańczą.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "grupa ludzi tańczących razem.",
+        "hypothesis": "Oni tańczą tango.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "grupa ludzi tańczących razem.",
+        "hypothesis": "Nikt nie tańczy.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "W autobusie siedzą mężczyźni w niebieskich mundurach.",
+        "hypothesis": "Mężczyźni siedzą w autobusie.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "W autobusie siedzą mężczyźni w niebieskich mundurach.",
+        "hypothesis": "Mężczyźni siedzą w autobusie jadąc do pracy,",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "W autobusie siedzą mężczyźni w niebieskich mundurach.",
+        "hypothesis": "Mężczyźni wjechali autobusem do oceanu.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwóch mężczyzn wspinających się na drewniane rusztowanie.",
+        "hypothesis": "Dwie osoby wspinające się na drewniane rusztowanie.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dwóch mężczyzn wspinających się na drewniane rusztowanie.",
+        "hypothesis": "Dwie kobiety wspinające się na drewniane rusztowanie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwóch mężczyzn wspinających się na drewniane rusztowanie.",
+        "hypothesis": "Dwóch smutnych mężczyzn wspinających się na drewniane rusztowanie.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Ptak trzepocze skrzydłami na wodzie.",
+        "hypothesis": "Ptak przelatuje nad drzewami.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Ptak trzepocze skrzydłami na wodzie.",
+        "hypothesis": "Kaczka pływa w jeziorze.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młody chłopak ubrany w czerwoną koszulę i dżinsy stoi na środku pola i rzuca w powietrze zabawkowy samolot.",
+        "hypothesis": "Młody chłopak bawi się w feildzie.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Młody chłopak ubrany w czerwoną koszulę i dżinsy stoi na środku pola i rzuca w powietrze zabawkowy samolot.",
+        "hypothesis": "Mały chłopiec bawi się w polu, ponieważ matka wyrzuciła go z domu.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młody chłopak ubrany w czerwoną koszulę i dżinsy stoi na środku pola i rzuca w powietrze zabawkowy samolot.",
+        "hypothesis": "Młody chłopak gra w gry wideo w pomieszczeniu.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Sześć lub siedem osób stoi na molo ze stołem i okularami na pierwszym planie.",
+        "hypothesis": "Idą na ryby.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Sześć lub siedem osób stoi na molo ze stołem i okularami na pierwszym planie.",
+        "hypothesis": "Na molo stoi sześć lub siedem osób.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Sześć lub siedem osób stoi na molo ze stołem i okularami na pierwszym planie.",
+        "hypothesis": "Są w łodzi.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Osoba w czerwonej koszuli i czarnych spodniach pochyliła się.",
+        "hypothesis": "Osoba nosi czerwoną koszulę.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Osoba w czerwonej koszuli i czarnych spodniach pochyliła się.",
+        "hypothesis": "Ta osoba jest kobietą.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Osoba w czerwonej koszuli i czarnych spodniach pochyliła się.",
+        "hypothesis": "Osoba ma na sobie zieloną koszulę.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "To dziecko jest na schodach biblioteki.",
+        "hypothesis": "Dziecko jest na schodach szkoły.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "To dziecko jest na schodach biblioteki.",
+        "hypothesis": "Dziecko jest na schodach.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "To dziecko jest na schodach biblioteki.",
+        "hypothesis": "Dziecko jest na schodach wewnątrz biblioteki.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Wytatuowany koszykarz ma zamiar wrzucić piłkę.",
+        "hypothesis": "Facet gra w piłkę nożną..",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Wytatuowany koszykarz ma zamiar wrzucić piłkę.",
+        "hypothesis": "Osoba gra w koszykówkę.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Wytatuowany koszykarz ma zamiar wrzucić piłkę.",
+        "hypothesis": "Gracz ma tatuaż z napisem matka.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "chłopiec w czerwonej bluzie z kapturem uśmiecha się, odwracając wzrok od swojego odbicia.",
+        "hypothesis": "Chłopiec w czerwonym kapturku jest szczęśliwy.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "chłopiec w czerwonej bluzie z kapturem uśmiecha się, odwracając wzrok od swojego odbicia.",
+        "hypothesis": "Chłopak nie chce widzieć swojego odbicia.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "chłopiec w czerwonej bluzie z kapturem uśmiecha się, odwracając wzrok od swojego odbicia.",
+        "hypothesis": "Chłopak jest zdenerwowany.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna w szarej czapce idzie obok rudowłosej kobiety ubranej w niebieską koszulę dżinsową z długimi rękawami.",
+        "hypothesis": "mężczyzna ma na sobie szarą czapkę.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna w szarej czapce idzie obok rudowłosej kobiety ubranej w niebieską koszulę dżinsową z długimi rękawami.",
+        "hypothesis": "Mężczyzna ma na sobie niebieską czapkę.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna w szarej czapce idzie obok rudowłosej kobiety ubranej w niebieską koszulę dżinsową z długimi rękawami.",
+        "hypothesis": "Mężczyzna jest zimny.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Stary mężczyzna w czapce baseballowej i starsza kobieta w dżinsowej kurtce stoją na zewnątrz, ale są pokryci głównie cieniem.",
+        "hypothesis": "Stara kobieta ma lekką dżinsową kurtkę.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Stary mężczyzna w czapce baseballowej i starsza kobieta w dżinsowej kurtce stoją na zewnątrz, ale są pokryci głównie cieniem.",
+        "hypothesis": "Stara kobieta ma dżinsową kurtkę.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Stary mężczyzna w czapce baseballowej i starsza kobieta w dżinsowej kurtce stoją na zewnątrz, ale są pokryci głównie cieniem.",
+        "hypothesis": "Stara kobieta nie ma kurtki.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Młoda para śmieje się i rozmawia między sobą.",
+        "hypothesis": "Para dobrze się bawi.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Młoda para śmieje się i rozmawia między sobą.",
+        "hypothesis": "Para właśnie wzięła ślub.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Młoda para śmieje się i rozmawia między sobą.",
+        "hypothesis": "Para jest rozwiedziona.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Czarny mężczyzna w białej koszuli z długim rękawem i krawatem idzie do pracy w dużym mieście.",
+        "hypothesis": "Biegający mężczyzna ma na sobie szorty i koszulkę.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Czarny mężczyzna w białej koszuli z długim rękawem i krawatem idzie do pracy w dużym mieście.",
+        "hypothesis": "Mężczyzna się porusza.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Czarny mężczyzna w białej koszuli z długim rękawem i krawatem idzie do pracy w dużym mieście.",
+        "hypothesis": "Mężczyzna ma na sobie strój roboczy i idzie do pracy.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kilku młodych ludzi siedzi przed posągiem.",
+        "hypothesis": "kilku młodych ludzi siedzących na zewnątrz",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kilku młodych ludzi siedzi przed posągiem.",
+        "hypothesis": "w audytorium siedzi kilku młodych ludzi",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kilku młodych ludzi siedzi przed posągiem.",
+        "hypothesis": "kilku młodych ludzi siedzących na szkolnym dziedzińcu",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Grupa dorosłych stoi w łazience i patrzy na małe dziecko w wannie.",
+        "hypothesis": "Mama dziecka obserwuje syna z przyjaciółmi.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Grupa dorosłych stoi w łazience i patrzy na małe dziecko w wannie.",
+        "hypothesis": "Ludzie są w domu.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Grupa dorosłych stoi w łazience i patrzy na małe dziecko w wannie.",
+        "hypothesis": "Dziecko śpi.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Na scenie śpiewa głupio wyglądająca kobieta.",
+        "hypothesis": "Śpiewa kobieta.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Na scenie śpiewa głupio wyglądająca kobieta.",
+        "hypothesis": "Kobieta recytuje na scenie poezję.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Na scenie śpiewa głupio wyglądająca kobieta.",
+        "hypothesis": "Na scenie śpiewa i tańczy blondynka.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dziewczyna ubrana w brązową kurtkę podczas spaceru po śniegu.",
+        "hypothesis": "Kobieta je makaron w restauracji.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dziewczyna ubrana w brązową kurtkę podczas spaceru po śniegu.",
+        "hypothesis": "Pani w kurtce szuka zagubionego psa.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dziewczyna ubrana w brązową kurtkę podczas spaceru po śniegu.",
+        "hypothesis": "Dziewczyna idzie na zewnątrz.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna, kobieta i dziecko robią sobie zdjęcie przed górami.",
+        "hypothesis": "Pozuje rodzina na wakacjach.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna, kobieta i dziecko robią sobie zdjęcie przed górami.",
+        "hypothesis": "Ludzie są na zewnątrz.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna, kobieta i dziecko robią sobie zdjęcie przed górami.",
+        "hypothesis": "Rodzina jest w samochodzie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "ludzie stoją w pobliżu wody, a łódź płynie w ich kierunku",
+        "hypothesis": "Ludzie stoją.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "ludzie stoją w pobliżu wody, a łódź płynie w ich kierunku",
+        "hypothesis": "Ludzie stoją w pobliżu wody, a w ich kierunku płynie duża niebieska łódź.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "ludzie stoją w pobliżu wody, a łódź płynie w ich stronę",
+        "hypothesis": "Ludzie czekają w kolejce w restauracji.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Cztery osoby dorosłe jedzą, siedząc na podłodze z płytek.",
+        "hypothesis": "Dwie pary jedzą jedzenie na podłodze w kuchni.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Cztery osoby dorosłe jedzą, siedząc na podłodze z płytek.",
+        "hypothesis": "Dwie pary grają w bilard w barze.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Cztery osoby dorosłe jedzą, siedząc na podłodze z płytek.",
+        "hypothesis": "Grupa ludzi je jedzenie.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Pies stojący w pobliżu śniegu i patrzący na wodę.",
+        "hypothesis": "Na kanapie leży kot.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Pies stojący w pobliżu śniegu i patrzący na wodę.",
+        "hypothesis": "Zwierzę jest na zewnątrz.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Pies stojący w pobliżu śniegu i patrzący na wodę.",
+        "hypothesis": "Pies myśli o pójściu popływać.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Starszy mężczyzna opiera się o cokół przed ozdobnym budynkiem.",
+        "hypothesis": "Starszy mężczyzna pochyla się przed domem opieki",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Starszy mężczyzna opiera się o cokół przed ozdobnym budynkiem.",
+        "hypothesis": "Młody mężczyzna biega",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Starszy mężczyzna opiera się o cokół przed ozdobnym budynkiem.",
+        "hypothesis": "Starszy mężczyzna wychyla się z budynku",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Osoba w pomarańczowym ubraniu spoczywa nad wejściem do metra.",
+        "hypothesis": "Osoba siedzi na meczu baseballowym.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Osoba w pomarańczowym ubraniu spoczywa nad wejściem do metra.",
+        "hypothesis": "Ktoś stoi w pobliżu stacji metra.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Osoba w pomarańczowym ubraniu spoczywa nad wejściem do metra.",
+        "hypothesis": "Osoba czeka na pociąg.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dziewczyna w niebieskiej sukience zdejmuje buty i zjada niebieską watę cukrową.",
+        "hypothesis": "Dziewczyna je niebieską watę cukrową na karnawale.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dziewczyna w niebieskiej sukience zdejmuje buty i zjada niebieską watę cukrową.",
+        "hypothesis": "Dziewczyna w niebieskiej sukience jest dziewczyną-kwiaciarnią na weselu.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dziewczyna w niebieskiej sukience zdejmuje buty i zjada niebieską watę cukrową.",
+        "hypothesis": "Dziewczyna je boso.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Czarny mężczyzna w białym mundurze wykonuje spektakularny wsad do tyłu, ku zdumieniu tłumu.",
+        "hypothesis": "ten mężczyzna jest Azjatą",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Czarny mężczyzna w białym mundurze wykonuje spektakularny wsad do tyłu, ku zdumieniu tłumu.",
+        "hypothesis": "mężczyzna gra",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Czarny mężczyzna w białym mundurze wykonuje spektakularny wsad do tyłu, ku zdumieniu tłumu.",
+        "hypothesis": "mężczyzna śpi w domu",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Koszykarz w zielonych butach wrzuca piłkę do siatki, a publiczność na arenie się temu przygląda.",
+        "hypothesis": "Mężczyzna robi kanapkę, a tłum wzdycha z zachwytu.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Koszykarz w zielonych butach wrzuca piłkę do siatki, a publiczność na arenie się temu przygląda.",
+        "hypothesis": "Tłum obserwuje, jak ktoś gra w koszykówkę.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Koszykarz w zielonych butach wrzuca piłkę do siatki, a publiczność na arenie się temu przygląda.",
+        "hypothesis": "Słynny gracz NBA gra w piłkę uliczną na oczach tłumu.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Marszczący brwi starzec w czapce wojskowej i cywilnym garniturze stoi wśród tłumu ludzi na zewnątrz, niosąc transparenty i balony.",
+        "hypothesis": "Na zewnątrz stoi grupa ludzi.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Marszczący brwi starzec w czapce wojskowej i cywilnym garniturze stoi wśród tłumu ludzi na zewnątrz, niosąc transparenty i balony.",
+        "hypothesis": "Wściekły weteran wojskowy patrzy, jak ludzie protestują przeciwko wojnie.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Marszczący brwi starzec w czapce wojskowej i cywilnym garniturze stoi wśród tłumu ludzi na zewnątrz, niosąc transparenty i balony.",
+        "hypothesis": "Mężczyzna obserwuje grupę ludzi biorących udział w konkursie jedzenia hot dogów.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobieta ubrana w spodenki rowerowe i spódnicę jedzie na rowerze i niesie torbę na ramię.",
+        "hypothesis": "Kobieta na rowerze.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta ubrana w spodenki rowerowe i spódnicę jedzie na rowerze i niesie torbę na ramię.",
+        "hypothesis": "Kobieta jadąca rowerem do pracy.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta ubrana w spodenki rowerowe i spódnicę jedzie na rowerze i niesie torbę na ramię.",
+        "hypothesis": "Kobieta prowadząca samochód.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Młodzieniec na deskorolce robi trik na szynie.",
+        "hypothesis": "Młoda osoba na deskorolce.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Młodzieniec na deskorolce robi trik na szynie.",
+        "hypothesis": "Mężczyzna malujący drzewo.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Młodzieniec na deskorolce robi trik na szynie.",
+        "hypothesis": "Młody chłopak pokazujący przyjaciołom swoje nowe sztuczki na deskorolce.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Facet w dżinsach i kapeluszu kuca na poręczy, a przed nim znajduje się betonowy nasyp.",
+        "hypothesis": "Ma na sobie zapinaną na guziki koszulę.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Facet w dżinsach i kapeluszu kuca na poręczy, a przed nim znajduje się betonowy nasyp.",
+        "hypothesis": "Jego łysa głowa jest odsłonięta.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Facet w dżinsach i kapeluszu kuca na poręczy, a przed nim znajduje się betonowy nasyp.",
+        "hypothesis": "Na poręczy kuca mężczyzna.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dziewczyna w czerwonym płaszczu, niebieskiej chustce na głowie i dżinsach robi śnieżnego anioła.",
+        "hypothesis": "Dziewczyna w czerwonym płaszczu po raz pierwszy stworzyła śnieżnego anioła.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dziewczyna w czerwonym płaszczu, niebieskiej chustce na głowie i dżinsach robi śnieżnego anioła.",
+        "hypothesis": "Dziewczyna w czarnym płaszczu pozostaje w pomieszczeniu z dala od śniegu.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dziewczyna w czerwonym płaszczu, niebieskiej chustce na głowie i dżinsach robi śnieżnego anioła.",
+        "hypothesis": "Dziewczyna na zewnątrz bawi się na śniegu.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Grupa ludzi zebrała się w nocy, oglądając wydarzenie.",
+        "hypothesis": "Grupa przyjaciół śpi.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Grupa ludzi zebrała się w nocy, oglądając wydarzenie.",
+        "hypothesis": "Grupa ludzi patrzy w tym samym kierunku.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Grupa ludzi zebrała się w nocy, oglądając wydarzenie.",
+        "hypothesis": "Grupa przyjaciół ogląda nocny koncert muzyczny.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Amerykański piłkarz w kolorze żółtym łapie piłkę pod presją płatnika w kolorze białym.",
+        "hypothesis": "Piłkarz jest pod przymusem.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Amerykański piłkarz w kolorze żółtym łapie piłkę pod presją płatnika w kolorze białym.",
+        "hypothesis": "Gracz futbolu amerykańskiego w kolorze żółtym łapie piłkę pod presją zawodnika w kolorze białym.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Amerykański piłkarz w kolorze żółtym łapie piłkę pod presją płatnika w kolorze białym.",
+        "hypothesis": "Koszykarz rzuca za trzy punkty.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Osoba z niebieskimi włosami, czapką z daszkiem i kapturem stoi na zewnątrz w tłumie.",
+        "hypothesis": "Osoba uczestniczy w wydarzeniu sportowym.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Osoba z niebieskimi włosami, czapką z daszkiem i kapturem stoi na zewnątrz w tłumie.",
+        "hypothesis": "Osoba tańczy i śpiewa.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Osoba z niebieskimi włosami, czapką z daszkiem i kapturem stoi na zewnątrz w tłumie.",
+        "hypothesis": "Osoba stoi na zewnątrz.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dziewczyna trzymająca napój wskazuje na obraz.",
+        "hypothesis": "Dziewczyna jest w wannie",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dziewczyna trzymająca napój wskazuje na obraz.",
+        "hypothesis": "Dziewczyna pije napój alkoholowy.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dziewczyna trzymająca napój wskazuje na obraz.",
+        "hypothesis": "Dziewczyna ma napój.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna w czarnej koszuli, w komercyjnej kuchni, trzymający mięso wyjęte z torby.",
+        "hypothesis": "Mężczyzna w czarnej koszuli w komercyjnej kuchni trzymający stare mięso wyjęte z torby.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna w czarnej koszuli, w komercyjnej kuchni, trzymający mięso wyjęte z torby.",
+        "hypothesis": "Kobieta w czarnej koszuli, w komercyjnej kuchni, trzymająca mięso, które wyjął z torby.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna w czarnej koszuli, w komercyjnej kuchni, trzymający mięso wyjęte z torby.",
+        "hypothesis": "Mężczyzna w koszuli w komercyjnej kuchni trzymający mięso wyjęte z torby.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Osoba w czerwonej koszuli kosi trawę zieloną kosiarką jezdną.",
+        "hypothesis": "Osoba ubrana na czerwono pływa na igrzyskach olimpijskich.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Osoba w czerwonej koszuli kosi trawę zieloną kosiarką jezdną.",
+        "hypothesis": "Osoba w kolorze czerwonym porusza trawą na silniku John Deer.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Osoba w czerwonej koszuli kosi trawę zieloną kosiarką jezdną.",
+        "hypothesis": "Osoba w kolorze czerwonym kosi trawę na kosiarce samojezdnej",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Grupa osób ubranych w czarne koszule jadące pojazdem z otwartym dachem.",
+        "hypothesis": "Grupa ludzi jedzie kabrioletem.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Grupa osób ubranych w czarne koszule jadące pojazdem z otwartym dachem.",
+        "hypothesis": "Kierowca miał na sobie fioletową koszulę.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Grupa osób ubranych w czarne koszule jadące pojazdem z otwartym dachem.",
+        "hypothesis": "Przyjaciele jadą razem pojazdem z otwartym dachem.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwóch mężczyzn przygotowuje rybę w porcie.",
+        "hypothesis": "Dwóch mężczyzn właśnie wróciło z całodniowego łowienia ryb",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwóch mężczyzn przygotowuje rybę w porcie.",
+        "hypothesis": "Dwóch mężczyzn czyści ryby",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dwóch mężczyzn przygotowuje rybę w porcie.",
+        "hypothesis": "Dwóch mężczyzn siedzi w kajaku z wędkami",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobieta z twarzą częściowo pokrytą srebrną farbą siedzi na plastikowej torbie i patrzy w lustro.",
+        "hypothesis": "Kobieta jest modelką.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta z twarzą częściowo pokrytą srebrną farbą siedzi na plastikowej torbie i patrzy w lustro.",
+        "hypothesis": "Kobieta ma coś na twarzy.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta z twarzą częściowo pokrytą srebrną farbą siedzi na plastikowej torbie i patrzy w lustro.",
+        "hypothesis": "Kobieta jest niewidoma.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Za ladą stoi mężczyzna w bluzie z Alaski.",
+        "hypothesis": "Mężczyzna ma na sobie podkoszulek.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Za ladą stoi mężczyzna w bluzie z Alaski.",
+        "hypothesis": "Mężczyzna pochodzi z Alaski.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Za ladą stoi mężczyzna w bluzie z Alaski.",
+        "hypothesis": "Osoba za ladą to mężczyzna.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Duża grupa ludzi spacerujących nocą po ruchliwym mieście.",
+        "hypothesis": "Ludzie jedzą lunch w restauracji.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Duża grupa ludzi spacerujących nocą po ruchliwym mieście.",
+        "hypothesis": "Ludzie chodzą po mieście.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Duża grupa ludzi spacerujących nocą po ruchliwym mieście.",
+        "hypothesis": "Ludzie są na zewnątrz w parku.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobieta ubrana na biało i czerwono, w okularach, siedzi w pokoju z innymi ludźmi.",
+        "hypothesis": "Kobieta siedzi w pokoju z innymi ludźmi.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta ubrana na biało i czerwono, w okularach, siedzi w pokoju z innymi ludźmi.",
+        "hypothesis": "Kobieta siedzi w pokoju i rozmawia przez telefon.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta ubrana na biało i czerwono, w okularach, siedzi w pokoju z innymi ludźmi.",
+        "hypothesis": "Mężczyzna naprawia swój samochód.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Gracz softballu rzuca piłkę do kolegi z drużyny.",
+        "hypothesis": "Członkowie drużyny rywalizują w mistrzostwach softballu.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Gracz softballu rzuca piłkę do kolegi z drużyny.",
+        "hypothesis": "Dwie osoby grają w softball.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Gracz softballu rzuca piłkę do kolegi z drużyny.",
+        "hypothesis": "Dwóch graczy softballu siedzi na ławce.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Rowerzysta ściga się.",
+        "hypothesis": "Osoba jedzie na rowerze",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Rowerzysta ściga się.",
+        "hypothesis": "Rowerzysta przegrywa wyścig",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Rowerzysta ściga się.",
+        "hypothesis": "Samochód jest żółty",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwóch małych chłopców uśmiecha się i śmieje, jeden stoi, a drugi siedzi na dmuchanym siedzisku.",
+        "hypothesis": "Jest dwóch uśmiechniętych chłopców.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dwóch małych chłopców uśmiecha się i śmieje, jeden stoi, a drugi siedzi na dmuchanym siedzisku.",
+        "hypothesis": "Mali chłopcy płaczą.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwóch małych chłopców uśmiecha się i śmieje, jeden stoi, a drugi siedzi na dmuchanym siedzisku.",
+        "hypothesis": "Chłopcy to rodzeństwo, które bawi się ze sobą.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Rybacy z wyspy łowiący sieci po długim dniu pracy.",
+        "hypothesis": "Mężczyźni złowili wiele ryb.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Rybacy z wyspy łowiący sieci po długim dniu pracy.",
+        "hypothesis": "Mężczyźni nie poszli dziś do pracy, zamiast tego grali w brydża.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Rybacy z wyspy łowiący sieci po długim dniu pracy.",
+        "hypothesis": "Mężczyźni kończą dzień pracy.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Są to młodzi dorośli, którzy wydają się współpracować, aby chronić rośliny otaczające biały słup.",
+        "hypothesis": "Roślinami są paprocie",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Są to młodzi dorośli, którzy wydają się współpracować, aby chronić rośliny otaczające biały słup.",
+        "hypothesis": "Dorośli są młodzi",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Są to młodzi dorośli, którzy wydają się współpracować, aby chronić rośliny otaczające biały słup.",
+        "hypothesis": "Dorośli są starzy",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwóch piłkarzy z college'u walczy na świeżym powietrzu na boisku w dniu meczu, gdzie jeden z nich jest rozgrywającym próbującym rzucić piłkę, a drugi jest w akcji i ma zamiar zwolnić rozgrywającego.",
+        "hypothesis": "Dwie drużyny z rywalizujących uczelni są w czwartej kwarcie meczu.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwóch piłkarzy z college'u walczy na świeżym powietrzu na boisku w dniu meczu, gdzie jeden z nich jest rozgrywającym próbującym rzucić piłkę, a drugi jest w akcji i ma zamiar zwolnić rozgrywającego.",
+        "hypothesis": "Niektóre dziewczyny grają w koszykówkę.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwóch piłkarzy z college'u walczy na świeżym powietrzu na boisku w dniu meczu, gdzie jeden z nich jest rozgrywającym próbującym rzucić piłkę, a drugi jest w akcji i ma zamiar zwolnić rozgrywającego.",
+        "hypothesis": "Mecz futbolu uniwersyteckiego.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dwie osoby grają w futbol amerykański i jedna z nich próbuje powstrzymać drugą od rzucenia piłki.",
+        "hypothesis": "Liniowy próbuje zaatakować rozgrywającego, zanim ten zdobędzie zwycięskie przyłożenie.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwie osoby grają w futbol amerykański i jedna z nich próbuje powstrzymać drugą od rzucenia piłki.",
+        "hypothesis": "Miotacz rzuca piłkę baseballową do pałkarza, gdy ten próbuje wybić ją z parku.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwie osoby grają w futbol amerykański i jedna z nich próbuje powstrzymać drugą od rzucenia piłki.",
+        "hypothesis": "Trwa mecz piłki nożnej.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna grający w bilard w barze.",
+        "hypothesis": "Mężczyzna bawi się z przyjaciółmi.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna grający w bilard w barze.",
+        "hypothesis": "Mężczyzna gra w bilard.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna grający w bilard w barze.",
+        "hypothesis": "Mężczyzna gra w warcaby.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Złoty pies podaje niebieską piłkę innemu złotemu psu na plaży.",
+        "hypothesis": "Psy są przyjaciółmi.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Złoty pies podaje niebieską piłkę innemu złotemu psu na plaży.",
+        "hypothesis": "Psy nie chcą się dzielić.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Złoty pies podaje niebieską piłkę innemu złotemu psu na plaży.",
+        "hypothesis": "Złoty pies bawi się piłką z innym psem na zewnątrz.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Ludzie czekają na schodach ruchomych, aby dotrzeć do celu, patrząc na zewnątrz przez szybę tworzącą ścianę.",
+        "hypothesis": "Ludzie wspinają się po schodach ruchomych.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Ludzie czekają na schodach ruchomych, aby dotrzeć do celu, patrząc na zewnątrz przez szybę tworzącą ścianę.",
+        "hypothesis": "Ludzie jadą windą.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Ludzie czekają na schodach ruchomych, aby dotrzeć do celu, patrząc na zewnątrz przez szybę tworzącą ścianę.",
+        "hypothesis": "Ludzie jadą na ruchomych schodach.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta tka z grzebieniem w dłoni.",
+        "hypothesis": "Kobieta jest w pracy.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta tka z grzebieniem w dłoni.",
+        "hypothesis": "Kobieta robi coś rękami.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta tka z grzebieniem w dłoni.",
+        "hypothesis": "Kobieta siedzi z pustymi rękami.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Chłopiec jedzie drogą pomiędzy dwiema krowami.",
+        "hypothesis": "Chłopiec jedzie na koniu przy dwóch krowach.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Chłopiec jedzie drogą pomiędzy dwiema krowami.",
+        "hypothesis": "Chłopiec, droga i dwie krowy.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Chłopiec jedzie drogą pomiędzy dwiema krowami.",
+        "hypothesis": "Jedna krowa jest sama.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Przyjęcie urodzinowe, które sprawi radość wielu małym ludziom.",
+        "hypothesis": "Dzieci cieszące się z przyjęcia urodzinowego.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Przyjęcie urodzinowe, które sprawi radość wielu małym ludziom.",
+        "hypothesis": "Dzieci biegają ulicą.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Przyjęcie urodzinowe, które sprawi radość wielu małym ludziom.",
+        "hypothesis": "Dzieci na przyjęciu urodzinowym.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Na scenie występuje pięciu śpiewaków, trzy kobiety i dwóch mężczyzn.",
+        "hypothesis": "Jest więcej kobiet niż mężczyzn.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Na scenie występuje pięciu śpiewaków, trzy kobiety i dwóch mężczyzn.",
+        "hypothesis": "Artyści grają na dudach.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Na scenie występuje pięciu śpiewaków, trzy kobiety i dwóch mężczyzn.",
+        "hypothesis": "Występujący ludzie stanowią część chóru.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwóch mężczyzn stoi w łodzi.",
+        "hypothesis": "Kilku mężczyzn stoi na dachu samochodu.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwóch mężczyzn stoi w łodzi.",
+        "hypothesis": "Kilku mężczyzn łowi ryby na łodzi.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwóch mężczyzn stoi w łodzi.",
+        "hypothesis": "Niektórzy ludzie są w łodzi.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Młoda kobieta wkłada swoje ubrania do suszarki w podwójnej pralko-suszarce.",
+        "hypothesis": "Osoba susząca ubrania",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Młoda kobieta wkłada swoje ubrania do suszarki w podwójnej pralko-suszarce.",
+        "hypothesis": "Nikt nie suszy ubrań.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Słońce przebija się przez drzewa, gdy dziecko jeździ na huśtawce.",
+        "hypothesis": "Dziecko jeździ na huśtawce w deszczu.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Słońce przebija się przez drzewa, gdy dziecko jeździ na huśtawce.",
+        "hypothesis": "Dziecko w ciągu dnia jeździ na huśtawce.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Słońce przebija się przez drzewa, gdy dziecko jeździ na huśtawce.",
+        "hypothesis": "Dziecko na huśtawce to dziewczynka.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Wygląda na to, że wszyscy na ulicach miasta są zajęci swoimi sprawami.",
+        "hypothesis": "Ludzie kręcą się po ulicach miasta.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Wygląda na to, że wszyscy na ulicach miasta są zajęci swoimi sprawami.",
+        "hypothesis": "Ludzie obserwują, co się dzieje.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Wygląda na to, że wszyscy na ulicach miasta są zajęci swoimi sprawami.",
+        "hypothesis": "Ludzie prowadzą w mieście interesy.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna w fartuchu uśmiecha się, szturchając smażącego się pączka małym metalowym patyczkiem.",
+        "hypothesis": "Mężczyzna gotuje jedzenie.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna w fartuchu uśmiecha się, szturchając smażącego się pączka małym metalowym patyczkiem.",
+        "hypothesis": "Mężczyzna jest w kuchni restauracji.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna w fartuchu uśmiecha się, szturchając smażącego się pączka małym metalowym patyczkiem.",
+        "hypothesis": "Mężczyzna myje swój samochód.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobieta w tenisowym stroju biegnąca, by uderzyć piłkę rakietą tenisową.",
+        "hypothesis": "Kobieta gra w tenisa.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta w tenisowym stroju biegnąca, by uderzyć piłkę rakietą tenisową.",
+        "hypothesis": "Serina Williams gra w tenisa.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta w tenisowym stroju biegnąca, by uderzyć piłkę rakietą tenisową.",
+        "hypothesis": "Pete Sampras gra w tenisa.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kilka kobiet gra w siatkówkę.",
+        "hypothesis": "Kobiety uderzają piłkę rękami",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kilka kobiet gra w siatkówkę.",
+        "hypothesis": "To nie wygląda na piłkę nożną",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kilka kobiet gra w siatkówkę.",
+        "hypothesis": "Grupa kobiet gra w siatkówkę",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dwie kobiece drużyny siatkówki rywalizują ze sobą na boisku w kolorze łososiowym i turkusowym, a sędzia w czarnych zegarkach.",
+        "hypothesis": "trwa mecz siatkówki pomiędzy pań",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dwie kobiece drużyny siatkówki rywalizują ze sobą na boisku w kolorze łososiowym i turkusowym, a sędzia w czarnych zegarkach.",
+        "hypothesis": "12 pań gra w siatkówkę",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwie kobiece drużyny siatkówki rywalizują ze sobą na boisku w kolorze łososiowym i turkusowym, a sędzia w czarnych zegarkach.",
+        "hypothesis": "dziesięciu chłopców gra w krykieta",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mały chłopiec w niebieskim kasku rowerowym i kobieta w zielonym kasku rowerowym jadą ulicą na rowerach z innymi rowerzystami.",
+        "hypothesis": "Matka i syn jeżdżą na rowerach z innymi osobami ulicą.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mały chłopiec w niebieskim kasku rowerowym i kobieta w zielonym kasku rowerowym jadą ulicą na rowerach z innymi rowerzystami.",
+        "hypothesis": "Grupa ludzi zmienia oponę rowerową.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mały chłopiec w niebieskim kasku rowerowym i kobieta w zielonym kasku rowerowym jadą ulicą na rowerach z innymi rowerzystami.",
+        "hypothesis": "Grupa ludzi jedzie razem na rowerach ulicą.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Ludzie jeżdżą po ulicy na rowerach i wszyscy noszą kaski.",
+        "hypothesis": "Grupa przyjaciół jedzie na rowerach ulicą, wszyscy w kaskach",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Ludzie jeżdżą po ulicy na rowerach i wszyscy noszą kaski.",
+        "hypothesis": "Grupa przyjaciół chwyta rowery i przygotowuje się do porannej przejażdżki rowerowej",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Ludzie jeżdżą po ulicy na rowerach i wszyscy noszą kaski.",
+        "hypothesis": "Grupa rowerzystów jest na ulicy na zewnątrz",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Rynek bliskowschodni.",
+        "hypothesis": "Sklep z Bliskiego Wschodu.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Rynek bliskowschodni.",
+        "hypothesis": "Amerykański teatr.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Rynek bliskowschodni.",
+        "hypothesis": "Sklep zagraniczny.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "kobieta w czarnej koszuli patrząca na rower.",
+        "hypothesis": "Kobieta widzi rower.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "kobieta w czarnej koszuli patrząca na rower.",
+        "hypothesis": "Kobieta ubrana w czarne sklepy na rowerze.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "kobieta w czarnej koszuli patrząca na rower.",
+        "hypothesis": "Kobieta w zieleni śpi na kanapie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Czterech mężczyzn grających na perkusji w bardzo pomarańczowym świetle, podczas gdy jeden z nich również pije coś z butelki.",
+        "hypothesis": "mężczyźni są muzykami",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Czterech mężczyzn grających na perkusji w bardzo pomarańczowym świetle, podczas gdy jeden z nich również pije coś z butelki.",
+        "hypothesis": "mężczyźni śpią w motelu",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Czterech mężczyzn grających na perkusji w bardzo pomarańczowym świetle, podczas gdy jeden z nich również pije coś z butelki.",
+        "hypothesis": "czterech mężczyzn gra na perkusji",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Młodzi chłopcy w zielono-niebieskich koszulkach kopią piłkę nożną, podczas gdy w tle rozgrywają się inne mecze piłkarskie.",
+        "hypothesis": "Młodzi chłopcy rzucają piłką baseballową na boisko baseballowe.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Młodzi chłopcy w zielono-niebieskich koszulkach kopią piłkę nożną, podczas gdy w tle rozgrywają się inne mecze piłkarskie.",
+        "hypothesis": "Młodzi chłopcy czekają na mecz piłki nożnej.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młodzi chłopcy w zielono-niebieskich koszulkach kopią piłkę nożną, podczas gdy w tle rozgrywają się inne mecze piłkarskie.",
+        "hypothesis": "Młodzi chłopcy kopią piłkę nożną.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna w jednoczęściowej tunice jedzie na rowerze przed ścianą z piaskowca, dotykając nosa.",
+        "hypothesis": "Mężczyzna testuje rower.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna w jednoczęściowej tunice jedzie na rowerze przed ścianą z piaskowca, dotykając nosa.",
+        "hypothesis": "Mężczyzna jedzie ciężarówką.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna w jednoczęściowej tunice jedzie na rowerze przed ścianą z piaskowca, dotykając nosa.",
+        "hypothesis": "Mężczyzna jedzie na rowerze.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Facet i dziewczyna patrzą w dół pasma górskiego.",
+        "hypothesis": "Ludzie patrzą na góry.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Facet i dziewczyna patrzą w dół pasma górskiego.",
+        "hypothesis": "Para wybiera się na wspinaczkę w góry.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Facet i dziewczyna patrzą w dół pasma górskiego.",
+        "hypothesis": "Ludzie patrzą w niebo.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna siedzi na zielonym krześle, rozmawia przez telefon i pracuje na laptopie, a obok jego budynku znajduje się plac budowy.",
+        "hypothesis": "Mężczyzna chodzi nerwowo.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna siedzi na zielonym krześle, rozmawia przez telefon i pracuje na laptopie, a obok jego budynku znajduje się plac budowy.",
+        "hypothesis": "Mężczyzna słyszy, jak trwa budowa.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna siedzi na zielonym krześle, rozmawia przez telefon i pracuje na laptopie, a obok jego budynku znajduje się plac budowy.",
+        "hypothesis": "Mężczyzna może rozmawiać przez telefon.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Chłopiec uderza piłką tenisową w kort.",
+        "hypothesis": "Dziewczyna uderza piłkę.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Chłopiec uderza piłką tenisową o kort.",
+        "hypothesis": "Chłopak jest dobry w tenisa.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Chłopiec uderza piłką tenisową o kort.",
+        "hypothesis": "Chłopiec uderza piłkę.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Golden retriever karmi szczenięta.",
+        "hypothesis": "Golden retriever opiekuje się szczeniętami innych psów",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Golden retriever karmi szczenięta.",
+        "hypothesis": "Szczenięta obok matki",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Golden retriever karmi szczenięta.",
+        "hypothesis": "Kot karmi szczenięta",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Młody mężczyzna w grubym brązowym płaszczu zimowym stoi z rozłożonymi ramionami przed niebieską balustradą.",
+        "hypothesis": "Młody mężczyzna jest w domu swojej babci.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młody mężczyzna w grubym brązowym płaszczu zimowym stoi z rozłożonymi ramionami przed niebieską balustradą.",
+        "hypothesis": "Poręcz znajduje się przed zamarzniętym jeziorem.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młody mężczyzna w grubym brązowym płaszczu zimowym stoi z rozłożonymi ramionami przed niebieską balustradą.",
+        "hypothesis": "Mężczyzna rozkłada ramiona, stojąc przed balustradą.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Czarny mężczyzna ubrany w puchową kurtkę z rozłożonymi ramionami i trzymający różowy grzebień.",
+        "hypothesis": "Zimą mężczyzna nosił kurtkę.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Czarny mężczyzna ubrany w puchową kurtkę z rozłożonymi ramionami i trzymający różowy grzebień.",
+        "hypothesis": "Ktoś ubrany w bawełnianą koszulę patrzył na zielony grzebień do włosów.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Czarny mężczyzna ubrany w puchową kurtkę z rozłożonymi ramionami i trzymający różowy grzebień.",
+        "hypothesis": "Mężczyzna miał na sobie kurtkę i trzymał grzebień.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna w brązowej kurtce stoi z rozłożonymi ramionami.",
+        "hypothesis": "Mężczyzna błaga o litość.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna w brązowej kurtce stoi z rozłożonymi ramionami.",
+        "hypothesis": "Mężczyzna jest wyprostowany.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna w brązowej kurtce stoi z rozłożonymi ramionami.",
+        "hypothesis": "Mężczyzna siedzi na podłodze ze skrzyżowanymi nogami.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna ubrany w czerwoną kamizelkę przechodzi obok czarno-zielonego płotu.",
+        "hypothesis": "Mężczyzna w kamizelce idzie ulicą.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna ubrany w czerwoną kamizelkę przechodzi obok czarno-zielonego płotu.",
+        "hypothesis": "Mężczyzna ma na sobie kamizelkę.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna ubrany w czerwoną kamizelkę przechodzi obok czarno-zielonego płotu.",
+        "hypothesis": "Mężczyzna w kamizelce siedzi na sofie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Te dziewczyny świetnie się bawią, szukając muszelek.",
+        "hypothesis": "Dziewczyny są szczęśliwe.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Te dziewczyny świetnie się bawią, szukając muszelek.",
+        "hypothesis": "Dziewczyny śpią.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Te dziewczyny świetnie się bawią, szukając muszelek.",
+        "hypothesis": "Dziewczyny są na zewnątrz.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Na ulicy mężczyzna gra na saksofonie, a na krawężniku obok ulicy siedzą ludzie.",
+        "hypothesis": "Mężczyzna gra na instrumencie na ulicy w pobliżu innych ludzi.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Na ulicy mężczyzna gra na saksofonie, a na krawężniku obok ulicy siedzą ludzie.",
+        "hypothesis": "Mężczyzna próbuje zarobić pieniądze grając dla innych ludzi na ulicy.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Na ulicy mężczyzna gra na saksofonie, a na krawężniku obok ulicy siedzą ludzie.",
+        "hypothesis": "Kobieta leci na przełaj.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Stojący mężczyzna rozmawia z siedzącą kobietą, jadąc jakimś pojazdem.",
+        "hypothesis": "Rozmawiają dwie osoby.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Stojący mężczyzna rozmawia z siedzącą kobietą, jadąc jakimś pojazdem.",
+        "hypothesis": "Trzy osoby mają spotkanie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Stojący mężczyzna rozmawia z siedzącą kobietą, jadąc jakimś pojazdem.",
+        "hypothesis": "Dwie osoby rozmawiają o swoim związku.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młody chłopak z krótko ostrzyżonymi włosami, ubrany w czerwoną szatę, trzyma czarny czajnik, gdy ktoś chce coś do niego nalać.",
+        "hypothesis": "mały chłopiec biegnie przez pole kukurydzy",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Młody chłopak z krótko ostrzyżonymi włosami, ubrany w czerwoną szatę, trzyma czarny czajnik, gdy ktoś chce coś do niego nalać.",
+        "hypothesis": "mały chłopiec trzyma czajnik, który wkrótce zostanie napełniony salsą",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młody chłopak z krótko ostrzyżonymi włosami, ubrany w czerwoną szatę, trzyma czarny czajnik, gdy ktoś chce coś do niego nalać.",
+        "hypothesis": "mały chłopiec trzyma czajnik, który wkrótce zostanie napełniony",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Cztery osoby i dziecko przechodzą przez ulicę na przejściu dla pieszych.",
+        "hypothesis": "Ludzie i dziecko jadące autobusem.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Cztery osoby i dziecko przechodzą przez ulicę na przejściu dla pieszych.",
+        "hypothesis": "Ludzie i dziecko przechodzące przez ulicę.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Cztery osoby i dziecko przechodzą przez ulicę na przejściu dla pieszych.",
+        "hypothesis": "Ludzie i dziecko przechodzą przez ulicę na przejściu dla pieszych, aby wrócić do domu.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwie kobiety w sukienkach stoją na trawie na zewnątrz, jedna z nich trzyma filiżankę ze spodkiem.",
+        "hypothesis": "Dwie osoby stoją na trawie.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dwie kobiety w sukienkach stoją na trawie na zewnątrz, jedna z nich trzyma filiżankę ze spodkiem.",
+        "hypothesis": "Dwie kobiety w sukienkach przygotowują się na piknik.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwie kobiety w sukienkach stoją na trawie na zewnątrz, jedna z nich trzyma filiżankę ze spodkiem.",
+        "hypothesis": "Kobiety rozmawiają w biurze,",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobieta pochyla się nad małym płotem, żeby zrobić zdjęcie żółtemu kwiatowi.",
+        "hypothesis": "Kobieta jest zawodowym fotografem",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta pochyla się nad małym płotem, żeby zrobić zdjęcie żółtemu kwiatowi.",
+        "hypothesis": "Kwiat jest niebieski",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobieta pochyla się nad małym płotem, żeby zrobić zdjęcie żółtemu kwiatowi.",
+        "hypothesis": "Kobieta robi zdjęcia",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Grupa czwórki dzieci pozuje na błotnistej plaży, uśmiechając się i robiąc miny.",
+        "hypothesis": "Czwórka dzieci pozuje na plaży.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Grupa czwórki dzieci pozuje na błotnistej plaży, uśmiechając się i robiąc miny.",
+        "hypothesis": "Czwórka dzieci pozuje podczas letnich wakacji.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Grupa czwórki dzieci pozuje na błotnistej plaży, uśmiechając się i robiąc miny.",
+        "hypothesis": "Mężczyzna miesza gulasz.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kilku mężczyzn przy barze ogląda w telewizji mecz sportowy.",
+        "hypothesis": "Niektórzy mężczyźni oglądają telewizję w barze.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kilku mężczyzn przy barze ogląda w telewizji mecz sportowy.",
+        "hypothesis": "W barze sportowym są mężczyźni pijący piwo.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kilku mężczyzn przy barze ogląda w telewizji mecz sportowy.",
+        "hypothesis": "Mężczyźni są na meczu baseballowym.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwóch pracowników drogowych w limonkowych kamizelkach ochronnych, białych kaskach i rękawiczkach, a w tle stożki budowlane",
+        "hypothesis": "Dwóch mężczyzn ma na sobie limonkowe kurtki.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dwóch pracowników drogowych w limonkowych kamizelkach ochronnych, białych kaskach i rękawiczkach, a w tle stożki budowlane",
+        "hypothesis": "Dwóch mężczyzn umieszcza stożki budowlane w ramach przygotowań do budowy nowego rurociągu.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwóch pracowników drogowych w limonkowych kamizelkach ochronnych, białych kaskach i rękawiczkach, a w tle stożki budowlane",
+        "hypothesis": "Kobieta karci inną.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobieta w czarnym stroju leży twarzą do przodu na macie do jogi; na ścianie wisi kilka obrazów, a słońce świeci przez duże okno obok niej.",
+        "hypothesis": "Artystka relaksuje się w swoim studiu.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta w czarnym stroju leży twarzą do przodu na macie do jogi; na ścianie wisi kilka obrazów, a słońce świeci przez duże okno obok niej.",
+        "hypothesis": "W pokoju jest osoba.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta w czarnym stroju leży twarzą do przodu na macie do jogi; na ścianie wisi kilka obrazów, a słońce świeci przez duże okno obok niej.",
+        "hypothesis": "Kobieta śpi, a za oknem wpada światło księżyca.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dzieci w żółtych strojach sportowych wspinające się na wieżę.",
+        "hypothesis": "Dzieci są studentami sztuk walki.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dzieci w żółtych strojach sportowych wspinające się na wieżę.",
+        "hypothesis": "Dzieci pełzają po piasku.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dzieci w żółtych strojach sportowych wspinające się na wieżę.",
+        "hypothesis": "Dzieci w mundurach wspinają się na wieżę.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Niektóre psy biegają po bezludnej plaży.",
+        "hypothesis": "Są na Hawajach.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Niektóre psy biegają po bezludnej plaży.",
+        "hypothesis": "Na plaży jest tylko jeden pies.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Niektóre psy biegają po bezludnej plaży.",
+        "hypothesis": "Obecnych jest wiele psów.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Zatłoczona ulica miasta z dużą ilością pieszych.",
+        "hypothesis": "Na tej drodze jest wielu motocyklistów.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Zatłoczona ulica miasta z dużą ilością pieszych.",
+        "hypothesis": "Na ulicach miasta jest wielu pieszych.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Zatłoczona ulica miasta z dużą ilością pieszych.",
+        "hypothesis": "Piesi czekają na paradę, która przejdzie tą ruchliwą ulicą.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta ubrana w jasnopomarańczową bluzkę tka.",
+        "hypothesis": "Kobieta ma na sobie jasnopomarańczową bluzkę i zielony kapelusz.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta ubrana w jasnopomarańczową bluzkę tka.",
+        "hypothesis": "Kobieta prasuje czerwone spodnie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobieta ubrana w jasnopomarańczową bluzkę tka.",
+        "hypothesis": "Kobieta tka.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Grupa ludzi płynie łodzią wiosłową po oceanie w otoczeniu mew.",
+        "hypothesis": "Grupa ludzi ogląda w środku mecz hokejowy.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Grupa ludzi płynie łodzią wiosłową po oceanie w otoczeniu mew.",
+        "hypothesis": "Grupa ludzi znajduje się w drewnianym obiekcie na wodzie.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Grupa ludzi płynie łodzią wiosłową po oceanie w otoczeniu mew.",
+        "hypothesis": "Grupa ludzi wiosłuje w stronę jakichś wysp, podczas gdy jedna z nich łowi ryby.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Na ulicy klęczy kobieta w brązowej koszuli.",
+        "hypothesis": "Kobieta protestuje na ulicy.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Na ulicy klęczy kobieta w brązowej koszuli.",
+        "hypothesis": "Kobieta leży na ziemi na zewnątrz.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Na ulicy klęczy kobieta w brązowej koszuli.",
+        "hypothesis": "Kobieta jedzie na rowerze.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna trzymający dziecko i głaszczący kucyka.",
+        "hypothesis": "Mężczyzna, który porywa dziecko, głaszcze kucyka.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna trzymający dziecko i głaszczący kucyka.",
+        "hypothesis": "Mężczyzna z dzieckiem głaszcze kucyka.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna trzymający dziecko i głaszczący kucyka.",
+        "hypothesis": "Mężczyzna i jego córka głaszczą kucyka.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyźni siedzą na poboczu ceglanej drogi.",
+        "hypothesis": "siedzę na poboczu drogi",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyźni siedzą na poboczu ceglanej drogi.",
+        "hypothesis": "pobocze drogi jest puste.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyźni siedzą na poboczu ceglanej drogi.",
+        "hypothesis": "mężczyźni rozmawiają na poboczu drogi",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Czarny pies z niebieską obrożą wskakuje do wody.",
+        "hypothesis": "Pies będzie mokry.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Czarny pies z niebieską obrożą wskakuje do wody.",
+        "hypothesis": "Czarny pies w niebieskiej obroży goni coś do wody.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Czarny pies z niebieską obrożą wskakuje do wody.",
+        "hypothesis": "Pies unika wody.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Młoda dziewczyna w żółtym topie i spódnicy w kwiaty stoi na kocu i gryzie zabawkę.",
+        "hypothesis": "Stoi dziewczyna.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Młoda dziewczyna w żółtym topie i spódnicy w kwiaty stoi na kocu i gryzie zabawkę.",
+        "hypothesis": "Na zewnątrz stoi dziewczyna.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młoda dziewczyna w żółtym topie i spódnicy w kwiaty stoi na kocu i gryzie zabawkę.",
+        "hypothesis": "Wszyscy siedzą.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "wiele dzieci bawi się w wodzie.",
+        "hypothesis": "Dzieci są na obozie.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "wiele dzieci bawi się w wodzie.",
+        "hypothesis": "Niektóre dzieci pluskają się w wodzie i wchodzą ze sobą w interakcję.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "wiele dzieci bawi się w wodzie.",
+        "hypothesis": "Dzieci grają w minigolfa.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Grupa dzieci pluska się w głębokiej wodzie w pobliżu formacji skalnej.",
+        "hypothesis": "Dzieci śpiewają w chórze",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Grupa dzieci pluska się w głębokiej wodzie w pobliżu formacji skalnej.",
+        "hypothesis": "Dzieci są na głębokiej wodzie",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Grupa dzieci pluska się w głębokiej wodzie w pobliżu formacji skalnej.",
+        "hypothesis": "Mają na sobie kamizelki ratunkowe",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "wspinacz w czerwonej opasce wspina się na szare skały wysoko ponad zielonymi liśćmi.",
+        "hypothesis": "Wspinaczka próbuje się podciągnąć",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "wspinacz w czerwonej opasce wspina się na szare skały wysoko ponad zielonymi liśćmi.",
+        "hypothesis": "Wspinacz wspina się po skałach",
+        "answer": "majorat"
+    },
+    {
+        "premise": "wspinacz w czerwonej opasce wspina się na szare skały wysoko ponad zielonymi liśćmi.",
+        "hypothesis": "Wspinacz wspina się na wysokość 5000 stóp nad lasem",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "mężczyzna z czerwoną opaską na głowie wspinający się na skalny klif górujący nad zielenią.",
+        "hypothesis": "Mężczyzna jest na zewnątrz.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "mężczyzna z czerwoną opaską na głowie wspinający się na skalny klif górujący nad zielenią.",
+        "hypothesis": "Mężczyzna ma na sobie sprzęt wspinaczkowy.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "mężczyzna z czerwoną opaską na głowie wspinający się na skalny klif górujący nad zielenią.",
+        "hypothesis": "Mężczyzna pływa w oceanie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dwie formalnie ubrane, łyse starsze kobiety",
+        "hypothesis": "Dwie łyse kobiety.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Dwie formalnie ubrane, łyse starsze kobiety",
+        "hypothesis": "Dwie łyse kobiety w okularach.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dwie formalnie ubrane, łyse starsze kobiety",
+        "hypothesis": "Dwie długowłose młode kobiety.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Bezdomny pcha przepełniony plastikowy niebieski wózek na zakupy.",
+        "hypothesis": "Mężczyzna ma wózek na zakupy",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Bezdomny pcha przepełniony plastikowy niebieski wózek na zakupy.",
+        "hypothesis": "Mężczyzna zbiera puszki do recyklingu",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Bezdomny pcha przepełniony plastikowy niebieski wózek na zakupy.",
+        "hypothesis": "Bogaty mężczyzna trzymający rolexa",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "stary szewc w swojej fabryce",
+        "hypothesis": "Szewc jest w środku.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "stary szewc w swojej fabryce",
+        "hypothesis": "Szewc przygotowuje się do swoich 16. urodzin.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "stary szewc w swojej fabryce",
+        "hypothesis": "Szewc jest bogaty.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Blond kobieta rozmawia z grupą młodych ciemnowłosych studentek niosących kartki papieru.",
+        "hypothesis": "Kobieta rozmawia z innymi kobietami.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Blond kobieta rozmawia z grupą młodych ciemnowłosych studentek niosących kartki papieru.",
+        "hypothesis": "Blondynka rozmawia z grupą młodych ciemnowłosych studentek niosących kartki papieru.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Blond kobieta rozmawia z grupą młodych ciemnowłosych studentek niosących kartki papieru.",
+        "hypothesis": "Mężczyzna uderza kobietę.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobieta w czarnej koszuli wręcza papiery otaczającym ją dzieciom.",
+        "hypothesis": "Ktoś rozdaje papier.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta w czarnej koszuli wręcza papiery otaczającym ją dzieciom.",
+        "hypothesis": "Kobieta zadaje dzieciom pracę domową.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta w czarnej koszuli wręcza papiery otaczającym ją dzieciom.",
+        "hypothesis": "Kobieta trzyma gazetę dla siebie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dziewczyna w czerwieni podskakująca",
+        "hypothesis": "Dziewczyna skacze, aby złapać frisbee.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Dziewczyna w czerwieni podskakująca",
+        "hypothesis": "Dziewczyna siedzi na trawie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Dziewczyna w czerwieni podskakująca",
+        "hypothesis": "Dziewczyna w czerwieni jest w powietrzu.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Biegną 3 panie z numerami na koszulkach.",
+        "hypothesis": "Biegają panie.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Biegną 3 panie z numerami na koszulkach.",
+        "hypothesis": "Panie jeżdżą na rowerach.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Biegną 3 panie z numerami na koszulkach.",
+        "hypothesis": "Panie biorą udział w maratonie.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młody chłopak chodzi po rurze rozciągającej się nad wodą.",
+        "hypothesis": "Chłopiec robi kanapkę w swojej kuchni.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Młody chłopak chodzi po rurze rozciągającej się nad wodą.",
+        "hypothesis": "Na zewnątrz idzie chłopiec.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Młody chłopak chodzi po rurze rozciągającej się nad wodą.",
+        "hypothesis": "Chłopcu grozi wpadnięcie do wody.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młody chłopak w zielonych spodenkach balansuje na rurze nad rzeką.",
+        "hypothesis": "Nikt nie balansuje.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Młody chłopak w zielonych spodenkach balansuje na rurze nad rzeką.",
+        "hypothesis": "Mądra osoba balansująca.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młody chłopak w zielonych spodenkach balansuje na rurze nad rzeką.",
+        "hypothesis": "Osoba balansująca.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Młody mężczyzna ubrany na czarno i niosący deskorolkę patrzy na odkryty park deskorolkowy.",
+        "hypothesis": "Facet z deskorolką patrzy w park, żeby pojeździć na deskorolce.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Młody mężczyzna ubrany na czarno i niosący deskorolkę patrzy na odkryty park deskorolkowy.",
+        "hypothesis": "Dziewczyna z kucykiem jedzie na rowerze w parku.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Młody mężczyzna ubrany na czarno i niosący deskorolkę patrzy na odkryty park deskorolkowy.",
+        "hypothesis": "Facet jedzie dziś na deskorolkę.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młody chłopak w piżamie, leżący w łóżku i śpiący na kolorowej poduszce w paski.",
+        "hypothesis": "Młody chłopak gra w piłkę nożną.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Młody chłopak w piżamie, leżący w łóżku i śpiący na kolorowej poduszce w paski.",
+        "hypothesis": "Młody chłopak śpi w nocy.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młody chłopak w piżamie, leżący w łóżku i śpiący na kolorowej poduszce w paski.",
+        "hypothesis": "Młody chłopak śpi na poduszce.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna w niebieskiej koszulce z kołnierzykiem pozuje do kogoś, trzymając hebrajską gazetę.",
+        "hypothesis": "Na głowie ma gazetę.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna w niebieskiej koszulce z kołnierzykiem pozuje do kogoś, trzymając hebrajską gazetę.",
+        "hypothesis": "On czyta gazetę.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna w niebieskiej koszulce z kołnierzykiem pozuje do kogoś, trzymając hebrajską gazetę.",
+        "hypothesis": "On jest Żydem.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Brodaty mężczyzna skacze po śniegu z oceanem w tle i pomarańczowym, leżącym rowerem zaparkowanym w pobliżu znaku drogowego.",
+        "hypothesis": "Skok człowieka.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Brodaty mężczyzna skacze po śniegu z oceanem w tle i pomarańczowym, leżącym rowerem zaparkowanym w pobliżu znaku drogowego.",
+        "hypothesis": "Nikt nie skacze.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Brodaty mężczyzna skacze po śniegu z oceanem w tle i pomarańczowym, leżącym rowerem zaparkowanym w pobliżu znaku drogowego.",
+        "hypothesis": "Wysoki skaczący człowiek.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Czwórka dzieci bawi się w wodzie.",
+        "hypothesis": "Dzieci są błotniste.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Czwórka dzieci bawi się w wodzie.",
+        "hypothesis": "Dzieci są mokre.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Czwórka dzieci bawi się w wodzie.",
+        "hypothesis": "Dzieci wykonują obowiązki.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Cztery młode dziewczyny bawiące się w wodzie.",
+        "hypothesis": "Cztery dziewczyny są w wodzie.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Cztery młode dziewczyny bawiące się w wodzie.",
+        "hypothesis": "W wodzie są chłopcy i dziewczęta.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Cztery młode dziewczyny bawiące się w wodzie.",
+        "hypothesis": "Cztery dziewczyny pływają.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna w czarnej koszulce próbuje czymś rzucić.",
+        "hypothesis": "Mężczyzna odchodzi.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna w czarnej koszulce próbuje czymś rzucić.",
+        "hypothesis": "Mężczyzna ma na sobie czarną koszulę.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna w czarnej koszulce próbuje czymś rzucić.",
+        "hypothesis": "Mężczyzna rzuca coś swojemu synowi.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Jeden młody chłopak w żółtej koszuli z długim rękawem i dżinsach siedzi, a przed nim pięciu dorosłych, z których jeden obsługuje kamerę wideo.",
+        "hypothesis": "Ktoś nagrywa młodego chłopca podczas przesłuchań do roli w filmie.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Jeden młody chłopak w żółtej koszuli z długim rękawem i dżinsach siedzi, a przed nim pięciu dorosłych, z których jeden obsługuje kamerę wideo.",
+        "hypothesis": "Młody chłopiec żongluje trzema czerwonymi piłkami z zawiązanymi oczami.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Jeden młody chłopak w żółtej koszuli z długim rękawem i dżinsach siedzi, a przed nim pięciu dorosłych, z których jeden obsługuje kamerę wideo.",
+        "hypothesis": "Osoba dorosła korzystająca z kamery wideo.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Chłopcy zwróceni plecami do nadchodzącej fali.",
+        "hypothesis": "Grupa ludzi bawi się w oceanie.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Chłopcy zwróceni plecami do nadchodzącej fali.",
+        "hypothesis": "Grupa ludzi stoi razem.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Chłopcy zwróceni plecami do nadchodzącej fali.",
+        "hypothesis": "Grupa ludzi siedzi na plaży.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Nadchodząca fala zaraz uderzy w czterech chłopców.",
+        "hypothesis": "Fala zaraz uderzy w kilku chłopców.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Nadchodząca fala zaraz uderzy w czterech chłopców.",
+        "hypothesis": "Fala ominęła chłopców.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Nadchodząca fala zaraz uderzy w czterech chłopców.",
+        "hypothesis": "Gigantyczna fala wkrótce uderzy w niektórych chłopców.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta stojąca za dziewczyną i pomagająca dziewczynie w eksperymencie.",
+        "hypothesis": "Matka pomaga dziecku ukończyć eksperyment.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta stojąca za dziewczyną i pomagająca dziewczynie w eksperymencie.",
+        "hypothesis": "Kobieta pomaga dziewczynie.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta pomaga innej kobiecie w pracy w srebrnym przedziale, co najprawdopodobniej ma związek z pracą pielęgniarki.",
+        "hypothesis": "Pani śpi na kanapie",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Kobieta pomaga innej kobiecie w pracy w srebrnym przedziale, co najprawdopodobniej ma związek z pracą pielęgniarki.",
+        "hypothesis": "Pani pomaga innej kobiecie w pracy",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Kobieta pomaga innej kobiecie w pracy w srebrnym przedziale, co najprawdopodobniej ma związek z pracą pielęgniarki.",
+        "hypothesis": "Dwie kobiety próbują wykonać polecenie lekarza",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Jeden mężczyzna ubrany w niebieską kurtkę kopie innego mężczyznę ubranego w czerwoną kurtkę.",
+        "hypothesis": "Dwóch mężczyzn kłóci się przed barem.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Jeden mężczyzna ubrany w niebieską kurtkę kopie innego mężczyznę ubranego w czerwoną kurtkę.",
+        "hypothesis": "Kobieta nakłada makijaż",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Jeden mężczyzna ubrany w niebieską kurtkę kopie innego mężczyznę ubranego w czerwoną kurtkę.",
+        "hypothesis": "Jeden facet kopie drugiego.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Wiele osób zgromadziło się w sali, na której znajdowało się kilka osób na scenie z instrumentami i napisem „Początek listopada” na ścianie.",
+        "hypothesis": "Rodzice zbierają się na koncercie w lokalnym liceum",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Wiele osób zgromadziło się w sali, na której znajdowało się kilka osób na scenie z instrumentami i napisem „Początek listopada” na ścianie.",
+        "hypothesis": "Tłum gromadzi się, a flety walczą na śmierć i życie",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Wiele osób zgromadziło się w sali, na której znajdowało się kilka osób na scenie z instrumentami i napisem „Początek listopada” na ścianie.",
+        "hypothesis": "Ludzie wychodzą, gdy koncert się kończy. Decyduje się pobierać opłatę za nutę",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Hokeista w kasku.",
+        "hypothesis": "Gracze noszą kaski.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Hokeista w kasku.",
+        "hypothesis": "Gracze odpoczywają.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Hokeista w kasku.",
+        "hypothesis": "Grają w hokeja",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mężczyzna ubrany na niebiesko kłaniający się na podłodze przed innym mężczyzną w niebieskim kłaniającym się na podłodze z dwoma innymi mężczyznami ubranymi na niebiesko również klęczącymi na tym samym piętrze.",
+        "hypothesis": "Mężczyzna ma coś na sobie.",
+        "answer": "majorat"
+    },
+    {
+        "premise": "Mężczyzna ubrany na niebiesko kłaniający się na podłodze przed innym mężczyzną w niebieskim kłaniającym się na podłodze z dwoma innymi mężczyznami ubranymi na niebiesko również klęczącymi na tym samym piętrze.",
+        "hypothesis": "Mężczyzna nie ma nic na sobie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna ubrany na niebiesko kłaniający się na podłodze przed innym mężczyzną w niebieskim kłaniającym się na podłodze z dwoma innymi mężczyznami ubranymi na niebiesko również klęczącymi na tym samym piętrze.",
+        "hypothesis": "Mężczyzna ma na sobie niebieską koszulę.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Rowerzysta jadący przez las.",
+        "hypothesis": "Rowerzysta górski rywalizuje w wyścigu terenowym.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Rowerzysta jadący przez las.",
+        "hypothesis": "Mężczyzna jedzie motocyklem na autostradzie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Rowerzysta jadący przez las.",
+        "hypothesis": "Rowerzysta górski korzystający z lokalnych szlaków.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młody mężczyzna w niebieskim T-shircie i spodniach dresowych stoi nad kuchenką i patrzy w kamerę, podczas gdy za nim stoi inny młody mężczyzna.",
+        "hypothesis": "Dwóch mężczyzn nagrywa tutorial gotowania.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Młody mężczyzna w niebieskim T-shircie i spodniach dresowych stoi nad kuchenką i patrzy w kamerę, podczas gdy za nim stoi inny młody mężczyzna.",
+        "hypothesis": "dwóch mężczyzn jest na basenie.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "pary cieszą się posiłkiem, podczas gdy stado psów ucina sobie drzemkę.",
+        "hypothesis": "PARA JE STEK",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "pary cieszą się posiłkiem, podczas gdy stado psów ucina sobie drzemkę.",
+        "hypothesis": "JEST PARA WYPROWADZAJĄCA PSY",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Biała kaczka rozwijająca skrzydła w wodzie.",
+        "hypothesis": "Kaczka to rzadka rasa, o której większość uważa, że została wymarła wiele lat temu.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Biała kaczka rozwijająca skrzydła w wodzie.",
+        "hypothesis": "Kaczka śpi spokojnie, unosząc się na powierzchni wody",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Ulicą idzie kobieta w dżinsach.",
+        "hypothesis": "Na krześle siedzi starsza kobieta z laską.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Ulicą idzie kobieta w dżinsach.",
+        "hypothesis": "Kobieta idzie w stronę przystanku autobusowego.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Grupa ludzi stoi w pobliżu dużego czarnego kwadratu na ziemi z żółtym napisem.",
+        "hypothesis": "grupa ludzi czeka",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Grupa ludzi stoi w pobliżu dużego czarnego kwadratu na ziemi z żółtym napisem.",
+        "hypothesis": "osoba leży na kanapie",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Grupa ludzi stoi w pobliżu dużego czarnego kwadratu na ziemi z żółtym napisem.",
+        "hypothesis": "stoi grupa ludzi",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Tłum obserwuje grupę mężczyzn w garniturach z teczkami maszerujących ulicą w szyku prowadzonym przez kobietę trzymającą znak.",
+        "hypothesis": "Tabliczka, którą trzyma kobieta, głosi, że „Wolność jest darmowa”.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Tłum obserwuje grupę mężczyzn w garniturach z teczkami maszerujących ulicą w szyku prowadzonym przez kobietę trzymającą znak.",
+        "hypothesis": "Grupa ludzi przebranych za klaunów wchodzi do Bigtop Circus z tabliczkami.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mały chłopiec przygotowuje się do kopnięcia piłki nożnej.",
+        "hypothesis": "chłopiec ma dziesięć lat",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Mały chłopiec przygotowuje się do kopnięcia piłki nożnej.",
+        "hypothesis": "chłopiec śpi w domu",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna i kobieta siedzą na chodniku.",
+        "hypothesis": "Mężczyzna i kobieta stoją.",
+        "answer": "sprzeczność"
+    },
+    {
+        "premise": "Mężczyzna i kobieta siedzą na chodniku.",
+        "hypothesis": "Mężczyzna i kobieta są małżeństwem.",
+        "answer": "neutralny"
+    },
+    {
+        "premise": "Kobieta na pierwszym planie kieruje się w stronę dużego, białego filaru, który znajduje się poza dużym budynkiem, w którym ludzie kręcą się lub czekają na schodach tego budynku.",
+        "hypothesis": "Pies biegnie po schodach budynku.",
+        "answer": "sprzeczność"
+    }
+]

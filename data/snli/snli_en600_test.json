@@ -1,0 +1,3002 @@
+[
+    {
+        "premise": "This church choir sings to the masses as they sing joyous songs from the book at a church.",
+        "hypothesis": "The church has cracks in the ceiling.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "This church choir sings to the masses as they sing joyous songs from the book at a church.",
+        "hypothesis": "The church is filled with song.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "This church choir sings to the masses as they sing joyous songs from the book at a church.",
+        "hypothesis": "A choir singing at a baseball game.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very big grin.",
+        "hypothesis": "The woman is young.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very big grin.",
+        "hypothesis": "The woman is very happy.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A woman with a green headscarf, blue shirt and a very big grin.",
+        "hypothesis": "The woman has been shot.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "An old man with a package poses in front of an advertisement.",
+        "hypothesis": "A man poses in front of an ad.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "An old man with a package poses in front of an advertisement.",
+        "hypothesis": "A man poses in front of an ad for beer.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "An old man with a package poses in front of an advertisement.",
+        "hypothesis": "A man walks by an ad.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A statue at a museum that no seems to be looking at.",
+        "hypothesis": "The statue is offensive and people are mad that it is on display.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A statue at a museum that no seems to be looking at.",
+        "hypothesis": "There is a statue that not many people seem to be interested in.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A statue at a museum that no seems to be looking at.",
+        "hypothesis": "Tons of people are gathered around the statue.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A land rover is being driven across a river.",
+        "hypothesis": "A Land Rover is splashing water as it crosses a river.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A land rover is being driven across a river.",
+        "hypothesis": "A vehicle is crossing a river.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A land rover is being driven across a river.",
+        "hypothesis": "A sedan is stuck in the middle of a river.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man playing an electric guitar on stage.",
+        "hypothesis": "A man playing banjo on the floor.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man playing an electric guitar on stage.",
+        "hypothesis": "A man playing guitar on stage.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man playing an electric guitar on stage.",
+        "hypothesis": "A man is performing for cash.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A blond-haired doctor and her African american assistant looking threw new medical manuals.",
+        "hypothesis": "A doctor is looking at a book",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A blond-haired doctor and her African american assistant looking threw new medical manuals.",
+        "hypothesis": "A man is eating pb and j",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A blond-haired doctor and her African american assistant looking threw new medical manuals.",
+        "hypothesis": "A doctor is studying",
+        "answer": "neutral"
+    },
+    {
+        "premise": "One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.",
+        "hypothesis": "A boy runs into a wall",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.",
+        "hypothesis": "A tan girl runs leans over an object",
+        "answer": "entailment"
+    },
+    {
+        "premise": "One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.",
+        "hypothesis": "A man watches his daughter leap",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A young family enjoys feeling ocean waves lap at their feet.",
+        "hypothesis": "A young man and woman take their child to the beach for the first time.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A young family enjoys feeling ocean waves lap at their feet.",
+        "hypothesis": "A family is out at a restaurant.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A young family enjoys feeling ocean waves lap at their feet.",
+        "hypothesis": "A family is at the beach.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A couple walk hand in hand down a street.",
+        "hypothesis": "A couple is walking together.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A couple walk hand in hand down a street.",
+        "hypothesis": "The couple is married.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A couple walk hand in hand down a street.",
+        "hypothesis": "A couple is sitting on a bench.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "3 young man in hoods standing in the middle of a quiet street facing the camera.",
+        "hypothesis": "Three people sit by a busy street bareheaded.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "3 young man in hoods standing in the middle of a quiet street facing the camera.",
+        "hypothesis": "Three hood wearing people pose for a picture.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "3 young man in hoods standing in the middle of a quiet street facing the camera.",
+        "hypothesis": "Three hood wearing people stand in a street.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man reads the paper in a bar with green lighting.",
+        "hypothesis": "The man is inside.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man reads the paper in a bar with green lighting.",
+        "hypothesis": "The man is reading the sportspage.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man reads the paper in a bar with green lighting.",
+        "hypothesis": "The man is climbing a mountain.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Three firefighter come out of subway station.",
+        "hypothesis": "Three firefighters putting out a fire inside of a subway station.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Three firefighter come out of subway station.",
+        "hypothesis": "Three firefighters coming up from a subway station.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Three firefighter come out of subway station.",
+        "hypothesis": "Three firefighters playing cards inside a fire station.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.",
+        "hypothesis": "A person is near a pile of coconuts.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.",
+        "hypothesis": "A person is selling coconuts.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.",
+        "hypothesis": "A person is burning a straw hat.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Male in a blue jacket decides to lay in the grass.",
+        "hypothesis": "The guy in yellow is rolling on the grass",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Male in a blue jacket decides to lay in the grass.",
+        "hypothesis": "The guy wearing a blue jacket is laying on the green grass",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Male in a blue jacket decides to lay in the grass.",
+        "hypothesis": "The guy wearing a blue jacket is laying on the green grass taking a nap.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "During calf roping a cowboy calls off his horse.",
+        "hypothesis": "A first time roper falls off his horse.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "During calf roping a cowboy calls off his horse.",
+        "hypothesis": "A man ropes a calf successfully.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.",
+        "hypothesis": "A boy is on a playground.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.",
+        "hypothesis": "The boy is playing on the swings after school.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.",
+        "hypothesis": "The boy is sitting on the school bus on his way home.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A woman wearing a ball cap squats down to touch the cracked earth.",
+        "hypothesis": "An archeologist wearing a hat squats to examine the site for a dig",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman wearing a ball cap squats down to touch the cracked earth.",
+        "hypothesis": "A squatting woman wearing a hat touching the ground.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A woman wearing a ball cap squats down to touch the cracked earth.",
+        "hypothesis": "A woman wearing a sun bonnet planting a garden.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two children re laying on a rug with some wooden bricks laid out in a square between them.",
+        "hypothesis": "Two children are building a brick furnace.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Two children re laying on a rug with some wooden bricks laid out in a square between them.",
+        "hypothesis": "Two children are playing catch at a park.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two children re laying on a rug with some wooden bricks laid out in a square between them.",
+        "hypothesis": "Two children are on a rug.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man standing in front of a building on the phone as two men to the side pain on the side.",
+        "hypothesis": "a guy near a building stands by two other men",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man standing in front of a building on the phone as two men to the side pain on the side.",
+        "hypothesis": "two girls walk through a hall",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man standing in front of a building on the phone as two men to the side pain on the side.",
+        "hypothesis": "a busy man stands with bodyguards",
+        "answer": "neutral"
+    },
+    {
+        "premise": "The two young girls are dressed as fairies, and are playing in the leaves outdoors.",
+        "hypothesis": "Girls are playing outdoors.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "The two young girls are dressed as fairies, and are playing in the leaves outdoors.",
+        "hypothesis": "Two girls play dress up indoors.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "The two young girls are dressed as fairies, and are playing in the leaves outdoors.",
+        "hypothesis": "The two girls play in the Autumn.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "People jump over a mountain crevasse on a rope.",
+        "hypothesis": "Some people look visually afraid to jump.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "People jump over a mountain crevasse on a rope.",
+        "hypothesis": "People are jumping outside.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "People jump over a mountain crevasse on a rope.",
+        "hypothesis": "People slide over a mountain crevasse on a slide.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A snowboarder on a wide plain of snow",
+        "hypothesis": "A snow field with a snowboarder on it",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A snowboarder on a wide plain of snow",
+        "hypothesis": "A snowboarder gliding over a field of snow",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A snowboarder on a wide plain of snow",
+        "hypothesis": "A snowmobile in a blizzard",
+        "answer": "neutral"
+    },
+    {
+        "premise": "An older women tending to a garden.",
+        "hypothesis": "The lady is cooking dinner",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "An older women tending to a garden.",
+        "hypothesis": "The lady is weeding her garden",
+        "answer": "neutral"
+    },
+    {
+        "premise": "An older women tending to a garden.",
+        "hypothesis": "The lady has a garden",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man in a black shirt overlooking bike maintenance.",
+        "hypothesis": "A man destroys a bike.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man in a black shirt overlooking bike maintenance.",
+        "hypothesis": "A man watches bike repairs.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man in a black shirt overlooking bike maintenance.",
+        "hypothesis": "A man learns bike maintenance.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man in a black shirt is looking at a bike in a workshop.",
+        "hypothesis": "A man is wearing a red shirt",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man in a black shirt is looking at a bike in a workshop.",
+        "hypothesis": "A man is in a black shirt",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man in a black shirt is looking at a bike in a workshop.",
+        "hypothesis": "A man is deciding which bike to buy",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.",
+        "hypothesis": "A person is in a garage.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.",
+        "hypothesis": "A man repairs bicycles.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.",
+        "hypothesis": "A man waits outside a garage.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.",
+        "hypothesis": "Some people stand around.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.",
+        "hypothesis": "People run together.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.",
+        "hypothesis": "People wait at a station.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.",
+        "hypothesis": "A child wearing a red top is standing behind a blond headed child",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.",
+        "hypothesis": "A child wearing a red top is standing on top of a blond headed child",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.",
+        "hypothesis": "A child wearing a red top is standing behind a pretty blond headed child",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.",
+        "hypothesis": "A lady sitting on a bench in the park.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.",
+        "hypothesis": "An old lady pushing a stroller down a busy street.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.",
+        "hypothesis": "A person outside pushing a stroller.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A dog jumping for a Frisbee in the snow.",
+        "hypothesis": "A pet is enjoying a game of fetch with his owner.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A dog jumping for a Frisbee in the snow.",
+        "hypothesis": "A cat washes his face and whiskers with his front paw.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A dog jumping for a Frisbee in the snow.",
+        "hypothesis": "An animal is outside in the cold weather, playing with a plastic toy.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "People are conversing at a dining table under a canopy.",
+        "hypothesis": "People at a party are seated for dinner on the lawn.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "People are conversing at a dining table under a canopy.",
+        "hypothesis": "People are talking underneath a covering.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "People are conversing at a dining table under a canopy.",
+        "hypothesis": "People are screaming at a boxing match.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A girl playing a violin along with a group of people",
+        "hypothesis": "A girl is washing a load of laundry.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A girl playing a violin along with a group of people",
+        "hypothesis": "A girl is playing an instrument.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A girl playing a violin along with a group of people",
+        "hypothesis": "A group of people are playing in a symphony.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman within an orchestra is playing a violin.",
+        "hypothesis": "A woman is playing a concert.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman within an orchestra is playing a violin.",
+        "hypothesis": "A woman is playing the violin.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A woman within an orchestra is playing a violin.",
+        "hypothesis": "A man is looking in a telescope.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Three men, one holding pipes, another holding a large object above his head, and one resting against the pipe bed on the truck, are looking at the camera.",
+        "hypothesis": "three men going to work",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Three men, one holding pipes, another holding a large object above his head, and one resting against the pipe bed on the truck, are looking at the camera.",
+        "hypothesis": "three men look at the camera",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Three men, one holding pipes, another holding a large object above his head, and one resting against the pipe bed on the truck, are looking at the camera.",
+        "hypothesis": "three men sleeping in a tent",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A Ford car is making a right turn as 3 males are walking across the street behind the car.",
+        "hypothesis": "A car making a right turn had three pedestrians cross behind it.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A Ford car is making a right turn as 3 males are walking across the street behind the car.",
+        "hypothesis": "A sedan was turning a corner as walkers were crossing.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Three boys in white shirts are walking behind an older model Ford car.",
+        "hypothesis": "there are three boys",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Three boys in white shirts are walking behind an older model Ford car.",
+        "hypothesis": "There are three girls",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Three boys in white shirts are walking behind an older model Ford car.",
+        "hypothesis": "The boys are on the street",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Three girls blow out the candles of a cake made of Peeps.",
+        "hypothesis": "Some people are blowing out candles",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Three girls blow out the candles of a cake made of Peeps.",
+        "hypothesis": "There are three girls and a cake",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Three girls blow out the candles of a cake made of Peeps.",
+        "hypothesis": "There are peeps in the garden.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A crowd of people looking up at 3 people on the edge of the roof of a building.",
+        "hypothesis": "The crowd is calling for help for the people on the roof.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A crowd of people looking up at 3 people on the edge of the roof of a building.",
+        "hypothesis": "The crowd on the ground is watching 3 people on the roof's edge.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A crowd of people looking up at 3 people on the edge of the roof of a building.",
+        "hypothesis": "Three people are climbing down the ladder on the building.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A woman working long hours.",
+        "hypothesis": "A woman is working in a factory.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman working long hours.",
+        "hypothesis": "A woman is working.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A woman working long hours.",
+        "hypothesis": "A woman is sleeping.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two teenage girls conversing next to lockers.",
+        "hypothesis": "Girls talking next to the toilet.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two teenage girls conversing next to lockers.",
+        "hypothesis": "People talking next to lockers.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Two teenage girls conversing next to lockers.",
+        "hypothesis": "Girls talking about their problems next to lockers.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "An old woman watches a man look down at some balls on the ground.",
+        "hypothesis": "An elderly female is stalking a male.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "An old woman watches a man look down at some balls on the ground.",
+        "hypothesis": "Two people are sleeping on the train.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two children, both wearing tan coats, are embracing one another.",
+        "hypothesis": "Two kids are hugging after surviving a horrible car wreck.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Two children, both wearing tan coats, are embracing one another.",
+        "hypothesis": "Two kids are hugging.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Two children, both wearing tan coats, are embracing one another.",
+        "hypothesis": "Two kids are running down a highway.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "2 kids who look related are hanging out with 1 of them looking very emotional and hugging the other.",
+        "hypothesis": "A couple of child relatives were hugging because they were happy to see each other.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "2 kids who look related are hanging out with 1 of them looking very emotional and hugging the other.",
+        "hypothesis": "Two kids were hugging.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "2 kids who look related are hanging out with 1 of them looking very emotional and hugging the other.",
+        "hypothesis": "Two youths were pushing each other.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A large number of people wearing only white and red are walking on a street.",
+        "hypothesis": "A large number of people wearing black walking down the street.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A large number of people wearing only white and red are walking on a street.",
+        "hypothesis": "A large number of men walking down the street in red and white.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A large number of people wearing only white and red are walking on a street.",
+        "hypothesis": "A large number of people walking on a street.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A guy riding a motorcycle near junk cars",
+        "hypothesis": "The man is test driving a motorcycle to decide whether or not he will buy it.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A guy riding a motorcycle near junk cars",
+        "hypothesis": "A man is riding a motorcycle.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A guy riding a motorcycle near junk cars",
+        "hypothesis": "A man is sitting on a parked motorcycle waiting for his friend.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Women of India performing with blue streamers, in beautiful blue costumes.",
+        "hypothesis": "indian women perform together in gorgeous costumes",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Women of India performing with blue streamers, in beautiful blue costumes.",
+        "hypothesis": "dogs sniff the air",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Women of India performing with blue streamers, in beautiful blue costumes.",
+        "hypothesis": "indian women are performing a religious ritual together",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A professional swimmer spits water out after surfacing while grabbing the hand of someone helping him back to land.",
+        "hypothesis": "A person is swimming.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A professional swimmer spits water out after surfacing while grabbing the hand of someone helping him back to land.",
+        "hypothesis": "The swimmer is eating a toasted marshmallow.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A professional swimmer spits water out after surfacing while grabbing the hand of someone helping him back to land.",
+        "hypothesis": "The swimmer almost drowned after being sucked under a fast current.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "The man in the black wetsuit is walking out of the water.",
+        "hypothesis": "A man in a wetsuit walks out of the water carrying a surfboard.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "The man in the black wetsuit is walking out of the water.",
+        "hypothesis": "a person is walking out of water.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "The man in the black wetsuit is walking out of the water.",
+        "hypothesis": "A man is laying on the beach.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Five girls and two guys are crossing a overpass.",
+        "hypothesis": "The extended family hike together on their family reunion.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Five girls and two guys are crossing a overpass.",
+        "hypothesis": "The three men sit and talk about their lives.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Five girls and two guys are crossing a overpass.",
+        "hypothesis": "There are people outside.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A person with a purple shirt is painting an image of a woman on a white wall.",
+        "hypothesis": "A woman paints a portrait of her best friend.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A person with a purple shirt is painting an image of a woman on a white wall.",
+        "hypothesis": "A woman paints a portrait of a person.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A person with a purple shirt is painting an image of a woman on a white wall.",
+        "hypothesis": "A woman paints a portrait of a monkey.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A woman is painting a mural of a woman's face.",
+        "hypothesis": "There is a woman painting.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A woman is painting a mural of a woman's face.",
+        "hypothesis": "There is a woman painting for fun.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman is painting a mural of a woman's face.",
+        "hypothesis": "There is a man tying his shoes.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A couple is eating outside at a table and he is pointing at something.",
+        "hypothesis": "A couple is eating inside at a table and he is pointing at something.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A couple is eating outside at a table and he is pointing at something.",
+        "hypothesis": "The man is pointing at a purse snatcher.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A couple is eating outside at a table and he is pointing at something.",
+        "hypothesis": "People are eating at a table outside.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Two women walk down a sidewalk along a busy street in a downtown area.",
+        "hypothesis": "The women were walking downtown because the buses were on strike",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Two women walk down a sidewalk along a busy street in a downtown area.",
+        "hypothesis": "The women were picking berries in the countryside",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two women walk down a sidewalk along a busy street in a downtown area.",
+        "hypothesis": "The women were walking downtown",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Many people standing outside of a place talking to each other in front of a building that has a sign that says \"HI-POINTE.\"",
+        "hypothesis": "The people are having a chat before going into the work building.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Many people standing outside of a place talking to each other in front of a building that has a sign that says \"HI-POINTE.\"",
+        "hypothesis": "The group of people aren't inide of the building.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Many people standing outside of a place talking to each other in front of a building that has a sign that says \"HI-POINTE.\"",
+        "hypothesis": "The people are sitting in the hotel lobby.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "The flight attendant dressed in yellow demonstrates life vest usage.",
+        "hypothesis": "A flight attendant is standing in front of passengers.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "The flight attendant dressed in yellow demonstrates life vest usage.",
+        "hypothesis": "A flight attendant is demonstrating safety procedures before takeoff.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "The flight attendant dressed in yellow demonstrates life vest usage.",
+        "hypothesis": "A woman is preparing drinks on an airplane.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "The girls walk down the street.",
+        "hypothesis": "Girls walk down the street.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "The girls walk down the street.",
+        "hypothesis": "Girls set down in the street.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "The girls walk down the street.",
+        "hypothesis": "Girls were going to the park.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man wearing a red uniform and helmet stands on his motorbike.",
+        "hypothesis": "a man sitting in a car.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man wearing a red uniform and helmet stands on his motorbike.",
+        "hypothesis": "a person standing.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man wearing a red uniform and helmet stands on his motorbike.",
+        "hypothesis": "a man standing on his motorbike.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man of the cloth puts a black substance on a man's forehead.",
+        "hypothesis": "The man puts something on the other mans head.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man of the cloth puts a black substance on a man's forehead.",
+        "hypothesis": "The women are at the park.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man of the cloth puts a black substance on a man's forehead.",
+        "hypothesis": "The men are at church.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A person rolls down a hill riding a wagon as another watches.",
+        "hypothesis": "Two people are outside.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A person rolls down a hill riding a wagon as another watches.",
+        "hypothesis": "A person stares at an empty hill.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A person rolls down a hill riding a wagon as another watches.",
+        "hypothesis": "A child in a wagon rolls down a hill.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "a boy holding onto the wall of an old brick house's raised foundation.",
+        "hypothesis": "a boy holding onto the wall of an old brick house's raised foundation as construction occurs",
+        "answer": "neutral"
+    },
+    {
+        "premise": "a boy holding onto the wall of an old brick house's raised foundation.",
+        "hypothesis": "a girl is leaning against the wall",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "a boy holding onto the wall of an old brick house's raised foundation.",
+        "hypothesis": "a boy is against the wall of a raised foundation",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "hypothesis": "Bruce Springsteen is from Florida.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "hypothesis": "Bruce Springsteen is a singer.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.",
+        "hypothesis": "Bruce Springsteen is gay",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Six dogs swimming in a river.",
+        "hypothesis": "Six dogs swim across the river.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Six dogs swimming in a river.",
+        "hypothesis": "Six dogs are outdoors.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Six dogs swimming in a river.",
+        "hypothesis": "The puppies are setting on the couch.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man and woman are taking a picture of themselves while a woman in a scarf walks by them.",
+        "hypothesis": "A man and woman have mug shots taken because they have been arrested.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man and woman are taking a picture of themselves while a woman in a scarf walks by them.",
+        "hypothesis": "A man and woman take selfies while a woman walks by and judges them.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man and woman are taking a picture of themselves while a woman in a scarf walks by them.",
+        "hypothesis": "A man and woman take selfies of themselves.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "a group of people dancing together.",
+        "hypothesis": "People are dancing.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "a group of people dancing together.",
+        "hypothesis": "They are doing the tango.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "a group of people dancing together.",
+        "hypothesis": "No one is dancing.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Men wearing blue uniforms sit on a bus.",
+        "hypothesis": "Men sit on the bus.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Men wearing blue uniforms sit on a bus.",
+        "hypothesis": "Men sit on the bus going to work,",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Men wearing blue uniforms sit on a bus.",
+        "hypothesis": "Men drive the bus into the ocean.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two men climbing on a wooden scaffold.",
+        "hypothesis": "Two people climbing on a wooden scaffold.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Two men climbing on a wooden scaffold.",
+        "hypothesis": "Two women climbing on a wooden scaffold.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two men climbing on a wooden scaffold.",
+        "hypothesis": "Two sad men climbing on a wooden scaffold.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A bird is flapping its wings on the water.",
+        "hypothesis": "The bird is flying over the trees.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A bird is flapping its wings on the water.",
+        "hypothesis": "The duck is swimming in the lake.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A young boy wearing a red shirt and jeans stands in the middle of a field and throws a toy plane in the air.",
+        "hypothesis": "A young boy is playing in a feild.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A young boy wearing a red shirt and jeans stands in the middle of a field and throws a toy plane in the air.",
+        "hypothesis": "A young boy is playing in the field because his mother kicked him out of the house.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A young boy wearing a red shirt and jeans stands in the middle of a field and throws a toy plane in the air.",
+        "hypothesis": "A young boy is playing video games indoors.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Six or seven people are standing on a pier with a table and a pair of glasses in the foreground.",
+        "hypothesis": "They are going fishing.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Six or seven people are standing on a pier with a table and a pair of glasses in the foreground.",
+        "hypothesis": "Six or seven people are standing on a pier.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Six or seven people are standing on a pier with a table and a pair of glasses in the foreground.",
+        "hypothesis": "They are in a boat.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A person in a red shirt and black pants hunched over.",
+        "hypothesis": "A person wears a red shirt.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A person in a red shirt and black pants hunched over.",
+        "hypothesis": "The person is a woman.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A person in a red shirt and black pants hunched over.",
+        "hypothesis": "The person is wearing a green shirt.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "This child is on the library steps.",
+        "hypothesis": "The child is on the school steps.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "This child is on the library steps.",
+        "hypothesis": "The child is on the steps.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "This child is on the library steps.",
+        "hypothesis": "The child is on the steps inside the library.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "The tattooed basketball player is about to dunk the ball.",
+        "hypothesis": "The man is playing football..",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "The tattooed basketball player is about to dunk the ball.",
+        "hypothesis": "The person is playing basketball.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "The tattooed basketball player is about to dunk the ball.",
+        "hypothesis": "The player has a tattoo that says mother.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "a boy in a red hooded top is smiling whilst looking away from his reflection.",
+        "hypothesis": "A boy in a red hood is happy.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "a boy in a red hooded top is smiling whilst looking away from his reflection.",
+        "hypothesis": "The boy doesn't want to see his reflection.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "a boy in a red hooded top is smiling whilst looking away from his reflection.",
+        "hypothesis": "The boy is upset.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man wearing a gray ball cap walks next to a redheaded woman wearing a long-sleeved blue jean shirt.",
+        "hypothesis": "the man is wearing a gray cap.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man wearing a gray ball cap walks next to a redheaded woman wearing a long-sleeved blue jean shirt.",
+        "hypothesis": "The man is wearing a blue cap.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man wearing a gray ball cap walks next to a redheaded woman wearing a long-sleeved blue jean shirt.",
+        "hypothesis": "The man is cold.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "An old man in a baseball hat and an old woman in a jean jacket are standing outside, but are covered mostly in shadow.",
+        "hypothesis": "An old woman has a light jean jacket.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "An old man in a baseball hat and an old woman in a jean jacket are standing outside, but are covered mostly in shadow.",
+        "hypothesis": "An old woman has a jean jacket.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "An old man in a baseball hat and an old woman in a jean jacket are standing outside, but are covered mostly in shadow.",
+        "hypothesis": "An old woman has no jacket.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A newlywed couple laughing and talking amongst themselves.",
+        "hypothesis": "The couple is having fun.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A newlywed couple laughing and talking amongst themselves.",
+        "hypothesis": "The couple just got married.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A newlywed couple laughing and talking amongst themselves.",
+        "hypothesis": "The couple is divorced.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A black man in a long sleeves white collared shirt and a tie is walking to work in a big city.",
+        "hypothesis": "The man is wearing shorts and a t-shirt as he jogs.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A black man in a long sleeves white collared shirt and a tie is walking to work in a big city.",
+        "hypothesis": "The man is moving.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A black man in a long sleeves white collared shirt and a tie is walking to work in a big city.",
+        "hypothesis": "The man is wearing work attire and is walking to his job.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Several younger people sitting in front of a statue.",
+        "hypothesis": "several young people sitting outside",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Several younger people sitting in front of a statue.",
+        "hypothesis": "several young people are sitting in an auditorium",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Several younger people sitting in front of a statue.",
+        "hypothesis": "several young people sitting in a school courtyard",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A group of adults stands in the bathroom looking down a small child in the bath.",
+        "hypothesis": "The childs mom is watching her son with her friends.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A group of adults stands in the bathroom looking down a small child in the bath.",
+        "hypothesis": "People are in the house.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A group of adults stands in the bathroom looking down a small child in the bath.",
+        "hypothesis": "The child is sleeping.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A goofy looking woman is singing on stage.",
+        "hypothesis": "A woman is singing.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A goofy looking woman is singing on stage.",
+        "hypothesis": "A woman is reciting poetry on the stage.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A goofy looking woman is singing on stage.",
+        "hypothesis": "A blonde woman is singing and dancing on the stage.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "The girl wearing a brown jacket whilst walking in snow.",
+        "hypothesis": "A woman is eating pasta in a restaurant.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "The girl wearing a brown jacket whilst walking in snow.",
+        "hypothesis": "The lady wearing a jacket is looking for her lost dog.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "The girl wearing a brown jacket whilst walking in snow.",
+        "hypothesis": "The girl is walking outside.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man, woman, and child get their picture taken in front of the mountains.",
+        "hypothesis": "A family on vacation is posing.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man, woman, and child get their picture taken in front of the mountains.",
+        "hypothesis": "People are outdoors.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man, woman, and child get their picture taken in front of the mountains.",
+        "hypothesis": "A family is in their car.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "people are standing near water with a boat heading their direction",
+        "hypothesis": "The people are standing.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "people are standing near water with a boat heading their direction",
+        "hypothesis": "People are standing near water with a large blue boat heading their direction.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "people are standing near water with a boat heading their direction",
+        "hypothesis": "People are waiting in line at the restaurant.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Four adults eat while sitting on a tile floor.",
+        "hypothesis": "Two couples eat food on a kitchen floor.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Four adults eat while sitting on a tile floor.",
+        "hypothesis": "Two couples play pool in a bar.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Four adults eat while sitting on a tile floor.",
+        "hypothesis": "A group of people eat food.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A dog standing near snow looking at water.",
+        "hypothesis": "A cat is laying on the couch.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A dog standing near snow looking at water.",
+        "hypothesis": "Animal is outdoors.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A dog standing near snow looking at water.",
+        "hypothesis": "The dog is thinking about going to for a swim.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "An older man leans against a pedestal outside of an ornate building.",
+        "hypothesis": "An older man is leaning outside his nursing home",
+        "answer": "neutral"
+    },
+    {
+        "premise": "An older man leans against a pedestal outside of an ornate building.",
+        "hypothesis": "A young man is jogging",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "An older man leans against a pedestal outside of an ornate building.",
+        "hypothesis": "An older man leans outside a building",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A person in orange clothing rests above a metro entrance.",
+        "hypothesis": "A person is sitting at a baseball game.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A person in orange clothing rests above a metro entrance.",
+        "hypothesis": "Someone is standing near a metro station.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A person in orange clothing rests above a metro entrance.",
+        "hypothesis": "A person is waiting for a train.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A girl in a blue dress takes off her shoes and eats blue cotton candy.",
+        "hypothesis": "The girl is eating blue cotton candy at a carnival.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A girl in a blue dress takes off her shoes and eats blue cotton candy.",
+        "hypothesis": "The girl in a blue dress is a flower girl at a wedding.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A girl in a blue dress takes off her shoes and eats blue cotton candy.",
+        "hypothesis": "The girl is eating while barefoot.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A black man in a white uniform makes a spectacular reverse slam dunk to the crowd's amazement.",
+        "hypothesis": "the man is asian",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A black man in a white uniform makes a spectacular reverse slam dunk to the crowd's amazement.",
+        "hypothesis": "the man is playing",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A black man in a white uniform makes a spectacular reverse slam dunk to the crowd's amazement.",
+        "hypothesis": "the man is at home sleeping",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A basketball player with green shoes is dunking the ball in the net while the arena crowd looks on.",
+        "hypothesis": "A man is making a sandwich while a crowd gasps in awe.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A basketball player with green shoes is dunking the ball in the net while the arena crowd looks on.",
+        "hypothesis": "A crowd is watching someone play basketball.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A basketball player with green shoes is dunking the ball in the net while the arena crowd looks on.",
+        "hypothesis": "A famous NBA player is playing street ball in front of a crowd.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A frowning old man in a military cap and a civilian suit stands amongst a crowd of people outdoors carrying signs and balloons.",
+        "hypothesis": "A group of people are standing outside.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A frowning old man in a military cap and a civilian suit stands amongst a crowd of people outdoors carrying signs and balloons.",
+        "hypothesis": "An angry military veteran watches as people protest the war.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A frowning old man in a military cap and a civilian suit stands amongst a crowd of people outdoors carrying signs and balloons.",
+        "hypothesis": "A man is watching a group of people having a hot dog eating contest.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A woman wearing bike shorts and a skirt is riding a bike and carrying a shoulder bag.",
+        "hypothesis": "A woman on a bike.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A woman wearing bike shorts and a skirt is riding a bike and carrying a shoulder bag.",
+        "hypothesis": "A woman riding a bike to work.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman wearing bike shorts and a skirt is riding a bike and carrying a shoulder bag.",
+        "hypothesis": "A woman driving a car.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A skateboarding youth does a trick on a rail.",
+        "hypothesis": "A young person on a skateboard.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A skateboarding youth does a trick on a rail.",
+        "hypothesis": "A man painting a tree.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A skateboarding youth does a trick on a rail.",
+        "hypothesis": "A young boy showing his new skateboard tricks to his friends.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A guy wearing jeans and a hat is crouching on a handrail with a concrete embankment located in front of him.",
+        "hypothesis": "He is wearing a button-up shirt.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A guy wearing jeans and a hat is crouching on a handrail with a concrete embankment located in front of him.",
+        "hypothesis": "His bald head is exposed.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A guy wearing jeans and a hat is crouching on a handrail with a concrete embankment located in front of him.",
+        "hypothesis": "A man is crouching on a handrail.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Girl in a red coat, blue head wrap and jeans is making a snow angel.",
+        "hypothesis": "A girl in a red coat makes a snow angel for the first time.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Girl in a red coat, blue head wrap and jeans is making a snow angel.",
+        "hypothesis": "Girl in a black coat stays indoors away from the snow.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Girl in a red coat, blue head wrap and jeans is making a snow angel.",
+        "hypothesis": "A girl outside plays in the snow.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A group of people gathered at night watching an event.",
+        "hypothesis": "The group of friends are asleep.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A group of people gathered at night watching an event.",
+        "hypothesis": "A group of humans are looking at the same direction.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A group of people gathered at night watching an event.",
+        "hypothesis": "A group of friends are watching the music concert at night.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "The American footballer in yellow catches the ball whilst under pressure from the payer in white.",
+        "hypothesis": "The football player is under duress.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "The American footballer in yellow catches the ball whilst under pressure from the payer in white.",
+        "hypothesis": "The American football player in yellow catches the ball while under pressure from the player in white.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "The American footballer in yellow catches the ball whilst under pressure from the payer in white.",
+        "hypothesis": "The basketball player shoots a three pointer.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A person with blue hair, a baseball cap, and a hood on stands outdoors in a crowd.",
+        "hypothesis": "A person is enjoying a sporting event.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A person with blue hair, a baseball cap, and a hood on stands outdoors in a crowd.",
+        "hypothesis": "A person is dancing and singing.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A person with blue hair, a baseball cap, and a hood on stands outdoors in a crowd.",
+        "hypothesis": "A person is standing outdoors.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A girl holding a beverage points at a painting.",
+        "hypothesis": "The girl is in the bathtub",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A girl holding a beverage points at a painting.",
+        "hypothesis": "The girl is drinking an alcoholic beverage.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A girl holding a beverage points at a painting.",
+        "hypothesis": "The girl has a beverage.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man in a black shirt, in a commercial kitchen, holding up meat he took out of a bag.",
+        "hypothesis": "A man in a black shirt, in a commercial kitchen, holding up the old meat he took out of a bag.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man in a black shirt, in a commercial kitchen, holding up meat he took out of a bag.",
+        "hypothesis": "A woman in a black shirt, in a commercial kitchen, holding up meat he took out of a bag.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man in a black shirt, in a commercial kitchen, holding up meat he took out of a bag.",
+        "hypothesis": "A man in a shirt, in a commercial kitchen, holding up meat he took out of a bag.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A person in a red shirt is mowing the grass with a green riding mower.",
+        "hypothesis": "A person in red is swimming in the Olympics.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A person in a red shirt is mowing the grass with a green riding mower.",
+        "hypothesis": "A person in red is moving grass on a John Deer motor.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A person in a red shirt is mowing the grass with a green riding mower.",
+        "hypothesis": "A person in red is cutting the grass on a riding mower",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Group of people wearing black shirts riding in an open top vehicle.",
+        "hypothesis": "A group of people go down the road in a convertible.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Group of people wearing black shirts riding in an open top vehicle.",
+        "hypothesis": "The driver was wearing a purple shirt.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Group of people wearing black shirts riding in an open top vehicle.",
+        "hypothesis": "Froends ride in an open top vehicle together.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Two men prepare a fish at a dock.",
+        "hypothesis": "Two men have just come in from fishing all day",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Two men prepare a fish at a dock.",
+        "hypothesis": "Two men are cleaning their fish",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Two men prepare a fish at a dock.",
+        "hypothesis": "Two men are sitting in a canoe with their fishing poles",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A woman with her face partially covered in silver face paint sits on a plastic tote looking in a mirror.",
+        "hypothesis": "The woman is a model.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman with her face partially covered in silver face paint sits on a plastic tote looking in a mirror.",
+        "hypothesis": "The woman has something on her face.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A woman with her face partially covered in silver face paint sits on a plastic tote looking in a mirror.",
+        "hypothesis": "The woman is blind.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man in an Alaska sweatshirt stands behind a counter.",
+        "hypothesis": "The man is wearing a tank top.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man in an Alaska sweatshirt stands behind a counter.",
+        "hypothesis": "The man is from Alaska.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man in an Alaska sweatshirt stands behind a counter.",
+        "hypothesis": "The person behind the counter is a man.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A large group of people walking in a busy city at night.",
+        "hypothesis": "People are eating lunch in a restaurant.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A large group of people walking in a busy city at night.",
+        "hypothesis": "People are walking a city.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A large group of people walking in a busy city at night.",
+        "hypothesis": "People are outside in a park.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A woman, in red and white, and wearing glasses, sits in a room with other people.",
+        "hypothesis": "A woman is sitting in a room with other people.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A woman, in red and white, and wearing glasses, sits in a room with other people.",
+        "hypothesis": "A woman is on her phone sitting in a room.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman, in red and white, and wearing glasses, sits in a room with other people.",
+        "hypothesis": "A man is fixing his car.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A softball player throws the ball to her teammate.",
+        "hypothesis": "Teammates are competing in a softballs championship.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A softball player throws the ball to her teammate.",
+        "hypothesis": "Two people are playing softball.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A softball player throws the ball to her teammate.",
+        "hypothesis": "Two softball players are sitting on a bench.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A biker races.",
+        "hypothesis": "A person is riding a bike",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A biker races.",
+        "hypothesis": "The biker loses the race",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A biker races.",
+        "hypothesis": "The car is yellow",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two little boys are smiling and laughing while one is standing and one is in a bouncy seat.",
+        "hypothesis": "There are two little boys smiling.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Two little boys are smiling and laughing while one is standing and one is in a bouncy seat.",
+        "hypothesis": "The little boys are crying.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two little boys are smiling and laughing while one is standing and one is in a bouncy seat.",
+        "hypothesis": "The boys are siblings playing with each other.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Island native fishermen reeling in their nets after a long day's work.",
+        "hypothesis": "The men caught many fish.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Island native fishermen reeling in their nets after a long day's work.",
+        "hypothesis": "The men did not go to work today but instead played bridge.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Island native fishermen reeling in their nets after a long day's work.",
+        "hypothesis": "The men are finishing their day of work.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "These are young adults who seem to be working together to protect the plants surrounding the white pole.",
+        "hypothesis": "The plants are ferns",
+        "answer": "neutral"
+    },
+    {
+        "premise": "These are young adults who seem to be working together to protect the plants surrounding the white pole.",
+        "hypothesis": "The adults are young",
+        "answer": "entailment"
+    },
+    {
+        "premise": "These are young adults who seem to be working together to protect the plants surrounding the white pole.",
+        "hypothesis": "The adults are old",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two college football players battle it out outdoors on the field during game day, where one is the quarterback trying to throw the ball, and the other player is in action about to sack the quarterback.",
+        "hypothesis": "Two teams from rival colleges are in the fourth quarter of a game.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Two college football players battle it out outdoors on the field during game day, where one is the quarterback trying to throw the ball, and the other player is in action about to sack the quarterback.",
+        "hypothesis": "Some girls playing basketball.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two college football players battle it out outdoors on the field during game day, where one is the quarterback trying to throw the ball, and the other player is in action about to sack the quarterback.",
+        "hypothesis": "A college football game.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Two people are playing American Football and one of them is trying to stop the other from throwing the ball.",
+        "hypothesis": "A lineman is trying to tackle the quarterback before he makes the game winning touchdown.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Two people are playing American Football and one of them is trying to stop the other from throwing the ball.",
+        "hypothesis": "A pitcher throws the baseball to the batter as he attempts to hit it out of the park.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two people are playing American Football and one of them is trying to stop the other from throwing the ball.",
+        "hypothesis": "A game of football is being played.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man playing billiards at a bar.",
+        "hypothesis": "A man is playing with friends.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man playing billiards at a bar.",
+        "hypothesis": "A man is playing billiards.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man playing billiards at a bar.",
+        "hypothesis": "A man is playing checkers.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A golden dog passes a blue ball to another golden dog on the beach.",
+        "hypothesis": "The dogs are friends.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A golden dog passes a blue ball to another golden dog on the beach.",
+        "hypothesis": "The dogs are refusing to share.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A golden dog passes a blue ball to another golden dog on the beach.",
+        "hypothesis": "The golden dog is playing ball with another dog outside.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "People are on an escalator waiting to get to their destination while looking outside of the glass that makes up the wall.",
+        "hypothesis": "The people are going up on the escalator.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "People are on an escalator waiting to get to their destination while looking outside of the glass that makes up the wall.",
+        "hypothesis": "People are taking the elevator.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "People are on an escalator waiting to get to their destination while looking outside of the glass that makes up the wall.",
+        "hypothesis": "People are riding on the escalator.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A woman is weaving with a comb in her hand.",
+        "hypothesis": "A woman is at work.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman is weaving with a comb in her hand.",
+        "hypothesis": "A woman is doing something with her hands.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A woman is weaving with a comb in her hand.",
+        "hypothesis": "A woman is sitting with empty hands.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A boy is riding down the road between two cows.",
+        "hypothesis": "A boy rides a horse by two cows.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A boy is riding down the road between two cows.",
+        "hypothesis": "A boy, a road and two cows.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A boy is riding down the road between two cows.",
+        "hypothesis": "A single cow is alone.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A birthday party for many little people to enjoy.",
+        "hypothesis": "Children enjoying a birthday party.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A birthday party for many little people to enjoy.",
+        "hypothesis": "Children are running down the street.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A birthday party for many little people to enjoy.",
+        "hypothesis": "Children at a birthday party.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "There are five singers on a stage, three women and two men.",
+        "hypothesis": "There are more females than males.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "There are five singers on a stage, three women and two men.",
+        "hypothesis": "The performers are playing bagpipes.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "There are five singers on a stage, three women and two men.",
+        "hypothesis": "The people performing are part of a chorus.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Two men are standing in a boat.",
+        "hypothesis": "Some men are standing on top of a car.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two men are standing in a boat.",
+        "hypothesis": "A few men are fishing on a boat.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Two men are standing in a boat.",
+        "hypothesis": "Some people are in a boat.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Young woman is putting her clothes in the dryer portion of a double stacked washer and dryer unit.",
+        "hypothesis": "A person drying clothes",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Young woman is putting her clothes in the dryer portion of a double stacked washer and dryer unit.",
+        "hypothesis": "Nobody is drying clothes.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "The sun breaks through the trees as a child rides a swing.",
+        "hypothesis": "The child is riding a swing in the rain.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "The sun breaks through the trees as a child rides a swing.",
+        "hypothesis": "A child rides a swing in the daytime.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "The sun breaks through the trees as a child rides a swing.",
+        "hypothesis": "The child on the swing is a girl.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Everyone on the street in the city seem to be busy doing their own thing.",
+        "hypothesis": "People are milling about the city street.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Everyone on the street in the city seem to be busy doing their own thing.",
+        "hypothesis": "The people are watching what is happening.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Everyone on the street in the city seem to be busy doing their own thing.",
+        "hypothesis": "People are conducting business in the city.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man in an apron smiles as he pokes a frying donut with a little metal stick.",
+        "hypothesis": "The man is cooking food.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man in an apron smiles as he pokes a frying donut with a little metal stick.",
+        "hypothesis": "The man is in the kitchen of a restaurant.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man in an apron smiles as he pokes a frying donut with a little metal stick.",
+        "hypothesis": "The man is washing his car.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A woman in tennis clothes running to hit a ball with her tennis racket.",
+        "hypothesis": "A woman plays tennis.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A woman in tennis clothes running to hit a ball with her tennis racket.",
+        "hypothesis": "Serina Williams plays tennis.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman in tennis clothes running to hit a ball with her tennis racket.",
+        "hypothesis": "Pete Sampras plays tennis.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Several women are playing volleyball.",
+        "hypothesis": "They women are hitting a ball with their arms",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Several women are playing volleyball.",
+        "hypothesis": "This doesn't look like soccer",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Several women are playing volleyball.",
+        "hypothesis": "A bunch of women are playing volleyball",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Two women's volleyball teams are competing against each other on a salmon-colored and turquoise court while a referee in black watches.",
+        "hypothesis": "volleyball match is in progress between ladies",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Two women's volleyball teams are competing against each other on a salmon-colored and turquoise court while a referee in black watches.",
+        "hypothesis": "12 ladies play volleyball",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Two women's volleyball teams are competing against each other on a salmon-colored and turquoise court while a referee in black watches.",
+        "hypothesis": "ten boys play cricket",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A little boy with a blue bike helmet and a woman in a green bike helmet are riding bikes down a street with other various bike riders.",
+        "hypothesis": "A mother and her son ride bikes with others down a street.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A little boy with a blue bike helmet and a woman in a green bike helmet are riding bikes down a street with other various bike riders.",
+        "hypothesis": "A group of people are changing a bike tire.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A little boy with a blue bike helmet and a woman in a green bike helmet are riding bikes down a street with other various bike riders.",
+        "hypothesis": "A group of people ride bikes together down a street.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "People are riding bicycles in the street, and they are all wearing helmets.",
+        "hypothesis": "A group of friends are biking through a street, all wearing their helmets",
+        "answer": "neutral"
+    },
+    {
+        "premise": "People are riding bicycles in the street, and they are all wearing helmets.",
+        "hypothesis": "A group of friends are grabbing their bikes, getting ready for the morning bike ride",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "People are riding bicycles in the street, and they are all wearing helmets.",
+        "hypothesis": "A group of bicyclists are on a street outside",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A middle eastern marketplace.",
+        "hypothesis": "A middle easten store.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A middle eastern marketplace.",
+        "hypothesis": "An American theater.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A middle eastern marketplace.",
+        "hypothesis": "A foreign store.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "a woman in a black shirt looking at a bicycle.",
+        "hypothesis": "A woman sees a bicycle.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "a woman in a black shirt looking at a bicycle.",
+        "hypothesis": "A woman dressed in black shops for a bicycle.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "a woman in a black shirt looking at a bicycle.",
+        "hypothesis": "A woman in green sleeps on a couch.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Four men playing drums in very orange lighting while one of them is also drinking something out of a bottle.",
+        "hypothesis": "the men are musicians",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Four men playing drums in very orange lighting while one of them is also drinking something out of a bottle.",
+        "hypothesis": "the men are asleep in the motel",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Four men playing drums in very orange lighting while one of them is also drinking something out of a bottle.",
+        "hypothesis": "four men play drums",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Young boys in green and blue jerseys kick around a soccer ball while other soccer games take place in the background.",
+        "hypothesis": "Young boys throwing a baseball at a baseball field.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Young boys in green and blue jerseys kick around a soccer ball while other soccer games take place in the background.",
+        "hypothesis": "Young boys waiting for their soccer game.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Young boys in green and blue jerseys kick around a soccer ball while other soccer games take place in the background.",
+        "hypothesis": "Young boys kicking around a soccer ball.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man in a one piece tunic is riding a bike in front of a sandstone wall while touching his nose.",
+        "hypothesis": "The man is testing the bike.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man in a one piece tunic is riding a bike in front of a sandstone wall while touching his nose.",
+        "hypothesis": "The man is driving a truck.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man in a one piece tunic is riding a bike in front of a sandstone wall while touching his nose.",
+        "hypothesis": "The man is riding a bike.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A guy and a girl look down a mountain range.",
+        "hypothesis": "The people look at the mountains.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A guy and a girl look down a mountain range.",
+        "hypothesis": "The couple is going to climb the mountains.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A guy and a girl look down a mountain range.",
+        "hypothesis": "The people look into the sky.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man is sitting in the green chair, talking on the phone, and working on the laptop, and there is construction site next to his building.",
+        "hypothesis": "The man is pacing nervously.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man is sitting in the green chair, talking on the phone, and working on the laptop, and there is construction site next to his building.",
+        "hypothesis": "The man can hear the construction going on.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man is sitting in the green chair, talking on the phone, and working on the laptop, and there is construction site next to his building.",
+        "hypothesis": "A man can is on the phone.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A boy hits a tennis ball on a court.",
+        "hypothesis": "A girl is hitting the ball.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A boy hits a tennis ball on a court.",
+        "hypothesis": "The boy is good at tennis.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A boy hits a tennis ball on a court.",
+        "hypothesis": "A boy is hitting a ball.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A golden retriever nurses puppies.",
+        "hypothesis": "A golden retriever nurses some other dogs puppies",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A golden retriever nurses puppies.",
+        "hypothesis": "Puppies next to their mother",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A golden retriever nurses puppies.",
+        "hypothesis": "A cat nurses puppies",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A young man in a heavy brown winter coat stands in front of a blue railing with his arms spread.",
+        "hypothesis": "The young man is at his grandmothers house.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A young man in a heavy brown winter coat stands in front of a blue railing with his arms spread.",
+        "hypothesis": "The railing is in front of a frozen lake.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A young man in a heavy brown winter coat stands in front of a blue railing with his arms spread.",
+        "hypothesis": "The man spreads his arms while standing in front of a railing.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A black man wearing a down jacket with his arms spread and holding a pink comb.",
+        "hypothesis": "A man was wearing a jacket in winter.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A black man wearing a down jacket with his arms spread and holding a pink comb.",
+        "hypothesis": "Someone wearing a cotton shirt was looking at a green hair comb.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A black man wearing a down jacket with his arms spread and holding a pink comb.",
+        "hypothesis": "A man was wearing a jacket while holding a comb.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man in a brown jacket stands with his arms spread.",
+        "hypothesis": "The man pleads for mercy.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man in a brown jacket stands with his arms spread.",
+        "hypothesis": "The man is upright.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man in a brown jacket stands with his arms spread.",
+        "hypothesis": "The man sits crosslegged on the floor.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man wearing a red vest is walking past a black and green fence.",
+        "hypothesis": "The man wearing the vest is walking down the street.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man wearing a red vest is walking past a black and green fence.",
+        "hypothesis": "A man is wearing a vest.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man wearing a red vest is walking past a black and green fence.",
+        "hypothesis": "The man wearing the vest is sitting on the sofa.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "These girls are having a great time looking for seashells.",
+        "hypothesis": "The girls are happy.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "These girls are having a great time looking for seashells.",
+        "hypothesis": "The girls are taking a nap.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "These girls are having a great time looking for seashells.",
+        "hypothesis": "The girls are outside.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man is playing the saxophone in the street and some people are sitting on the curb next to the street by him.",
+        "hypothesis": "A man is playing an instrument on the street near other people.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man is playing the saxophone in the street and some people are sitting on the curb next to the street by him.",
+        "hypothesis": "A man is trying to earn money by playing for other people on the street.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man is playing the saxophone in the street and some people are sitting on the curb next to the street by him.",
+        "hypothesis": "A woman is flying crosscountry.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A standing man talks to a seated woman while on some sort of vehicle.",
+        "hypothesis": "Two people are talking.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A standing man talks to a seated woman while on some sort of vehicle.",
+        "hypothesis": "Three people are having a meeting.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A standing man talks to a seated woman while on some sort of vehicle.",
+        "hypothesis": "Two people are discussing their relationship.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A young boy with close-cropped hair, wearing a red robe, is holding a black kettle as someone is about to pour something in it.",
+        "hypothesis": "a small boy runs through the corn field",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A young boy with close-cropped hair, wearing a red robe, is holding a black kettle as someone is about to pour something in it.",
+        "hypothesis": "a small boy holds a kettle that will soon be filled with salsa",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A young boy with close-cropped hair, wearing a red robe, is holding a black kettle as someone is about to pour something in it.",
+        "hypothesis": "a small boy is holding a kettle that will soon be filled",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Four people and a baby are crossing the street at a crosswalk.",
+        "hypothesis": "People and a baby riding the bus.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Four people and a baby are crossing the street at a crosswalk.",
+        "hypothesis": "People and a baby crossing the street.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Four people and a baby are crossing the street at a crosswalk.",
+        "hypothesis": "People and a baby are crossing the street at a crosswalk to get home.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Two woman wearing dresses are standing outside on the grass while one of them is holding a cup and saucer.",
+        "hypothesis": "Two people are standing on the grass.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Two woman wearing dresses are standing outside on the grass while one of them is holding a cup and saucer.",
+        "hypothesis": "Two women in dresses are getting ready for the picnic.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Two woman wearing dresses are standing outside on the grass while one of them is holding a cup and saucer.",
+        "hypothesis": "The women are having a conversation at the office,",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A woman leans over a small fence to take a picture of a yellow flower.",
+        "hypothesis": "The woman is a professional photographer",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman leans over a small fence to take a picture of a yellow flower.",
+        "hypothesis": "The flower is blue",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A woman leans over a small fence to take a picture of a yellow flower.",
+        "hypothesis": "A woman is taking pictures",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A group of four children pose on a muddy beach, smiling and making faces.",
+        "hypothesis": "Four kids pose on a beach.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A group of four children pose on a muddy beach, smiling and making faces.",
+        "hypothesis": "Four kids pose during summer vacation.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A group of four children pose on a muddy beach, smiling and making faces.",
+        "hypothesis": "A man stirs the stew.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Several men at a bar watch a sports game on the television.",
+        "hypothesis": "Some men are watching TV at a bar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Several men at a bar watch a sports game on the television.",
+        "hypothesis": "There are men drinking beer at a sports bar.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Several men at a bar watch a sports game on the television.",
+        "hypothesis": "The men are at a baseball game.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two roadside workers with lime green safety jackets, white hard hats and gloves on with construction cones in the background",
+        "hypothesis": "Two men are wearing lime green jackets.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Two roadside workers with lime green safety jackets, white hard hats and gloves on with construction cones in the background",
+        "hypothesis": "Two men are placing construction cones in preparation of a new pipeline building.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Two roadside workers with lime green safety jackets, white hard hats and gloves on with construction cones in the background",
+        "hypothesis": "A woman chastises another.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A woman in a black outfit lies face first on a yoga mat; several paintings are hanged on the wall, and the sun shines through a large window near her.",
+        "hypothesis": "An artist relaxes in her studio.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman in a black outfit lies face first on a yoga mat; several paintings are hanged on the wall, and the sun shines through a large window near her.",
+        "hypothesis": "There is a person in a room.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A woman in a black outfit lies face first on a yoga mat; several paintings are hanged on the wall, and the sun shines through a large window near her.",
+        "hypothesis": "A woman is asleep while moonlight filters in the window.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Children in yellow sports uniforms climbing a tower.",
+        "hypothesis": "The children are martial arts students.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Children in yellow sports uniforms climbing a tower.",
+        "hypothesis": "The kids crawl in sand.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Children in yellow sports uniforms climbing a tower.",
+        "hypothesis": "Children in uniforms climb a tower.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Some dogs are running on a deserted beach.",
+        "hypothesis": "They are in Hawaii.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Some dogs are running on a deserted beach.",
+        "hypothesis": "There is only one dog at the beach.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Some dogs are running on a deserted beach.",
+        "hypothesis": "There are multiple dogs present.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A crowded city street with lots of pedestrians.",
+        "hypothesis": "There alot of motorcyclists on this road.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A crowded city street with lots of pedestrians.",
+        "hypothesis": "There are many pedestrians on the city street.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A crowded city street with lots of pedestrians.",
+        "hypothesis": "The pedistrians are waiting for a parade to come through this busy street.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman wearing a bright orange blouse is weaving.",
+        "hypothesis": "A woman is wearing a bright orange blouse and a green hat.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman wearing a bright orange blouse is weaving.",
+        "hypothesis": "A woman is ironing red pants.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A woman wearing a bright orange blouse is weaving.",
+        "hypothesis": "A woman is weaving.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A group of people are in a rowboat in the ocean surrounded by seagulls.",
+        "hypothesis": "A group of people are inside watching a hockey game.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A group of people are in a rowboat in the ocean surrounded by seagulls.",
+        "hypothesis": "A bunch of people are in a wooden object on the water.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A group of people are in a rowboat in the ocean surrounded by seagulls.",
+        "hypothesis": "A group of people are rowing towards some islands while one of them fishes.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman in a brown shirt is kneeling in the street.",
+        "hypothesis": "A woman is protesting in the street.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman in a brown shirt is kneeling in the street.",
+        "hypothesis": "A woman is on the ground outside.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A woman in a brown shirt is kneeling in the street.",
+        "hypothesis": "A woman is riding a bicycle.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man holding a baby who is petting a pony.",
+        "hypothesis": "A man who kidnap a baby is petting a pony.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man holding a baby who is petting a pony.",
+        "hypothesis": "A man with a baby is petting a pony.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man holding a baby who is petting a pony.",
+        "hypothesis": "A man and his daughter are petting a pony.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Men sitting on the side of a brick road.",
+        "hypothesis": "me are sitting on the side of a road",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Men sitting on the side of a brick road.",
+        "hypothesis": "the side of the road is empty.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Men sitting on the side of a brick road.",
+        "hypothesis": "men are talking on the side of the road",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A black dog with a blue collar is jumping into the water.",
+        "hypothesis": "A dog is going to get wet.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A black dog with a blue collar is jumping into the water.",
+        "hypothesis": "A black dog wearing a blue collar is chasing something into the water.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A black dog with a blue collar is jumping into the water.",
+        "hypothesis": "A dog is avoiding the water.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A young girl in a yellow top and a flowered skirt is standing on a blanket and biting on a toy.",
+        "hypothesis": "A girl is standing.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A young girl in a yellow top and a flowered skirt is standing on a blanket and biting on a toy.",
+        "hypothesis": "A girl is standing outside.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A young girl in a yellow top and a flowered skirt is standing on a blanket and biting on a toy.",
+        "hypothesis": "Everyone is sitting.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "many children play in the water.",
+        "hypothesis": "The children are at camp.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "many children play in the water.",
+        "hypothesis": "Some kids splash in the water and interact with each other.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "many children play in the water.",
+        "hypothesis": "The children are playing mini golf.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A group of kids is splashing in deep water nearby a rock formation.",
+        "hypothesis": "The kids are singing in a choir",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A group of kids is splashing in deep water nearby a rock formation.",
+        "hypothesis": "The kids are in deep water",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A group of kids is splashing in deep water nearby a rock formation.",
+        "hypothesis": "They are wearing lifejackets",
+        "answer": "neutral"
+    },
+    {
+        "premise": "a climber wearing a red headband is pulling himself up some gray rocks high above some green foliage.",
+        "hypothesis": "A woman climber attempts to pull herself up",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "a climber wearing a red headband is pulling himself up some gray rocks high above some green foliage.",
+        "hypothesis": "A climber pulls himself up some rocks",
+        "answer": "entailment"
+    },
+    {
+        "premise": "a climber wearing a red headband is pulling himself up some gray rocks high above some green foliage.",
+        "hypothesis": "A climber pulls himself up 5000 feet up over a forest",
+        "answer": "neutral"
+    },
+    {
+        "premise": "a man with a red headband climbing a rock cliff looming over greenery.",
+        "hypothesis": "A man is outdoors.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "a man with a red headband climbing a rock cliff looming over greenery.",
+        "hypothesis": "A man has on climbing gear.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "a man with a red headband climbing a rock cliff looming over greenery.",
+        "hypothesis": "A man is swimming in the ocean.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Two formally dressed, bald older women",
+        "hypothesis": "Two bald women.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Two formally dressed, bald older women",
+        "hypothesis": "Two bald women with glasses.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Two formally dressed, bald older women",
+        "hypothesis": "Two long-haired young women.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A homeless man pushes an overfilled plastic blue shopping cart.",
+        "hypothesis": "A man has a shopping cart",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A homeless man pushes an overfilled plastic blue shopping cart.",
+        "hypothesis": "A man is collecting cans to recycle",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A homeless man pushes an overfilled plastic blue shopping cart.",
+        "hypothesis": "A rich man holding a rolex",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "an old shoemaker in his factory",
+        "hypothesis": "The shoemaker is inside.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "an old shoemaker in his factory",
+        "hypothesis": "The shoemaker is getting ready for his 16th birthday.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "an old shoemaker in his factory",
+        "hypothesis": "The shoemaker is wealthy.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A blond woman speaks with a group of young dark-haired female students carrying pieces of paper.",
+        "hypothesis": "A woman speaks to other women.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A blond woman speaks with a group of young dark-haired female students carrying pieces of paper.",
+        "hypothesis": "A blond speaks with a group of young dark-haired woman students carrying pieces of paper.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A blond woman speaks with a group of young dark-haired female students carrying pieces of paper.",
+        "hypothesis": "A man hits on a woman.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "The woman in the black shirt hands papers to the children surrounding her.",
+        "hypothesis": "Someone giving out paper.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "The woman in the black shirt hands papers to the children surrounding her.",
+        "hypothesis": "THe woman is giving homework to the children.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "The woman in the black shirt hands papers to the children surrounding her.",
+        "hypothesis": "Woman is keeping the paper to herself.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Girl in red jumping up",
+        "hypothesis": "The girl is jumping to catch the frisbee.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Girl in red jumping up",
+        "hypothesis": "The girl is sitting on the grass.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Girl in red jumping up",
+        "hypothesis": "The girl in red is in the air.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "3 ladies with numbers on their shirts running.",
+        "hypothesis": "There are ladies running.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "3 ladies with numbers on their shirts running.",
+        "hypothesis": "The ladies are riding bikes.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "3 ladies with numbers on their shirts running.",
+        "hypothesis": "The ladies are in a marathon.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A young boy walks on a pipe that stretches over water.",
+        "hypothesis": "A boy is making a sub sandwich in his kitchen.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A young boy walks on a pipe that stretches over water.",
+        "hypothesis": "A boy is walking outside.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A young boy walks on a pipe that stretches over water.",
+        "hypothesis": "A boy is in danger of falling into water.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A young boy in green shorts balances on a pipe above a river.",
+        "hypothesis": "Nobody is balancing.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A young boy in green shorts balances on a pipe above a river.",
+        "hypothesis": "A clever person balancing.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A young boy in green shorts balances on a pipe above a river.",
+        "hypothesis": "A person balancing.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A young man waring black and carrying a skateboard looks at an outdoor skateboard park.",
+        "hypothesis": "A guy with a skateboard is looking at a park to skateboard.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A young man waring black and carrying a skateboard looks at an outdoor skateboard park.",
+        "hypothesis": "A girl with a ponytail is riding a bike at a park.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A young man waring black and carrying a skateboard looks at an outdoor skateboard park.",
+        "hypothesis": "A guy is going skateboarding today.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow.",
+        "hypothesis": "A young boy is playing soccer.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow.",
+        "hypothesis": "A young boy is sleeping at a sleep over.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Young boy wearing pajamas lying down in bed and sleeping on a colorful striped pillow.",
+        "hypothesis": "A young boy is sleeping on a pillow.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A man in a blue collared t-shirt posing at someone while holding a hebrew newspaper.",
+        "hypothesis": "He is wearing the newspaper on his head.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man in a blue collared t-shirt posing at someone while holding a hebrew newspaper.",
+        "hypothesis": "He is reading the newspaper.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A man in a blue collared t-shirt posing at someone while holding a hebrew newspaper.",
+        "hypothesis": "He is jewish.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A bearded man jumps in the snow with the ocean in the background and an orange, recumbent bike parked near a road sign.",
+        "hypothesis": "A human jumping.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A bearded man jumps in the snow with the ocean in the background and an orange, recumbent bike parked near a road sign.",
+        "hypothesis": "Nobody is jumping.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A bearded man jumps in the snow with the ocean in the background and an orange, recumbent bike parked near a road sign.",
+        "hypothesis": "A tall human jumping.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Four children are playing in some water.",
+        "hypothesis": "The children are muddy.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Four children are playing in some water.",
+        "hypothesis": "The children are wet.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Four children are playing in some water.",
+        "hypothesis": "The children are doing chores.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Four young girls playing in the water.",
+        "hypothesis": "Four girls are in the water.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Four young girls playing in the water.",
+        "hypothesis": "There are boys and girl in the water.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Four young girls playing in the water.",
+        "hypothesis": "Four girls are swimming.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "The man in the black t-shirt is trying to throw something.",
+        "hypothesis": "The man is walking away.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "The man in the black t-shirt is trying to throw something.",
+        "hypothesis": "The man is in a black shirt.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "The man in the black t-shirt is trying to throw something.",
+        "hypothesis": "The man is throwing something to his son.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "One young boy in a yellow long-sleeved shirt and jeans sitting down, with five adults in front of him, one operating a video camera.",
+        "hypothesis": "Someone recording a young boy as he auditions for a part in a movie.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "One young boy in a yellow long-sleeved shirt and jeans sitting down, with five adults in front of him, one operating a video camera.",
+        "hypothesis": "A young boy juggling three red balls while blindfolded.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "One young boy in a yellow long-sleeved shirt and jeans sitting down, with five adults in front of him, one operating a video camera.",
+        "hypothesis": "An adult using a video camera.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Boys with their backs against an incoming wave.",
+        "hypothesis": "A group of people play in the ocean.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Boys with their backs against an incoming wave.",
+        "hypothesis": "A group of people stand together.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Boys with their backs against an incoming wave.",
+        "hypothesis": "A group of people sit on the beach.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Four boys are about to be hit by an approaching wave.",
+        "hypothesis": "A wave is about hit some boys.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Four boys are about to be hit by an approaching wave.",
+        "hypothesis": "The wave missed the boys.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Four boys are about to be hit by an approaching wave.",
+        "hypothesis": "A giant wave is about to crash on some boys.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A woman, standing behind a girl, helping the girl with an experiment.",
+        "hypothesis": "A mother is helping her child complete the experiment.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A woman, standing behind a girl, helping the girl with an experiment.",
+        "hypothesis": "A woman is helping a girl.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.",
+        "hypothesis": "A lady is sleeping on a couch",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.",
+        "hypothesis": "A lady is helping another woman work",
+        "answer": "entailment"
+    },
+    {
+        "premise": "A lady is helping another woman work in a silver compartment, which is most likely related to nurse-work.",
+        "hypothesis": "Two woman are trying to finish orders from a doctor",
+        "answer": "neutral"
+    },
+    {
+        "premise": "One man, wearing a blue jacket, is kicking another man, wearing a red jacket.",
+        "hypothesis": "Two men are fighting outside a bar.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "One man, wearing a blue jacket, is kicking another man, wearing a red jacket.",
+        "hypothesis": "A woman puts on makeup",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "One man, wearing a blue jacket, is kicking another man, wearing a red jacket.",
+        "hypothesis": "One guy kicks another.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Many people gathered in a room with several people on stage with instruments and the words \"The Early November\" on the wall.",
+        "hypothesis": "Parents gathers for a local high school concert",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Many people gathered in a room with several people on stage with instruments and the words \"The Early November\" on the wall.",
+        "hypothesis": "Mob gathers as flutes fight to the death",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Many people gathered in a room with several people on stage with instruments and the words \"The Early November\" on the wall.",
+        "hypothesis": "People leave as the concert is decides to charge per note",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A hockey player in helmet.",
+        "hypothesis": "Players are wearing helmet.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A hockey player in helmet.",
+        "hypothesis": "The players are taking rest.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A hockey player in helmet.",
+        "hypothesis": "They are playing hockey",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Man wearing blue bowing on floor in front of another man in blue bowing on floor with two other men wearing blue kneeling on same floor also.",
+        "hypothesis": "A man is wearing something.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Man wearing blue bowing on floor in front of another man in blue bowing on floor with two other men wearing blue kneeling on same floor also.",
+        "hypothesis": "A man is wearing nothing.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Man wearing blue bowing on floor in front of another man in blue bowing on floor with two other men wearing blue kneeling on same floor also.",
+        "hypothesis": "A man is wearing a blue shirt.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Biker riding through the forest.",
+        "hypothesis": "Mountain biker competes in off-road race.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Biker riding through the forest.",
+        "hypothesis": "Man riding motorcycle on highway.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "Biker riding through the forest.",
+        "hypothesis": "Mountain biker enjoying the local trails.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A young man in a blue T-shirt and sweatpants stands over a stove and looks at the camera while another young man stands behind him.",
+        "hypothesis": "Two men are recording a cooking tutorial.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A young man in a blue T-shirt and sweatpants stands over a stove and looks at the camera while another young man stands behind him.",
+        "hypothesis": "two men are at the pool.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "couples enjoying a meal, while a bunch of dogs take a nap.",
+        "hypothesis": "THE COUPLE ARE EATING STEAK",
+        "answer": "neutral"
+    },
+    {
+        "premise": "couples enjoying a meal, while a bunch of dogs take a nap.",
+        "hypothesis": "THERE IS A COUPLE WALKING THEIR DOGS",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A white duck expanding its wings in the water.",
+        "hypothesis": "The duck is a rare breed, most thought to have been driven into extinction years ago.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A white duck expanding its wings in the water.",
+        "hypothesis": "The duck sleeps soundly, floating on top of the water",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A woman wearing jeans is walking down the street.",
+        "hypothesis": "An elderly woman with a cane is sitting on a chair.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A woman wearing jeans is walking down the street.",
+        "hypothesis": "A woman is walking towards a bus stop.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A group of people stand near and on a large black square on the ground with some yellow writing on it.",
+        "hypothesis": "a group of people wait",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A group of people stand near and on a large black square on the ground with some yellow writing on it.",
+        "hypothesis": "a person lies on the couch",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A group of people stand near and on a large black square on the ground with some yellow writing on it.",
+        "hypothesis": "a group of people stand",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A crowd is watching a group of men in suits with briefcases walk in formation down the street led by a woman holding a sign.",
+        "hypothesis": "The sign the woman is holding states that \"Freedom is free.\"",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A crowd is watching a group of men in suits with briefcases walk in formation down the street led by a woman holding a sign.",
+        "hypothesis": "A group of people dressed as clowns stroll into the Bigtop Circus holding signs.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "The little boy gets ready to kick the soccer ball.",
+        "hypothesis": "the boy is ten years old",
+        "answer": "neutral"
+    },
+    {
+        "premise": "The little boy gets ready to kick the soccer ball.",
+        "hypothesis": "the boy is sleeping at home",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man and woman sitting on the sidewalk.",
+        "hypothesis": "The man and woman are standing.",
+        "answer": "contradiction"
+    },
+    {
+        "premise": "A man and woman sitting on the sidewalk.",
+        "hypothesis": "The man and woman are married.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "A female within the foreground is heading towards a large white colored pillar that is apart of a large building with people are loitering or waiting on the steps of said building.",
+        "hypothesis": "A dog is running up the steps of a building.",
+        "answer": "contradiction"
+    }
+]

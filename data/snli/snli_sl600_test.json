@@ -1,0 +1,3002 @@
+[
+    {
+        "premise": "Ta cerkveni zbor poje mašam, ko pojejo vesele pesmi iz knjige v cerkvi.",
+        "hypothesis": "Cerkev ima razpoke v stropu.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ta cerkveni zbor poje mašam, ko pojejo vesele pesmi iz knjige v cerkvi.",
+        "hypothesis": "Cerkev je napolnjena s pesmijo.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ta cerkveni zbor poje mašam, ko pojejo vesele pesmi iz knjige v cerkvi.",
+        "hypothesis": "Zbor poje na bejzbolski tekmi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženska z zeleno ruto, modro srajco in zelo velikim nasmehom.",
+        "hypothesis": "Ženska je mlada.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska z zeleno ruto, modro srajco in zelo velikim nasmehom.",
+        "hypothesis": "Ženska je zelo vesela.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska z zeleno ruto, modro srajco in zelo velikim nasmehom.",
+        "hypothesis": "Ženska je bila ustreljena.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Starec s paketom pozira pred oglasom.",
+        "hypothesis": "Moški pozira pred oglasom.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Starec s paketom pozira pred oglasom.",
+        "hypothesis": "Moški pozira pred oglasom za pivo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Starec s paketom pozira pred oglasom.",
+        "hypothesis": "Moški hodi mimo oglasa.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Kip v muzeju, ki ga nihče ne gleda.",
+        "hypothesis": "Kip je žaljiv in ljudje so jezni, da je na ogled.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Kip v muzeju, ki ga nihče ne gleda.",
+        "hypothesis": "Obstaja kip, za katerega se zdi, da ne zanima veliko ljudi.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Kip v muzeju, ki ga nihče ne gleda.",
+        "hypothesis": "Okoli kipa je zbranih na tone ljudi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Land rover se pelje čez reko.",
+        "hypothesis": "Land Rover brizga vodo, ko prečka reko.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Land rover se pelje čez reko.",
+        "hypothesis": "Vozilo prečka reko.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Land rover se pelje čez reko.",
+        "hypothesis": "Limuzina je obtičala sredi reke.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški igra električno kitaro na odru.",
+        "hypothesis": "Moški igra bendžo na tleh.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški igra električno kitaro na odru.",
+        "hypothesis": "Človek igra kitaro na odru.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški igra električno kitaro na odru.",
+        "hypothesis": "Moški nastopa za denar.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Svetlolasa zdravnica in njen afroameriški pomočnik sta na pogled vrgla nove medicinske priročnike.",
+        "hypothesis": "Zdravnik gleda knjigo",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Svetlolasa zdravnica in njen afroameriški pomočnik sta na pogled vrgla nove medicinske priročnike.",
+        "hypothesis": "Človek jé pb in j",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Svetlolasa zdravnica in njen afroameriški pomočnik sta na pogled vrgla nove medicinske priročnike.",
+        "hypothesis": "Zdravnik študira",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Eno rjavo dekle z volnenim klobukom teče in se sklanja nad predmet, druga oseba z volnenim klobukom pa sedi na tleh.",
+        "hypothesis": "Fant se zaleti v zid",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Eno rjavo dekle z volnenim klobukom teče in se sklanja nad predmet, druga oseba z volnenim klobukom pa sedi na tleh.",
+        "hypothesis": "Dekle, ki teče, se nagne nad predmet",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Eno rjavo dekle z volnenim klobukom teče in se sklanja nad predmet, druga oseba z volnenim klobukom pa sedi na tleh.",
+        "hypothesis": "Moški opazuje svojo hčerko, kako skače",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mlada družina uživa v občutku oceanskih valov, ki jih pljuskajo ob njenih nogah.",
+        "hypothesis": "Mladenič in ženska prvič peljeta otroka na plažo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mlada družina uživa v občutku oceanskih valov, ki jih pljuskajo ob njenih nogah.",
+        "hypothesis": "Družina je zunaj v restavraciji.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Mlada družina uživa v občutku oceanskih valov, ki jih pljuskajo ob njenih nogah.",
+        "hypothesis": "Družina je na plaži.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Par hodi z roko v roki po ulici.",
+        "hypothesis": "Par se sprehaja skupaj.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Par hodi z roko v roki po ulici.",
+        "hypothesis": "Par je poročen.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Par hodi z roko v roki po ulici.",
+        "hypothesis": "Par sedi na klopi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "3 mladeniči s kapucami, ki stojijo sredi mirne ulice in so obrnjeni proti kameri.",
+        "hypothesis": "Trije ljudje gologlavi sedijo ob prometni ulici.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "3 mladeniči s kapucami, ki stojijo sredi mirne ulice in so obrnjeni proti kameri.",
+        "hypothesis": "Ljudje s tremi kapucami pozirajo za sliko.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "3 mladeniči s kapucami, ki stojijo sredi mirne ulice in so obrnjeni proti kameri.",
+        "hypothesis": "Trije ljudje s kapuco stojijo na ulici.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški bere časopis v baru z zeleno osvetlitvijo.",
+        "hypothesis": "Človek je notri.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški bere časopis v baru z zeleno osvetlitvijo.",
+        "hypothesis": "Človek bere športno stran.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški bere časopis v baru z zeleno osvetlitvijo.",
+        "hypothesis": "Moški se vzpenja na goro.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Trije gasilci pridejo iz podzemne postaje.",
+        "hypothesis": "Trije gasilci gasijo požar v postaji podzemne železnice.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Trije gasilci pridejo iz podzemne postaje.",
+        "hypothesis": "Trije gasilci prihajajo s postaje podzemne železnice.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Trije gasilci pridejo iz podzemne postaje.",
+        "hypothesis": "Trije gasilci igrajo karte v gasilskem domu.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Oseba s slamnikom, ki stoji zunaj in dela jekleno napravo s kupom kokosovih orehov na tleh.",
+        "hypothesis": "Oseba je blizu kupa kokosovih orehov.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Oseba s slamnikom, ki stoji zunaj in dela jekleno napravo s kupom kokosovih orehov na tleh.",
+        "hypothesis": "Oseba prodaja kokosove orehe.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Oseba s slamnikom, ki stoji zunaj in dela jekleno napravo s kupom kokosovih orehov na tleh.",
+        "hypothesis": "Oseba sežiga slamnik.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški v modri jakni se odloči uleči v travo.",
+        "hypothesis": "Moški v rumenem se valja po travi",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški v modri jakni se odloči uleči v travo.",
+        "hypothesis": "Fant, oblečen v modro jakno, leži na zeleni travi",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v modri jakni se odloči uleči v travo.",
+        "hypothesis": "Tip, oblečen v modro jakno, leži na zeleni travi in drema.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Med vrvjo teleta kavboj odpokliče konja.",
+        "hypothesis": "Vrvar prvič pade s konja.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Med vrvjo teleta kavboj odpokliče konja.",
+        "hypothesis": "Človek uspešno vrvi tele.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Majhen deček v sivo-belem črtastem puloverju in rumenorjavih hlačah se igra na opremi za igrišče.",
+        "hypothesis": "Deček je na igrišču.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Majhen deček v sivo-belem črtastem puloverju in rumenorjavih hlačah se igra na opremi za igrišče.",
+        "hypothesis": "Fant se po šoli igra na gugalnicah.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Majhen deček v sivo-belem črtastem puloverju in rumenorjavih hlačah se igra na opremi za igrišče.",
+        "hypothesis": "Fant sedi na šolskem avtobusu na poti domov.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženska s kapo s kapo počepne in se dotakne razpokane zemlje.",
+        "hypothesis": "Arheolog s klobukom počepi, da bi pregledal najdišče za izkopavanje",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska s kapo s kapo počepne in se dotakne razpokane zemlje.",
+        "hypothesis": "Čepeča ženska s klobukom se dotika tal.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska s kapo s kapo počepne in se dotakne razpokane zemlje.",
+        "hypothesis": "Ženska s sončno kapo in sadi vrt.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dva otroka ležita na preprogi z nekaj lesenimi kockami, položenimi v kvadrat med njima.",
+        "hypothesis": "Dva otroka gradita zidano peč.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dva otroka ležita na preprogi z nekaj lesenimi kockami, položenimi v kvadrat med njima.",
+        "hypothesis": "Dva otroka se lovita v parku.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dva otroka ležita na preprogi z nekaj lesenimi kockami, položenimi v kvadrat med njima.",
+        "hypothesis": "Dva otroka sta na preprogi.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Človek, ki stoji pred zgradbo na telefonu, kot dva moška ob strani, bolečina na strani.",
+        "hypothesis": "moški blizu stavbe stoji poleg dveh moških",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Človek, ki stoji pred zgradbo na telefonu, kot dva moška ob strani, bolečina na strani.",
+        "hypothesis": "dve dekleti hodita skozi hodnik",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Človek, ki stoji pred zgradbo na telefonu, kot dva moška ob strani, bolečina na strani.",
+        "hypothesis": "zaposlen moški stoji s telesnimi stražarji",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mladi dekleti sta oblečeni v vile in se igrata v listju na prostem.",
+        "hypothesis": "Dekleta se igrajo na prostem.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Mladi dekleti sta oblečeni v vile in se igrata v listju na prostem.",
+        "hypothesis": "Dve deklici se igrata oblačenja v zaprtih prostorih.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Mladi dekleti sta oblečeni v vile in se igrata v listju na prostem.",
+        "hypothesis": "Dekleti se igrata v jeseni.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ljudje skačejo čez gorsko razpoko na vrvi.",
+        "hypothesis": "Nekateri ljudje so vidno prestrašeni, da bi skočili.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ljudje skačejo čez gorsko razpoko na vrvi.",
+        "hypothesis": "Ljudje skačejo zunaj.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ljudje skačejo čez gorsko razpoko na vrvi.",
+        "hypothesis": "Ljudje drsijo po gorski razpoki po toboganu.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Deskar na snegu na široki snežni ravnini",
+        "hypothesis": "Snežna poljana z deskarjem na snegu",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Deskar na snegu na široki snežni ravnini",
+        "hypothesis": "Deskar na snegu drsi po snežnem polju",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Deskar na snegu na široki snežni ravnini",
+        "hypothesis": "Snežne sani v snežnem metežu",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Starejša ženska skrbi za vrt.",
+        "hypothesis": "Gospa kuha večerjo",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Starejša ženska skrbi za vrt.",
+        "hypothesis": "Gospa pleve svoj vrt",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Starejša ženska skrbi za vrt.",
+        "hypothesis": "Gospa ima vrt",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v črni srajci s pogledom na vzdrževanje koles.",
+        "hypothesis": "Moški uniči kolo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški v črni srajci s pogledom na vzdrževanje koles.",
+        "hypothesis": "Moški opazuje popravilo koles.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v črni srajci s pogledom na vzdrževanje koles.",
+        "hypothesis": "Človek se nauči vzdrževanja kolesa.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški v črni srajci si ogleduje kolo v delavnici.",
+        "hypothesis": "Moški nosi rdečo srajco",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški v črni srajci si ogleduje kolo v delavnici.",
+        "hypothesis": "Moški je v črni srajci",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v črni srajci si ogleduje kolo v delavnici.",
+        "hypothesis": "Človek se odloča, katero kolo bo kupil",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški, ki gleda čez zadnje kolo kolesa v vzdrževalni garaži z različnimi orodji, vidnimi v ozadju.",
+        "hypothesis": "Oseba je v garaži.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški, ki gleda čez zadnje kolo kolesa v vzdrževalni garaži z različnimi orodji, vidnimi v ozadju.",
+        "hypothesis": "Moški popravlja kolesa.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški, ki gleda čez zadnje kolo kolesa v vzdrževalni garaži z različnimi orodji, vidnimi v ozadju.",
+        "hypothesis": "Moški čaka pred garažo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Trije ljudje sedijo na klopi na postaji, moški nenavadno gleda dve ženski, rdečelasi gledata navzgor in naprej v nerodnem položaju, rumeno blond dekle pa si mešeta lase.",
+        "hypothesis": "Nekateri ljudje stojijo okoli.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Trije ljudje sedijo na klopi na postaji, moški nenavadno gleda dve ženski, rdečelasi gledata navzgor in naprej v nerodnem položaju, rumeno blond dekle pa si mešeta lase.",
+        "hypothesis": "Ljudje tečejo skupaj.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Trije ljudje sedijo na klopi na postaji, moški nenavadno gleda dve ženski, rdečelasi gledata navzgor in naprej v nerodnem položaju, rumeno blond dekle pa si mešeta lase.",
+        "hypothesis": "Ljudje čakajo na postaji.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Otrok, oblečen v rdečo majico, stoji za svetlolasim otrokom, ki sedi v samokolnici.",
+        "hypothesis": "Otrok, oblečen v rdečo majico, stoji za svetlolasim otrokom",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Otrok, oblečen v rdečo majico, stoji za svetlolasim otrokom, ki sedi v samokolnici.",
+        "hypothesis": "Otrok, oblečen v rdečo majico, stoji na vrhu svetlolasega otroka",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Otrok, oblečen v rdečo majico, stoji za svetlolasim otrokom, ki sedi v samokolnici.",
+        "hypothesis": "Otrok, oblečen v rdečo majico, stoji za lepo blondim otrokom",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Oseba, oblečena v obleko z rožami in nanjo pritrjeno plišasto čebelo, potiska otroški voziček po ulici.",
+        "hypothesis": "Gospa sedi na klopci v parku.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Oseba, oblečena v obleko z rožami in nanjo pritrjeno plišasto čebelo, potiska otroški voziček po ulici.",
+        "hypothesis": "Stara gospa potiska voziček po prometni ulici.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Oseba, oblečena v obleko z rožami in nanjo pritrjeno plišasto čebelo, potiska otroški voziček po ulici.",
+        "hypothesis": "Oseba zunaj potiska voziček.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Pes skače za frizbijem v snegu.",
+        "hypothesis": "Hišni ljubljenček uživa v igri prinašanja s svojim lastnikom.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Pes skače za frizbijem v snegu.",
+        "hypothesis": "Mačka si umiva obraz in brke s sprednjo taco.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Pes skače za frizbijem v snegu.",
+        "hypothesis": "Žival je zunaj v hladnem vremenu in se igra s plastično igračo.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ljudje se pogovarjajo za jedilno mizo pod baldahinom.",
+        "hypothesis": "Ljudje na zabavi sedijo za večerjo na travniku.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ljudje se pogovarjajo za jedilno mizo pod baldahinom.",
+        "hypothesis": "Ljudje se pogovarjajo pod prevleko.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ljudje se pogovarjajo za jedilno mizo pod baldahinom.",
+        "hypothesis": "Ljudje kričijo na boksarskem dvoboju.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Deklica igra violino skupaj s skupino ljudi",
+        "hypothesis": "Dekle pere kup perila.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Deklica igra violino skupaj s skupino ljudi",
+        "hypothesis": "Deklica igra instrument.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Deklica igra violino skupaj s skupino ljudi",
+        "hypothesis": "Skupina ljudi igra v simfoniji.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska v orkestru igra violino.",
+        "hypothesis": "Ženska igra koncert.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska v orkestru igra violino.",
+        "hypothesis": "Ženska igra violino.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska v orkestru igra violino.",
+        "hypothesis": "Človek gleda v teleskop.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "V kamero gledajo trije moški, eden drži cevi, drugi velik predmet nad glavo, eden pa počiva ob cevi na tovornjaku.",
+        "hypothesis": "trije moški, ki gredo v službo",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "V kamero gledajo trije moški, eden drži cevi, drugi velik predmet nad glavo, eden pa počiva ob cevi na tovornjaku.",
+        "hypothesis": "trije moški gledajo v kamero",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "V kamero gledajo trije moški, eden drži cevi, drugi velik predmet nad glavo, eden pa počiva ob cevi na tovornjaku.",
+        "hypothesis": "trije možje spijo v šotoru",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Avto Ford zavija desno, ko 3 moški hodijo čez cesto za avtomobilom.",
+        "hypothesis": "Avto, ki je zavijal desno, je za njim zapeljal tri pešce.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Avto Ford zavija desno, ko 3 moški hodijo čez cesto za avtomobilom.",
+        "hypothesis": "Limuzina je zavijala za ovinek, medtem ko so sprehajalci prečkali.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Trije fantje v belih srajcah hodijo za starejšim modelom Forda.",
+        "hypothesis": "so trije fantje",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Trije fantje v belih srajcah hodijo za starejšim modelom Forda.",
+        "hypothesis": "Tri dekleta so",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Trije fantje v belih srajcah hodijo za starejšim modelom Forda.",
+        "hypothesis": "Fantje so na ulici",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Tri dekleta pihajo svečke na torti iz Peepsa.",
+        "hypothesis": "Nekateri ljudje pihajo svečke",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Tri dekleta pihajo svečke na torti iz Peepsa.",
+        "hypothesis": "Tri dekleta in torta so",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Tri dekleta pihajo svečke na torti iz Peepsa.",
+        "hypothesis": "Na vrtu kukajo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Množica ljudi gleda v 3 ljudi na robu strehe stavbe.",
+        "hypothesis": "Množica kliče na pomoč ljudem na strehi.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Množica ljudi gleda v 3 ljudi na robu strehe stavbe.",
+        "hypothesis": "Množica na tleh opazuje 3 ljudi na robu strehe.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Množica ljudi gleda v 3 ljudi na robu strehe stavbe.",
+        "hypothesis": "Trije ljudje plezajo po lestvi na stavbi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženska, ki dela dolge ure.",
+        "hypothesis": "Ženska dela v tovarni.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska, ki dela dolge ure.",
+        "hypothesis": "Ženska dela.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska, ki dela dolge ure.",
+        "hypothesis": "Ženska spi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dve najstnici se pogovarjata ob omaricah.",
+        "hypothesis": "Dekleta se pogovarjajo ob stranišču.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dve najstnici se pogovarjata ob omaricah.",
+        "hypothesis": "Ljudje, ki se pogovarjajo ob omaricah.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Dve najstnici se pogovarjata ob omaricah.",
+        "hypothesis": "Dekleta govorijo o svojih težavah ob omaricah.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Stara ženska opazuje moškega, ki gleda nekaj žog na tleh.",
+        "hypothesis": "Starejša samica zalezuje samca.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Stara ženska opazuje moškega, ki gleda nekaj žog na tleh.",
+        "hypothesis": "Dve osebi spita na vlaku.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dva otroka, oba oblečena v rjave plašče, se objemata.",
+        "hypothesis": "Dva otroka se objemata po tem, ko sta preživela grozljivo prometno nesrečo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dva otroka, oba oblečena v rjave plašče, se objemata.",
+        "hypothesis": "Dva otroka se objemata.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Dva otroka, oba oblečena v rjave plašče, se objemata.",
+        "hypothesis": "Dva otroka tečeta po avtocesti.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "2 otroka, ki sta videti v sorodu, se družita z enim od njiju, ki je videti zelo čustven in objema drugega.",
+        "hypothesis": "Par sorodnikov otrok se je objemalo, ker so bili veseli, da se vidijo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "2 otroka, ki sta videti v sorodu, se družita z enim od njiju, ki je videti zelo čustven in objema drugega.",
+        "hypothesis": "Dva otroka sta se objemala.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "2 otroka, ki sta videti v sorodu, se družita z enim od njiju, ki je videti zelo čustven in objema drugega.",
+        "hypothesis": "Mladostnika sta se potiskala.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Po ulici se sprehaja veliko število ljudi, oblečenih samo v belo in rdeče.",
+        "hypothesis": "Po ulici se sprehaja veliko število ljudi, oblečenih v črno.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Po ulici se sprehaja veliko število ljudi, oblečenih samo v belo in rdeče.",
+        "hypothesis": "Veliko število moških, ki hodijo po ulici v rdeče-belem.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Po ulici se sprehaja veliko število ljudi, oblečenih samo v belo in rdeče.",
+        "hypothesis": "Veliko število ljudi hodi po ulici.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Tip, ki se vozi z motorjem v bližini odpadnih avtomobilov",
+        "hypothesis": "Moški testira motorno kolo, da se odloči, ali ga bo kupil ali ne.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Tip, ki se vozi z motorjem v bližini odpadnih avtomobilov",
+        "hypothesis": "Moški se vozi z motorjem.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Tip, ki se vozi z motorjem v bližini odpadnih avtomobilov",
+        "hypothesis": "Moški sedi na parkiranem motorju in čaka na prijatelja.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženske iz Indije nastopajo z modrimi trakovi v čudovitih modrih kostumih.",
+        "hypothesis": "Indijke nastopajo skupaj v čudovitih kostumih",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženske iz Indije nastopajo z modrimi trakovi v čudovitih modrih kostumih.",
+        "hypothesis": "psi vohajo zrak",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženske iz Indije nastopajo z modrimi trakovi v čudovitih modrih kostumih.",
+        "hypothesis": "Indijke skupaj izvajajo verski obred",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Profesionalni plavalec izpljune vodo, potem ko se dvigne na površje, medtem ko nekoga zgrabi za roko, ki mu pomaga na kopno.",
+        "hypothesis": "Oseba plava.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Profesionalni plavalec izpljune vodo, potem ko se dvigne na površje, medtem ko nekoga zgrabi za roko, ki mu pomaga na kopno.",
+        "hypothesis": "Plavalec jé popečen marshmallow.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Profesionalni plavalec izpljune vodo, potem ko se dvigne na površje, medtem ko nekoga zgrabi za roko, ki mu pomaga na kopno.",
+        "hypothesis": "Plavalec se je skoraj utopil, potem ko ga je posrkal hiter tok.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški v črni neoprenski obleki stopa iz vode.",
+        "hypothesis": "Moški v neoprenski obleki stopi iz vode z desko za deskanje.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški v črni neoprenski obleki stopa iz vode.",
+        "hypothesis": "oseba hodi iz vode.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v črni neoprenski obleki stopa iz vode.",
+        "hypothesis": "Moški leži na plaži.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Pet deklet in dva fanta prečkajo nadvoz.",
+        "hypothesis": "Razširjena družina se skupaj odpravi na družinsko srečanje.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Pet deklet in dva fanta prečkajo nadvoz.",
+        "hypothesis": "Trije moški sedijo in se pogovarjajo o svojem življenju.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Pet deklet in dva fanta prečkajo nadvoz.",
+        "hypothesis": "Zunaj so ljudje.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Oseba z vijolično srajco slika podobo ženske na beli steni.",
+        "hypothesis": "Ženska naslika portret svoje najboljše prijateljice.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Oseba z vijolično srajco slika podobo ženske na beli steni.",
+        "hypothesis": "Ženska nariše portret osebe.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Oseba z vijolično srajco slika podobo ženske na beli steni.",
+        "hypothesis": "Ženska slika portret opice.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženska slika fresko z ženskim obrazom.",
+        "hypothesis": "Slika ženska.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska slika fresko z ženskim obrazom.",
+        "hypothesis": "Obstaja ženska, ki slika za zabavo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska slika fresko z ženskim obrazom.",
+        "hypothesis": "Tam je moški, ki si zavezuje čevlje.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Par jé zunaj za mizo in on nekaj kaže.",
+        "hypothesis": "Par jé notri za mizo in on nekaj kaže.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Par jé zunaj za mizo in on nekaj kaže.",
+        "hypothesis": "Moški kaže na roparja torbice.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Par jé zunaj za mizo in on nekaj kaže.",
+        "hypothesis": "Ljudje zunaj jedo za mizo.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Dve ženski hodita po pločniku vzdolž prometne ulice v središču mesta.",
+        "hypothesis": "Ženske so hodile peš v center, ker so avtobusi stavkali",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dve ženski hodita po pločniku vzdolž prometne ulice v središču mesta.",
+        "hypothesis": "Ženske so na podeželju nabirale jagode",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dve ženski hodita po pločniku vzdolž prometne ulice v središču mesta.",
+        "hypothesis": "Ženske so hodile po mestu",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Veliko ljudi, ki stojijo zunaj mesta in se med seboj pogovarjajo pred stavbo, ki ima znak z napisom \"HI-POINTE.\"",
+        "hypothesis": "Ljudje klepetajo, preden gredo v delovno stavbo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Veliko ljudi, ki stojijo zunaj mesta in se med seboj pogovarjajo pred stavbo, ki ima znak z napisom \"HI-POINTE.\"",
+        "hypothesis": "Skupina ljudi ni v stavbi.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Veliko ljudi, ki stojijo zunaj mesta in se med seboj pogovarjajo pred stavbo, ki ima znak z napisom \"HI-POINTE.\"",
+        "hypothesis": "Ljudje sedijo v avli hotela.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Stevardesa, oblečena v rumeno, prikazuje uporabo rešilnega jopiča.",
+        "hypothesis": "Stevardesa stoji pred potniki.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Stevardesa, oblečena v rumeno, prikazuje uporabo rešilnega jopiča.",
+        "hypothesis": "Stevardesa demonstrira varnostne postopke pred vzletom.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Stevardesa, oblečena v rumeno, prikazuje uporabo rešilnega jopiča.",
+        "hypothesis": "Ženska pripravlja pijačo na letalu.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dekleta hodijo po ulici.",
+        "hypothesis": "Dekleta hodijo po ulici.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Dekleta hodijo po ulici.",
+        "hypothesis": "Dekleta sedijo na ulici.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dekleta hodijo po ulici.",
+        "hypothesis": "Dekleta so šla v park.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški v rdeči uniformi in čeladi stoji na svojem motorju.",
+        "hypothesis": "človek sedi v avtu.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški v rdeči uniformi in čeladi stoji na svojem motorju.",
+        "hypothesis": "oseba, ki stoji.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v rdeči uniformi in čeladi stoji na svojem motorju.",
+        "hypothesis": "človek stoji na svojem motorju.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Človek iz blaga položi črno snov na svoje čelo.",
+        "hypothesis": "Človek drugemu nekaj natakne na glavo.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Človek iz blaga položi črno snov na svoje čelo.",
+        "hypothesis": "Ženske so v parku.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Človek iz blaga položi črno snov na svoje čelo.",
+        "hypothesis": "Moški so v cerkvi.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Oseba se kotali po hribu navzdol z vozom, medtem ko druga gleda.",
+        "hypothesis": "Dve osebi sta zunaj.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Oseba se kotali po hribu navzdol z vozom, medtem ko druga gleda.",
+        "hypothesis": "Človek strmi v prazen hrib.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Oseba se kotali po hribu navzdol z vozom, medtem ko druga gleda.",
+        "hypothesis": "Otrok v vozu se vali po hribu navzdol.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "deček, ki se drži za steno dvignjenih temeljev stare opečne hiše.",
+        "hypothesis": "deček, ki se med gradnjo drži za steno dvignjenih temeljev stare opečne hiše",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "deček, ki se drži za steno dvignjenih temeljev stare opečne hiše.",
+        "hypothesis": "dekle se naslanja na steno",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "deček, ki se drži za steno dvignjenih temeljev stare opečne hiše.",
+        "hypothesis": "deček stoji ob zidu dvignjenega temelja",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Bruce Springsteen z eno iztegnjeno roko poje v soju žarometov v temni koncertni dvorani.",
+        "hypothesis": "Bruce Springsteen je s Floride.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Bruce Springsteen z eno iztegnjeno roko poje v soju žarometov v temni koncertni dvorani.",
+        "hypothesis": "Bruce Springsteen je pevec.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Bruce Springsteen z eno iztegnjeno roko poje v soju žarometov v temni koncertni dvorani.",
+        "hypothesis": "Bruce Springsteen je gej",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Šest psov plava v reki.",
+        "hypothesis": "Šest psov preplava reko.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Šest psov plava v reki.",
+        "hypothesis": "Zunaj je šest psov.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Šest psov plava v reki.",
+        "hypothesis": "Mladički ležijo na kavču.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški in ženska se slikata, mimo njih pa hodi ženska v šalu.",
+        "hypothesis": "Moškega in žensko so posneli, ker sta bila aretirana.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški in ženska se slikata, mimo njih pa hodi ženska v šalu.",
+        "hypothesis": "Moški in ženska delata selfije, medtem ko ženska hodi mimo in ju ocenjuje.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški in ženska se slikata, mimo njih pa hodi ženska v šalu.",
+        "hypothesis": "Moški in ženska posnameta selfije.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "skupina ljudi, ki plešejo skupaj.",
+        "hypothesis": "Ljudje plešejo.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "skupina ljudi, ki plešejo skupaj.",
+        "hypothesis": "Plešejo tango.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "skupina ljudi, ki plešejo skupaj.",
+        "hypothesis": "Nihče ne pleše.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški v modrih uniformah sedijo na avtobusu.",
+        "hypothesis": "Moški sedijo na avtobusu.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v modrih uniformah sedijo na avtobusu.",
+        "hypothesis": "Moški sedijo na avtobusu, ki gre v službo,",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški v modrih uniformah sedijo na avtobusu.",
+        "hypothesis": "Moški zapeljejo avtobus v ocean.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dva moška plezata po lesenem odru.",
+        "hypothesis": "Dve osebi plezata na leseni oder.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Dva moška plezata po lesenem odru.",
+        "hypothesis": "Dve ženski plezata na leseni oder.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dva moška plezata po lesenem odru.",
+        "hypothesis": "Dva žalostna moža plezata po lesenem odru.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ptica maha s krili po vodi.",
+        "hypothesis": "Ptica leta nad drevesi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ptica maha s krili po vodi.",
+        "hypothesis": "Raca plava v jezeru.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mlad fant, oblečen v rdečo srajco in kavbojke, stoji sredi polja in vrže igračo letalo v zrak.",
+        "hypothesis": "Mlad fant se igra na polju.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Mlad fant, oblečen v rdečo srajco in kavbojke, stoji sredi polja in vrže igračo letalo v zrak.",
+        "hypothesis": "Deček se igra na polju, ker ga je mati vrgla iz hiše.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mlad fant, oblečen v rdečo srajco in kavbojke, stoji sredi polja in vrže igračo letalo v zrak.",
+        "hypothesis": "Mlad fant igra video igre v zaprtih prostorih.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Šest ali sedem ljudi stoji na pomolu z mizo in kozarci v ospredju.",
+        "hypothesis": "Gredo na ribolov.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Šest ali sedem ljudi stoji na pomolu z mizo in kozarci v ospredju.",
+        "hypothesis": "Šest ali sedem ljudi stoji na pomolu.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Šest ali sedem ljudi stoji na pomolu z mizo in kozarci v ospredju.",
+        "hypothesis": "So v čolnu.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Oseba v rdeči srajci in črnih hlačah zgrbljena.",
+        "hypothesis": "Oseba nosi rdečo srajco.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Oseba v rdeči srajci in črnih hlačah zgrbljena.",
+        "hypothesis": "Oseba je ženska.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Oseba v rdeči srajci in črnih hlačah zgrbljena.",
+        "hypothesis": "Oseba nosi zeleno srajco.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ta otrok je na stopnicah knjižnice.",
+        "hypothesis": "Otrok je na šolskih stopnicah.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ta otrok je na stopnicah knjižnice.",
+        "hypothesis": "Otrok je na stopnicah.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ta otrok je na stopnicah knjižnice.",
+        "hypothesis": "Otrok je na stopnicah v knjižnici.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Tetovirani košarkar je tik pred zabijanjem žoge.",
+        "hypothesis": "Človek igra nogomet..",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Tetovirani košarkar je tik pred zabijanjem žoge.",
+        "hypothesis": "Oseba igra košarko.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Tetovirani košarkar je tik pred zabijanjem žoge.",
+        "hypothesis": "Igralec ima tetovažo z napisom mati.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "deček v rdeči majici s kapuco se smehlja, medtem ko gleda stran od svojega odseva.",
+        "hypothesis": "Fant z rdečo kapuco je vesel.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "deček v rdeči majici s kapuco se smehlja, medtem ko gleda stran od svojega odseva.",
+        "hypothesis": "Fant noče videti svojega odseva.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "deček v rdeči majici s kapuco se smehlja, medtem ko gleda stran od svojega odseva.",
+        "hypothesis": "Fant je razburjen.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški, ki nosi sivo kapo, hodi poleg rdečelase ženske, oblečene v modro jeans srajco z dolgimi rokavi.",
+        "hypothesis": "moški nosi sivo kapo.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški, ki nosi sivo kapo, hodi poleg rdečelase ženske, oblečene v modro jeans srajco z dolgimi rokavi.",
+        "hypothesis": "Moški nosi modro kapo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški, ki nosi sivo kapo, hodi poleg rdečelase ženske, oblečene v modro jeans srajco z dolgimi rokavi.",
+        "hypothesis": "Človek je prehlajen.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Starec v bejzbolskem klobuku in starka v jeans jakni stojita zunaj, vendar ju večinoma pokriva senca.",
+        "hypothesis": "Stara ženska ima svetlo jeans jakno.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Starec v bejzbolskem klobuku in starka v jeans jakni stojita zunaj, vendar ju večinoma pokriva senca.",
+        "hypothesis": "Stara ženska ima jeans jakno.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Starec v bejzbolskem klobuku in starka v jeans jakni stojita zunaj, vendar ju večinoma pokriva senca.",
+        "hypothesis": "Stara ženska nima suknjiča.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Mladoporočenca se smejita in pogovarjata med seboj.",
+        "hypothesis": "Par se zabava.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Mladoporočenca se smejita in pogovarjata med seboj.",
+        "hypothesis": "Par se je pravkar poročil.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Mladoporočenca se smejita in pogovarjata med seboj.",
+        "hypothesis": "Par je ločen.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Črnec v beli srajci z dolgimi rokavi in kravato hodi v službo v veliko mesto.",
+        "hypothesis": "Moški med tekom nosi kratke hlače in majico s kratkimi rokavi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Črnec v beli srajci z dolgimi rokavi in kravato hodi v službo v veliko mesto.",
+        "hypothesis": "Človek se premika.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Črnec v beli srajci z dolgimi rokavi in kravato hodi v službo v veliko mesto.",
+        "hypothesis": "Moški je oblečen v delovno obleko in hodi v službo.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Več mlajših ljudi sedi pred kipom.",
+        "hypothesis": "več mladih, ki sedijo zunaj",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Več mlajših ljudi sedi pred kipom.",
+        "hypothesis": "več mladih sedi v dvorani",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Več mlajših ljudi sedi pred kipom.",
+        "hypothesis": "več mladih ljudi sedi na šolskem dvorišču",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Skupina odraslih stoji v kopalnici in gleda navzdol po majhnem otroku v kadi.",
+        "hypothesis": "Otrokova mama gleda svojega sina s prijateljicami.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Skupina odraslih stoji v kopalnici in gleda navzdol po majhnem otroku v kadi.",
+        "hypothesis": "Ljudje so v hiši.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Skupina odraslih stoji v kopalnici in gleda navzdol po majhnem otroku v kadi.",
+        "hypothesis": "Otrok spi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Na odru poje neumna ženska.",
+        "hypothesis": "Ženska poje.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Na odru poje neumna ženska.",
+        "hypothesis": "Na odru ženska recitira poezijo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Na odru poje neumna ženska.",
+        "hypothesis": "Na odru poje in pleše blondinka.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Deklica oblečena v rjavo jakno med hojo po snegu.",
+        "hypothesis": "Ženska jé testenine v restavraciji.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Deklica oblečena v rjavo jakno med hojo po snegu.",
+        "hypothesis": "Gospa v jakni išče svojega izgubljenega psa.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Deklica oblečena v rjavo jakno med hojo po snegu.",
+        "hypothesis": "Deklica se sprehaja zunaj.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški, ženska in otrok se fotografirajo pred gorami.",
+        "hypothesis": "Pozira družina na počitnicah.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški, ženska in otrok se fotografirajo pred gorami.",
+        "hypothesis": "Ljudje so na prostem.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški, ženska in otrok se fotografirajo pred gorami.",
+        "hypothesis": "V avtu je družina.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "ljudje stojijo blizu vode s čolnom, ki se pelje v njihovo smer",
+        "hypothesis": "Ljudje stojijo.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "ljudje stojijo blizu vode s čolnom, ki se pelje v njihovo smer",
+        "hypothesis": "Ljudje stojijo blizu vode z velikim modrim čolnom, ki pluje v njihovo smer.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "ljudje stojijo blizu vode s čolnom, ki se pelje v njihovo smer",
+        "hypothesis": "Ljudje čakajo v vrsti v restavraciji.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Štirje odrasli jedo sede na keramičnih tleh.",
+        "hypothesis": "Dva para jedo hrano na kuhinjskih tleh.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Štirje odrasli jedo sede na keramičnih tleh.",
+        "hypothesis": "Dva para igrata biljard v baru.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Štirje odrasli jedo sede na keramičnih tleh.",
+        "hypothesis": "Skupina ljudi jedo hrano.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Pes, ki stoji blizu snega in gleda vodo.",
+        "hypothesis": "Na kavču leži mačka.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Pes, ki stoji blizu snega in gleda vodo.",
+        "hypothesis": "Žival je na prostem.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Pes, ki stoji blizu snega in gleda vodo.",
+        "hypothesis": "Pes razmišlja, da bi šel plavat.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Starejši moški se naslanja na podstavek zunaj okrašene stavbe.",
+        "hypothesis": "Starejši moški se nagiba pred svojim domom za ostarele",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Starejši moški se naslanja na podstavek zunaj okrašene stavbe.",
+        "hypothesis": "Mladenič teče",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Starejši moški se naslanja na podstavek zunaj okrašene stavbe.",
+        "hypothesis": "Starejši moški se sklanja pred stavbo",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Oseba v oranžnih oblačilih počiva nad vhodom v metro.",
+        "hypothesis": "Oseba sedi na bejzbolski tekmi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Oseba v oranžnih oblačilih počiva nad vhodom v metro.",
+        "hypothesis": "Nekdo stoji blizu metro postaje.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Oseba v oranžnih oblačilih počiva nad vhodom v metro.",
+        "hypothesis": "Oseba čaka na vlak.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Deklica v modri obleki si sezuje čevlje in poje modro bombažno bombo.",
+        "hypothesis": "Deklica je na karnevalu modro sladko vato.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Deklica v modri obleki si sezuje čevlje in poje modro bombažno bombo.",
+        "hypothesis": "Dekle v modri obleki je dekle cvetja na poroki.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Deklica v modri obleki si sezuje čevlje in poje modro bombažno bombo.",
+        "hypothesis": "Deklica jé bosa.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Temnopolti moški v beli uniformi izvede spektakularen povratni udarec na presenečenje množice.",
+        "hypothesis": "moški je azijski",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Temnopolti moški v beli uniformi izvede spektakularen povratni udarec na presenečenje množice.",
+        "hypothesis": "moški se igra",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Temnopolti moški v beli uniformi izvede spektakularen povratni udarec na presenečenje množice.",
+        "hypothesis": "moški je doma in spi",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Košarkar v zelenih čevljih zabija žogo v mrežo, medtem ko gledalci gledajo.",
+        "hypothesis": "Moški pripravlja sendvič, medtem ko množica zadiha od strahu.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Košarkar v zelenih čevljih zabija žogo v mrežo, medtem ko gledalci gledajo.",
+        "hypothesis": "Množica gleda nekoga, ki igra košarko.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Košarkar v zelenih čevljih zabija žogo v mrežo, medtem ko gledalci gledajo.",
+        "hypothesis": "Slavni NBA igralec igra street ball pred množico.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Namršeni starec v vojaški čepici in civilni obleki stoji med množico ljudi na prostem z napisi in baloni.",
+        "hypothesis": "Zunaj stoji skupina ljudi.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Namršeni starec v vojaški čepici in civilni obleki stoji med množico ljudi na prostem z napisi in baloni.",
+        "hypothesis": "Jezen vojaški veteran opazuje, kako ljudje protestirajo proti vojni.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Namršeni starec v vojaški čepici in civilni obleki stoji med množico ljudi na prostem z napisi in baloni.",
+        "hypothesis": "Moški opazuje skupino ljudi, ki imajo tekmovanje v jedenju hrenovk.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženska, oblečena v kolesarske hlače in krilo, vozi kolo in nosi torbo za čez ramo.",
+        "hypothesis": "Ženska na kolesu.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska, oblečena v kolesarske hlače in krilo, vozi kolo in nosi torbo za čez ramo.",
+        "hypothesis": "Ženska, ki se v službo vozi s kolesom.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska, oblečena v kolesarske hlače in krilo, vozi kolo in nosi torbo za čez ramo.",
+        "hypothesis": "Ženska, ki vozi avto.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Mlad rolkar izvede trik na tračnici.",
+        "hypothesis": "Mlada oseba na rolki.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Mlad rolkar izvede trik na tračnici.",
+        "hypothesis": "Človek slika drevo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Mlad rolkar izvede trik na tračnici.",
+        "hypothesis": "Mlad fant, ki prijateljem prikazuje svoje nove trike na rolki.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Tip v kavbojkah in klobuku čepi na ograji, pred njim pa je betonski nasip.",
+        "hypothesis": "Oblečeno ima srajco z gumbi.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Tip v kavbojkah in klobuku čepi na ograji, pred njim pa je betonski nasip.",
+        "hypothesis": "Njegova plešasta glava je izpostavljena.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Tip v kavbojkah in klobuku čepi na ograji, pred njim pa je betonski nasip.",
+        "hypothesis": "Moški čepi na ograji.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Dekle v rdečem plašču, modrem pokrivalu in kavbojkah ustvarja snežnega angela.",
+        "hypothesis": "Deklica v rdečem plašču prvič naredi snežnega angela.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dekle v rdečem plašču, modrem pokrivalu in kavbojkah ustvarja snežnega angela.",
+        "hypothesis": "Dekle v črnem plašču se drži doma, stran od snega.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dekle v rdečem plašču, modrem pokrivalu in kavbojkah ustvarja snežnega angela.",
+        "hypothesis": "Zunaj se deklica igra v snegu.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Skupina ljudi se je ponoči zbrala in opazovala dogodek.",
+        "hypothesis": "Skupina prijateljev spi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Skupina ljudi se je ponoči zbrala in opazovala dogodek.",
+        "hypothesis": "Skupina ljudi gleda v isto smer.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Skupina ljudi se je ponoči zbrala in opazovala dogodek.",
+        "hypothesis": "Skupina prijateljev ponoči gleda glasbeni koncert.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ameriški nogometaš v rumenem lovi žogo, medtem ko je pod pritiskom igralca v belem.",
+        "hypothesis": "Nogometaš je pod prisilo.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ameriški nogometaš v rumenem lovi žogo, medtem ko je pod pritiskom igralca v belem.",
+        "hypothesis": "Igralec ameriškega nogometa v rumenem lovi žogo, medtem ko je pod pritiskom igralca v belem.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ameriški nogometaš v rumenem lovi žogo, medtem ko je pod pritiskom igralca v belem.",
+        "hypothesis": "Košarkar meče trojko.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Oseba z modrimi lasmi, baseballsko kapo in kapuco stoji na prostem v množici.",
+        "hypothesis": "Oseba uživa v športnem dogodku.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Oseba z modrimi lasmi, baseballsko kapo in kapuco stoji na prostem v množici.",
+        "hypothesis": "Oseba pleše in poje.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Oseba z modrimi lasmi, baseballsko kapo in kapuco stoji na prostem v množici.",
+        "hypothesis": "Oseba stoji na prostem.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Deklica s pijačo pokaže na sliko.",
+        "hypothesis": "Dekle je v kopalni kadi",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Deklica s pijačo pokaže na sliko.",
+        "hypothesis": "Deklica pije alkoholno pijačo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Deklica s pijačo pokaže na sliko.",
+        "hypothesis": "Dekle ima pijačo.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v črni srajci v trgovski kuhinji drži meso, ki ga je vzel iz vrečke.",
+        "hypothesis": "Moški v črni srajci v komercialni kuhinji drži staro meso, ki ga je vzel iz vrečke.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški v črni srajci v trgovski kuhinji drži meso, ki ga je vzel iz vrečke.",
+        "hypothesis": "Ženska v črni srajci v trgovski kuhinji drži meso, ki ga je vzel iz vrečke.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški v črni srajci v trgovski kuhinji drži meso, ki ga je vzel iz vrečke.",
+        "hypothesis": "Moški v srajci v komercialni kuhinji drži meso, ki ga je vzel iz vrečke.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Oseba v rdeči majici kosi travo z zeleno jahačo kosilnico.",
+        "hypothesis": "Oseba v rdečem plava na olimpijskih igrah.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Oseba v rdeči majici kosi travo z zeleno jahačo kosilnico.",
+        "hypothesis": "Oseba v rdečem premika travo na motorju John Deer.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Oseba v rdeči majici kosi travo z zeleno jahačo kosilnico.",
+        "hypothesis": "Oseba v rdečem kosi travo na kosilnici",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Skupina ljudi v črnih srajcah se vozi v vozilu z odprto streho.",
+        "hypothesis": "Skupina ljudi gre po cesti v kabrioletu.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Skupina ljudi v črnih srajcah se vozi v vozilu z odprto streho.",
+        "hypothesis": "Voznik je bil oblečen v vijolično majico.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Skupina ljudi v črnih srajcah se vozi v vozilu z odprto streho.",
+        "hypothesis": "Prijatelji se skupaj vozijo v vozilu z odprto streho.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dva moška pripravljata ribo na doku.",
+        "hypothesis": "Dva moška sta pravkar prišla z celodnevnega ribolova",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dva moška pripravljata ribo na doku.",
+        "hypothesis": "Dva moška čistita svoje ribe",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Dva moška pripravljata ribo na doku.",
+        "hypothesis": "Dva moška sedita v kanuju z ribiškimi palicami",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženska z obrazom, delno prekritim s srebrno barvo za obraz, sedi na plastični torbi in se gleda v ogledalo.",
+        "hypothesis": "Ženska je model.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska z obrazom, delno prekritim s srebrno barvo za obraz, sedi na plastični torbi in se gleda v ogledalo.",
+        "hypothesis": "Ženska ima nekaj na obrazu.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska z obrazom, delno prekritim s srebrno barvo za obraz, sedi na plastični torbi in se gleda v ogledalo.",
+        "hypothesis": "Ženska je slepa.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški v trenirki Alaska stoji za pultom.",
+        "hypothesis": "Moški nosi majico brez rokavov.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški v trenirki Alaska stoji za pultom.",
+        "hypothesis": "Moški je iz Aljaske.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški v trenirki Alaska stoji za pultom.",
+        "hypothesis": "Oseba za pultom je moški.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Velika skupina ljudi, ki se ponoči sprehaja po živahnem mestu.",
+        "hypothesis": "Ljudje jedo kosilo v restavraciji.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Velika skupina ljudi, ki se ponoči sprehaja po živahnem mestu.",
+        "hypothesis": "Ljudje hodijo po mestu.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Velika skupina ljudi, ki se ponoči sprehaja po živahnem mestu.",
+        "hypothesis": "Ljudje so zunaj v parku.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženska v rdeče-belem in z očali sedi v sobi z drugimi ljudmi.",
+        "hypothesis": "Ženska sedi v sobi z drugimi ljudmi.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska v rdeče-belem in z očali sedi v sobi z drugimi ljudmi.",
+        "hypothesis": "Ženska govori po telefonu in sedi v sobi.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska v rdeče-belem in z očali sedi v sobi z drugimi ljudmi.",
+        "hypothesis": "Moški popravlja svoj avto.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Igralka softballa vrže žogo svoji soigralki.",
+        "hypothesis": "Soigralci tekmujejo na prvenstvu v softballu.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Igralka softballa vrže žogo svoji soigralki.",
+        "hypothesis": "Dve osebi igrata softball.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Igralka softballa vrže žogo svoji soigralki.",
+        "hypothesis": "Dva igralca softballa sedita na klopi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Motorist dirka.",
+        "hypothesis": "Oseba se vozi s kolesom",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Motorist dirka.",
+        "hypothesis": "Motorist izgubi dirko",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Motorist dirka.",
+        "hypothesis": "Avto je rumene barve",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dva fantka se smehljata in smejita, medtem ko eden stoji, drugi pa sedi na poskočnem sedežu.",
+        "hypothesis": "Nasmejana sta dva fantka.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Dva fantka se smehljata in smejita, medtem ko eden stoji, drugi pa sedi na poskočnem sedežu.",
+        "hypothesis": "Fantje jokajo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dva fantka se smehljata in smejita, medtem ko eden stoji, drugi pa sedi na poskočnem sedežu.",
+        "hypothesis": "Fantje so bratje in sestre, ki se igrajo drug z drugim.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Otoški domači ribiči navijajo svoje mreže po dolgem delovnem dnevu.",
+        "hypothesis": "Moški so ujeli veliko rib.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Otoški domači ribiči navijajo svoje mreže po dolgem delovnem dnevu.",
+        "hypothesis": "Moški danes niso šli v službo, temveč so igrali bridž.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Otoški domači ribiči navijajo svoje mreže po dolgem delovnem dnevu.",
+        "hypothesis": "Moški končujejo svoj delovni dan.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "To so mladi odrasli, za katere se zdi, da sodelujejo pri zaščiti rastlin, ki obkrožajo beli drog.",
+        "hypothesis": "Rastline so praproti",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "To so mladi odrasli, za katere se zdi, da sodelujejo pri zaščiti rastlin, ki obkrožajo beli drog.",
+        "hypothesis": "Odrasli so mladi",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "To so mladi odrasli, za katere se zdi, da sodelujejo pri zaščiti rastlin, ki obkrožajo beli drog.",
+        "hypothesis": "Odrasli so stari",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dva univerzitetna nogometna igralca se borita na prostem na igrišču med dnevom tekme, pri čemer je eden branilec, ki poskuša vreči žogo, drugi igralec pa je v akciji, da bi branilca odpustil.",
+        "hypothesis": "Dve ekipi iz konkurenčnih šol sta v četrti četrtini tekme.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dva univerzitetna nogometna igralca se borita na prostem na igrišču med dnevom tekme, pri čemer je eden branilec, ki poskuša vreči žogo, drugi igralec pa je v akciji, da bi branilca odpustil.",
+        "hypothesis": "Nekaj deklet igra košarko.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dva univerzitetna nogometna igralca se borita na prostem na igrišču med dnevom tekme, pri čemer je eden branilec, ki poskuša vreči žogo, drugi igralec pa je v akciji, da bi branilca odpustil.",
+        "hypothesis": "Študentska nogometna tekma.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Dva človeka igrata ameriški nogomet in eden od njiju poskuša drugemu preprečiti, da bi vrgel žogo.",
+        "hypothesis": "Linijski igralec se poskuša spopasti s branilcem, preden ta doseže zmagovalni touchdown.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dva človeka igrata ameriški nogomet in eden od njiju poskuša drugemu preprečiti, da bi vrgel žogo.",
+        "hypothesis": "Vrč vrže bejzbolsko žogico v testo, ko jo ta poskuša zadeti iz parka.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dva človeka igrata ameriški nogomet in eden od njiju poskuša drugemu preprečiti, da bi vrgel žogo.",
+        "hypothesis": "Igra se nogometna igra.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški igra biljard v baru.",
+        "hypothesis": "Človek se igra s prijatelji.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški igra biljard v baru.",
+        "hypothesis": "Moški igra biljard.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški igra biljard v baru.",
+        "hypothesis": "Moški igra damo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Zlati pes podaja modro žogo drugemu zlatemu psu na plaži.",
+        "hypothesis": "Psi so prijatelji.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Zlati pes podaja modro žogo drugemu zlatemu psu na plaži.",
+        "hypothesis": "Psi nočejo deliti.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Zlati pes podaja modro žogo drugemu zlatemu psu na plaži.",
+        "hypothesis": "Zlati pes se zunaj igra z žogo z drugim psom.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ljudje na tekočih stopnicah čakajo, da pridejo na cilj, medtem ko gledajo skozi steklo, ki sestavlja steno.",
+        "hypothesis": "Ljudje gredo gor po tekočih stopnicah.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ljudje na tekočih stopnicah čakajo, da pridejo na cilj, medtem ko gledajo skozi steklo, ki sestavlja steno.",
+        "hypothesis": "Ljudje se vozijo z dvigalom.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ljudje na tekočih stopnicah čakajo, da pridejo na cilj, medtem ko gledajo skozi steklo, ki sestavlja steno.",
+        "hypothesis": "Ljudje se vozijo po tekočih stopnicah.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska tke z glavnikom v roki.",
+        "hypothesis": "Ženska je v službi.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska tke z glavnikom v roki.",
+        "hypothesis": "Ženska nekaj dela z rokami.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska tke z glavnikom v roki.",
+        "hypothesis": "Ženska sedi s praznimi rokami.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Fant jezdi po cesti med dvema kravama.",
+        "hypothesis": "Fant jezdi konja z dvema kravama.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Fant jezdi po cesti med dvema kravama.",
+        "hypothesis": "Fant, cesta in dve kravi.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Fant jezdi po cesti med dvema kravama.",
+        "hypothesis": "Ena sama krava je sama.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Rojstnodnevna zabava za številne male ljudi.",
+        "hypothesis": "Otroci uživajo na rojstnodnevni zabavi.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Rojstnodnevna zabava za številne male ljudi.",
+        "hypothesis": "Otroci tečejo po ulici.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Rojstnodnevna zabava za številne male ljudi.",
+        "hypothesis": "Otroci na rojstnodnevni zabavi.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Na odru je pet pevcev, tri ženske in dva moška.",
+        "hypothesis": "Samic je več kot samcev.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Na odru je pet pevcev, tri ženske in dva moška.",
+        "hypothesis": "Nastopajoči igrajo na dude.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Na odru je pet pevcev, tri ženske in dva moška.",
+        "hypothesis": "Nastopajoči so del zbora.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dva moška stojita v čolnu.",
+        "hypothesis": "Nekaj moških stoji na vrhu avtomobila.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dva moška stojita v čolnu.",
+        "hypothesis": "Nekaj moških lovi ribe na čolnu.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dva moška stojita v čolnu.",
+        "hypothesis": "Nekateri ljudje so v čolnu.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Mlada ženska polaga svoja oblačila v sušilni del pralno-sušilne enote z dvojnim zložkom.",
+        "hypothesis": "Oseba, ki suši oblačila",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Mlada ženska polaga svoja oblačila v sušilni del pralno-sušilne enote z dvojnim zložkom.",
+        "hypothesis": "Nihče ne suši perila.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Sonce se prebija skozi drevesa, ko se otrok vozi na gugalnici.",
+        "hypothesis": "Otrok se vozi na gugalnici v dežju.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Sonce se prebija skozi drevesa, ko se otrok vozi na gugalnici.",
+        "hypothesis": "Otrok se podnevi vozi na gugalnici.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Sonce se prebija skozi drevesa, ko se otrok vozi na gugalnici.",
+        "hypothesis": "Otrok na gugalnici je deklica.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Zdi se, da so vsi na ulici v mestu zaposleni s svojimi stvarmi.",
+        "hypothesis": "Ljudje se drenjajo po mestnih ulicah.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Zdi se, da so vsi na ulici v mestu zaposleni s svojimi stvarmi.",
+        "hypothesis": "Ljudje opazujejo, kaj se dogaja.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Zdi se, da so vsi na ulici v mestu zaposleni s svojimi stvarmi.",
+        "hypothesis": "Ljudje poslujejo v mestu.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v predpasniku se nasmehne, medtem ko s kovinsko palčko zbada krof za cvrtje.",
+        "hypothesis": "Moški kuha hrano.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v predpasniku se nasmehne, medtem ko s kovinsko palčko zbada krof za cvrtje.",
+        "hypothesis": "Moški je v kuhinji restavracije.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški v predpasniku se nasmehne, medtem ko s kovinsko palčko zbada krof za cvrtje.",
+        "hypothesis": "Moški pere svoj avto.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženska v teniških oblačilih teče, da bi udarila žogico s teniškim loparjem.",
+        "hypothesis": "Ženska igra tenis.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska v teniških oblačilih teče, da bi udarila žogico s teniškim loparjem.",
+        "hypothesis": "Serina Williams igra tenis.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska v teniških oblačilih teče, da bi udarila žogico s teniškim loparjem.",
+        "hypothesis": "Pete Sampras igra tenis.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Nekaj žensk igra odbojko.",
+        "hypothesis": "Ženske udarjajo žogo z rokami",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Nekaj žensk igra odbojko.",
+        "hypothesis": "To ne izgleda kot nogomet",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Nekaj žensk igra odbojko.",
+        "hypothesis": "Kup žensk igra odbojko",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Dve ženski odbojkarski ekipi tekmujeta druga proti drugi na lososovem in turkiznem igrišču, medtem ko sodnik v črnem opazuje.",
+        "hypothesis": "poteka odbojkarska tekma med ženskami",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Dve ženski odbojkarski ekipi tekmujeta druga proti drugi na lososovem in turkiznem igrišču, medtem ko sodnik v črnem opazuje.",
+        "hypothesis": "Odbojko igra 12 deklet",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dve ženski odbojkarski ekipi tekmujeta druga proti drugi na lososovem in turkiznem igrišču, medtem ko sodnik v črnem opazuje.",
+        "hypothesis": "deset fantov igra kriket",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Deček z modro kolesarsko čelado in ženska z zeleno kolesarsko čelado se vozita s kolesi po ulici z drugimi različnimi kolesarji.",
+        "hypothesis": "Mama in njen sin se skupaj z drugimi kolesarita po ulici.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Deček z modro kolesarsko čelado in ženska z zeleno kolesarsko čelado se vozita s kolesi po ulici z drugimi različnimi kolesarji.",
+        "hypothesis": "Skupina ljudi menja pnevmatiko na kolesu.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Deček z modro kolesarsko čelado in ženska z zeleno kolesarsko čelado se vozita s kolesi po ulici z drugimi različnimi kolesarji.",
+        "hypothesis": "Skupina ljudi se skupaj vozi s kolesi po ulici.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ljudje se vozijo s kolesi po ulicah in vsi nosijo čelade.",
+        "hypothesis": "Skupina prijateljev kolesari po ulici in vsi nosijo čelade",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ljudje se vozijo s kolesi po ulicah in vsi nosijo čelade.",
+        "hypothesis": "Skupina prijateljev grabi svoja kolesa in se pripravlja na jutranjo vožnjo s kolesom",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ljudje se vozijo s kolesi po ulicah in vsi nosijo čelade.",
+        "hypothesis": "Skupina kolesarjev je na ulici zunaj",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Bližnjevzhodna tržnica.",
+        "hypothesis": "Bližnjevzhodna trgovina.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Bližnjevzhodna tržnica.",
+        "hypothesis": "Ameriško gledališče.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Bližnjevzhodna tržnica.",
+        "hypothesis": "Tuja trgovina.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "ženska v črni srajci gleda kolo.",
+        "hypothesis": "Ženska vidi kolo.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "ženska v črni srajci gleda kolo.",
+        "hypothesis": "Ženska, oblečena v črne trgovine za kolo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "ženska v črni srajci gleda kolo.",
+        "hypothesis": "Ženska v zelenem spi na kavču.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Štirje moški igrajo bobne v zelo oranžni svetlobi, medtem ko eden od njih tudi pije nekaj iz steklenice.",
+        "hypothesis": "moški so glasbeniki",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Štirje moški igrajo bobne v zelo oranžni svetlobi, medtem ko eden od njih tudi pije nekaj iz steklenice.",
+        "hypothesis": "moški spijo v motelu",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Štirje moški igrajo bobne v zelo oranžni svetlobi, medtem ko eden od njih tudi pije nekaj iz steklenice.",
+        "hypothesis": "štirje moški igrajo bobne",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Mladi fantje v zelenih in modrih dresih brcajo nogometno žogo, medtem ko se v ozadju odvijajo druge nogometne igre.",
+        "hypothesis": "Mladi fantje mečejo bejzbolsko žogico na bejzbolsko igrišče.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Mladi fantje v zelenih in modrih dresih brcajo nogometno žogo, medtem ko se v ozadju odvijajo druge nogometne igre.",
+        "hypothesis": "Mladi fantje čakajo na svojo nogometno tekmo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mladi fantje v zelenih in modrih dresih brcajo nogometno žogo, medtem ko se v ozadju odvijajo druge nogometne igre.",
+        "hypothesis": "Mladi fantje brcajo nogometno žogo.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v enodelni tuniki vozi kolo pred steno iz peščenjaka in se dotika svojega nosu.",
+        "hypothesis": "Moški testira kolo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški v enodelni tuniki vozi kolo pred steno iz peščenjaka in se dotika svojega nosu.",
+        "hypothesis": "Moški vozi tovornjak.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški v enodelni tuniki vozi kolo pred steno iz peščenjaka in se dotika svojega nosu.",
+        "hypothesis": "Moški se vozi s kolesom.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Fant in dekle gledata po gorski verigi.",
+        "hypothesis": "Ljudje gledajo v gore.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Fant in dekle gledata po gorski verigi.",
+        "hypothesis": "Par se bo povzpel v gore.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Fant in dekle gledata po gorski verigi.",
+        "hypothesis": "Ljudje gledajo v nebo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški sedi na zelenem stolu, se pogovarja po telefonu in dela na prenosnem računalniku, poleg njegove stavbe pa je gradbišče.",
+        "hypothesis": "Moški živčno koraka.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški sedi na zelenem stolu, se pogovarja po telefonu in dela na prenosnem računalniku, poleg njegove stavbe pa je gradbišče.",
+        "hypothesis": "Človek lahko sliši gradnjo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški sedi na zelenem stolu, se pogovarja po telefonu in dela na prenosnem računalniku, poleg njegove stavbe pa je gradbišče.",
+        "hypothesis": "Moški lahko telefonira.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Fant udari teniško žogico na igrišču.",
+        "hypothesis": "Deklica udarja žogo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Fant udari teniško žogico na igrišču.",
+        "hypothesis": "Fant je dober v tenisu.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Fant udari teniško žogico na igrišču.",
+        "hypothesis": "Fant udarja žogo.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Zlata prinašalka doji mladičke.",
+        "hypothesis": "Zlata prinašalka doji mladičke drugih psov",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Zlata prinašalka doji mladičke.",
+        "hypothesis": "Mladički ob mami",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Zlata prinašalka doji mladičke.",
+        "hypothesis": "Mačka doji mladičke",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Mladenič v težkem rjavem zimskem plašču stoji pred modro ograjo z razširjenimi rokami.",
+        "hypothesis": "Mladenič je v hiši svoje babice.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mladenič v težkem rjavem zimskem plašču stoji pred modro ograjo z razširjenimi rokami.",
+        "hypothesis": "Ograja je pred zamrznjenim jezerom.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mladenič v težkem rjavem zimskem plašču stoji pred modro ograjo z razširjenimi rokami.",
+        "hypothesis": "Moški razširi roke, medtem ko stoji pred ograjo.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Temnopolti moški, oblečen v puhovko, ima razširjene roke in drži roza glavnik.",
+        "hypothesis": "Moški je bil pozimi oblečen v jakno.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Temnopolti moški, oblečen v puhovko, ima razširjene roke in drži roza glavnik.",
+        "hypothesis": "Nekdo, ki je nosil bombažno srajco, je gledal zeleni glavnik za lase.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Temnopolti moški, oblečen v puhovko, ima razširjene roke in drži roza glavnik.",
+        "hypothesis": "Moški je bil oblečen v jakno in je držal glavnik.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v rjavi jakni stoji z razširjenimi rokami.",
+        "hypothesis": "Človek prosi za usmiljenje.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški v rjavi jakni stoji z razširjenimi rokami.",
+        "hypothesis": "Človek je pokončen.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v rjavi jakni stoji z razširjenimi rokami.",
+        "hypothesis": "Moški sedi s prekrižanimi nogami na tleh.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški v rdečem telovniku hodi mimo črno-zelene ograje.",
+        "hypothesis": "Moški v telovniku hodi po ulici.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški v rdečem telovniku hodi mimo črno-zelene ograje.",
+        "hypothesis": "Moški nosi telovnik.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v rdečem telovniku hodi mimo črno-zelene ograje.",
+        "hypothesis": "Moški v telovniku sedi na kavču.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ta dekleta se imajo super, ko iščejo školjke.",
+        "hypothesis": "Dekleta so vesela.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ta dekleta se imajo super, ko iščejo školjke.",
+        "hypothesis": "Dekleta dremajo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ta dekleta se imajo super, ko iščejo školjke.",
+        "hypothesis": "Dekleta so zunaj.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški igra na saksofon na ulici in nekaj ljudi sedi na pločniku poleg njega.",
+        "hypothesis": "Moški igra instrument na ulici v bližini drugih ljudi.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški igra na saksofon na ulici in nekaj ljudi sedi na pločniku poleg njega.",
+        "hypothesis": "Človek poskuša zaslužiti z igranjem za druge ljudi na ulici.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški igra na saksofon na ulici in nekaj ljudi sedi na pločniku poleg njega.",
+        "hypothesis": "Ženska leti na smučeh.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Stoječi moški se pogovarja s sedečo žensko v nekem vozilu.",
+        "hypothesis": "Dve osebi se pogovarjata.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Stoječi moški se pogovarja s sedečo žensko v nekem vozilu.",
+        "hypothesis": "Tri osebe imajo sestanek.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Stoječi moški se pogovarja s sedečo žensko v nekem vozilu.",
+        "hypothesis": "Dve osebi razpravljata o svojem odnosu.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mlad fant s kratko pristriženimi lasmi, oblečen v rdečo haljo, drži črn kotliček, ko bo nekdo nekaj natočil vanj.",
+        "hypothesis": "majhen deček teče po koruznem polju",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Mlad fant s kratko pristriženimi lasmi, oblečen v rdečo haljo, drži črn kotliček, ko bo nekdo nekaj natočil vanj.",
+        "hypothesis": "majhen deček drži kotliček, ki bo kmalu napolnjen s salso",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mlad fant s kratko pristriženimi lasmi, oblečen v rdečo haljo, drži črn kotliček, ko bo nekdo nekaj natočil vanj.",
+        "hypothesis": "majhen deček drži kotliček, ki bo kmalu napolnjen",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Štirje ljudje in dojenček prečkajo ulico na prehodu za pešce.",
+        "hypothesis": "Ljudje in dojenček med vožnjo z avtobusom.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Štirje ljudje in dojenček prečkajo ulico na prehodu za pešce.",
+        "hypothesis": "Ljudje in dojenček prečkajo cesto.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Štirje ljudje in dojenček prečkajo ulico na prehodu za pešce.",
+        "hypothesis": "Ljudje in dojenček prečkajo ulico na prehodu za pešce, da bi prišli domov.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dve ženski v oblekah stojita zunaj na travi, ena od njiju pa drži skodelico in krožniček.",
+        "hypothesis": "Dve osebi stojita na travi.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Dve ženski v oblekah stojita zunaj na travi, ena od njiju pa drži skodelico in krožniček.",
+        "hypothesis": "Dve ženski v oblekah se pripravljata na piknik.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dve ženski v oblekah stojita zunaj na travi, ena od njiju pa drži skodelico in krožniček.",
+        "hypothesis": "Ženske se pogovarjajo v pisarni,",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženska se nagne čez majhno ograjo, da bi fotografirala rumeno rožo.",
+        "hypothesis": "Ženska je profesionalna fotografinja",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska se nagne čez majhno ograjo, da bi fotografirala rumeno rožo.",
+        "hypothesis": "Roža je modra",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženska se nagne čez majhno ograjo, da bi fotografirala rumeno rožo.",
+        "hypothesis": "Ženska fotografira",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Skupina štirih otrok pozira na blatni plaži, se smehlja in dela obraze.",
+        "hypothesis": "Štirje otroci pozirajo na plaži.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Skupina štirih otrok pozira na blatni plaži, se smehlja in dela obraze.",
+        "hypothesis": "Štirje otroci pozirajo med poletnimi počitnicami.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Skupina štirih otrok pozira na blatni plaži, se smehlja in dela obraze.",
+        "hypothesis": "Moški meša enolončnico.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Več moških v baru gleda športno tekmo na televiziji.",
+        "hypothesis": "Nekateri moški gledajo televizijo v baru.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Več moških v baru gleda športno tekmo na televiziji.",
+        "hypothesis": "Moški pijejo pivo v športnem baru.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Več moških v baru gleda športno tekmo na televiziji.",
+        "hypothesis": "Moški so na bejzbolski tekmi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dva obcestna delavca z limeta zelenimi varnostnimi jopiči, belimi čeladami in rokavicami na glavi z gradbenimi stožci v ozadju",
+        "hypothesis": "Dva moška nosita limeta zelene jakne.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Dva obcestna delavca z limeta zelenimi varnostnimi jopiči, belimi čeladami in rokavicami na glavi z gradbenimi stožci v ozadju",
+        "hypothesis": "Dva moška postavljata gradbene stožce pri pripravi nove zgradbe cevovoda.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dva obcestna delavca z limeta zelenimi varnostnimi jopiči, belimi čeladami in rokavicami na glavi z gradbenimi stožci v ozadju",
+        "hypothesis": "Ženska graja drugo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženska v črni obleki leži z obrazom naprej na blazini za jogo; na steni je obešenih več slik, skozi veliko okno blizu nje sije sonce.",
+        "hypothesis": "Umetnica se sprošča v svojem ateljeju.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska v črni obleki leži z obrazom naprej na blazini za jogo; na steni je obešenih več slik, skozi veliko okno blizu nje sije sonce.",
+        "hypothesis": "V sobi je oseba.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska v črni obleki leži z obrazom naprej na blazini za jogo; na steni je obešenih več slik, skozi veliko okno blizu nje sije sonce.",
+        "hypothesis": "Ženska spi, medtem ko se mesečina preliva skozi okno.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Otroci v rumenih športnih uniformah plezajo na stolp.",
+        "hypothesis": "Otroci so učenci borilnih veščin.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Otroci v rumenih športnih uniformah plezajo na stolp.",
+        "hypothesis": "Otroci se plazijo po pesku.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Otroci v rumenih športnih uniformah plezajo na stolp.",
+        "hypothesis": "Otroci v uniformah plezajo na stolp.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Nekateri psi tečejo po zapuščeni plaži.",
+        "hypothesis": "Na Havajih so.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Nekateri psi tečejo po zapuščeni plaži.",
+        "hypothesis": "Na plaži je samo en pes.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Nekateri psi tečejo po zapuščeni plaži.",
+        "hypothesis": "Prisotnih je več psov.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Natrpana mestna ulica z veliko pešci.",
+        "hypothesis": "Na tej cesti je veliko motoristov.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Natrpana mestna ulica z veliko pešci.",
+        "hypothesis": "Na mestni ulici je veliko pešcev.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Natrpana mestna ulica z veliko pešci.",
+        "hypothesis": "Pešci čakajo na parado, ki bo prišla skozi to prometno ulico.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska, oblečena v svetlo oranžno bluzo, tke.",
+        "hypothesis": "Ženska nosi živo oranžno bluzo in zelen klobuk.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska, oblečena v svetlo oranžno bluzo, tke.",
+        "hypothesis": "Ženska lika rdeče hlače.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženska, oblečena v svetlo oranžno bluzo, tke.",
+        "hypothesis": "Ženska tka.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Skupina ljudi je v čolnu na vesla v oceanu, obkrožena z galebi.",
+        "hypothesis": "Skupina ljudi je notri in gleda hokejsko tekmo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Skupina ljudi je v čolnu na vesla v oceanu, obkrožena z galebi.",
+        "hypothesis": "Kup ljudi je v lesenem objektu na vodi.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Skupina ljudi je v čolnu na vesla v oceanu, obkrožena z galebi.",
+        "hypothesis": "Skupina ljudi vesla proti nekaterim otokom, medtem ko eden od njih lovi ribe.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska v rjavi srajci kleči na ulici.",
+        "hypothesis": "Ženska protestira na ulici.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska v rjavi srajci kleči na ulici.",
+        "hypothesis": "Zunaj na tleh je ženska.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska v rjavi srajci kleči na ulici.",
+        "hypothesis": "Ženska se vozi s kolesom.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški, ki drži otroka, ki boža ponija.",
+        "hypothesis": "Moški, ki je ugrabil otroka, boža ponija.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški, ki drži otroka, ki boža ponija.",
+        "hypothesis": "Moški z dojenčkom boža ponija.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški, ki drži otroka, ki boža ponija.",
+        "hypothesis": "Moški in njegova hči božata ponija.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški sedijo ob robu zidane ceste.",
+        "hypothesis": "sedim ob cesti",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški sedijo ob robu zidane ceste.",
+        "hypothesis": "stran ceste je prazna.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški sedijo ob robu zidane ceste.",
+        "hypothesis": "moški se pogovarjajo ob cesti",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Črn pes z modro ovratnico skače v vodo.",
+        "hypothesis": "Pes se bo zmočil.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Črn pes z modro ovratnico skače v vodo.",
+        "hypothesis": "Črni pes z modro ovratnico nekaj lovi v vodo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Črn pes z modro ovratnico skače v vodo.",
+        "hypothesis": "Pes se izogiba vodi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Mlado dekle v rumenem topu in krilu s cvetovi stoji na odeji in grize igračo.",
+        "hypothesis": "Dekle stoji.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Mlado dekle v rumenem topu in krilu s cvetovi stoji na odeji in grize igračo.",
+        "hypothesis": "Zunaj stoji dekle.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mlado dekle v rumenem topu in krilu s cvetovi stoji na odeji in grize igračo.",
+        "hypothesis": "Vsi sedijo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "veliko otrok se igra v vodi.",
+        "hypothesis": "Otroci so v taboru.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "veliko otrok se igra v vodi.",
+        "hypothesis": "Nekateri otroci čofotajo v vodi in komunicirajo drug z drugim.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "veliko otrok se igra v vodi.",
+        "hypothesis": "Otroci igrajo mini golf.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Skupina otrok čofota v globoki vodi v bližini skalne formacije.",
+        "hypothesis": "Otroci pojejo v zboru",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Skupina otrok čofota v globoki vodi v bližini skalne formacije.",
+        "hypothesis": "Otroci so v globoki vodi",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Skupina otrok čofota v globoki vodi v bližini skalne formacije.",
+        "hypothesis": "Oblečeni so v rešilne jopiče",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "plezalec z rdečim naglavnim trakom se vleče po sivih skalah visoko nad zelenim listjem.",
+        "hypothesis": "Plezalka se poskuša dvigniti",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "plezalec z rdečim naglavnim trakom se vleče po sivih skalah visoko nad zelenim listjem.",
+        "hypothesis": "Plezalec se potegne po skalah",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "plezalec z rdečim naglavnim trakom se vleče po sivih skalah visoko nad zelenim listjem.",
+        "hypothesis": "Plezalec se dvigne 5000 čevljev nad gozd",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "moški z rdečim naglavnim trakom pleza po skalni pečini, ki se boči nad zelenjem.",
+        "hypothesis": "Človek je na prostem.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "moški z rdečim naglavnim trakom pleza po skalni pečini, ki se boči nad zelenjem.",
+        "hypothesis": "Moški ima plezalno opremo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "moški z rdečim naglavnim trakom pleza po skalni pečini, ki se boči nad zelenjem.",
+        "hypothesis": "Človek plava v oceanu.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dve formalno oblečeni, plešasti starejši ženski",
+        "hypothesis": "Dve plešasti ženski.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Dve formalno oblečeni, plešasti starejši ženski",
+        "hypothesis": "Dve plešasti ženski z očali.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dve formalno oblečeni, plešasti starejši ženski",
+        "hypothesis": "Dve dolgolasi mladi ženski.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Brezdomec potiska prepoln plastični modri nakupovalni voziček.",
+        "hypothesis": "Moški ima nakupovalni voziček",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Brezdomec potiska prepoln plastični modri nakupovalni voziček.",
+        "hypothesis": "Moški zbira pločevinke za recikliranje",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Brezdomec potiska prepoln plastični modri nakupovalni voziček.",
+        "hypothesis": "Bogataš, ki drži rolex",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "stari čevljar v svoji tovarni",
+        "hypothesis": "Notri je čevljar.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "stari čevljar v svoji tovarni",
+        "hypothesis": "Čevljar se pripravlja na svoj 16. rojstni dan.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "stari čevljar v svoji tovarni",
+        "hypothesis": "Čevljar je premožen.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Svetlolasa ženska se pogovarja s skupino mladih temnolasih študentk, ki nosijo koščke papirja.",
+        "hypothesis": "Ženska govori z drugimi ženskami.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Svetlolasa ženska se pogovarja s skupino mladih temnolasih študentk, ki nosijo koščke papirja.",
+        "hypothesis": "Blondinka se pogovarja s skupino mladih temnolasih študentk, ki nosijo koščke papirja.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Svetlolasa ženska se pogovarja s skupino mladih temnolasih študentk, ki nosijo koščke papirja.",
+        "hypothesis": "Moški udari žensko.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Ženska v črni srajci deli papirje otrokom, ki jo obdajajo.",
+        "hypothesis": "Nekdo daje papir.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska v črni srajci deli papirje otrokom, ki jo obdajajo.",
+        "hypothesis": "Ženska daje domačo nalogo otrokom.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska v črni srajci deli papirje otrokom, ki jo obdajajo.",
+        "hypothesis": "Ženska hrani papir zase.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dekle v rdečem skače",
+        "hypothesis": "Deklica skače, da bi ujela frizbi.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Dekle v rdečem skače",
+        "hypothesis": "Deklica sedi na travi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Dekle v rdečem skače",
+        "hypothesis": "Dekle v rdečem je v zraku.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "3 dame s številkami na majicah tečejo.",
+        "hypothesis": "Tam tečejo dame.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "3 dame s številkami na majicah tečejo.",
+        "hypothesis": "Dame vozijo kolesa.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "3 dame s številkami na majicah tečejo.",
+        "hypothesis": "Ženske so v maratonu.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mlad fant hodi po cevi, ki se razteza nad vodo.",
+        "hypothesis": "Fant pripravlja subsendvič v svoji kuhinji.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Mlad fant hodi po cevi, ki se razteza nad vodo.",
+        "hypothesis": "Zunaj se sprehaja fant.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Mlad fant hodi po cevi, ki se razteza nad vodo.",
+        "hypothesis": "Deček je v nevarnosti, da pade v vodo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mlad fant v zelenih kratkih hlačah balansira na cevi nad reko.",
+        "hypothesis": "Nihče ne uravnoteži.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Mlad fant v zelenih kratkih hlačah balansira na cevi nad reko.",
+        "hypothesis": "Pametna oseba, ki balansira.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mlad fant v zelenih kratkih hlačah balansira na cevi nad reko.",
+        "hypothesis": "Oseba, ki balansira.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Mladenič, oblečen v črno in nosi rolko, si ogleduje zunanji park za rolkanje.",
+        "hypothesis": "Tip z rolko si ogleduje park, da bi rolkal.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Mladenič, oblečen v črno in nosi rolko, si ogleduje zunanji park za rolkanje.",
+        "hypothesis": "Deklica s čopom se vozi s kolesom po parku.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Mladenič, oblečen v črno in nosi rolko, si ogleduje zunanji park za rolkanje.",
+        "hypothesis": "Fant gre danes rolkat.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Deček v pižami leži v postelji in spi na pisani črtasti blazini.",
+        "hypothesis": "Mlad fant igra nogomet.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Deček v pižami leži v postelji in spi na pisani črtasti blazini.",
+        "hypothesis": "Mlad fant spi pri spanju.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Deček v pižami leži v postelji in spi na pisani črtasti blazini.",
+        "hypothesis": "Mlad fant spi na blazini.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v modri majici z ovratnikom pozira nekomu in drži hebrejski časopis.",
+        "hypothesis": "Na glavi nosi časopis.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški v modri majici z ovratnikom pozira nekomu in drži hebrejski časopis.",
+        "hypothesis": "Bere časopis.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški v modri majici z ovratnikom pozira nekomu in drži hebrejski časopis.",
+        "hypothesis": "On je jud.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Bradati moški skače po snegu z oceanom v ozadju in oranžnim ležečim kolesom, parkiranim blizu prometnega znaka.",
+        "hypothesis": "Človeško skakanje.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Bradati moški skače po snegu z oceanom v ozadju in oranžnim ležečim kolesom, parkiranim blizu prometnega znaka.",
+        "hypothesis": "Nihče ne skače.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Bradati moški skače po snegu z oceanom v ozadju in oranžnim ležečim kolesom, parkiranim blizu prometnega znaka.",
+        "hypothesis": "Visok človek, ki skače.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Štirje otroci se igrajo v vodi.",
+        "hypothesis": "Otroci so blatni.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Štirje otroci se igrajo v vodi.",
+        "hypothesis": "Otroci so mokri.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Štirje otroci se igrajo v vodi.",
+        "hypothesis": "Otroci opravljajo opravila.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Štiri mlada dekleta, ki se igrajo v vodi.",
+        "hypothesis": "Štiri dekleta so v vodi.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Štiri mlada dekleta, ki se igrajo v vodi.",
+        "hypothesis": "V vodi sta deček in dekle.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Štiri mlada dekleta, ki se igrajo v vodi.",
+        "hypothesis": "Štiri dekleta plavajo.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški v črni majici poskuša nekaj vreči.",
+        "hypothesis": "Človek odhaja.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški v črni majici poskuša nekaj vreči.",
+        "hypothesis": "Moški je v črni srajci.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v črni majici poskuša nekaj vreči.",
+        "hypothesis": "Moški nekaj meče sinu.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "En mlad fant v rumeni srajci z dolgimi rokavi in kavbojkami sedi, pred njim pa pet odraslih, eden upravlja video kamero.",
+        "hypothesis": "Nekdo snema mladega fanta na avdiciji za vlogo v filmu.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "En mlad fant v rumeni srajci z dolgimi rokavi in kavbojkami sedi, pred njim pa pet odraslih, eden upravlja video kamero.",
+        "hypothesis": "Mlad fant žonglira s tremi rdečimi žogami z zavezanimi očmi.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "En mlad fant v rumeni srajci z dolgimi rokavi in kavbojkami sedi, pred njim pa pet odraslih, eden upravlja video kamero.",
+        "hypothesis": "Odrasel uporablja video kamero.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Fantje s hrbtom proti prihajajočemu valu.",
+        "hypothesis": "Skupina ljudi se igra v oceanu.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Fantje s hrbtom proti prihajajočemu valu.",
+        "hypothesis": "Skupina ljudi stoji skupaj.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Fantje s hrbtom proti prihajajočemu valu.",
+        "hypothesis": "Skupina ljudi sedi na plaži.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Štiri fante bo kmalu zadel bližajoči se val.",
+        "hypothesis": "Val bo zadel nekaj fantov.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Štiri fante bo kmalu zadel bližajoči se val.",
+        "hypothesis": "Val je zgrešil fante.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Štiri fante bo kmalu zadel bližajoči se val.",
+        "hypothesis": "Ogromen val bo kmalu treščil na nekatere fante.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Ženska, ki stoji za dekletom in ji pomaga pri eksperimentu.",
+        "hypothesis": "Mama otroku pomaga dokončati poskus.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska, ki stoji za dekletom in ji pomaga pri eksperimentu.",
+        "hypothesis": "Ženska pomaga dekletu.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Gospa pomaga drugi ženski pri delu v srebrnem predelu, kar je najverjetneje povezano z delom medicinske sestre.",
+        "hypothesis": "Gospa spi na kavču",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Gospa pomaga drugi ženski pri delu v srebrnem predelu, kar je najverjetneje povezano z delom medicinske sestre.",
+        "hypothesis": "Gospa pomaga drugi ženski pri delu",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Gospa pomaga drugi ženski pri delu v srebrnem predelu, kar je najverjetneje povezano z delom medicinske sestre.",
+        "hypothesis": "Dve ženski poskušata dokončati naročila zdravnika",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "En moški, oblečen v modro jakno, brca drugega moškega, oblečenega v rdečo jakno.",
+        "hypothesis": "Dva moška se pretepata pred barom.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "En moški, oblečen v modro jakno, brca drugega moškega, oblečenega v rdečo jakno.",
+        "hypothesis": "Ženska se naliči",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "En moški, oblečen v modro jakno, brca drugega moškega, oblečenega v rdečo jakno.",
+        "hypothesis": "En tip brcne drugega.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Veliko ljudi se je zbralo v sobi z več ljudmi na odru z inštrumenti in napisom \"The Early November\" na steni.",
+        "hypothesis": "Starši se zberejo na lokalnem srednješolskem koncertu",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Veliko ljudi se je zbralo v sobi z več ljudmi na odru z inštrumenti in napisom \"The Early November\" na steni.",
+        "hypothesis": "Mafija se zbira, medtem ko se piščali borijo do smrti",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Veliko ljudi se je zbralo v sobi z več ljudmi na odru z inštrumenti in napisom \"The Early November\" na steni.",
+        "hypothesis": "Ljudje odidejo, ko se koncert odloči zaračunati po noti",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Hokejist v čeladi.",
+        "hypothesis": "Igralci nosijo čelade.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Hokejist v čeladi.",
+        "hypothesis": "Igralci počivajo.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Hokejist v čeladi.",
+        "hypothesis": "Igrajo hokej",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Moški v modrem se priklanja na tleh pred drugim moškim v modrem, ki se priklanja na tleh, na istem nadstropju pa klečita še dva moška v modrem.",
+        "hypothesis": "Moški nekaj nosi.",
+        "answer": "vpletenost"
+    },
+    {
+        "premise": "Moški v modrem se priklanja na tleh pred drugim moškim v modrem, ki se priklanja na tleh, na istem nadstropju pa klečita še dva moška v modrem.",
+        "hypothesis": "Moški nima oblečenega ničesar.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški v modrem se priklanja na tleh pred drugim moškim v modrem, ki se priklanja na tleh, na istem nadstropju pa klečita še dva moška v modrem.",
+        "hypothesis": "Moški nosi modro srajco.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Kolesar, ki se vozi po gozdu.",
+        "hypothesis": "Gorski kolesar tekmuje v terenski dirki.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Kolesar, ki se vozi po gozdu.",
+        "hypothesis": "Moški, ki se vozi z motorjem po avtocesti.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Kolesar, ki se vozi po gozdu.",
+        "hypothesis": "Gorski kolesar, ki uživa na lokalnih poteh.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mladenič v modri majici in trenirki stoji nad štedilnikom in gleda v kamero, drugi mladenič pa stoji za njim.",
+        "hypothesis": "Dva moška snemata kuharski tečaj.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mladenič v modri majici in trenirki stoji nad štedilnikom in gleda v kamero, drugi mladenič pa stoji za njim.",
+        "hypothesis": "dva moška sta na bazenu.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "pari uživajo v obroku, medtem ko skupina psov drema.",
+        "hypothesis": "PAR JE ZREZEK",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "pari uživajo v obroku, medtem ko skupina psov drema.",
+        "hypothesis": "TAMO JE PAR, KI SPREHAJA SVOJA PSA",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Bela raca, ki širi svoja krila v vodi.",
+        "hypothesis": "Raca je redka pasma, za katero večina meni, da je pred leti izumrla.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Bela raca, ki širi svoja krila v vodi.",
+        "hypothesis": "Raca mirno spi in lebdi na vrhu vode",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Po ulici se sprehaja ženska v kavbojkah.",
+        "hypothesis": "Na stolu sedi starejša ženska s palico.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Po ulici se sprehaja ženska v kavbojkah.",
+        "hypothesis": "Ženska gre proti avtobusni postaji.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Skupina ljudi stoji blizu in na velikem črnem kvadratu na tleh z nekaj rumenimi napisi.",
+        "hypothesis": "skupina ljudi čaka",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Skupina ljudi stoji blizu in na velikem črnem kvadratu na tleh z nekaj rumenimi napisi.",
+        "hypothesis": "oseba leži na kavču",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Skupina ljudi stoji blizu in na velikem črnem kvadratu na tleh z nekaj rumenimi napisi.",
+        "hypothesis": "skupina ljudi stoji",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Množica opazuje skupino moških v oblekah z aktovkami, ki hodijo v formaciji po ulici, ki jo vodi ženska, ki drži znak.",
+        "hypothesis": "Napis, ki ga ženska drži v rokah, pravi: \"Svoboda je zastonj.\"",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Množica opazuje skupino moških v oblekah z aktovkami, ki hodijo v formaciji po ulici, ki jo vodi ženska, ki drži znak.",
+        "hypothesis": "Skupina ljudi, oblečenih v klovne, se sprehodi do Bigtop Circusa in drži znake.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Mali deček se pripravi na brcanje nogometne žoge.",
+        "hypothesis": "fant je star deset let",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Mali deček se pripravi na brcanje nogometne žoge.",
+        "hypothesis": "fant spi doma",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški in ženska sedita na pločniku.",
+        "hypothesis": "Moški in ženska stojita.",
+        "answer": "protislovje"
+    },
+    {
+        "premise": "Moški in ženska sedita na pločniku.",
+        "hypothesis": "Moški in ženska sta poročena.",
+        "answer": "nevtralen"
+    },
+    {
+        "premise": "Ženska v ospredju se usmerja proti velikemu belemu stebru, ki je del velike stavbe z ljudmi, ki lebdijo ali čakajo na stopnicah omenjene stavbe.",
+        "hypothesis": "Pes teče po stopnicah stavbe.",
+        "answer": "protislovje"
+    }
+]

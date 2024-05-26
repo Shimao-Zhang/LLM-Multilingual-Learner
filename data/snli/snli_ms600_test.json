@@ -1,0 +1,3002 @@
+[
+    {
+        "premise": "Koir gereja ini menyanyi kepada orang ramai sambil mereka menyanyikan lagu-lagu gembira dari buku di sebuah gereja.",
+        "hypothesis": "Gereja mempunyai keretakan di siling.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Koir gereja ini menyanyi kepada orang ramai sambil mereka menyanyikan lagu-lagu gembira dari buku di sebuah gereja.",
+        "hypothesis": "Gereja dipenuhi dengan lagu.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Koir gereja ini menyanyi kepada orang ramai sambil mereka menyanyikan lagu-lagu gembira dari buku di sebuah gereja.",
+        "hypothesis": "Koir menyanyi pada permainan besbol.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita bertudung hijau, berbaju biru dan tersenyum lebar.",
+        "hypothesis": "Wanita itu masih muda.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita bertudung hijau, berbaju biru dan tersenyum lebar.",
+        "hypothesis": "Wanita itu sangat gembira.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita bertudung hijau, berbaju biru dan tersenyum lebar.",
+        "hypothesis": "Wanita itu telah ditembak.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki tua dengan bungkusan bergambar di hadapan iklan.",
+        "hypothesis": "Seorang lelaki bergambar di hadapan iklan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki tua dengan bungkusan bergambar di hadapan iklan.",
+        "hypothesis": "Seorang lelaki bergambar di hadapan iklan untuk bir.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki tua dengan bungkusan bergambar di hadapan iklan.",
+        "hypothesis": "Seorang lelaki berjalan dengan iklan.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Patung di muzium yang tidak kelihatan.",
+        "hypothesis": "Patung itu menyinggung perasaan dan orang ramai marah kerana ia dipamerkan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Patung di muzium yang tidak kelihatan.",
+        "hypothesis": "Ada patung yang nampaknya tak ramai orang minat.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Patung di muzium yang tidak kelihatan.",
+        "hypothesis": "Banyak orang berkumpul di sekeliling patung itu.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sebuah land rover dipandu menyeberangi sungai.",
+        "hypothesis": "Sebuah Land Rover sedang memercikkan air semasa menyeberangi sungai.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sebuah land rover dipandu menyeberangi sungai.",
+        "hypothesis": "Sebuah kenderaan sedang menyeberangi sungai.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sebuah land rover dipandu menyeberangi sungai.",
+        "hypothesis": "Sebuah kereta sedan tersangkut di tengah sungai.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki bermain gitar elektrik di atas pentas.",
+        "hypothesis": "Seorang lelaki bermain banjo di atas lantai.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki bermain gitar elektrik di atas pentas.",
+        "hypothesis": "Seorang lelaki bermain gitar di atas pentas.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki bermain gitar elektrik di atas pentas.",
+        "hypothesis": "Seorang lelaki membuat persembahan untuk mendapatkan wang tunai.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang doktor berambut perang dan pembantunya yang berbangsa Afrika-Amerika melemparkan manual perubatan baharu.",
+        "hypothesis": "Seorang doktor sedang melihat sebuah buku",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang doktor berambut perang dan pembantunya yang berbangsa Afrika-Amerika melemparkan manual perubatan baharu.",
+        "hypothesis": "Seorang lelaki sedang makan pb dan j",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang doktor berambut perang dan pembantunya yang berbangsa Afrika-Amerika melemparkan manual perubatan baharu.",
+        "hypothesis": "Seorang doktor sedang belajar",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang gadis kulit sawo matang dengan topi bulu sedang berlari dan bersandar pada objek, manakala seorang lagi bertopi bulu sedang duduk di atas tanah.",
+        "hypothesis": "Seorang budak lelaki berlari ke dinding",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang gadis kulit sawo matang dengan topi bulu sedang berlari dan bersandar pada objek, manakala seorang lagi bertopi bulu sedang duduk di atas tanah.",
+        "hypothesis": "Seorang gadis kulit sawo matang berlari bersandar pada objek",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang gadis kulit sawo matang dengan topi bulu sedang berlari dan bersandar pada objek, manakala seorang lagi bertopi bulu sedang duduk di atas tanah.",
+        "hypothesis": "Seorang lelaki melihat anak perempuannya melompat",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sebuah keluarga muda seronok merasai ombak lautan di kaki mereka.",
+        "hypothesis": "Seorang lelaki dan wanita muda membawa anak mereka ke pantai buat kali pertama.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sebuah keluarga muda seronok merasai ombak lautan di kaki mereka.",
+        "hypothesis": "Sebuah keluarga sedang keluar di sebuah restoran.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sebuah keluarga muda seronok merasai ombak lautan di kaki mereka.",
+        "hypothesis": "Sebuah keluarga berada di pantai.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sepasang suami isteri berjalan berpegangan tangan menyusuri jalan.",
+        "hypothesis": "Sepasang suami isteri sedang berjalan bersama.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sepasang suami isteri berjalan berpegangan tangan menyusuri jalan.",
+        "hypothesis": "Pasangan itu sudah berkahwin.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sepasang suami isteri berjalan berpegangan tangan menyusuri jalan.",
+        "hypothesis": "Sepasang suami isteri sedang duduk di atas bangku.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "3 lelaki muda bertudung berdiri di tengah-tengah jalan yang sunyi menghadap kamera.",
+        "hypothesis": "Tiga orang duduk di tepi jalan yang sibuk tanpa kepala.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "3 lelaki muda bertudung berdiri di tengah-tengah jalan yang sunyi menghadap kamera.",
+        "hypothesis": "Tiga orang bertudung memakai orang bergambar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "3 lelaki muda bertudung berdiri di tengah-tengah jalan yang sunyi menghadap kamera.",
+        "hypothesis": "Tiga orang memakai tudung berdiri di jalan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki membaca kertas di bar dengan lampu hijau.",
+        "hypothesis": "Lelaki itu ada di dalam.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki membaca kertas di bar dengan lampu hijau.",
+        "hypothesis": "Lelaki itu sedang membaca laman sukan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki membaca kertas di bar dengan lampu hijau.",
+        "hypothesis": "Lelaki itu sedang mendaki gunung.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Tiga anggota bomba keluar dari stesen kereta api bawah tanah.",
+        "hypothesis": "Tiga anggota bomba memadamkan kebakaran di dalam sebuah stesen kereta api bawah tanah.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Tiga anggota bomba keluar dari stesen kereta api bawah tanah.",
+        "hypothesis": "Tiga anggota bomba datang dari stesen kereta api bawah tanah.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Tiga anggota bomba keluar dari stesen kereta api bawah tanah.",
+        "hypothesis": "Tiga anggota bomba bermain kad di dalam balai bomba.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seseorang yang memakai topi jerami, berdiri di luar bekerja dengan perkakas keluli dengan timbunan kelapa di atas tanah.",
+        "hypothesis": "Seseorang berada berhampiran timbunan kelapa.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seseorang yang memakai topi jerami, berdiri di luar bekerja dengan peralatan keluli dengan timbunan kelapa di atas tanah.",
+        "hypothesis": "Seseorang sedang menjual kelapa.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seseorang yang memakai topi jerami, berdiri di luar bekerja dengan peralatan keluli dengan timbunan kelapa di atas tanah.",
+        "hypothesis": "Seseorang sedang membakar topi jerami.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Lelaki berjaket biru memutuskan untuk berbaring di rumput.",
+        "hypothesis": "Lelaki berbaju kuning sedang berguling di atas rumput",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Lelaki berjaket biru memutuskan untuk berbaring di rumput.",
+        "hypothesis": "Lelaki yang memakai jaket biru sedang berbaring di atas rumput hijau",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Lelaki berjaket biru memutuskan untuk berbaring di rumput.",
+        "hypothesis": "Lelaki yang memakai jaket biru sedang berbaring di atas rumput hijau untuk tidur sebentar.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Semasa mengikat anak lembu, koboi memanggil kudanya.",
+        "hypothesis": "Roper kali pertama jatuh dari kudanya.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Semasa mengikat anak lembu, koboi memanggil kudanya.",
+        "hypothesis": "Seorang lelaki mengikat anak lembu dengan jayanya.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang budak lelaki berbaju sejuk berjalur kelabu putih dan berseluar coklat sedang bermain di atas peralatan taman permainan.",
+        "hypothesis": "Seorang budak lelaki berada di taman permainan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang budak lelaki berbaju sejuk berjalur kelabu putih dan berseluar coklat sedang bermain di atas peralatan taman permainan.",
+        "hypothesis": "Budak itu bermain buaian selepas tamat sekolah.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang budak lelaki berbaju sejuk berjalur kelabu putih dan berseluar coklat sedang bermain di atas peralatan taman permainan.",
+        "hypothesis": "Budak itu sedang duduk di dalam bas sekolah dalam perjalanan pulang.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita yang memakai topi bola mencangkung untuk menyentuh tanah yang retak.",
+        "hypothesis": "Seorang ahli arkeologi yang memakai topi mencangkung untuk memeriksa tapak untuk penggalian",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita yang memakai topi bola mencangkung untuk menyentuh tanah yang retak.",
+        "hypothesis": "Seorang wanita mencangkung memakai topi menyentuh tanah.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita yang memakai topi bola mencangkung untuk menyentuh tanah yang retak.",
+        "hypothesis": "Seorang wanita memakai bonet matahari menanam taman.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua kanak-kanak sedang berbaring di atas permaidani dengan beberapa bata kayu dibentangkan dalam segi empat sama di antara mereka.",
+        "hypothesis": "Dua kanak-kanak sedang membina relau bata.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Dua kanak-kanak sedang berbaring di atas permaidani dengan beberapa bata kayu dibentangkan dalam segi empat sama di antara mereka.",
+        "hypothesis": "Dua kanak-kanak sedang bermain tangkapan di sebuah taman.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua kanak-kanak sedang berbaring di atas permaidani dengan beberapa bata kayu dibentangkan dalam segi empat sama di antara mereka.",
+        "hypothesis": "Dua kanak-kanak berada di atas permaidani.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki berdiri di hadapan sebuah bangunan di telefon sebagai dua lelaki untuk sakit sisi di sebelah.",
+        "hypothesis": "seorang lelaki berhampiran bangunan berdiri di sebelah dua lelaki lain",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki berdiri di hadapan sebuah bangunan di telefon sebagai dua lelaki untuk sakit sisi di sebelah.",
+        "hypothesis": "dua orang gadis berjalan melalui sebuah dewan",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki berdiri di hadapan sebuah bangunan di telefon sebagai dua lelaki untuk sakit sisi di sebelah.",
+        "hypothesis": "seorang lelaki sibuk berdiri dengan pengawal peribadi",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Kedua-dua gadis muda berpakaian seperti pari-pari, dan bermain di daun di luar rumah.",
+        "hypothesis": "Kanak-kanak perempuan bermain di luar rumah.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Kedua-dua gadis muda berpakaian seperti pari-pari, dan bermain di daun di luar rumah.",
+        "hypothesis": "Dua gadis bermain berdandan di dalam rumah.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Kedua-dua gadis muda berpakaian seperti pari-pari, dan bermain di daun di luar rumah.",
+        "hypothesis": "Kedua-dua gadis itu bermain pada musim luruh.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Orang ramai melompat ke atas celah gunung dengan tali.",
+        "hypothesis": "Sesetengah orang kelihatan takut untuk melompat.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Orang ramai melompat ke atas celah gunung dengan tali.",
+        "hypothesis": "Orang ramai melompat keluar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Orang ramai melompat ke atas celah gunung dengan tali.",
+        "hypothesis": "Orang ramai meluncur di atas celah gunung pada gelongsor.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang pemain papan salji di dataran salji yang luas",
+        "hypothesis": "Padang salji dengan papan salji di atasnya",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang pemain papan salji di dataran salji yang luas",
+        "hypothesis": "Seorang pemain papan salji meluncur di atas padang salji",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang pemain papan salji di dataran salji yang luas",
+        "hypothesis": "Kereta salji dalam ribut salji",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita yang lebih tua menjaga taman.",
+        "hypothesis": "Wanita itu sedang memasak makan malam",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita yang lebih tua menjaga taman.",
+        "hypothesis": "Wanita itu sedang merumput kebunnya",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita yang lebih tua menjaga taman.",
+        "hypothesis": "Wanita itu mempunyai taman",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki berbaju hitam menghadap penyelenggaraan basikal.",
+        "hypothesis": "Seorang lelaki memusnahkan basikal.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki berbaju hitam menghadap penyelenggaraan basikal.",
+        "hypothesis": "Seorang lelaki melihat pembaikan basikal.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki berbaju hitam menghadap penyelenggaraan basikal.",
+        "hypothesis": "Seorang lelaki belajar penyelenggaraan basikal.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki berbaju hitam sedang melihat basikal di sebuah bengkel.",
+        "hypothesis": "Seorang lelaki memakai baju merah",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki berbaju hitam sedang melihat basikal di sebuah bengkel.",
+        "hypothesis": "Seorang lelaki berbaju hitam",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki berbaju hitam sedang melihat basikal di sebuah bengkel.",
+        "hypothesis": "Seorang lelaki sedang membuat keputusan untuk membeli basikal",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki melihat ke atas roda belakang basikal di garaj penyelenggaraan dengan pelbagai alatan kelihatan di latar belakang.",
+        "hypothesis": "Seseorang berada di dalam garaj.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki melihat ke atas roda belakang basikal di garaj penyelenggaraan dengan pelbagai alatan kelihatan di latar belakang.",
+        "hypothesis": "Seorang lelaki membaiki basikal.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki melihat ke atas roda belakang basikal di garaj penyelenggaraan dengan pelbagai alatan kelihatan di latar belakang.",
+        "hypothesis": "Seorang lelaki menunggu di luar garaj.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Tiga orang duduk di bangku di stesen, lelaki itu memandang pelik ke arah dua wanita itu, wanita berambut merah memandang ke atas dan ke hadapan dalam kedudukan yang janggal, dan gadis berambut perang kuning mengurut-urut dengan rambutnya.",
+        "hypothesis": "Beberapa orang berdiri di sekeliling.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Tiga orang duduk di bangku di stesen, lelaki itu memandang pelik ke arah dua wanita itu, wanita berambut merah memandang ke atas dan ke hadapan dalam kedudukan yang janggal, dan gadis berambut perang kuning mengurut-urut dengan rambutnya.",
+        "hypothesis": "Orang ramai berlari bersama.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Tiga orang duduk di bangku di stesen, lelaki itu memandang pelik ke arah dua wanita itu, wanita berambut merah memandang ke atas dan ke hadapan dalam kedudukan yang janggal, dan gadis berambut perang kuning mengurut-urut dengan rambutnya.",
+        "hypothesis": "Orang ramai menunggu di stesen.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang kanak-kanak yang memakai baju atasan merah berdiri di belakang seorang kanak-kanak berkepala perang yang duduk di dalam kereta sorong.",
+        "hypothesis": "Seorang kanak-kanak yang memakai baju atasan merah berdiri di belakang seorang kanak-kanak berkepala perang",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang kanak-kanak yang memakai baju atasan merah berdiri di belakang seorang kanak-kanak berkepala perang yang duduk di dalam kereta sorong.",
+        "hypothesis": "Seorang kanak-kanak yang memakai baju atasan merah sedang berdiri di atas seorang kanak-kanak berkepala perang",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang kanak-kanak yang memakai baju atasan merah berdiri di belakang seorang kanak-kanak berkepala perang yang duduk di dalam kereta sorong.",
+        "hypothesis": "Seorang kanak-kanak yang memakai baju atasan berwarna merah sedang berdiri di belakang seorang kanak-kanak berkepala perang yang cantik",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seseorang yang berpakaian gaun dengan bunga dan boneka lebah yang melekat padanya, sedang menolak kereta dorong bayi ke jalan.",
+        "hypothesis": "Seorang wanita duduk di bangku di taman.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seseorang yang berpakaian gaun dengan bunga dan boneka lebah yang melekat padanya, sedang menolak kereta dorong bayi ke jalan.",
+        "hypothesis": "Seorang wanita tua menolak kereta dorong ke jalan yang sibuk.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seseorang yang berpakaian gaun dengan bunga dan boneka lebah yang melekat padanya, sedang menolak kereta dorong bayi ke jalan.",
+        "hypothesis": "Seseorang di luar menolak kereta sorong.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seekor anjing melompat untuk Frisbee di salji.",
+        "hypothesis": "Haiwan peliharaan sedang menikmati permainan mengambil dengan pemiliknya.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seekor anjing melompat untuk Frisbee di salji.",
+        "hypothesis": "Seekor kucing mencuci muka dan misainya dengan kaki hadapannya.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seekor anjing melompat untuk Frisbee di salji.",
+        "hypothesis": "Seekor haiwan berada di luar dalam cuaca sejuk, bermain dengan mainan plastik.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Orang ramai sedang berbual di meja makan di bawah kanopi.",
+        "hypothesis": "Orang ramai di sebuah parti duduk untuk makan malam di halaman.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Orang ramai sedang berbual di meja makan di bawah kanopi.",
+        "hypothesis": "Orang ramai bercakap di bawah selimut.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Orang ramai sedang berbual di meja makan di bawah kanopi.",
+        "hypothesis": "Orang ramai menjerit pada perlawanan tinju.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang gadis bermain biola bersama sekumpulan orang",
+        "hypothesis": "Seorang gadis sedang membasuh beban pakaian.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang gadis bermain biola bersama sekumpulan orang",
+        "hypothesis": "Seorang gadis sedang bermain alat muzik.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang gadis bermain biola bersama sekumpulan orang",
+        "hypothesis": "Sekumpulan orang sedang bermain dalam simfoni.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita dalam sebuah orkestra sedang bermain biola.",
+        "hypothesis": "Seorang wanita sedang bermain konsert.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita dalam sebuah orkestra sedang bermain biola.",
+        "hypothesis": "Seorang wanita sedang bermain biola.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita dalam sebuah orkestra sedang bermain biola.",
+        "hypothesis": "Seorang lelaki sedang melihat dalam teleskop.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Tiga lelaki, seorang memegang paip, seorang lagi memegang objek besar di atas kepalanya, dan seorang bersandar pada katil paip di atas trak, sedang melihat ke arah kamera.",
+        "hypothesis": "tiga lelaki pergi kerja",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Tiga lelaki, seorang memegang paip, seorang lagi memegang objek besar di atas kepalanya, dan seorang bersandar pada katil paip di atas trak, sedang melihat ke arah kamera.",
+        "hypothesis": "tiga lelaki melihat ke arah kamera",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Tiga lelaki, seorang memegang paip, seorang lagi memegang objek besar di atas kepalanya, dan seorang bersandar pada katil paip di atas trak, sedang melihat ke arah kamera.",
+        "hypothesis": "tiga lelaki tidur dalam khemah",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sebuah kereta Ford sedang membelok ke kanan ketika 3 lelaki sedang berjalan di seberang jalan di belakang kereta.",
+        "hypothesis": "Sebuah kereta yang membelok ke kanan mempunyai tiga pejalan kaki melintas di belakangnya.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sebuah kereta Ford sedang membelok ke kanan ketika 3 lelaki sedang berjalan di seberang jalan di belakang kereta.",
+        "hypothesis": "Sebuah kereta sedan sedang membelok di selekoh ketika pejalan kaki melintas.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Tiga budak lelaki berbaju putih berjalan di belakang kereta Ford model lama.",
+        "hypothesis": "ada tiga orang budak",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Tiga budak lelaki berbaju putih berjalan di belakang kereta Ford model lama.",
+        "hypothesis": "Terdapat tiga orang gadis",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Tiga budak lelaki berbaju putih berjalan di belakang kereta Ford model lama.",
+        "hypothesis": "Budak-budak di jalanan",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Tiga orang gadis meniup lilin kek yang diperbuat daripada Peeps.",
+        "hypothesis": "Beberapa orang sedang meniup lilin",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Tiga orang gadis meniup lilin kek yang diperbuat daripada Peeps.",
+        "hypothesis": "Terdapat tiga orang gadis dan seorang kek",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Tiga orang gadis meniup lilin kek yang diperbuat daripada Peeps.",
+        "hypothesis": "Terdapat mengintip di taman.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Orang ramai memandang ke arah 3 orang di tepi bumbung sebuah bangunan.",
+        "hypothesis": "Orang ramai memanggil bantuan untuk orang di atas bumbung.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Orang ramai memandang ke arah 3 orang di tepi bumbung sebuah bangunan.",
+        "hypothesis": "Orang ramai di atas tanah memerhati 3 orang di tepi bumbung.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Orang ramai memandang ke arah 3 orang di tepi bumbung sebuah bangunan.",
+        "hypothesis": "Tiga orang sedang menuruni tangga di bangunan itu.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita bekerja berjam-jam.",
+        "hypothesis": "Seorang wanita bekerja di sebuah kilang.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita bekerja berjam-jam.",
+        "hypothesis": "Seorang wanita sedang bekerja.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita bekerja berjam-jam.",
+        "hypothesis": "Seorang wanita sedang tidur.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua remaja perempuan bercakap di sebelah loker.",
+        "hypothesis": "Gadis bercakap di sebelah tandas.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua remaja perempuan bercakap di sebelah loker.",
+        "hypothesis": "Orang bercakap di sebelah loker.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Dua remaja perempuan bercakap di sebelah loker.",
+        "hypothesis": "Gadis bercakap tentang masalah mereka di sebelah loker.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita tua melihat seorang lelaki melihat ke bawah pada beberapa bola di atas tanah.",
+        "hypothesis": "Seorang wanita tua sedang mengintai seorang lelaki.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita tua melihat seorang lelaki melihat ke bawah pada beberapa bola di atas tanah.",
+        "hypothesis": "Dua orang sedang tidur di dalam kereta api.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua kanak-kanak, kedua-duanya memakai kot sawo matang, sedang berpelukan.",
+        "hypothesis": "Dua kanak-kanak berpelukan selepas terselamat dalam kemalangan kereta yang mengerikan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Dua kanak-kanak, kedua-duanya memakai kot sawo matang, sedang berpelukan.",
+        "hypothesis": "Dua kanak-kanak sedang berpelukan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Dua kanak-kanak, kedua-duanya memakai kot sawo matang, sedang berpelukan.",
+        "hypothesis": "Dua kanak-kanak berlari di lebuh raya.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "2 kanak-kanak yang kelihatan berkaitan sedang melepak dengan 1 daripada mereka kelihatan sangat emosional dan memeluk yang lain.",
+        "hypothesis": "Sepasang kerabat kanak-kanak berpelukan kerana gembira dapat berjumpa.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "2 kanak-kanak yang kelihatan berkaitan sedang melepak dengan 1 daripada mereka kelihatan sangat emosional dan memeluk yang lain.",
+        "hypothesis": "Dua kanak-kanak sedang berpelukan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "2 kanak-kanak yang kelihatan berkaitan sedang melepak dengan 1 daripada mereka kelihatan sangat emosional dan memeluk yang lain.",
+        "hypothesis": "Dua orang pemuda saling menolak antara satu sama lain.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sebilangan besar orang hanya berpakaian putih dan merah berjalan di jalan.",
+        "hypothesis": "Sebilangan besar orang berpakaian hitam berjalan di jalan.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sebilangan besar orang hanya berpakaian putih dan merah berjalan di jalan.",
+        "hypothesis": "Sebilangan besar lelaki berjalan di jalan dengan pakaian merah dan putih.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sebilangan besar orang hanya berpakaian putih dan merah berjalan di jalan.",
+        "hypothesis": "Sebilangan besar orang berjalan di jalan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki menunggang motosikal berhampiran kereta sampah",
+        "hypothesis": "Lelaki itu sedang menguji memandu motosikal untuk memutuskan sama ada dia akan membelinya atau tidak.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki menunggang motosikal berhampiran kereta sampah",
+        "hypothesis": "Seorang lelaki sedang menunggang motosikal.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki menunggang motosikal berhampiran kereta sampah",
+        "hypothesis": "Seorang lelaki sedang duduk di atas motosikal yang diletakkan menunggu rakannya.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Wanita India membuat persembahan dengan pita biru, dalam pakaian biru yang cantik.",
+        "hypothesis": "wanita India membuat persembahan bersama-sama dalam pakaian yang cantik",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Wanita India membuat persembahan dengan pita biru, dalam pakaian biru yang cantik.",
+        "hypothesis": "anjing menghidu udara",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Wanita India membuat persembahan dengan pita biru, dalam pakaian biru yang cantik.",
+        "hypothesis": "wanita India sedang melakukan upacara keagamaan bersama-sama",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang perenang profesional meludahkan air selepas naik ke permukaan sambil memegang tangan seseorang yang membantunya kembali ke darat.",
+        "hypothesis": "Seseorang sedang berenang.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang perenang profesional meludahkan air selepas naik ke permukaan sambil memegang tangan seseorang yang membantunya kembali ke darat.",
+        "hypothesis": "Perenang sedang makan marshmallow panggang.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang perenang profesional meludahkan air selepas naik ke permukaan sambil memegang tangan seseorang yang membantunya kembali ke darat.",
+        "hypothesis": "Perenang itu hampir lemas selepas disedut arus deras.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Lelaki berbaju selam hitam itu berjalan keluar dari air.",
+        "hypothesis": "Seorang lelaki memakai pakaian selam keluar dari air sambil membawa papan luncur.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Lelaki berbaju selam hitam itu berjalan keluar dari air.",
+        "hypothesis": "seseorang sedang berjalan keluar dari air.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Lelaki berbaju selam hitam itu berjalan keluar dari air.",
+        "hypothesis": "Seorang lelaki sedang berbaring di pantai.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Lima perempuan dan dua lelaki sedang melintasi jejantas.",
+        "hypothesis": "Keluarga besar mendaki bersama-sama pada perjumpaan keluarga mereka.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Lima perempuan dan dua lelaki sedang melintasi jejantas.",
+        "hypothesis": "Ketiga-tiga lelaki itu duduk dan bercakap tentang kehidupan mereka.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Lima perempuan dan dua lelaki sedang melintasi jejantas.",
+        "hypothesis": "Ada orang di luar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seseorang dengan baju ungu sedang melukis imej seorang wanita di dinding putih.",
+        "hypothesis": "Seorang wanita melukis potret kawan baiknya.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seseorang dengan baju ungu sedang melukis imej seorang wanita di dinding putih.",
+        "hypothesis": "Seorang wanita melukis potret seseorang.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seseorang dengan baju ungu sedang melukis imej seorang wanita di dinding putih.",
+        "hypothesis": "Seorang wanita melukis potret monyet.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita sedang melukis mural wajah seorang wanita.",
+        "hypothesis": "Ada seorang wanita melukis.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita sedang melukis mural wajah seorang wanita.",
+        "hypothesis": "Ada seorang wanita melukis untuk berseronok.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita sedang melukis mural wajah seorang wanita.",
+        "hypothesis": "Ada seorang lelaki sedang mengikat kasutnya.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sepasang suami isteri sedang makan di luar di meja dan dia menunjuk sesuatu.",
+        "hypothesis": "Sepasang suami isteri sedang makan di dalam di meja dan dia menunjuk sesuatu.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sepasang suami isteri sedang makan di luar di meja dan dia menunjuk sesuatu.",
+        "hypothesis": "Lelaki itu menunjuk ke arah seorang peragut dompet.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sepasang suami isteri sedang makan di luar di meja dan dia menunjuk sesuatu.",
+        "hypothesis": "Orang ramai sedang makan di meja di luar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Dua wanita berjalan di kaki lima di sepanjang jalan yang sibuk di kawasan pusat bandar.",
+        "hypothesis": "Wanita itu berjalan di pusat bandar kerana bas mogok",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Dua wanita berjalan di kaki lima di sepanjang jalan yang sibuk di kawasan pusat bandar.",
+        "hypothesis": "Wanita itu sedang memetik buah beri di kawasan luar bandar",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua wanita berjalan di kaki lima di sepanjang jalan yang sibuk di kawasan pusat bandar.",
+        "hypothesis": "Wanita itu berjalan di pusat bandar",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Ramai orang berdiri di luar tempat bercakap antara satu sama lain di hadapan bangunan yang mempunyai papan tanda bertulis \"HI-POINTE.\"",
+        "hypothesis": "Orang ramai sedang berbual sebelum masuk ke bangunan kerja.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Ramai orang berdiri di luar tempat bercakap antara satu sama lain di hadapan bangunan yang mempunyai papan tanda bertulis \"HI-POINTE.\"",
+        "hypothesis": "Kumpulan orang tidak berada di dalam bangunan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Ramai orang berdiri di luar tempat bercakap antara satu sama lain di hadapan bangunan yang mempunyai papan tanda bertulis \"HI-POINTE.\"",
+        "hypothesis": "Orang ramai duduk di lobi hotel.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Pramugari yang berpakaian kuning menunjukkan penggunaan jaket keselamatan.",
+        "hypothesis": "Seorang pramugari berdiri di hadapan penumpang.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Pramugari yang berpakaian kuning menunjukkan penggunaan jaket keselamatan.",
+        "hypothesis": "Seorang pramugari sedang menunjukkan prosedur keselamatan sebelum berlepas.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Pramugari yang berpakaian kuning menunjukkan penggunaan jaket keselamatan.",
+        "hypothesis": "Seorang wanita sedang menyediakan minuman di dalam kapal terbang.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Gadis-gadis berjalan di jalan.",
+        "hypothesis": "Gadis berjalan di jalan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Gadis-gadis berjalan di jalan.",
+        "hypothesis": "Gadis duduk di jalan.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Gadis-gadis berjalan di jalan.",
+        "hypothesis": "Gadis-gadis sedang pergi ke taman.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki beruniform merah dan topi keledar berdiri di atas motosikalnya.",
+        "hypothesis": "seorang lelaki duduk di dalam kereta.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki beruniform merah dan topi keledar berdiri di atas motosikalnya.",
+        "hypothesis": "seorang yang berdiri.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki beruniform merah dan topi keledar berdiri di atas motosikalnya.",
+        "hypothesis": "seorang lelaki berdiri di atas motosikalnya.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki dari kain itu meletakkan bahan hitam pada dahi seorang lelaki.",
+        "hypothesis": "Lelaki itu meletakkan sesuatu di kepala lelaki yang lain.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki dari kain itu meletakkan bahan hitam pada dahi seorang lelaki.",
+        "hypothesis": "Wanita berada di taman.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki dari kain itu meletakkan bahan hitam pada dahi seorang lelaki.",
+        "hypothesis": "Lelaki itu berada di gereja.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seseorang berguling-guling menuruni bukit menaiki gerabak ketika seorang lagi memerhati.",
+        "hypothesis": "Dua orang berada di luar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seseorang berguling-guling menuruni bukit menaiki gerabak ketika seorang lagi memerhati.",
+        "hypothesis": "Seseorang merenung bukit kosong.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seseorang berguling-guling menuruni bukit menaiki gerabak ketika seorang lagi memerhati.",
+        "hypothesis": "Seorang kanak-kanak di dalam kereta berguling menuruni bukit.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "seorang budak lelaki memegang dinding asas tiang rumah bata lama.",
+        "hypothesis": "seorang budak lelaki memegang dinding asas tiang rumah bata lama semasa pembinaan berlaku",
+        "answer": "neutral"
+    },
+    {
+        "premise": "seorang budak lelaki memegang dinding asas tiang rumah bata lama.",
+        "hypothesis": "seorang gadis sedang bersandar di dinding",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "seorang budak lelaki memegang dinding asas tiang rumah bata lama.",
+        "hypothesis": "seorang budak lelaki bersandar pada dinding asas yang ditinggikan",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Bruce Springsteen, dengan sebelah tangan dihulurkan, sedang menyanyi di tempat tumpuan dalam dewan konsert yang gelap.",
+        "hypothesis": "Bruce Springsteen berasal dari Florida.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Bruce Springsteen, dengan sebelah tangan dihulurkan, sedang menyanyi di tempat tumpuan dalam dewan konsert yang gelap.",
+        "hypothesis": "Bruce Springsteen ialah seorang penyanyi.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Bruce Springsteen, dengan sebelah tangan dihulurkan, sedang menyanyi di tempat tumpuan dalam dewan konsert yang gelap.",
+        "hypothesis": "Bruce Springsteen adalah gay",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Enam anjing berenang di sungai.",
+        "hypothesis": "Enam anjing berenang menyeberangi sungai.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Enam anjing berenang di sungai.",
+        "hypothesis": "Enam anjing berada di luar rumah.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Enam anjing berenang di sungai.",
+        "hypothesis": "Anak-anak anjing sedang duduk di atas sofa.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki dan wanita sedang mengambil gambar mereka sendiri manakala seorang wanita berselendang berjalan di sebelah mereka.",
+        "hypothesis": "Seorang lelaki dan wanita telah mengambil gambar mug kerana mereka telah ditangkap.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki dan wanita sedang mengambil gambar mereka sendiri manakala seorang wanita berselendang berjalan di sebelah mereka.",
+        "hypothesis": "Seorang lelaki dan wanita mengambil swafoto sementara seorang wanita berjalan dan menilai mereka.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki dan wanita sedang mengambil gambar mereka sendiri manakala seorang wanita berselendang berjalan di sebelah mereka.",
+        "hypothesis": "Seorang lelaki dan wanita mengambil swafoto diri mereka sendiri.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "sekumpulan orang menari bersama.",
+        "hypothesis": "Orang ramai menari.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "sekumpulan orang menari bersama.",
+        "hypothesis": "Mereka sedang melakukan tango.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "sekumpulan orang menari bersama.",
+        "hypothesis": "Tiada siapa yang menari.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Lelaki memakai seragam biru duduk di atas bas.",
+        "hypothesis": "Lelaki duduk di dalam bas.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Lelaki memakai seragam biru duduk di atas bas.",
+        "hypothesis": "Lelaki duduk di dalam bas pergi kerja,",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Lelaki memakai seragam biru duduk di atas bas.",
+        "hypothesis": "Lelaki memandu bas ke lautan.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua lelaki memanjat di atas perancah kayu.",
+        "hypothesis": "Dua orang memanjat di atas perancah kayu.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Dua lelaki memanjat di atas perancah kayu.",
+        "hypothesis": "Dua wanita memanjat di atas perancah kayu.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua lelaki memanjat di atas perancah kayu.",
+        "hypothesis": "Dua lelaki sedih memanjat di atas perancah kayu.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seekor burung sedang mengepakkan sayapnya di atas air.",
+        "hypothesis": "Burung itu terbang di atas pokok.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seekor burung sedang mengepakkan sayapnya di atas air.",
+        "hypothesis": "Itik berenang di tasik.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang budak lelaki memakai baju merah dan seluar jeans berdiri di tengah-tengah padang dan melemparkan pesawat mainan ke udara.",
+        "hypothesis": "Seorang budak lelaki sedang bermain di sebuah feild.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang budak lelaki memakai baju merah dan seluar jeans berdiri di tengah-tengah padang dan melemparkan pesawat mainan ke udara.",
+        "hypothesis": "Seorang budak lelaki sedang bermain di padang kerana ibunya menghalaunya keluar dari rumah.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang budak lelaki memakai baju merah dan seluar jeans berdiri di tengah-tengah padang dan melemparkan pesawat mainan ke udara.",
+        "hypothesis": "Seorang budak lelaki sedang bermain permainan video di dalam rumah.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Enam atau tujuh orang berdiri di atas jeti dengan meja dan sepasang cermin mata di latar depan.",
+        "hypothesis": "Mereka pergi memancing.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Enam atau tujuh orang berdiri di atas jeti dengan meja dan sepasang cermin mata di latar depan.",
+        "hypothesis": "Enam atau tujuh orang berdiri di atas jeti.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Enam atau tujuh orang berdiri di atas jeti dengan meja dan sepasang cermin mata di latar depan.",
+        "hypothesis": "Mereka berada di dalam bot.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang yang berbaju merah dan berseluar hitam membongkok.",
+        "hypothesis": "Seseorang memakai baju merah.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang yang berbaju merah dan berseluar hitam membongkok.",
+        "hypothesis": "Orang itu adalah seorang wanita.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang yang berbaju merah dan berseluar hitam membongkok.",
+        "hypothesis": "Orang itu memakai baju hijau.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Kanak-kanak ini berada di tangga perpustakaan.",
+        "hypothesis": "Kanak-kanak itu berada di tangga sekolah.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Kanak-kanak ini berada di tangga perpustakaan.",
+        "hypothesis": "Kanak-kanak itu berada di tangga.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Kanak-kanak ini berada di tangga perpustakaan.",
+        "hypothesis": "Kanak-kanak itu berada di tangga di dalam perpustakaan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Pemain bola keranjang bertatu itu hendak mencelup bola.",
+        "hypothesis": "Lelaki itu bermain bola sepak..",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Pemain bola keranjang bertatu itu hendak mencelup bola.",
+        "hypothesis": "Orang itu bermain bola keranjang.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Pemain bola keranjang bertatu itu hendak mencelup bola.",
+        "hypothesis": "Pemain itu mempunyai tatu yang mengatakan ibu.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "seorang budak lelaki bertudung merah tersenyum sambil mengalihkan pandangannya.",
+        "hypothesis": "Seorang budak lelaki bertudung merah gembira.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "seorang budak lelaki bertudung merah tersenyum sambil mengalihkan pandangannya.",
+        "hypothesis": "Budak itu tidak mahu melihat pantulannya.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "seorang budak lelaki bertudung merah tersenyum sambil mengalihkan pandangannya.",
+        "hypothesis": "Budak itu kecewa.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki memakai topi bola kelabu berjalan di sebelah seorang wanita berambut merah memakai kemeja jean biru lengan panjang.",
+        "hypothesis": "lelaki itu memakai topi kelabu.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki memakai topi bola kelabu berjalan di sebelah seorang wanita berambut merah memakai kemeja jean biru lengan panjang.",
+        "hypothesis": "Lelaki itu memakai topi biru.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki memakai topi bola kelabu berjalan di sebelah seorang wanita berambut merah memakai kemeja jean biru lengan panjang.",
+        "hypothesis": "Lelaki itu sejuk.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki tua bertopi besbol dan seorang wanita tua berjaket jean berdiri di luar, tetapi kebanyakannya ditutupi bayang-bayang.",
+        "hypothesis": "Seorang wanita tua memakai jaket jeans ringan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki tua bertopi besbol dan seorang wanita tua berjaket jean berdiri di luar, tetapi kebanyakannya ditutupi bayang-bayang.",
+        "hypothesis": "Seorang wanita tua memakai jaket jeans.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki tua bertopi besbol dan seorang wanita tua berjaket jean berdiri di luar, tetapi kebanyakannya ditutupi bayang-bayang.",
+        "hypothesis": "Seorang wanita tua tidak mempunyai jaket.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sepasang pengantin baru ketawa dan bercakap sesama sendiri.",
+        "hypothesis": "Pasangan itu sedang berseronok.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sepasang pengantin baru ketawa dan bercakap sesama sendiri.",
+        "hypothesis": "Pasangan itu baru sahaja berkahwin.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sepasang pengantin baru ketawa dan bercakap sesama sendiri.",
+        "hypothesis": "Pasangan itu bercerai.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki kulit hitam berbaju kolar putih lengan panjang dan bertali leher sedang berjalan ke tempat kerja di sebuah bandar besar.",
+        "hypothesis": "Lelaki itu memakai seluar pendek dan t-shirt sambil berjoging.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki kulit hitam berbaju kolar putih lengan panjang dan bertali leher sedang berjalan ke tempat kerja di sebuah bandar besar.",
+        "hypothesis": "Lelaki itu bergerak.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki kulit hitam berbaju kolar putih lengan panjang dan bertali leher sedang berjalan ke tempat kerja di sebuah bandar besar.",
+        "hypothesis": "Lelaki itu memakai pakaian kerja dan sedang berjalan ke tempat kerjanya.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Beberapa orang muda duduk di hadapan patung.",
+        "hypothesis": "beberapa orang muda duduk di luar",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Beberapa orang muda duduk di hadapan patung.",
+        "hypothesis": "beberapa orang muda sedang duduk di sebuah auditorium",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Beberapa orang muda duduk di hadapan patung.",
+        "hypothesis": "beberapa orang muda duduk di halaman sekolah",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sekumpulan orang dewasa berdiri di dalam bilik mandi memandang ke bawah seorang kanak-kanak kecil di dalam bilik mandi.",
+        "hypothesis": "Ibu kanak-kanak itu sedang memerhatikan anaknya bersama rakan-rakannya.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sekumpulan orang dewasa berdiri di dalam bilik mandi memandang ke bawah seorang kanak-kanak kecil di dalam bilik mandi.",
+        "hypothesis": "Orang ada dalam rumah.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sekumpulan orang dewasa berdiri di dalam bilik mandi memandang ke bawah seorang kanak-kanak kecil di dalam bilik mandi.",
+        "hypothesis": "Anak sedang tidur.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita yang kelihatan bodoh sedang menyanyi di atas pentas.",
+        "hypothesis": "Seorang wanita sedang menyanyi.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita yang kelihatan bodoh sedang menyanyi di atas pentas.",
+        "hypothesis": "Seorang wanita sedang membacakan puisi di atas pentas.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita yang kelihatan bodoh sedang menyanyi di atas pentas.",
+        "hypothesis": "Seorang wanita berambut perang sedang menyanyi dan menari di atas pentas.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Gadis itu memakai jaket coklat semasa berjalan di dalam salji.",
+        "hypothesis": "Seorang wanita sedang makan pasta di sebuah restoran.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Gadis itu memakai jaket coklat semasa berjalan di dalam salji.",
+        "hypothesis": "Wanita yang memakai jaket sedang mencari anjingnya yang hilang.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Gadis itu memakai jaket coklat semasa berjalan di dalam salji.",
+        "hypothesis": "Gadis itu berjalan keluar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki, wanita dan kanak-kanak mengambil gambar mereka di hadapan pergunungan.",
+        "hypothesis": "Sebuah keluarga sedang bercuti sedang bergambar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki, wanita dan kanak-kanak mengambil gambar mereka di hadapan pergunungan.",
+        "hypothesis": "Orang ramai berada di luar rumah.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki, wanita dan kanak-kanak mengambil gambar mereka di hadapan pergunungan.",
+        "hypothesis": "Sebuah keluarga berada di dalam kereta mereka.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "orang ramai berdiri berhampiran air dengan bot menuju ke arah mereka",
+        "hypothesis": "Orang ramai berdiri.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "orang ramai berdiri berhampiran air dengan bot menuju ke arah mereka",
+        "hypothesis": "Orang ramai berdiri berhampiran air dengan bot biru besar menuju ke arah mereka.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "orang ramai berdiri berhampiran air dengan bot menuju ke arah mereka",
+        "hypothesis": "Orang ramai sedang beratur di restoran.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Empat orang dewasa makan sambil duduk di atas lantai jubin.",
+        "hypothesis": "Dua pasangan makan makanan di atas lantai dapur.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Empat orang dewasa makan sambil duduk di atas lantai jubin.",
+        "hypothesis": "Dua pasangan bermain kolam di bar.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Empat orang dewasa makan sambil duduk di atas lantai jubin.",
+        "hypothesis": "Sekumpulan orang makan makanan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seekor anjing berdiri berhampiran salji melihat air.",
+        "hypothesis": "Seekor kucing sedang berbaring di atas sofa.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seekor anjing berdiri berhampiran salji melihat air.",
+        "hypothesis": "Haiwan berada di luar rumah.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seekor anjing berdiri berhampiran salji melihat air.",
+        "hypothesis": "Anjing itu berfikir untuk pergi berenang.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki yang lebih tua bersandar pada alas di luar bangunan berhias.",
+        "hypothesis": "Seorang lelaki tua sedang bersandar di luar rumah jagaannya",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki yang lebih tua bersandar pada alas di luar bangunan berhias.",
+        "hypothesis": "Seorang pemuda sedang berjoging",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki yang lebih tua bersandar pada alas di luar bangunan berhias.",
+        "hypothesis": "Seorang lelaki tua bersandar di luar bangunan",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seseorang berpakaian oren berehat di atas pintu masuk metro.",
+        "hypothesis": "Seseorang sedang duduk di permainan besbol.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seseorang berpakaian oren berehat di atas pintu masuk metro.",
+        "hypothesis": "Seseorang berdiri berhampiran stesen metro.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seseorang berpakaian oren berehat di atas pintu masuk metro.",
+        "hypothesis": "Seseorang sedang menunggu kereta api.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang gadis berpakaian biru menanggalkan kasutnya dan makan gula-gula kapas biru.",
+        "hypothesis": "Gadis itu sedang makan gula-gula kapas biru di sebuah karnival.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang gadis berpakaian biru menanggalkan kasutnya dan makan gula-gula kapas biru.",
+        "hypothesis": "Gadis berbaju biru ialah gadis bunga di majlis perkahwinan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang gadis berpakaian biru menanggalkan kasutnya dan makan gula-gula kapas biru.",
+        "hypothesis": "Gadis itu sedang makan sambil berkaki ayam.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki kulit hitam beruniform putih membuat slam dunk terbalik yang menakjubkan untuk kehairanan orang ramai.",
+        "hypothesis": "lelaki itu orang asia",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki kulit hitam beruniform putih membuat slam dunk terbalik yang menakjubkan untuk kehairanan orang ramai.",
+        "hypothesis": "lelaki itu sedang bermain",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki kulit hitam beruniform putih membuat slam dunk terbalik yang menakjubkan untuk kehairanan orang ramai.",
+        "hypothesis": "lelaki itu di rumah tidur",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang pemain bola keranjang dengan kasut hijau mencelup bola ke dalam jaring sambil penonton arena melihat.",
+        "hypothesis": "Seorang lelaki sedang membuat sandwic manakala orang ramai tercungap-cungap kagum.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang pemain bola keranjang dengan kasut hijau mencelup bola ke dalam jaring sambil penonton arena melihat.",
+        "hypothesis": "Orang ramai sedang melihat seseorang bermain bola keranjang.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang pemain bola keranjang dengan kasut hijau mencelup bola ke dalam jaring sambil penonton arena melihat.",
+        "hypothesis": "Seorang pemain NBA terkenal sedang bermain bola jalanan di hadapan orang ramai.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki tua berkerut dahi berkopiah tentera dan sut awam berdiri di antara orang ramai di luar rumah sambil membawa papan tanda dan belon.",
+        "hypothesis": "Sekumpulan orang berdiri di luar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki tua berkerut dahi berkopiah tentera dan sut awam berdiri di antara orang ramai di luar rumah sambil membawa papan tanda dan belon.",
+        "hypothesis": "Seorang veteran tentera yang marah melihat orang ramai membantah perang.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki tua berkerut dahi berkopiah tentera dan sut awam berdiri di antara orang ramai di luar rumah sambil membawa papan tanda dan belon.",
+        "hypothesis": "Seorang lelaki sedang menonton sekumpulan orang mengadakan pertandingan makan hot dog.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita yang memakai seluar pendek basikal dan skirt sedang menunggang basikal dan membawa beg bahu.",
+        "hypothesis": "Seorang wanita menaiki basikal.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita yang memakai seluar pendek basikal dan skirt sedang menunggang basikal dan membawa beg bahu.",
+        "hypothesis": "Seorang wanita menunggang basikal ke tempat kerja.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita yang memakai seluar pendek basikal dan skirt sedang menunggang basikal dan membawa beg bahu.",
+        "hypothesis": "Seorang wanita memandu kereta.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang belia papan selaju melakukan helah di atas rel.",
+        "hypothesis": "Seorang anak muda di atas papan selaju.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang belia papan selaju melakukan helah di atas rel.",
+        "hypothesis": "Seorang lelaki melukis pokok.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang belia papan selaju melakukan helah di atas rel.",
+        "hypothesis": "Seorang budak lelaki menunjukkan helah papan selaju baharunya kepada rakan-rakannya.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki berseluar jeans dan bertopi sedang membongkok di atas susur tangan dengan tambak konkrit terletak di hadapannya.",
+        "hypothesis": "Dia memakai baju berbutang.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki berseluar jeans dan bertopi sedang membongkok di atas susur tangan dengan tambak konkrit terletak di hadapannya.",
+        "hypothesis": "Kepala botaknya terdedah.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki berseluar jeans dan bertopi sedang membongkok di atas susur tangan dengan tambak konkrit terletak di hadapannya.",
+        "hypothesis": "Seorang lelaki sedang membongkok di atas pegangan tangan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Gadis berkot merah, pembalut kepala biru dan seluar jeans membuat bidadari salji.",
+        "hypothesis": "Seorang gadis berkot merah membuat malaikat salji buat kali pertama.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Gadis berkot merah, pembalut kepala biru dan seluar jeans membuat bidadari salji.",
+        "hypothesis": "Gadis berkot hitam tinggal di dalam rumah jauh dari salji.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Gadis berkot merah, pembalut kepala biru dan seluar jeans membuat bidadari salji.",
+        "hypothesis": "Seorang gadis di luar bermain salji.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sekumpulan orang berkumpul pada waktu malam menonton acara.",
+        "hypothesis": "Kumpulan kawan-kawan sedang tidur.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sekumpulan orang berkumpul pada waktu malam menonton acara.",
+        "hypothesis": "Sekumpulan manusia melihat ke arah yang sama.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sekumpulan orang berkumpul pada waktu malam menonton acara.",
+        "hypothesis": "Sekumpulan kawan sedang menonton konsert muzik pada waktu malam.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Pemain bola sepak Amerika berbaju kuning menangkap bola semasa di bawah tekanan daripada pembayar berbaju putih.",
+        "hypothesis": "Pemain bola sepak berada dalam tekanan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Pemain bola sepak Amerika berbaju kuning menangkap bola semasa di bawah tekanan daripada pembayar berbaju putih.",
+        "hypothesis": "Pemain bola sepak Amerika berbaju kuning menangkap bola semasa di bawah tekanan daripada pemain berbaju putih.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Pemain bola sepak Amerika berbaju kuning menangkap bola semasa di bawah tekanan daripada pembayar berbaju putih.",
+        "hypothesis": "Pemain bola keranjang menembak tiga mata.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seseorang yang berambut biru, berkopiah besbol dan bertudung berdiri di luar dalam kerumunan orang ramai.",
+        "hypothesis": "Seseorang sedang menikmati acara sukan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seseorang yang berambut biru, berkopiah besbol dan bertudung berdiri di luar dalam kerumunan orang ramai.",
+        "hypothesis": "Seseorang sedang menari dan menyanyi.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seseorang yang berambut biru, berkopiah besbol dan bertudung berdiri di luar dalam kerumunan orang ramai.",
+        "hypothesis": "Seseorang sedang berdiri di luar rumah.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang gadis memegang minuman menunjuk pada lukisan.",
+        "hypothesis": "Gadis itu berada di dalam tab mandi",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang gadis memegang minuman menunjuk pada lukisan.",
+        "hypothesis": "Gadis itu sedang minum minuman beralkohol.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang gadis memegang minuman menunjuk pada lukisan.",
+        "hypothesis": "Gadis itu mempunyai minuman.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki berbaju hitam, di dapur komersial, memegang daging dia keluarkan dari beg.",
+        "hypothesis": "Seorang lelaki berbaju hitam, di dapur komersial, memegang daging lama yang dikeluarkannya dari beg.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki berbaju hitam, di dapur komersial, memegang daging dia keluarkan dari beg.",
+        "hypothesis": "Seorang wanita berbaju hitam, di dapur komersial, memegang daging dia keluarkan dari beg.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki berbaju hitam, di dapur komersial, memegang daging dia keluarkan dari beg.",
+        "hypothesis": "Seorang lelaki berbaju, di dapur komersial, memegang daging dia keluarkan dari beg.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seseorang berbaju merah sedang memotong rumput dengan mesin pemotong hijau.",
+        "hypothesis": "Seseorang berbaju merah sedang berenang di Sukan Olimpik.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seseorang berbaju merah sedang memotong rumput dengan mesin pemotong hijau.",
+        "hypothesis": "Seseorang berbaju merah sedang menggerakkan rumput di atas motor John Deer.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seseorang berbaju merah sedang memotong rumput dengan mesin pemotong hijau.",
+        "hypothesis": "Seseorang berbaju merah sedang memotong rumput pada mesin pemotong tunggangan",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sekumpulan orang yang memakai baju hitam menaiki kenderaan atas terbuka.",
+        "hypothesis": "Sekumpulan orang menyusuri jalan dengan kereta boleh tukar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sekumpulan orang yang memakai baju hitam menaiki kenderaan atas terbuka.",
+        "hypothesis": "Pemandu itu memakai baju berwarna ungu.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sekumpulan orang yang memakai baju hitam menaiki kenderaan atas terbuka.",
+        "hypothesis": "Kawan-kawan menaiki kenderaan atas terbuka bersama-sama.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Dua lelaki menyediakan ikan di dermaga.",
+        "hypothesis": "Dua lelaki baru masuk dari memancing sepanjang hari",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Dua lelaki menyediakan ikan di dermaga.",
+        "hypothesis": "Dua lelaki sedang membersihkan ikan mereka",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Dua lelaki menyediakan ikan di dermaga.",
+        "hypothesis": "Dua lelaki sedang duduk di dalam sampan dengan pancing mereka",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita dengan mukanya sebahagiannya ditutup dengan cat muka perak duduk di atas tote plastik sambil melihat cermin.",
+        "hypothesis": "Wanita itu seorang model.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita dengan mukanya sebahagiannya ditutup dengan cat muka perak duduk di atas tote plastik sambil melihat cermin.",
+        "hypothesis": "Wanita itu mempunyai sesuatu di mukanya.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita dengan mukanya sebahagiannya ditutup dengan cat muka perak duduk di atas tote plastik sambil melihat cermin.",
+        "hypothesis": "Wanita itu buta.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki berbaju peluh Alaska berdiri di belakang kaunter.",
+        "hypothesis": "Lelaki itu memakai tank top.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki berbaju peluh Alaska berdiri di belakang kaunter.",
+        "hypothesis": "Lelaki itu berasal dari Alaska.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki berbaju peluh Alaska berdiri di belakang kaunter.",
+        "hypothesis": "Orang di belakang kaunter adalah seorang lelaki.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sekumpulan besar orang berjalan di bandar yang sibuk pada waktu malam.",
+        "hypothesis": "Orang ramai sedang makan tengah hari di sebuah restoran.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sekumpulan besar orang berjalan di bandar yang sibuk pada waktu malam.",
+        "hypothesis": "Orang ramai berjalan di bandar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sekumpulan besar orang berjalan di bandar yang sibuk pada waktu malam.",
+        "hypothesis": "Orang ramai berada di luar di sebuah taman.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita, berpakaian merah dan putih, dan berkaca mata, duduk di dalam bilik dengan orang lain.",
+        "hypothesis": "Seorang wanita sedang duduk di dalam bilik dengan orang lain.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita, berpakaian merah dan putih, dan berkaca mata, duduk di dalam bilik dengan orang lain.",
+        "hypothesis": "Seorang wanita sedang memainkan telefonnya duduk di dalam bilik.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita, berpakaian merah dan putih, dan berkaca mata, duduk di dalam bilik dengan orang lain.",
+        "hypothesis": "Seorang lelaki sedang membaiki keretanya.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang pemain bola lisut membaling bola kepada rakan sepasukannya.",
+        "hypothesis": "Rakan sepasukan bertanding dalam kejohanan bola lisut.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang pemain bola lisut membaling bola kepada rakan sepasukannya.",
+        "hypothesis": "Dua orang sedang bermain sofbol.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang pemain bola lisut membaling bola kepada rakan sepasukannya.",
+        "hypothesis": "Dua pemain sofbol sedang duduk di bangku simpanan.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang penunggang basikal berlumba.",
+        "hypothesis": "Seseorang sedang menunggang basikal",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang penunggang basikal berlumba.",
+        "hypothesis": "Penunggang basikal kalah dalam perlumbaan",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang penunggang basikal berlumba.",
+        "hypothesis": "Kereta berwarna kuning",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua kanak-kanak lelaki sedang tersenyum dan ketawa manakala seorang berdiri dan seorang di kerusi melenting.",
+        "hypothesis": "Ada dua orang budak kecil tersenyum.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Dua kanak-kanak lelaki sedang tersenyum dan ketawa manakala seorang berdiri dan seorang di tempat duduk melenting.",
+        "hypothesis": "Budak-budak kecil menangis.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua kanak-kanak lelaki sedang tersenyum dan ketawa manakala seorang berdiri dan seorang di kerusi melenting.",
+        "hypothesis": "Budak-budak ni adik beradik main sesama sendiri.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Nelayan asli pulau terkial-kial dalam pukat mereka selepas seharian bekerja.",
+        "hypothesis": "Lelaki itu menangkap banyak ikan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Nelayan asli pulau terkial-kial dalam pukat mereka selepas seharian bekerja.",
+        "hypothesis": "Lelaki itu tidak pergi bekerja hari ini sebaliknya bermain jambatan.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Nelayan asli pulau terkial-kial dalam pukat selepas seharian bekerja.",
+        "hypothesis": "Lelaki itu sedang menghabiskan hari mereka bekerja.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Mereka adalah orang dewasa muda yang nampaknya bekerjasama untuk melindungi tumbuhan di sekeliling tiang putih.",
+        "hypothesis": "Tumbuhannya ialah paku-pakis",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Mereka adalah orang dewasa muda yang nampaknya bekerjasama untuk melindungi tumbuhan di sekeliling tiang putih.",
+        "hypothesis": "Orang dewasa masih muda",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Mereka adalah orang dewasa muda yang nampaknya bekerjasama untuk melindungi tumbuhan di sekeliling tiang putih.",
+        "hypothesis": "Orang dewasa sudah tua",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua pemain bola sepak kolej bertarung di luar padang semasa hari permainan, di mana seorang adalah quarterback cuba membaling bola, dan pemain lain sedang beraksi untuk memecat quarterback.",
+        "hypothesis": "Dua pasukan dari kolej saingan berada dalam suku keempat permainan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Dua pemain bola sepak kolej bertarung di luar padang semasa hari permainan, di mana seorang adalah quarterback cuba membaling bola, dan pemain lain sedang beraksi untuk memecat quarterback.",
+        "hypothesis": "Beberapa gadis bermain bola keranjang.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua pemain bola sepak kolej bertarung di luar padang semasa hari permainan, di mana seorang adalah quarterback cuba membaling bola, dan pemain lain sedang beraksi untuk memecat quarterback.",
+        "hypothesis": "Permainan bola sepak kolej.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Dua orang sedang bermain Bola Sepak Amerika dan seorang daripada mereka cuba menghalang seorang lagi daripada membaling bola.",
+        "hypothesis": "Seorang penjaga garisan cuba untuk mengatasi quarterback sebelum dia membuat permainan touchdown memenangi permainan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Dua orang sedang bermain Bola Sepak Amerika dan seorang daripada mereka cuba menghalang seorang lagi daripada membaling bola.",
+        "hypothesis": "Seorang tukang kendi melemparkan besbol ke pemukul ketika dia cuba memukulnya keluar dari taman.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua orang sedang bermain Bola Sepak Amerika dan seorang daripada mereka cuba menghalang seorang lagi daripada membaling bola.",
+        "hypothesis": "Permainan bola sepak sedang dimainkan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki bermain biliard di sebuah bar.",
+        "hypothesis": "Seorang lelaki sedang bermain dengan kawan-kawan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki bermain biliard di sebuah bar.",
+        "hypothesis": "Seorang lelaki sedang bermain biliard.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki bermain biliard di sebuah bar.",
+        "hypothesis": "Seorang lelaki sedang bermain dam.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seekor anjing emas menghantar bola biru kepada anjing emas lain di pantai.",
+        "hypothesis": "Anjing adalah kawan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seekor anjing emas menghantar bola biru kepada anjing emas lain di pantai.",
+        "hypothesis": "Anjing-anjing itu enggan berkongsi.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seekor anjing emas menghantar bola biru kepada anjing emas lain di pantai.",
+        "hypothesis": "Anjing emas sedang bermain bola dengan anjing lain di luar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Orang ramai berada di eskalator menunggu untuk sampai ke destinasi mereka sambil melihat ke luar kaca yang membentuk dinding.",
+        "hypothesis": "Orang ramai naik eskalator.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Orang ramai berada di eskalator menunggu untuk sampai ke destinasi mereka sambil melihat ke luar kaca yang membentuk dinding.",
+        "hypothesis": "Orang ramai menaiki lif.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Orang ramai berada di eskalator menunggu untuk sampai ke destinasi mereka sambil melihat ke luar kaca yang membentuk dinding.",
+        "hypothesis": "Orang ramai menaiki eskalator.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita sedang menganyam dengan sikat di tangannya.",
+        "hypothesis": "Seorang wanita sedang bekerja.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita sedang menganyam dengan sikat di tangannya.",
+        "hypothesis": "Seorang wanita sedang melakukan sesuatu dengan tangannya.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita sedang menganyam dengan sikat di tangannya.",
+        "hypothesis": "Seorang wanita sedang duduk dengan tangan kosong.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang budak lelaki sedang menunggang jalan di antara dua ekor lembu.",
+        "hypothesis": "Seorang budak lelaki menunggang kuda dengan dua ekor lembu.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang budak lelaki sedang menunggang jalan di antara dua ekor lembu.",
+        "hypothesis": "Anak lelaki, jalan raya dan dua ekor lembu.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang budak lelaki sedang menunggang jalan di antara dua ekor lembu.",
+        "hypothesis": "Seekor lembu bersendirian.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Majlis hari jadi untuk dinikmati oleh ramai orang kecil.",
+        "hypothesis": "Kanak-kanak sedang menikmati majlis hari jadi.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Majlis hari jadi untuk dinikmati oleh ramai orang kecil.",
+        "hypothesis": "Kanak-kanak berlari di jalan.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Majlis hari jadi untuk dinikmati oleh ramai orang kecil.",
+        "hypothesis": "Kanak-kanak di majlis hari jadi.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Terdapat lima penyanyi di atas pentas, tiga wanita dan dua lelaki.",
+        "hypothesis": "Terdapat lebih ramai perempuan daripada lelaki.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Terdapat lima penyanyi di atas pentas, tiga wanita dan dua lelaki.",
+        "hypothesis": "Para penghibur sedang bermain bagpipe.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Terdapat lima penyanyi di atas pentas, tiga wanita dan dua lelaki.",
+        "hypothesis": "Orang yang membuat persembahan adalah sebahagian daripada korus.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Dua lelaki berdiri di dalam sebuah bot.",
+        "hypothesis": "Beberapa lelaki sedang berdiri di atas kereta.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua lelaki berdiri di dalam sebuah bot.",
+        "hypothesis": "Beberapa orang lelaki sedang memancing di atas bot.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Dua lelaki berdiri di dalam sebuah bot.",
+        "hypothesis": "Beberapa orang berada di dalam bot.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Wanita muda sedang meletakkan pakaiannya di bahagian pengering unit mesin basuh dan pengering bertindan dua.",
+        "hypothesis": "Seseorang mengeringkan pakaian",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Wanita muda sedang meletakkan pakaiannya di bahagian pengering unit mesin basuh dan pengering bertindan dua.",
+        "hypothesis": "Tiada siapa yang menjemur pakaian.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Matahari menembusi pepohonan ketika seorang kanak-kanak menaiki buaian.",
+        "hypothesis": "Kanak-kanak itu menaiki buaian dalam hujan.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Matahari menembusi pepohonan ketika seorang kanak-kanak menaiki buaian.",
+        "hypothesis": "Seorang kanak-kanak menaiki buaian pada waktu siang.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Matahari menembusi pepohonan ketika seorang kanak-kanak menaiki buaian.",
+        "hypothesis": "Kanak-kanak di atas buaian itu adalah seorang perempuan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Semua orang di jalanan di bandar kelihatan sibuk melakukan hal mereka sendiri.",
+        "hypothesis": "Orang ramai berpusu-pusu tentang jalan bandar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Semua orang di jalanan di bandar kelihatan sibuk melakukan hal mereka sendiri.",
+        "hypothesis": "Orang ramai memerhati apa yang berlaku.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Semua orang di jalanan di bandar kelihatan sibuk melakukan hal mereka sendiri.",
+        "hypothesis": "Orang ramai menjalankan perniagaan di bandar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki berapron tersenyum sambil mencucuk donat goreng dengan batang besi kecil.",
+        "hypothesis": "Lelaki itu sedang memasak makanan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki berapron tersenyum sambil mencucuk donat goreng dengan batang besi kecil.",
+        "hypothesis": "Lelaki itu berada di dapur sebuah restoran.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki berapron tersenyum sambil mencucuk donat goreng dengan batang besi kecil.",
+        "hypothesis": "Lelaki itu sedang mencuci keretanya.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita berpakaian tenis berlari untuk memukul bola dengan raket tenisnya.",
+        "hypothesis": "Seorang wanita bermain tenis.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita berpakaian tenis berlari untuk memukul bola dengan raket tenisnya.",
+        "hypothesis": "Serina Williams bermain tenis.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita berpakaian tenis berlari untuk memukul bola dengan raket tenisnya.",
+        "hypothesis": "Pete Sampras bermain tenis.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Beberapa orang wanita sedang bermain bola tampar.",
+        "hypothesis": "Mereka wanita sedang memukul bola dengan tangan mereka",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Beberapa orang wanita sedang bermain bola tampar.",
+        "hypothesis": "Ini tidak kelihatan seperti bola sepak",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Beberapa orang wanita sedang bermain bola tampar.",
+        "hypothesis": "Sekumpulan wanita sedang bermain bola tampar",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Dua pasukan bola tampar wanita bersaing antara satu sama lain di gelanggang berwarna salmon dan biru biru manakala pengadil dengan jam tangan hitam.",
+        "hypothesis": "Perlawanan bola tampar sedang berlangsung antara wanita",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Dua pasukan bola tampar wanita bersaing antara satu sama lain di gelanggang berwarna salmon dan biru biru manakala pengadil dengan jam tangan hitam.",
+        "hypothesis": "12 wanita bermain bola tampar",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Dua pasukan bola tampar wanita bersaing antara satu sama lain di gelanggang berwarna salmon dan biru biru manakala pengadil dengan jam tangan hitam.",
+        "hypothesis": "sepuluh orang lelaki bermain kriket",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang budak lelaki kecil dengan topi keledar basikal biru dan seorang wanita bertopi keledar basikal hijau menunggang basikal menyusuri jalan dengan pelbagai penunggang basikal yang lain.",
+        "hypothesis": "Seorang ibu dan anak lelakinya menunggang basikal bersama orang lain di sebatang jalan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang budak lelaki kecil dengan topi keledar basikal biru dan seorang wanita bertopi keledar basikal hijau menunggang basikal menyusuri jalan dengan pelbagai penunggang basikal yang lain.",
+        "hypothesis": "Sekumpulan orang sedang menukar tayar basikal.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang budak lelaki kecil dengan topi keledar basikal biru dan seorang wanita bertopi keledar basikal hijau menunggang basikal menyusuri jalan dengan pelbagai penunggang basikal yang lain.",
+        "hypothesis": "Sekumpulan orang menunggang basikal bersama-sama menyusuri jalan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Orang ramai menunggang basikal di jalan, dan mereka semua memakai topi keledar.",
+        "hypothesis": "Sekumpulan kawan sedang berbasikal melalui jalan, semuanya memakai topi keledar",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Orang ramai menunggang basikal di jalan, dan mereka semua memakai topi keledar.",
+        "hypothesis": "Sekumpulan kawan sedang merebut basikal mereka, bersiap sedia untuk berbasikal pagi",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Orang ramai menunggang basikal di jalan, dan mereka semua memakai topi keledar.",
+        "hypothesis": "Sekumpulan penunggang basikal berada di jalan di luar",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Pasaran timur tengah.",
+        "hypothesis": "Sebuah kedai timur tengah.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Pasaran timur tengah.",
+        "hypothesis": "Sebuah teater Amerika.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Pasaran timur tengah.",
+        "hypothesis": "Kedai asing.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "seorang wanita berbaju hitam melihat basikal.",
+        "hypothesis": "Seorang wanita melihat basikal.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "seorang wanita berbaju hitam melihat basikal.",
+        "hypothesis": "Seorang wanita berpakaian di kedai hitam untuk basikal.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "seorang wanita berbaju hitam melihat basikal.",
+        "hypothesis": "Seorang wanita berbaju hijau tidur di atas sofa.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Empat lelaki bermain dram dalam pencahayaan yang sangat oren manakala seorang daripada mereka juga sedang meminum sesuatu dari botol.",
+        "hypothesis": "lelaki adalah pemuzik",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Empat lelaki bermain dram dalam pencahayaan yang sangat oren manakala seorang daripada mereka juga sedang meminum sesuatu dari botol.",
+        "hypothesis": "lelaki sedang tidur di motel",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Empat lelaki bermain dram dalam pencahayaan yang sangat oren manakala seorang daripada mereka juga sedang meminum sesuatu dari botol.",
+        "hypothesis": "empat lelaki bermain dram",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Lelaki muda berjersi hijau dan biru menendang bola sepak manakala permainan bola sepak lain berlangsung di latar belakang.",
+        "hypothesis": "Lelaki muda membaling besbol di padang besbol.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Lelaki muda berjersi hijau dan biru menendang bola sepak manakala permainan bola sepak lain berlangsung di latar belakang.",
+        "hypothesis": "Lelaki muda menunggu permainan bola sepak mereka.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Lelaki muda berjersi hijau dan biru menendang bola sepak manakala permainan bola sepak lain berlangsung di latar belakang.",
+        "hypothesis": "Lelaki muda menendang bola sepak.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki bertunik one piece sedang menunggang basikal di hadapan dinding batu pasir sambil menyentuh hidungnya.",
+        "hypothesis": "Lelaki itu sedang menguji basikal.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki bertunik one piece sedang menunggang basikal di hadapan dinding batu pasir sambil menyentuh hidungnya.",
+        "hypothesis": "Lelaki itu memandu lori.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki bertunik one piece sedang menunggang basikal di hadapan dinding batu pasir sambil menyentuh hidungnya.",
+        "hypothesis": "Lelaki itu menunggang basikal.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki dan perempuan melihat ke bawah banjaran gunung.",
+        "hypothesis": "Orang ramai melihat gunung.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki dan perempuan melihat ke bawah banjaran gunung.",
+        "hypothesis": "Pasangan itu akan mendaki gunung.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki dan perempuan melihat ke bawah banjaran gunung.",
+        "hypothesis": "Orang ramai melihat ke langit.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki sedang duduk di kerusi hijau, bercakap di telefon, dan bekerja pada komputer riba, dan terdapat tapak pembinaan di sebelah bangunannya.",
+        "hypothesis": "Lelaki itu mundar-mandir dengan gugup.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki sedang duduk di kerusi hijau, bercakap di telefon, dan bekerja pada komputer riba, dan terdapat tapak pembinaan di sebelah bangunannya.",
+        "hypothesis": "Lelaki itu boleh mendengar pembinaan sedang berjalan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki sedang duduk di kerusi hijau, bercakap di telefon, dan bekerja pada komputer riba, dan terdapat tapak pembinaan di sebelah bangunannya.",
+        "hypothesis": "Seorang lelaki tin berada di telefon.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang budak lelaki memukul bola tenis di gelanggang.",
+        "hypothesis": "Seorang gadis sedang memukul bola.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang budak lelaki memukul bola tenis di gelanggang.",
+        "hypothesis": "Budak itu pandai bermain tenis.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang budak lelaki memukul bola tenis di gelanggang.",
+        "hypothesis": "Seorang budak lelaki sedang memukul bola.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Golden retriever merawat anak anjing.",
+        "hypothesis": "Seekor golden retriever menyusu beberapa anak anjing anjing lain",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Golden retriever merawat anak anjing.",
+        "hypothesis": "Anak anjing di sebelah ibu mereka",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Golden retriever merawat anak anjing.",
+        "hypothesis": "Seekor kucing menjaga anak anjing",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki muda dengan kot musim sejuk coklat berat berdiri di hadapan pagar biru dengan tangan terbentang.",
+        "hypothesis": "Pemuda itu berada di rumah neneknya.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki muda dengan kot musim sejuk coklat berat berdiri di hadapan pagar biru dengan tangan terbentang.",
+        "hypothesis": "Pagar berada di hadapan tasik beku.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki muda dengan kot musim sejuk coklat berat berdiri di hadapan pagar biru dengan tangan terbentang.",
+        "hypothesis": "Lelaki itu melebarkan tangannya sambil berdiri di hadapan pagar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki berkulit hitam memakai jaket bawah dengan tangan terbentang dan memegang sikat merah jambu.",
+        "hypothesis": "Seorang lelaki memakai jaket pada musim sejuk.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki berkulit hitam memakai jaket bawah dengan tangan terbentang dan memegang sikat merah jambu.",
+        "hypothesis": "Seseorang yang memakai baju kapas sedang melihat sikat rambut hijau.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki berkulit hitam memakai jaket bawah dengan tangan terbentang dan memegang sikat merah jambu.",
+        "hypothesis": "Seorang lelaki memakai jaket sambil memegang sikat.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki berjaket coklat berdiri dengan tangan terbentang.",
+        "hypothesis": "Lelaki itu memohon belas kasihan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki berjaket coklat berdiri dengan tangan terbentang.",
+        "hypothesis": "Lelaki itu tegak.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki berjaket coklat berdiri dengan tangan terbentang.",
+        "hypothesis": "Lelaki itu duduk bersila di atas lantai.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki yang memakai jaket merah sedang berjalan melewati pagar hitam dan hijau.",
+        "hypothesis": "Lelaki yang memakai vest sedang berjalan di jalan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki yang memakai jaket merah sedang berjalan melewati pagar hitam dan hijau.",
+        "hypothesis": "Seorang lelaki memakai vest.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki yang memakai jaket merah sedang berjalan melewati pagar hitam dan hijau.",
+        "hypothesis": "Lelaki yang memakai vest itu sedang duduk di atas sofa.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Gadis-gadis ini sedang berseronok mencari kerang.",
+        "hypothesis": "Gadis-gadis gembira.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Gadis-gadis ini sedang berseronok mencari kerang.",
+        "hypothesis": "Gadis-gadis sedang tidur sebentar.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Gadis-gadis ini sedang berseronok mencari kerang.",
+        "hypothesis": "Gadis-gadis di luar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki sedang bermain saksofon di jalan dan beberapa orang sedang duduk di tepi jalan di sebelahnya.",
+        "hypothesis": "Seorang lelaki bermain alat muzik di jalan berhampiran orang lain.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki sedang bermain saksofon di jalan dan beberapa orang sedang duduk di tepi jalan di sebelahnya.",
+        "hypothesis": "Seorang lelaki cuba mendapatkan wang dengan bermain untuk orang lain di jalanan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki sedang bermain saksofon di jalan dan beberapa orang sedang duduk di tepi jalan di sebelahnya.",
+        "hypothesis": "Seorang wanita sedang terbang merentas desa.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki berdiri bercakap dengan seorang wanita yang duduk semasa menaiki kenderaan.",
+        "hypothesis": "Dua orang sedang bercakap.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki berdiri bercakap dengan seorang wanita yang duduk semasa menaiki kenderaan.",
+        "hypothesis": "Tiga orang sedang mengadakan mesyuarat.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki berdiri bercakap dengan seorang wanita yang duduk semasa menaiki kenderaan.",
+        "hypothesis": "Dua orang sedang membincangkan hubungan mereka.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang budak lelaki berambut rapat, memakai jubah merah, memegang cerek hitam ketika seseorang hendak menuang sesuatu ke dalamnya.",
+        "hypothesis": "seorang budak kecil berlari melalui ladang jagung",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang budak lelaki berambut rapat, memakai jubah merah, memegang cerek hitam ketika seseorang hendak menuang sesuatu ke dalamnya.",
+        "hypothesis": "seorang budak kecil memegang cerek yang tidak lama lagi akan diisi dengan salsa",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang budak lelaki berambut rapat, memakai jubah merah, memegang cerek hitam ketika seseorang hendak menuang sesuatu ke dalamnya.",
+        "hypothesis": "seorang budak kecil sedang memegang cerek yang tidak lama lagi akan diisi",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Empat orang dan seorang bayi sedang menyeberang jalan di persimpangan jalan.",
+        "hypothesis": "Orang ramai dan bayi menaiki bas.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Empat orang dan seorang bayi sedang menyeberang jalan di persimpangan jalan.",
+        "hypothesis": "Orang ramai dan bayi menyeberang jalan.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Empat orang dan seorang bayi sedang menyeberang jalan di persimpangan jalan.",
+        "hypothesis": "Orang ramai dan seorang bayi sedang menyeberang jalan di persimpangan untuk pulang ke rumah.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Dua wanita memakai gaun berdiri di luar di atas rumput manakala salah seorang daripada mereka memegang cawan dan piring.",
+        "hypothesis": "Dua orang berdiri di atas rumput.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Dua wanita memakai gaun berdiri di luar di atas rumput manakala salah seorang daripada mereka memegang cawan dan piring.",
+        "hypothesis": "Dua wanita berpakaian bersiap sedia untuk berkelah.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Dua wanita memakai gaun berdiri di luar di atas rumput manakala salah seorang daripada mereka memegang cawan dan piring.",
+        "hypothesis": "Wanita sedang berbual di pejabat,",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita bersandar di atas pagar kecil untuk mengambil gambar bunga kuning.",
+        "hypothesis": "Wanita itu seorang jurugambar profesional",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita bersandar di atas pagar kecil untuk mengambil gambar bunga kuning.",
+        "hypothesis": "Bunga itu berwarna biru",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita bersandar di atas pagar kecil untuk mengambil gambar bunga kuning.",
+        "hypothesis": "Seorang wanita sedang mengambil gambar",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sekumpulan empat kanak-kanak bergambar di pantai berlumpur, tersenyum dan membuat muka.",
+        "hypothesis": "Empat kanak-kanak bergambar di pantai.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sekumpulan empat kanak-kanak bergambar di pantai berlumpur, tersenyum dan membuat muka.",
+        "hypothesis": "Empat kanak-kanak bergambar semasa percutian musim panas.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sekumpulan empat kanak-kanak bergambar di pantai berlumpur, tersenyum dan membuat muka.",
+        "hypothesis": "Seorang lelaki mengacau rebusan.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Beberapa lelaki di sebuah bar menonton permainan sukan di televisyen.",
+        "hypothesis": "Beberapa lelaki sedang menonton TV di sebuah bar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Beberapa lelaki di sebuah bar menonton permainan sukan di televisyen.",
+        "hypothesis": "Terdapat lelaki minum bir di bar sukan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Beberapa lelaki di sebuah bar menonton permainan sukan di televisyen.",
+        "hypothesis": "Lelaki itu sedang bermain besbol.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua pekerja di tepi jalan dengan jaket keselamatan hijau limau, topi keras putih dan sarung tangan dengan kon pembinaan di latar belakang",
+        "hypothesis": "Dua lelaki memakai jaket hijau limau.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Dua pekerja di tepi jalan dengan jaket keselamatan hijau limau, topi keras putih dan sarung tangan dengan kon pembinaan di latar belakang",
+        "hypothesis": "Dua lelaki sedang meletakkan kon pembinaan sebagai penyediaan bangunan saluran paip baharu.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Dua pekerja di tepi jalan dengan jaket keselamatan hijau limau, topi keras putih dan sarung tangan dengan kon pembinaan di latar belakang",
+        "hypothesis": "Seorang wanita menghukum yang lain.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita dalam pakaian hitam berbaring muka pertama di atas tikar yoga; beberapa lukisan digantung di dinding, dan matahari bersinar melalui tingkap besar berhampirannya.",
+        "hypothesis": "Seorang artis berehat di studionya.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita dalam pakaian hitam berbaring muka pertama di atas tikar yoga; beberapa lukisan digantung di dinding, dan matahari bersinar melalui tingkap besar berhampirannya.",
+        "hypothesis": "Terdapat seorang di dalam bilik.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita dalam pakaian hitam berbaring muka pertama di atas tikar yoga; beberapa lukisan digantung di dinding, dan matahari bersinar melalui tingkap besar berhampirannya.",
+        "hypothesis": "Seorang wanita sedang tidur manakala cahaya bulan menapis di tingkap.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Kanak-kanak berpakaian seragam sukan kuning memanjat menara.",
+        "hypothesis": "Kanak-kanak adalah pelajar silat.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Kanak-kanak berpakaian seragam sukan kuning memanjat menara.",
+        "hypothesis": "Kanak-kanak merangkak dalam pasir.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Kanak-kanak berpakaian seragam sukan kuning memanjat menara.",
+        "hypothesis": "Kanak-kanak berpakaian seragam memanjat menara.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Beberapa anjing berlari di pantai terbiar.",
+        "hypothesis": "Mereka berada di Hawaii.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Beberapa anjing berlari di pantai terbiar.",
+        "hypothesis": "Hanya ada seekor anjing di pantai.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Beberapa anjing berlari di pantai terbiar.",
+        "hypothesis": "Terdapat banyak anjing yang hadir.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Jalan bandar yang sesak dengan ramai pejalan kaki.",
+        "hypothesis": "Terdapat ramai penunggang motosikal di jalan ini.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Jalan bandar yang sesak dengan ramai pejalan kaki.",
+        "hypothesis": "Terdapat ramai pejalan kaki di jalan bandar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Jalan bandar yang sesak dengan ramai pejalan kaki.",
+        "hypothesis": "Para pejalan kaki sedang menunggu perarakan untuk datang melalui jalan yang sibuk ini.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita memakai blaus oren terang sedang menenun.",
+        "hypothesis": "Seorang wanita memakai blaus oren terang dan topi hijau.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita memakai blaus oren terang sedang menenun.",
+        "hypothesis": "Seorang wanita sedang menggosok seluar merah.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita memakai blaus oren terang sedang menenun.",
+        "hypothesis": "Seorang wanita sedang menganyam.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sekumpulan orang berada di dalam perahu dayung di lautan yang dikelilingi oleh burung camar.",
+        "hypothesis": "Sekumpulan orang berada di dalam menonton permainan hoki.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sekumpulan orang berada di dalam perahu dayung di lautan yang dikelilingi oleh burung camar.",
+        "hypothesis": "Sekumpulan orang berada di dalam objek kayu di atas air.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sekumpulan orang berada di dalam perahu dayung di lautan yang dikelilingi oleh burung camar.",
+        "hypothesis": "Sekumpulan orang sedang mendayung menuju ke beberapa pulau manakala salah seorang daripada mereka memancing.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita berbaju coklat sedang melutut di jalan.",
+        "hypothesis": "Seorang wanita sedang memprotes di jalanan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita berbaju coklat sedang melutut di jalan.",
+        "hypothesis": "Seorang wanita berada di atas tanah di luar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita berbaju coklat sedang melutut di jalan.",
+        "hypothesis": "Seorang wanita sedang menunggang basikal.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki memegang bayi yang sedang membelai kuda.",
+        "hypothesis": "Seorang lelaki yang menculik bayi sedang membelai seekor kuda poni.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki memegang bayi yang sedang membelai kuda.",
+        "hypothesis": "Seorang lelaki dengan bayi sedang membelai seekor kuda poni.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki memegang bayi yang sedang membelai kuda.",
+        "hypothesis": "Seorang lelaki dan anak perempuannya sedang membelai seekor kuda poni.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Lelaki duduk di tepi jalan bata.",
+        "hypothesis": "saya duduk di tepi jalan",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Lelaki duduk di tepi jalan bata.",
+        "hypothesis": "tepi jalan kosong.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Lelaki duduk di tepi jalan bata.",
+        "hypothesis": "lelaki sedang bercakap di tepi jalan",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seekor anjing hitam berkolar biru melompat ke dalam air.",
+        "hypothesis": "Seekor anjing akan basah.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seekor anjing hitam berkolar biru melompat ke dalam air.",
+        "hypothesis": "Seekor anjing hitam berkolar biru sedang mengejar sesuatu ke dalam air.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seekor anjing hitam berkolar biru melompat ke dalam air.",
+        "hypothesis": "Seekor anjing mengelak air.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang gadis muda berbaju kuning dan berskirt berbunga sedang berdiri di atas selimut dan menggigit mainan.",
+        "hypothesis": "Seorang gadis sedang berdiri.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang gadis muda berbaju kuning dan berskirt berbunga sedang berdiri di atas selimut dan menggigit mainan.",
+        "hypothesis": "Seorang gadis berdiri di luar.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang gadis muda berbaju kuning dan berskirt berbunga sedang berdiri di atas selimut dan menggigit mainan.",
+        "hypothesis": "Semua orang duduk.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "ramai kanak-kanak bermain air.",
+        "hypothesis": "Kanak-kanak berada di kem.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "ramai kanak-kanak bermain air.",
+        "hypothesis": "Sesetengah kanak-kanak memercik di dalam air dan berinteraksi antara satu sama lain.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "ramai kanak-kanak bermain air.",
+        "hypothesis": "Kanak-kanak bermain golf mini.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sekumpulan kanak-kanak sedang merenjis air dalam berhampiran formasi batu.",
+        "hypothesis": "Kanak-kanak menyanyi dalam koir",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sekumpulan kanak-kanak sedang merenjis air dalam berhampiran formasi batu.",
+        "hypothesis": "Kanak-kanak berada di dalam air dalam",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Sekumpulan kanak-kanak sedang merenjis air dalam berhampiran formasi batu.",
+        "hypothesis": "Mereka memakai jaket keselamatan",
+        "answer": "neutral"
+    },
+    {
+        "premise": "seorang pendaki yang memakai ikat kepala merah sedang menarik dirinya ke atas beberapa batu kelabu tinggi di atas beberapa dedaunan hijau.",
+        "hypothesis": "Seorang pendaki wanita cuba menarik dirinya ke atas",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "seorang pendaki yang memakai ikat kepala merah sedang menarik dirinya ke atas beberapa batu kelabu tinggi di atas beberapa dedaunan hijau.",
+        "hypothesis": "Seorang pendaki menarik dirinya ke atas beberapa batu",
+        "answer": "entailment"
+    },
+    {
+        "premise": "seorang pendaki yang memakai ikat kepala merah sedang menarik dirinya ke atas beberapa batu kelabu tinggi di atas beberapa dedaunan hijau.",
+        "hypothesis": "Seorang pendaki menarik dirinya ke atas 5000 kaki ke atas hutan",
+        "answer": "neutral"
+    },
+    {
+        "premise": "seorang lelaki dengan ikat kepala merah memanjat tebing batu yang menjulang kehijauan.",
+        "hypothesis": "Seorang lelaki berada di luar rumah.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "seorang lelaki dengan ikat kepala merah memanjat tebing batu yang menjulang kehijauan.",
+        "hypothesis": "Seorang lelaki memakai peralatan memanjat.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "seorang lelaki dengan ikat kepala merah memanjat tebing batu yang menjulang kehijauan.",
+        "hypothesis": "Seorang lelaki sedang berenang di lautan.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Dua wanita tua yang berpakaian formal dan botak",
+        "hypothesis": "Dua wanita botak.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Dua wanita tua yang berpakaian formal dan botak",
+        "hypothesis": "Dua wanita botak berkaca mata.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Dua wanita tua yang berpakaian formal dan botak",
+        "hypothesis": "Dua wanita muda berambut panjang.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang gelandangan menolak troli beli-belah berwarna biru plastik yang penuh.",
+        "hypothesis": "Seorang lelaki mempunyai troli beli-belah",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang gelandangan menolak troli beli-belah berwarna biru plastik yang penuh.",
+        "hypothesis": "Seorang lelaki sedang mengumpul tin untuk dikitar semula",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang gelandangan menolak troli beli-belah berwarna biru plastik yang penuh.",
+        "hypothesis": "Seorang kaya yang memegang rolex",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "tukang kasut tua di kilangnya",
+        "hypothesis": "Tukang kasut ada di dalam.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "tukang kasut tua di kilangnya",
+        "hypothesis": "Tukang kasut sedang bersiap sedia untuk ulang tahunnya yang ke-16.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "tukang kasut tua di kilangnya",
+        "hypothesis": "Tukang kasut itu kaya raya.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita berambut perang bercakap dengan sekumpulan pelajar perempuan muda berambut gelap membawa kepingan kertas.",
+        "hypothesis": "Seorang wanita bercakap dengan wanita lain.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita berambut perang bercakap dengan sekumpulan pelajar perempuan muda berambut gelap membawa kepingan kertas.",
+        "hypothesis": "Seorang berambut perang bercakap dengan sekumpulan pelajar wanita muda berambut gelap membawa kepingan kertas.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita berambut perang bercakap dengan sekumpulan pelajar perempuan muda berambut gelap membawa kepingan kertas.",
+        "hypothesis": "Seorang lelaki memukul seorang wanita.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Wanita berbaju hitam itu menghulurkan kertas kepada kanak-kanak di sekelilingnya.",
+        "hypothesis": "Seseorang memberikan kertas.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Wanita berbaju hitam itu menghulurkan kertas kepada kanak-kanak di sekelilingnya.",
+        "hypothesis": "Wanita itu sedang memberikan kerja rumah kepada anak-anak.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Wanita berbaju hitam itu menghulurkan kertas kepada kanak-kanak di sekelilingnya.",
+        "hypothesis": "Wanita menyimpan kertas itu untuk dirinya sendiri.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Gadis berbaju merah melompat",
+        "hypothesis": "Gadis itu melompat untuk menangkap frisbee.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Gadis berbaju merah melompat",
+        "hypothesis": "Gadis itu duduk di atas rumput.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Gadis berbaju merah melompat",
+        "hypothesis": "Gadis berbaju merah berada di udara.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "3 wanita dengan nombor pada baju mereka berlari.",
+        "hypothesis": "Ada wanita berlari.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "3 wanita dengan nombor pada baju mereka berlari.",
+        "hypothesis": "Wanita itu menunggang basikal.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "3 wanita dengan nombor pada baju mereka berlari.",
+        "hypothesis": "Wanita sedang maraton.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang budak lelaki berjalan di atas paip yang terbentang di atas air.",
+        "hypothesis": "Seorang budak lelaki sedang membuat sub sandwic di dapurnya.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang budak lelaki berjalan di atas paip yang terbentang di atas air.",
+        "hypothesis": "Seorang budak lelaki sedang berjalan di luar.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang budak lelaki berjalan di atas paip yang terbentang di atas air.",
+        "hypothesis": "Seorang budak lelaki dalam bahaya jatuh ke dalam air.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang budak lelaki berseluar pendek hijau mengimbangi paip di atas sungai.",
+        "hypothesis": "Tiada siapa yang mengimbangi.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang budak lelaki berseluar pendek hijau mengimbangi paip di atas sungai.",
+        "hypothesis": "Seorang yang bijak mengimbangi.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang budak lelaki berseluar pendek hijau mengimbangi paip di atas sungai.",
+        "hypothesis": "Seseorang yang mengimbangi.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki muda berbaju hitam dan membawa papan selaju melihat ke taman papan selaju luar.",
+        "hypothesis": "Seorang lelaki dengan papan selaju sedang melihat taman ke papan selaju.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki muda berbaju hitam dan membawa papan selaju melihat ke taman papan selaju luar.",
+        "hypothesis": "Seorang gadis dengan ekor kuda sedang menunggang basikal di sebuah taman.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki muda berbaju hitam dan membawa papan selaju melihat ke taman papan selaju luar.",
+        "hypothesis": "Seorang lelaki akan bermain papan selaju hari ini.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Budak lelaki memakai baju tidur berbaring di atas katil dan tidur di atas bantal berjalur berwarna-warni.",
+        "hypothesis": "Seorang budak lelaki sedang bermain bola sepak.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Budak lelaki memakai baju tidur berbaring di atas katil dan tidur di atas bantal berjalur berwarna-warni.",
+        "hypothesis": "Seorang budak lelaki sedang tidur di sleep over.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Budak lelaki memakai baju tidur berbaring di atas katil dan tidur di atas bantal berjalur berwarna-warni.",
+        "hypothesis": "Seorang budak lelaki sedang tidur di atas bantal.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki berbaju t berkolar biru bergambar pada seseorang sambil memegang surat khabar berbahasa Ibrani.",
+        "hypothesis": "Dia memakai surat khabar di kepalanya.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki berbaju t berkolar biru bergambar pada seseorang sambil memegang surat khabar berbahasa Ibrani.",
+        "hypothesis": "Dia sedang membaca surat khabar.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki berbaju t berkolar biru bergambar pada seseorang sambil memegang surat khabar berbahasa Ibrani.",
+        "hypothesis": "Dia Yahudi.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki berjanggut melompat di dalam salji dengan lautan di latar belakang dan basikal berbaring jingga diletakkan berhampiran papan tanda jalan.",
+        "hypothesis": "Manusia melompat.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang lelaki berjanggut melompat di dalam salji dengan lautan di latar belakang dan basikal berbaring jingga diletakkan berhampiran papan tanda jalan.",
+        "hypothesis": "Tiada siapa yang melompat.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki berjanggut melompat di dalam salji dengan lautan di latar belakang dan basikal berbaring jingga diletakkan berhampiran papan tanda jalan.",
+        "hypothesis": "Seorang manusia tinggi melompat.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Empat kanak-kanak sedang bermain air.",
+        "hypothesis": "Anak-anak berlumpur.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Empat kanak-kanak sedang bermain air.",
+        "hypothesis": "Kanak-kanak basah.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Empat kanak-kanak sedang bermain air.",
+        "hypothesis": "Anak-anak buat kerja.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Empat gadis muda bermain air.",
+        "hypothesis": "Empat gadis berada di dalam air.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Empat gadis muda bermain air.",
+        "hypothesis": "Terdapat kanak-kanak lelaki dan perempuan di dalam air.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Empat gadis muda bermain air.",
+        "hypothesis": "Empat gadis sedang berenang.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Lelaki berbaju t hitam itu cuba membaling sesuatu.",
+        "hypothesis": "Lelaki itu berjalan pergi.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Lelaki berbaju t hitam itu cuba membaling sesuatu.",
+        "hypothesis": "Lelaki itu berbaju hitam.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Lelaki berbaju t hitam itu cuba membaling sesuatu.",
+        "hypothesis": "Lelaki itu sedang membaling sesuatu kepada anaknya.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang budak lelaki berbaju kuning lengan panjang dan seluar jeans duduk, dengan lima orang dewasa di hadapannya, seorang mengendalikan kamera video.",
+        "hypothesis": "Seseorang merakam seorang budak lelaki semasa dia mengikuti uji bakat untuk bahagian dalam filem.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang budak lelaki berbaju kuning lengan panjang dan seluar jeans duduk, dengan lima orang dewasa di hadapannya, seorang mengendalikan kamera video.",
+        "hypothesis": "Seorang budak lelaki sedang menyulap tiga bola merah sambil ditutup matanya.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang budak lelaki berbaju kuning lengan panjang dan seluar jeans duduk, dengan lima orang dewasa di hadapannya, seorang mengendalikan kamera video.",
+        "hypothesis": "Seorang dewasa menggunakan kamera video.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Kanak-kanak lelaki membelakangi mereka melawan gelombang masuk.",
+        "hypothesis": "Sekumpulan orang bermain di lautan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Kanak-kanak lelaki membelakangi mereka melawan gelombang masuk.",
+        "hypothesis": "Sekumpulan orang berdiri bersama-sama.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Kanak-kanak lelaki membelakangi mereka melawan gelombang masuk.",
+        "hypothesis": "Sekumpulan orang duduk di pantai.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Empat budak lelaki hampir dipukul ombak yang menghampiri.",
+        "hypothesis": "Gelombang akan memukul beberapa budak lelaki.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Empat budak lelaki hampir dipukul ombak yang menghampiri.",
+        "hypothesis": "Gelombang merindui budak-budak itu.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Empat budak lelaki hampir dipukul ombak yang menghampiri.",
+        "hypothesis": "Gelombang gergasi akan menghempas beberapa budak lelaki.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita, berdiri di belakang seorang gadis, membantu gadis itu dengan eksperimen.",
+        "hypothesis": "Seorang ibu sedang membantu anaknya menyelesaikan eksperimen.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita, berdiri di belakang seorang gadis, membantu gadis itu dengan eksperimen.",
+        "hypothesis": "Seorang wanita sedang menolong seorang gadis.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita sedang membantu wanita lain bekerja di petak perak, yang kemungkinan besar berkaitan dengan kerja jururawat.",
+        "hypothesis": "Seorang wanita sedang tidur di atas sofa",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita sedang membantu wanita lain bekerja di petak perak, yang kemungkinan besar berkaitan dengan kerja jururawat.",
+        "hypothesis": "Seorang wanita sedang membantu wanita lain bekerja",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Seorang wanita sedang membantu wanita lain bekerja di petak perak, yang kemungkinan besar berkaitan dengan kerja jururawat.",
+        "hypothesis": "Dua wanita cuba menyelesaikan pesanan daripada doktor",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki, memakai jaket biru, menendang lelaki lain, memakai jaket merah.",
+        "hypothesis": "Dua lelaki sedang bergaduh di luar sebuah bar.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki, memakai jaket biru, menendang lelaki lain, memakai jaket merah.",
+        "hypothesis": "Seorang wanita memakai solek",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki, memakai jaket biru, menendang lelaki lain, memakai jaket merah.",
+        "hypothesis": "Seorang lelaki menendang seorang lagi.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Ramai orang berkumpul di dalam bilik dengan beberapa orang di atas pentas dengan instrumen dan perkataan \"The Early November\" di dinding.",
+        "hypothesis": "Ibu bapa berkumpul untuk konsert sekolah menengah tempatan",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Ramai orang berkumpul di dalam bilik dengan beberapa orang di atas pentas dengan instrumen dan perkataan \"The Early November\" di dinding.",
+        "hypothesis": "Mob berkumpul semasa seruling bertarung hingga mati",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Ramai orang berkumpul di dalam bilik dengan beberapa orang di atas pentas dengan instrumen dan perkataan \"The Early November\" di dinding.",
+        "hypothesis": "Orang ramai pergi kerana konsert memutuskan untuk mengenakan bayaran bagi setiap nota",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang pemain hoki bertopi keledar.",
+        "hypothesis": "Pemain memakai topi keledar.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang pemain hoki bertopi keledar.",
+        "hypothesis": "Para pemain sedang berehat.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang pemain hoki bertopi keledar.",
+        "hypothesis": "Mereka bermain hoki",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Lelaki berpakaian biru tunduk di lantai di hadapan lelaki lain berbaju biru tunduk di lantai dengan dua lelaki lain memakai biru melutut di lantai yang sama juga.",
+        "hypothesis": "Seorang lelaki memakai sesuatu.",
+        "answer": "entailment"
+    },
+    {
+        "premise": "Lelaki berpakaian biru tunduk di lantai di hadapan lelaki lain berbaju biru tunduk di lantai dengan dua lelaki lain memakai biru melutut di lantai yang sama juga.",
+        "hypothesis": "Seorang lelaki tidak memakai apa-apa.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Lelaki berpakaian biru tunduk di lantai di hadapan lelaki lain berbaju biru tunduk di lantai dengan dua lelaki lain memakai biru melutut di lantai yang sama juga.",
+        "hypothesis": "Seorang lelaki memakai baju biru.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Bikers menunggang melalui hutan.",
+        "hypothesis": "Penunggang basikal gunung bersaing dalam perlumbaan luar jalan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Bikers menunggang melalui hutan.",
+        "hypothesis": "Lelaki menunggang motosikal di lebuh raya.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Bikers menunggang melalui hutan.",
+        "hypothesis": "Penunggang basikal gunung menikmati denai tempatan.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki muda berbaju-T biru dan berseluar peluh berdiri di atas dapur dan melihat ke arah kamera manakala seorang lagi lelaki muda berdiri di belakangnya.",
+        "hypothesis": "Dua lelaki sedang merakam tutorial memasak.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang lelaki muda berbaju-T biru dan berseluar peluh berdiri di atas dapur dan melihat ke arah kamera manakala seorang lagi lelaki muda berdiri di belakangnya.",
+        "hypothesis": "dua lelaki berada di kolam.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "pasangan sedang menikmati hidangan, manakala sekumpulan anjing tidur sebentar.",
+        "hypothesis": "PASANGAN SEDANG MAKAN STEAK",
+        "answer": "neutral"
+    },
+    {
+        "premise": "pasangan sedang menikmati hidangan, manakala sekumpulan anjing tidur sebentar.",
+        "hypothesis": "ADA PASANGAN BERJALAN ANJING MEREKA",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seekor itik putih mengembangkan sayapnya di dalam air.",
+        "hypothesis": "Itik adalah baka yang jarang ditemui, kebanyakannya dianggap telah dihalau kepupusan beberapa tahun lalu.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seekor itik putih mengembangkan sayapnya di dalam air.",
+        "hypothesis": "Itik tidur nyenyak, terapung di atas air",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita memakai seluar jeans sedang berjalan di jalan.",
+        "hypothesis": "Seorang wanita tua dengan tongkat sedang duduk di atas kerusi.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang wanita memakai seluar jeans sedang berjalan di jalan.",
+        "hypothesis": "Seorang wanita sedang berjalan menuju ke perhentian bas.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sekumpulan orang berdiri berhampiran dan di atas petak hitam besar di atas tanah dengan beberapa tulisan kuning di atasnya.",
+        "hypothesis": "sekumpulan orang menunggu",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Sekumpulan orang berdiri berhampiran dan di atas petak hitam besar di atas tanah dengan beberapa tulisan kuning di atasnya.",
+        "hypothesis": "seseorang berbaring di atas sofa",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Sekumpulan orang berdiri berhampiran dan di atas petak hitam besar di atas tanah dengan beberapa tulisan kuning di atasnya.",
+        "hypothesis": "sekumpulan orang berdiri",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Orang ramai memerhati sekumpulan lelaki berpakaian sut dengan beg bimbit berjalan dalam formasi di jalan yang dipimpin oleh seorang wanita yang memegang papan tanda.",
+        "hypothesis": "Papan tanda yang dipegang wanita itu menyatakan bahawa \"Kebebasan adalah bebas.\"",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Orang ramai memerhati sekumpulan lelaki berpakaian sut dengan beg bimbit berjalan dalam formasi di jalan yang dipimpin oleh seorang wanita yang memegang papan tanda.",
+        "hypothesis": "Sekumpulan orang berpakaian badut berjalan-jalan ke Bigtop Circus yang memegang papan tanda.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Budak kecil itu bersedia untuk menendang bola sepak.",
+        "hypothesis": "budak itu berumur sepuluh tahun",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Budak kecil itu bersedia untuk menendang bola sepak.",
+        "hypothesis": "budak itu tidur di rumah",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki dan wanita duduk di kaki lima.",
+        "hypothesis": "Lelaki dan perempuan itu berdiri.",
+        "answer": "percanggahan"
+    },
+    {
+        "premise": "Seorang lelaki dan wanita duduk di kaki lima.",
+        "hypothesis": "Lelaki dan perempuan itu sudah berkahwin.",
+        "answer": "neutral"
+    },
+    {
+        "premise": "Seorang wanita di latar depan sedang menuju ke arah tiang besar berwarna putih yang terletak di sebelah bangunan besar dengan orang ramai sedang berlegar-legar atau menunggu di tangga bangunan tersebut.",
+        "hypothesis": "Seekor anjing berlari menaiki tangga sebuah bangunan.",
+        "answer": "percanggahan"
+    }
+]
