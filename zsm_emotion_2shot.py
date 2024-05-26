@@ -209,19 +209,17 @@ def changeInupt(n_skip = 2):
         out_token_str = inputs['answer'][0]
         # print("out_token_str: ", out_token_str)
         if (out_token_str == 'positive' or out_token_str == '积极' or out_token_str == 'ポジティブ' or out_token_str == 'सकारात्मक' 
-            or out_token_str == 'chanya' or out_token_str == 'ইতিবাচক' or out_token_str == 'deimhinneach' or out_token_str == 'станоўчы'
+            or out_token_str == 'chanya' or out_token_str == 'ইতিবাচক' or out_token_str == 'deimhinneach'
         or out_token_str == 'positivo' or out_token_str == 'positivt' or out_token_str == 'позитивный' or out_token_str == 'jákvæð' 
-        or out_token_str == 'положителен' or out_token_str == 'positiv' or out_token_str == 'pozitivno' or out_token_str == 'positif' 
-        or out_token_str == 'เชิงบวก' or out_token_str == 'ਸਕਾਰਾਤਮਕ' or out_token_str == 'tabbatacce' or out_token_str == 'pozytywny'):
+        or out_token_str == 'positiv' or out_token_str == 'pozitivno' or out_token_str == 'positif' 
+        or out_token_str == 'เชิงบวก' or out_token_str == 'ਸਕਾਰਾਤਮਕ'or out_token_str == 'pozytywny'):
             latent_token_str = 'positive'
         elif (out_token_str == 'negative' or out_token_str == '消极' or out_token_str == 'ネガティブ' or out_token_str == 'नकारात्मक' 
-              or out_token_str == 'hasi' or out_token_str == 'নেতিবাচক' or out_token_str == 'àicheil' or out_token_str == 'адмоўны'
+              or out_token_str == 'hasi' or out_token_str == 'নেতিবাচক' or out_token_str == 'àicheil'
               or out_token_str == 'negativo' or out_token_str == 'negativ' or out_token_str == 'отрицательный' or out_token_str == 'neikvæð'
-              or out_token_str == 'отрицателен' or out_token_str == 'negativ' or out_token_str == 'negativno' or out_token_str == 'negatif'
-              or out_token_str == 'เชิงลบ' or out_token_str == 'ਨਕਾਰਾਤਮਕ' or out_token_str == 'korau' or out_token_str == 'negatywny'):
+              or out_token_str == 'negativ' or out_token_str == 'negativno' or out_token_str == 'negatif'
+              or out_token_str == 'เชิงลบ' or out_token_str == 'ਨਕਾਰਾਤਮਕ'or out_token_str == 'negatywny'):
             latent_token_str = 'negative'
-        elif out_token_str == 'neutral' or out_token_str == '中性' or out_token_str == 'ニュートラル' or out_token_str == 'तटस्थ' or out_token_str == 'kati' or out_token_str == 'নিরপেক্ষ' or out_token_str == '':
-            latent_token_str = 'neutral'
         out_token_id = process_tokens(out_token_str, tokenizer)
         latent_token_id = process_tokens(latent_token_str, tokenizer)
         intersection = set(out_token_id).intersection(set(latent_token_id))
