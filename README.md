@@ -75,7 +75,7 @@ bash run_emotion.bash
 ```
 
 * Principal Component Analysis
-  Running the Jupyter file `knowledge_finding.ipynb`
+Running the Jupyter file `knowledge_finding.ipynb`
 
 ### :evergreen_tree: Citation
 
