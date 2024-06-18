@@ -1,0 +1,2502 @@
+[
+    {
+        "sentence1": "Tofauti ilikuwa kati ya mwishoni mwa 2005 na 2009 alipocheza nchini Sweden na Carlstad United BK, Serbia na FK Borac Čačak na FC Terek Grozny ya Urusi.",
+        "sentence2": "Tofauti ilikuwa kati ya mwishoni mwa 2005 na 2009, alipocheza nchini Sweden na Carlstad United BK, Serbia na FK Borac Čačak na FC Terek Grozny ya Urusi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mto Tabaci ni tawimto la Mto Leurda huko Rumania.",
+        "sentence2": "Mto Leurda ni tawimto la Mto Tabaci huko Rumania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alicheza na A-level ya Kane County Cougars mnamo 1993 na AA Portland Sea Dogs.",
+        "sentence2": "Alicheza katika 1993 na Mbwa wa Bahari wa A-Level Portland na AA Kane County Cougars.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Winarsky ni mwanachama wa IEEE, Phi Beta Kappa, ACM na Sigma Xi.",
+        "sentence2": "Winarsky ni mwanachama wa ACM, IEEE, Phi Beta Kappa na Sigma Xi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mnamo 1938 alikua mwanaanthropolojia wa serikali ya Sudan ya Kiingereza-Misri na akaongoza kazi ya shamba na Nuba.",
+        "sentence2": "Mnamo 1938 alikua Mtaalamu wa Anthropolojia wa Serikali ya Misri-Anglo Sudan na kufanya kazi na Nuba.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Billy Billy Batson alionekana katika matoleo manne ya kwanza ya `` Black Adam', iliyochapishwa kati ya mwishoni mwa 2008 na mapema 2009.",
+        "sentence2": "Black Adam alionekana katika matoleo manne ya kwanza ya `` Billy Batson '', iliyochapishwa kati ya mwishoni mwa 2008 na mapema 2009.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mbinu ya nishati ya jua kwa hitaji hili ni matumizi ya paneli za jua katika ndege ya kawaida inayotumia nishati.",
+        "sentence2": "Mbinu ya nishati ya jua kwa mahitaji haya ni matumizi ya paneli za jua katika ndege inayoendeshwa kwa kawaida.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Polisi pia waliwahoji mwimbaji Rimi Tomy na mwigizaji Kavya Madhavan, wote marafiki wa karibu wa Siddique na mkewe Dileep, kama sehemu ya uchunguzi unaoendelea.",
+        "sentence2": "Polisi pia waliwahoji mwimbaji Rimi Tomy na mwigizaji Kavya Madhavan, wote marafiki wa karibu wa Siddique na mkewe Dileep, kama sehemu ya uchunguzi unaoendelea.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Zimefunikwa kwa muziki wa okestra wa moja kwa moja na zinajumuisha sauti zisizo wazi, zisizo na rangi kimakusudi.",
+        "sentence2": "Zimefunikwa kwa muziki usio na rangi, unaochezwa moja kwa moja na zinajumuisha sauti zisizoeleweka, ambazo ni chache za okestra kimakusudi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Holly alishawishiwa kimuziki na Elton John.",
+        "sentence2": "Holly Holly aliathiriwa kimuziki na Elton John.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Timu ilijibu mabadiliko katika mchezo uliofuata jioni hiyo hiyo tarehe 19 Februari.",
+        "sentence2": "Timu ilijibu mabadiliko katika mchezo huo ambao Februari 19 ijayo jioni.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nashua Silver Knights, sehemu ya ligi ya majira ya joto ya sasa, ni timu ya pamoja ya jiji.",
+        "sentence2": "Nashua Silver Knights, sehemu ya ligi ya majira ya joto ya pamoja, ndiyo timu ya sasa ya jiji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Fallbeil '' ilitumika kwa mara ya mwisho huko Ujerumani Magharibi mnamo 1949, huko Ujerumani Mashariki mnamo 1966.",
+        "sentence2": "`` Fall Beil '' ilitumika kwa mara ya mwisho huko Ujerumani Magharibi mwaka wa 1949, mwaka wa 1966 huko Ujerumani Mashariki.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mfereji ni mojawapo ya mifereji ya zamani zaidi ya kupitika huko Uropa na Ubelgiji.",
+        "sentence2": "Mfereji huo ni mojawapo ya mifereji ya zamani zaidi inayoweza kupitika nchini Ubelgiji na kwa kweli huko Uropa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo 2009 alirudi Philadelphia na anaishi New York City leo.",
+        "sentence2": "Alirudi Philadelphia mnamo 2009 na sasa anaishi New York City.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alikufa kwa saratani ya tumbo huko Claremore, Oklahoma, New York City, ambapo Lynn Riggs Memorial iko mnamo Juni 30, 1954.",
+        "sentence2": "Alikufa mnamo Juni 30, 1954, kwa saratani ya tumbo huko New York City. Claremore, Oklahoma ni nyumbani kwa Lynn Riggs Memorial.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stipsits alizaliwa huko Korneuburg, Ujerumani na alitumia utoto wake huko Stammersdorf, Vienna.",
+        "sentence2": "Stipsits alizaliwa huko Korneuburg, na alitumia utoto wake huko Stammersdorf, Vienna.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ukoo wa Keita ulitawala Mali kabla ya ufalme na ufalme kutoka karne ya 12 hadi mwanzoni mwa karne ya 17.",
+        "sentence2": "Ukoo wa Keita ulitawala Mali kuanzia karne ya 12 hadi mwanzoni mwa karne ya 17 kabla ya ufalme na ufalme.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` Angel Eyes'' ni wimbo maarufu wa 1946 uliotungwa na Matt Dennis, wenye maneno ya Earl Brent.",
+        "sentence2": "`` Angel Eyes'' ni wimbo maarufu uliotungwa na Earl Brent mwaka wa 1946, ukiwa na maandishi na Matt Dennis.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Muziki uliandikwa na Shyam na mashairi yalitungwa na Sreekumaran Thampi na Sathyan Anthikkad.",
+        "sentence2": "Muziki uliandikwa na Shyam na mashairi ya Sreekumaran Thampi na Sathyan Anthikkad yakatungwa .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Filamu hii ilivuma sana kibiashara, na mojawapo ya filamu za Sergio Sollima zilizofanikiwa zaidi na zisizo za kisiasa zaidi kuliko za magharibi za mkurugenzi wa tambi za zamani.",
+        "sentence2": "Filamu hii ilikuwa maarufu kibiashara, na mojawapo ya filamu za kisiasa za Sergio Sollima, na yenye mafanikio duni kuliko wale wa zamani wa mkurugenzi wa tambi za magharibi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kabir anamwomba Sarika kufichua mpango wake wa kumaliza mchezo wa Ranvir.",
+        "sentence2": "Kabir anamwomba Sarika kufichua mpango wake wa kumaliza mchezo wa Ranvir kwake.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Timu ilijibu mabadiliko katika mchezo uliofuata jioni hiyo hiyo tarehe 19 Februari.",
+        "sentence2": "Timu ilijibu mabadiliko katika mchezo huo uliofanyika Februari ijayo jioni.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Luteni John Gedge aliwaagiza kwa ajili ya Bahari ya Kaskazini mnamo Mei 1805 , na Luteni Robert Ramsey akachukua nafasi yake mwaka wa 1806 .",
+        "sentence2": "Luteni Robert Ramsey alimwagiza kwenda Bahari ya Kaskazini mnamo Mei 1805, na Luteni John Gedge akachukua nafasi yake mwaka wa 1806.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Emma Townshend anawakilishwa na David Godwin katika DGA Associates.",
+        "sentence2": "David David Godwin anawakilishwa katika DGA Associates na Emma Townshend.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nashua Silver Knights, sehemu ya ligi ya majira ya joto ya pamoja, ndiyo timu ya sasa ya jiji.",
+        "sentence2": "Nashua Silver Knights, sehemu ya ligi ya majira ya joto ya sasa, ni timu ya pamoja ya jiji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kutoka mwisho wa magharibi wa daraja, Pennsylvania Route 268 inaongoza kusini hadi Parker na kaskazini hadi Emlenton.",
+        "sentence2": "Njia ya Pennsylvania 268 inaongoza kutoka mwisho wa magharibi wa daraja kusini hadi Parker na kaskazini hadi Emlenton.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Haya yalikuwa ya kawaida nchini Uingereza, lakini katika Ulaya, angalau kwa injini kubwa, ni nadra sana.",
+        "sentence2": "Hizi zilikuwa nadra sana nchini Uingereza, lakini huko Uropa, angalau kwa treni kubwa, ni za kawaida.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alston alizaliwa tarehe 21 Desemba 1965 huko Oxon Hill, Maryland. Alihudhuria Shule ya Upili ya Oxon Hill huko New Haven, Connecticut.",
+        "sentence2": "Alizaliwa mnamo Desemba 21, 1965 huko Oxon Hill, Maryland, na alihudhuria Shule ya Upili huko New Haven, Connecticut.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Jumla ya majeruhi wa Marekani walikuwa 28 waliuawa, wakati Viet Cong hasara walikuwa 345 waliuawa na 192 zaidi inakadiriwa kuuawa.",
+        "sentence2": "Kwa jumla, wahasiriwa 28 wa Amerika waliuawa, wakati hasara ya Viet Cong iliuawa 345 na wengine 192 wanaokadiriwa kuuawa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Katika CA, jina la mhasibu aliyekodishwa ( Sri Lanka Sri Lanka) linaweza tu kutumiwa na wanachama wa Taasisi ya Wahasibu wa Sri Lanka.",
+        "sentence2": "Katika CA, jina la Mhasibu Mkodishwa ( Sri Lanka Sri Lanka) linaweza kutumiwa na wanachama pekee wa Taasisi ya Wahasibu Walioandikishwa ya Sri Lanka.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Simyo ni mwanachama wa kundi la mawasiliano la Uholanzi la KPN, baada ya kupata salio la E-Plus mnamo Machi 14.",
+        "sentence2": "Kufuatia kupatikana kwa salio la E-Plus tarehe 14 Machi, Simyo ni mwanachama wa kundi la mawasiliano la Uholanzi la KPN.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kando na Kuykendall, Robert White na Joshua Soule Zimmerman walihudumu kama Kamishna wa Ubalozi wa Kaunti ya Hampshire.",
+        "sentence2": "Robert White na Joshua Soule Zimmerman walihudumu pamoja na Kuykendall kama Kamishna wa Chancery County ya Hampshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Maoni haya mara nyingi yalionyeshwa wakati wa kuibuka kwa harakati za Kiprotestanti, Puritan na Kiinjili.",
+        "sentence2": "Maoni haya mara nyingi yalitolewa wakati wa kuzuka kwa vuguvugu la kiinjilisti, puritanical, na kiprotestanti.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kombe la UEFA 1973 -- 74 lilinyakuliwa na Feyenoord Rotterdam kwenye Tottenham Hotspur 4:2.",
+        "sentence2": "Kombe la UEFA la 1973 -- 74 lilinyakuliwa na Feyenoord Rotterdam dhidi ya Tottenham Hotspur 4 --2 kwa jumla ya mabao .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Talfourd Ely alikuwa mjukuu wa John Towill Rutt, ambaye alikuwa rafiki wa awali wa Crabb Robinson.",
+        "sentence2": "Talfourd Ely alikuwa mjukuu wa Crabb Robinson, ambaye alikuwa rafiki wa kwanza wa John Towill Rutt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Baba yake alikufa katika ujana wake, na mama yake, Samuel Adams, aliolewa na Catherine A. Fagan mwaka wa 1842, ambaye miaka miwili baadaye alikuja kuwa gavana wa Arkansas.",
+        "sentence2": "Baba yake alikufa wakati wa ujana wake na mama yake, Catherine A. Fagan, mwaka 1842 aliolewa na Samuel Adams, ambaye alikuja kuwa Gavana wa Arkansas miaka miwili baadaye.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pia walitoa wimbo wa pili kwenye albamu, `` Vices', kama wimbo wa 5 kutoka kwa albamu ya Juni 13.",
+        "sentence2": "Pia walitoa wimbo wa pili kwenye albamu, `` Vices', tarehe 13 Juni kama wimbo wa 5 kutoka kwa albamu hiyo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bodi ya Maji ya Sydney ilikuwa imechukua usambazaji wa maji kwa Sydney kutoka kwa Halmashauri ya Jiji mnamo 1888.",
+        "sentence2": "Mnamo 1888, Bodi ya Maji ya Sydney ilichukua usambazaji wa maji kwa Sydney kutoka kwa halmashauri ya jiji.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pia Cai Feng alikuwa na mtoto wa kiume, Cai Mao.",
+        "sentence2": "Cai Mao pia alikuwa na mtoto wa kiume, Cai Feng.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Majani yake yana umbo la kupokezana kwenye matawi na yana mikunjo, umbo la yai au karibu mviringo na ni bua ndefu.",
+        "sentence2": "Majani yake yamepangwa kwa kutafautisha kando ya matawi na yana umbo la lansi, umbo la yai au karibu mviringo na yana shina refu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hii ilipanua eneo la mgogoro kati ya Massachusetts na jimbo la Rhode Island.",
+        "sentence2": "Hii ilipanua eneo la mgogoro kati ya Rhode Island na jimbo la Massachusetts.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Shule ya Upili ya Slough ilikuwa shule ya sarufi ya kuchagua wasichana huko Berkshire, sasa Slough, Buckinghamshire.",
+        "sentence2": "Shule ya Upili ya Slough ilikuwa shule ya kuchagua sarufi ya wasichana huko Slough, Buckinghamshire, sasa Berkshire.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Iko karibu na Lough Corrib, kwenye barabara ya N59 kuelekea Oughterard na Clifden, huko Connemara.",
+        "sentence2": "Iko karibu na Oughterard na Clifden, kwenye barabara ya N59 kuelekea Lough Corrib, huko Connemara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ingawa kutengwa kwa wachezaji weusi haikuwa sheria iliyoandikwa, hakuna Mwafrika Mmarekani aliyecheza katika Ligi ya Taifa ya Soka tangu 1933.",
+        "sentence2": "Ingawa kutengwa kwa wachezaji wa Kiafrika haikuwa sheria iliyoandikwa, hakuna Mmarekani mweusi katika Ligi ya Taifa ya Soka aliyecheza tangu 1933.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mu'awiyah aliingia madarakani baada ya kifo cha Ali na akaanzisha nasaba.",
+        "sentence2": "Baada ya kifo cha Muawiyah, Ali aliingia madarakani na akaanzisha nasaba.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo 1994, Rodrigo Leão aliondoka kwenye bendi na kuanza kazi ya peke yake, nafasi yake ikachukuliwa na Carlos Maria Trindade ( synthesizer ya kibodi).",
+        "sentence2": "Mnamo 1994, Rodrigo Leão aliondoka kwenye bendi na kuanza kazi ya peke yake, nafasi yake ikachukuliwa na Carlos Maria Trindade ( synthesizer ya kibodi).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mnamo mwaka wa 1933 Cattell aliandika kwamba, kati ya jamii zote za Nordic, `` mbio za Uropa ndizo zilizokuzwa zaidi katika akili na utulivu wa tabia''.",
+        "sentence2": "Mnamo mwaka wa 1933, Cattell aliandika kwamba kati ya jamii zote za Nordic, `` mbio za Uropa katika akili na utulivu wa tabia ziliendelezwa zaidi''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Abies lasiocarpa, kwa kawaida huitwa fir ya magharibi ya Amerika Kaskazini au Rocky Mountain fir, ni mti wa misonobari.",
+        "sentence2": "Abies lasiocarpa, inayojulikana kama fir ya magharibi ya Amerika Kaskazini au Rocky Mountain fir, ni mti wa misonobari.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "American Motors ilitoa msaada wa kiufundi pekee kwa njia ya usaidizi mdogo.",
+        "sentence2": "American Motors ilitoa usaidizi wa kiufundi pekee kwa njia ya usaidizi mdogo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Jengo Kuu la Houston (HMB) hapo awali Jengo la Prudential lilikuwa ghorofa kubwa katika Kituo cha Matibabu cha Texas huko Houston, Texas.",
+        "sentence2": "Jengo Kuu la Houston (HMB) lililokuwa Jengo la Prudential, lilikuwa ni ghorofa kubwa katika Kituo cha Matibabu cha Texas, Houston, Texas.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Baada ya kurejea Paramaribo mwaka 1954, alikaa kama wakili nchini Suriname.",
+        "sentence2": "Baada ya kurejea Suriname mwaka 1954, aliishi Paramaribo kama wakili.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ajali ya ndege ya Aerosucre Flight 4544 ilikuwa tukio la kwanza la anga lililohusisha Aerosucre, la pili likiwa ni ajali ya ndege nyingine aina ya Boeing 727 mnamo Novemba 18, 2006.",
+        "sentence2": "Ajali ya ndege ya Aerosucre Flight 4544 ilikuwa tukio la pili la ndege iliyohusisha Aerosucre, ya kwanza ikiwa ni ajali ya ndege nyingine aina ya Boeing 727 mnamo Novemba 18, 2006.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kipindi cha Cabot Trail kilirekodiwa kwenye tovuti huko Cape Breton, ikijumuisha Peggys Cove na nyanda za juu za Nova Scotia, kando ya pwani ya mashariki.",
+        "sentence2": "Kipindi cha Pwani ya Mashariki kilirekodiwa eneo la Nova Scotia, ikijumuisha Peggys Cove na nyanda za juu za Cape Breton, kando ya Cabot Trail.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Njia nyingine ya kudhibiti idadi ya kulungu ni kudhibiti kiwango cha kuzaliwa.",
+        "sentence2": "Njia nyingine ya kudhibiti idadi ya kulungu ni kudhibiti kiwango cha kuzaliwa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Shairi limehifadhiwa katika hati nne za vipande vipande, moja wapo ni ya kisasa.",
+        "sentence2": "Shairi limehifadhiwa katika hati nne za kisasa, moja ikiwa ni vipande vipande:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Manu Chao, vikundi `` Air'', Cassius, Mars IV, Les Négresses Vertes, na FFF, na Howie B pia walishiriki katika albamu hiyo.",
+        "sentence2": "Vikundi vya '' Air `` , Howie B , Mars IV , Les Négresses Vertes na FFF na Manu Chao pia vilishiriki katika albamu hiyo .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mto Hudeasa ni tawimto la Mto Bradu huko Rumania.",
+        "sentence2": "Mto Hudeasa ni tawimto la Mto Bradu huko Rumania.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ingawa kutengwa kwa wachezaji wa Kiafrika haikuwa sheria iliyoandikwa, hakuna Mmarekani mweusi katika Ligi ya Taifa ya Soka aliyecheza tangu 1933.",
+        "sentence2": "Ingawa kutengwa kwa wachezaji weusi haikuwa sheria iliyoandikwa, tangu 1933 hakuna Mwafrika-Amerika aliyecheza katika Ligi ya Taifa ya Soka.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Baba yake Patrick Byrne alikuwa mbunge, TD, Seneta na Meya wa Lord wa Dublin. Ndugu mwingine Alfie Byrne pia alikuwa TD.",
+        "sentence2": "Baba yake, Patrick Byrne, alikuwa mjumbe, seneta na meya mkuu wa Dublin, kaka mwingine Alfie Byrne pia alikuwa TD.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Msururu wa kwanza ulipokelewa vyema na wakosoaji kuliko wa pili.",
+        "sentence2": "Msururu wa pili ulipokelewa vyema na wakosoaji kuliko ule wa kwanza.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fanwood iko katika Wilaya ya 12 ya Congressional na ni sehemu ya Wilaya ya 22 ya Wabunge ya New Jersey.",
+        "sentence2": "Fanwood iko katika Wilaya ya 22 ya Congressional na ni sehemu ya wilaya ya 12 ya jimbo la New Jersey.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Santa Cruz iko kwenye kingo za Mto Santa Cruz unaotiririka hadi sehemu ya mashariki ya Laguna de Bay.",
+        "sentence2": "Laguna de Bay iko kwenye ukingo wa mto Santa Cruz, ambao unatiririka hadi sehemu ya mashariki ya Santa Cruz.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Porte de Vincennes iko ambapo kona ya kusini-mashariki ya eneo la 20 inakutana na kona ya kaskazini-mashariki ya eneo la 12 la Paris.",
+        "sentence2": "Porte de Vincennes iko ambapo kona ya kaskazini-mashariki ya arrondissement ya 12 inakutana na kona ya kusini-mashariki ya arrondissement ya 20 ya Paris.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo Machi 5, 2011, MTV Hive ilichapisha kiungo cha kutiririsha kwa Anni Rossi, akiigiza Rihannas ''Rude Boy ``.",
+        "sentence2": "Mnamo Machi 5, 2011, MTV Hive ilichapisha kiungo cha kutiririsha kwa Rihanna, akiigiza Anni Rossi ``Rude Boy'.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mfalme Qi alikutana na Mfalme Zhao wa Qin magharibi mwa Zhou mwaka 284 KK ili kuunda muungano dhidi ya Xi.",
+        "sentence2": "Mnamo 284 KK, Mfalme Qi alikutana na Mfalme Zhao wa Qin huko Zhou Magharibi ili kuunda muungano dhidi ya Xi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mkoa wa Utawala wa Chenzhou katika Enzi ya Tang uko chini ya usimamizi wa Henan ya kisasa mashariki mwa Zhoukou :",
+        "sentence2": "Eneo la kiutawala la Chenzhou katika nasaba ya Tang liko chini ya utawala wa Henan ya kisasa mashariki mwa Zhoukou:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` Safi '' ina maana rahisi sana , na `` Belter '' au `` Belta '' ina maana kubwa au nzuri .",
+        "sentence2": "`` Safi '' ina maana kwa urahisi sana na `` Belter '' au `` Belta '' ina maana nzuri au kubwa .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stephen Stephen aliolewa tarehe 29 Agosti 1806 na Benjamin Hough, Jaji wa Amani, katika Kaunti ya Jefferson, Elizabeth Core.",
+        "sentence2": "`` 2' Benjamin Hough aliolewa tarehe 29 Agosti 1806 na Stephen Ford, Justice of Peace, katika Kaunti ya Jefferson na Elizabeth Core.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Spishi hii ilielezewa rasmi na mtaalam wa mimea Stephan Endlicher mnamo 1846 kama sehemu ya kazi ya Johann Georg Christian Lehmann `` Irideae . Plantae Preissianae'.",
+        "sentence2": "Spishi hii ilielezewa rasmi mwaka wa 1846 na mtaalam wa mimea Stephan Endlicher kama sehemu ya kazi `` Irideae Plantae Preissianae '' na Johann Georg Christian Lehmann.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mnamo 1912, Bunge la Kitaifa la India lilifanya kikao chake cha 27 huko Bankipore chini ya urais wa Rao Bahadur Raghunath Narasinha Mudholkar kutoka Amravati, Mikoa ya Kati na Berar.",
+        "sentence2": "Mnamo 1912, Bunge la Kitaifa la India lilifanya kikao chake cha 27 huko Bankipore, chini ya Urais wa Rao Bahadur Raghunath Narasinha Mudholkar kutoka Mikoa ya Kati ya Amravati na Berar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nyuzi za wanyama zinazotumika sana ni pamba inayovunwa kutoka kwa kondoo. Kwa kuunganisha kwa mkono na hobby knitting, nyuzi nene, pamba na akriliki zinasokota mara kwa mara.",
+        "sentence2": "Nyuzi za wanyama zinazosokota mara nyingi zaidi ni pamba inayovunwa kutoka kwa kondoo. Kwa kuunganishwa kwa mikono na kuunganisha hobby, pamba nene na nyuzi za akriliki hutumiwa mara nyingi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tipico Co. Ltd na Tipico Casino Ltd zilianzishwa mwaka wa 2004 kama makampuni ya biashara ya kimataifa katika rejista ya kibiashara ya Mamlaka ya Huduma za Kifedha ya Malta.",
+        "sentence2": "Tipico Co. Ltd na Tipico Casino Ltd zilianzishwa mwaka wa 2004 kama makampuni ya biashara ya kimataifa katika Sajili ya Biashara ya Mamlaka ya Huduma za Kifedha ya Malta.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Iko karibu na Lough Corrib, kwenye barabara ya N59 kuelekea Oughterard na Clifden, huko Connemara.",
+        "sentence2": "Iko karibu na Oughterard na Clifden, kwenye barabara ya N59 kuelekea Lough Corrib, huko Connemara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo Septemba 14, 2006, Lang alitiwa saini na Washington Wizards na kuachiliwa na Wizards mnamo Julai 2017.",
+        "sentence2": "Mnamo Septemba 14, 2006, Lang alitiwa saini na Washington Wizards. Mnamo Julai 2017, Lang alitolewa na Wizards.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wimbo huu ulitolewa kwenye Radio Airplay nchini Italia mnamo Oktoba 12, 2012, na kusafirishwa duniani kote tarehe 3 Desemba 2012.",
+        "sentence2": "Wimbo huu ulitumwa kwa uchezaji wa redio mnamo Oktoba 12, 2012 nchini Italia na ilitolewa ulimwenguni kote mnamo Desemba 3, 2012.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Baada ya huduma yake Lockhart aliishi Texas lakini hivi karibuni alihamia Florida.",
+        "sentence2": "Baada ya huduma yake, Lockhart aliishi Florida, lakini alihamia Texas hivi karibuni.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Inapatikana Amerika Kaskazini, ambako ilirekodiwa kutoka Newfoundland na Labrador magharibi hadi British Columbia, kaskazini hadi Alaska na Yukon.",
+        "sentence2": "Inapatikana Amerika Kaskazini, ambako imerekodiwa kutoka Newfoundland na Labrador magharibi hadi British Columbia, kaskazini hadi Alaska na Yukon.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wilaya hii ya magharibi ya Randallstown inajumuisha Woodlawn, Milford Mill, na Kaunti ya Baltimore.",
+        "sentence2": "Wilaya hii ya magharibi ya randallstown inajumuisha Woodlawn, Milford Mill na Kaunti ya Baltimore.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alifunzwa na John Velazquez na kupandishwa na Jockey Dale Romans katika mbio zake muhimu zaidi.",
+        "sentence2": "Alifunzwa na Dale Romans na kupandishwa na Jockey John Velazquez wakati wa mbio zake muhimu zaidi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wakati wake huko Savannah, Charles Celestine alijifunza kutoka kwa gazeti kwamba mtoto wake, Sherman, alikufa wakati wa kampeni ya Savannah, jenerali hajawahi kumuona mtoto.",
+        "sentence2": "Akiwa Savannah, Charles Celestine alijifunza kutoka kwa gazeti kwamba mtoto wake mchanga Sherman alikufa wakati wa Kampeni ya Savannah; jenerali hakuwahi kumwona mtoto.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Jalada hili lilibuniwa na msanii wa tamthilia John Pasche na wimbo wa `` Steel Monkey' umeunda jalada la Mkurugenzi wa Sanaa Andrew Stewart Jamieson.",
+        "sentence2": "Jalada hili liliundwa na msanii mtangazaji Andrew Stewart Jamieson, single ya `` Steel Monkey' imeunda jalada la Mkurugenzi wa Sanaa John Pasche.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mbinu ya MacCormack ni mpango wa utambuzi unaotumika sana kwa suluhu la nambari la milinganyo ya utofauti ya kilemba .",
+        "sentence2": "Katika mienendo ya kiowevu cha kukokotoa , mbinu ya MacCormack ni mpango wa uchanganuzi unaotumika sana kwa utatuzi wa utofautishaji wa sehemu ya hyperbolic wa milinganyo ya nambari.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wright alihama kutoka Chapel Hill, NC hadi New York.",
+        "sentence2": "Wright alihamia New York kutoka Chapel Hill, NC.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Konsonanti-Ejective ni aina ya sauti ya ngeli ambayo hutumiwa katika baadhi ya lugha zinazozungumzwa Alama katika Alfabeti ya Kifonetiki ya Kimataifa, ambayo inawakilisha sauti hii.",
+        "sentence2": "Velar-Ejective ni aina ya sauti ya konsonanti ambayo hutumiwa katika baadhi ya lugha zinazozungumzwa Alama katika Alfabeti ya Kifonetiki ya Kimataifa, ambayo ni sauti hii.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Shughuli za Ulaya zikawa sehemu ya Ebel, wakati shughuli za Asia ziliuzwa kwa mjasiriamali wa Hong Kong Joseph Wong na sasa ni mali ya Stelux Holdings.",
+        "sentence2": "Shughuli za Ulaya zikawa sehemu ya Ebel wakati shughuli za Asia ziliuzwa kwa mjasiriamali wa Hong Kong Joseph Wong na sasa ni sehemu ya Stelux Holdings.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wanachama wa awali wa bodi ya ushauri walijumuisha Alistair Cooke, Saul Bellow, Walter Cronkite, Norman Cousins, Gore Vidal, Norman Podhoretz.",
+        "sentence2": "Wanachama wa awali wa ushauri ni pamoja na Walter Cronkite, Norman Vetter, Gore Vidal, Norman Podhoretz, Saul Bellow, na Alistair Cooke.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hifadhi ya Kitaifa ya Petkeljärvi ni mbuga ya kitaifa huko Ilomantsi katika mkoa wa Karelia Kaskazini nchini Ufini.",
+        "sentence2": "Mbuga ya Kitaifa ya Petkeljärvi ni mbuga ya kitaifa nchini Ufini katika eneo la Ilomantsi huko Karelia Kaskazini.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pia walichapisha wimbo wa 5 kwenye albamu, `` Vices', kama wimbo wa pili kutoka kwa albamu mnamo Juni 13.",
+        "sentence2": "Pia walitoa wimbo wa 5 kwenye albamu, `` Vices,' mnamo Juni 13 kama wimbo wa pili kutoka kwa albamu hiyo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Stoke ilizishinda Sheffield Wednesday na Huddersfield Town kabla ya kushindwa na Peterborough United katika raundi ya nne.",
+        "sentence2": "Stoke ilizishinda Peterborough United na Huddersfield Town kabla ya kushindwa katika raundi ya nne dhidi ya Sheffield Wednesday.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alipoulizwa jinsi ya kutaja jina lake, aliiambia `` The Literary Digest '' Jina langu linatamkwa kana kwamba `` sikio'; en-house '' yameandikwa.",
+        "sentence2": "Alipoulizwa jinsi ya kutaja jina lake, aliiambia `` The Literary Digest '' Jina langu linaandikwa kana kwamba linatamkwa, ear 'apos; nyumba `` .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kilimo hiki kilianzishwa mnamo 1880 na Fernando Heydrich huko Matanzas huko Cuba.",
+        "sentence2": "Huko Matanzas kilimo chake kilianzishwa mwaka 1880, na Fernando Heydrich huko Cuba.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ikiwa kuna kategoria kadhaa za kisarufi katika sentensi, ya kwanza pekee ndiyo huvaa kiashirio cha wingi.",
+        "sentence2": "Iwapo kuna kategoria kadhaa za kisarufi katika sentensi, wingi pekee ndio huweka alama ya kwanza.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Utawala uliondoka Philadelphia mnamo Oktoba 1777 na kujiunga na jeshi kuu la Jenerali George Washington nje ya Boston.",
+        "sentence2": "Kikosi kiliondoka Philadelphia mnamo Oktoba 1777 na kujiunga na Jeshi kuu la Jenerali George Washington nje ya Boston.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mwaka 1974 Lao PDR ilianzisha mfuko wa Hatua ya Pili kwa msaada wa Benki ya Dunia, Umoja wa Mataifa, na Benki ya Maendeleo ya Asia.",
+        "sentence2": "Kwa msaada wa Benki ya Dunia , Umoja wa Mataifa , na Benki ya Maendeleo ya Asia , Lao PDR ilianzisha mfuko wa Hatua ya II mwaka 1974 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Baadaye aliitumia kama ishara kwa chama cha Nazi na kuiweka kwenye duara nyeupe na mandhari nyekundu ili kuitumia kama bendera.",
+        "sentence2": "Baadaye aliitumia kama ishara kwa chama cha Nazi na kuiweka kwenye duara nyekundu na mandharinyuma nyeupe ili kuitumia kama bendera.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ili kutengeneza ramani ya Hoth, wabunifu wamepokea nyenzo nyingi iwezekanavyo kutoka kwa `` The Empire Strikes Back' ili kuunda nakala halisi.",
+        "sentence2": "Ili kuunda ramani ya Hoth , wabunifu walipata nyenzo nyingi zaidi kutoka kwa `` The Empire Strikes Back' iwezekanavyo ili kutengeneza uchapishaji halisi .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ameolewa na Elizabeth `` Betsy '' Katz. Yeye ni baba wa Adam, Nathaniel na Sara Hundt.",
+        "sentence2": "Ameolewa na Elizabeth `` Betsy' Katz, baba wa Adam, Nathaniel na Sara Hundt.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nyumba inachajiwa na nishati ya hasira na inatoa sura kwa roho ya necromantic ndani.",
+        "sentence2": "Nyumba inakuwa na nishati ya necromantic na kutoa sura kwa roho ya hasira ndani.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wakati Oros alifanya kazi chini ya Walker kwenye miundo ya magari ya Ford na lori, Engel alijikita kwenye magari ya Lincoln na Mercury.",
+        "sentence2": "Wakati Oros alifanya kazi katika miundo ya gari na lori ya Ford chini ya Walker, Engel alilenga magari ya Lincoln na Mercury.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hirasea goniobasis ni spishi ya konokono wa nchi kavu ya pulmonate inayopumua hewa, moluska mdogo wa gastropod katika familia ya Endodontidae.",
+        "sentence2": "Hirasea goniobasis ni spishi ya konokono mdogo anayepumua hewa, moluska wa gastropod ya pulmonate katika familia ya Endodontidae.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vidonda vya premalignant ni tishu za kawaida ambazo huonekana kuwa zisizo za kawaida chini ya uchunguzi wa hadubini, na ambapo saratani ina uwezekano mkubwa wa kutokea kuliko ile ya kawaida ya kimofolojia.",
+        "sentence2": "Vidonda vya premalignant ni tishu za kawaida, ambazo huonekana kuwa zisizo za kawaida katika uchunguzi wa hadubini na ambapo saratani ina uwezekano mkubwa kuliko ile ya kawaida ya kimofolojia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Abu Halifa au Abu Hulayfah au Abu Huleifa au Abu Haleifah ni mji mdogo katika Kuwait ya mkoa wa Al Ahmadi katika Wilaya ya kusini ya Abu Halifa.",
+        "sentence2": "Abu Halifa au Abu Hulayfah au Abu Huleifa au Abu Haleifah ni mji mdogo katika Kuwait ya Gavana wa Al Ahmadi kusini mwa Wilaya ya Abu Halifa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Israel ni albamu ya waimbaji wa muziki wa jazz wa Marekani Kai Winding na JJ Johnson iliyo na maonyesho yaliyotolewa mwaka wa 1968 na kurekodiwa kwenye C.",
+        "sentence2": "Israel ni albamu ya waimbaji tromboni wa Jazz wa Marekani Kai Winding na JJ Johnson na maonyesho yaliyochapishwa mwaka wa 1968 na kurekodiwa kwenye C.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mnamo 2014, Adam aliandika marekebisho ya Gothic Trilogy ya hadithi za classic Frankenstein, Ufisadi wa Dorian Gray na Jekyll Hyde Corpus Delicti.",
+        "sentence2": "Mnamo mwaka wa 2014 Adam aliandika marekebisho ya Gothic Trilogy ya hadithi za zamani Frankenstein, Ufisadi wa Dorian Grey na Jekyll & Hyde Corpus Delicti.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bi. Glad alifanya kazi huko Ovamboland mwaka wa 1901 --1919 na 1926 -- mwaka wa 1936 na alikuwa huko kama mkaguzi wa kwanza wa shule.",
+        "sentence2": "Bi. Glad alikuwa amefanya kazi huko Ovamboland mwaka wa 1901 --1919 na 1926 - 1936, na alikaimu huko kama mkaguzi wa kwanza wa shule.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Anaelezea huu kama ugunduzi mpya wa uandishi wa uongo na anauchukulia kuwa uhalisia wa hekaya wa fasihi ya Kichina.",
+        "sentence2": "Anauchukulia huu `` ugunduzi mpya '' wa uandishi wa tamthiliya, na anautaja kuwa `` Uhalisi wa Kizushi '' ) wa fasihi ya Kichina.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo 1953, timu pia ilizuru Australia na Asia mnamo Agosti 1959.",
+        "sentence2": "Timu hiyo pia ilitembelea Australia mnamo 1953 na Asia mnamo Agosti 1959.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ronnie Fields hakucheza mchezo hata mmoja katika NBA au NCAA.",
+        "sentence2": "Ronnie Fields hakucheza mchezo hata mmoja katika NCAA au NBA.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Uwanja mpya wa michezo una vifaa vya kisasa vya mazoezi ya mwili kwa watoto.",
+        "sentence2": "Uwanja wa michezo ni wa kisasa na vifaa vipya vya mazoezi ya mwili kwa watoto.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Probuccinum tenerum ni aina ya konokono wa baharini, moluska wa kweli wa gastropod katika familia ya Buccinidae, whelks baharini.",
+        "sentence2": "Probuccinum tenerum ni aina ya konokono wa baharini, moluska wa baharini wa gastropod katika familia ya Buccinidae, nyangumi wa kweli.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abraham Hart alikuwa Rais na Mayer Sulzberger Katibu wa Wadhamini.",
+        "sentence2": "Rais alikuwa Mayer Sulzberger, na Abraham Hart alikuwa Katibu wa Wadhamini.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Juhi Chawla ana watoto wawili na mke Jahnavi Mehta, msichana, Mehta (aliyezaliwa 2001) na mvulana, Arjun Mehta (aliyezaliwa 2003).",
+        "sentence2": "Mehta ana watoto wawili na mke Juhi Chawla, msichana, Jahnavi Mehta (aliyezaliwa 2001) na mvulana, Arjun Mehta (aliyezaliwa 2003).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kiwango cha tofauti kati ya mielekeo ya Kiprotestanti na Kikatoliki ndani ya mapokeo mahususi ya Kianglikana ni suala la kawaida la mjadala ndani ya makanisa ya Kianglikana na kote katika Ushirika wa Kianglikana.",
+        "sentence2": "Kiwango cha tofauti kati ya mielekeo ya Kiprotestanti na Kikatoliki ndani ya mapokeo ya Kianglikana ni suala la kawaida la mjadala ndani ya makanisa mahususi ya Kianglikana na katika jumuiya yote ya Kianglikana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Shule ya Upili ya Slough ilikuwa shule ya kuchagua wasichana huko Slough, Buckinghamshire, ambayo sasa ni Berkshire.",
+        "sentence2": "Shule ya Upili ya Slough ilikuwa shule ya sarufi ya kuchagua wasichana huko Slough, Buckinghamshire, sasa Berkshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus ni kampuni ya bia ya kikanda yenye mvuto wa mtindo wa Kijerumani.",
+        "sentence2": "Lobethal Bierhaus ni kampuni ya bia ya kikanda, yenye mvuto wa mtindo wa Kijerumani.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Long alizaliwa Israeli, alihamia kama kijana hadi Australia na akaishi huko mnamo 1961.",
+        "sentence2": "Lang alizaliwa Australia , akahamia Israeli akiwa kijana na akaishi huko mwaka wa 1961 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alistaafu huko Milwaukee, Wisconsin, ambako alifariki tarehe 5 Mei 1903.",
+        "sentence2": "Alikufa huko Wisconsin, Milwaukee, ambako alistaafu tarehe 5 Mei 1903.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rangi ya kofia hutofautiana kutoka kahawia hadi hudhurungi, mara nyingi na doa la manjano kwenye kofia wakati wa ukomavu.",
+        "sentence2": "Rangi ya kofia inatofautiana kutoka kahawia hadi njano, mara nyingi na doa la kahawia kwenye kofia wakati wa kukomaa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mto Valea lui Lambă au `` unk '' imon river ni kijito cha Mto Lom huko Romania .",
+        "sentence2": "Mto Valea lui Lambă au Mto Șimon ni kijito cha Mto Lom huko Rumania.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Uzio uliokamilika unapatikana hasa Texas, na ujenzi wake uko New Mexico, Arizona na California.",
+        "sentence2": "Uzio uliokamilika uko hasa Texas, na ujenzi unaendelea New Mexico, Arizona, na California.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Buccinum pulchellum ni aina ya konokono wa baharini, moluska wa baharini wa gastropod katika familia ya Buccinidae, hati-kunjo za kweli za pembe ya gurudumu.",
+        "sentence2": "Buccinum pulchellum ni aina ya konokono wa baharini, moluska wa kweli wa gastropod katika familia ya Buccinidae, nyangumi wa baharini.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo tarehe 30 Aprili 1983, gari aina ya C-311 iliyotumwa NAS Guantanamo Bay, Cuba, ilianguka katika NAS Jacksonville na kupoteza maisha ya binadamu 13.",
+        "sentence2": "Mnamo Aprili 30, 1983, gari aina ya C-311 ambayo ilitumwa NAS Jacksonville, Cuba, katika NAS Guantanamo Bay ilianguka na kupoteza maisha ya watu 13.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kama thawabu ya uaminifu wake kwa Henry, alipata ardhi yenye faida kubwa na ofisi nyingi kusini mwa Wales.",
+        "sentence2": "Kama thawabu ya uaminifu wake kwa Henry, alipata ardhi nyingi na ofisi zenye faida kubwa huko Wales Kusini.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo 2010, Chuo Kikuu cha New York kilishinda Chuo Kikuu cha Harvard 3-1-1 ili kushinda Ubingwa wake wa kwanza wa Kitaifa.",
+        "sentence2": "Mnamo 2010, Chuo Kikuu cha New York kilishinda Chuo Kikuu cha Harvard 3-1-1 na kushinda Ubingwa wake wa kwanza wa Kitaifa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mto Neajlovel ni kijito cha Mto Neajlov huko Rumania.",
+        "sentence2": "Mto Neajlov ni tawimto la Mto Neajlovel huko Rumania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Shirika hilo lina makao yake makuu huko Arlington, Virginia, na ofisi yake nje ya nchi mjini Paris, Ufaransa.",
+        "sentence2": "Shirika hilo lina makao yake makuu huko Arlington, Virginia, na Ofisi yake ya Operesheni ya Ng'ambo huko Paris, Ufaransa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mto Neajlov ni kijito cha Mto Neajlovel huko Rumania.",
+        "sentence2": "Mto Neajlovel ni kijito cha Mto Neajlov huko Rumania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ahmad Yar Khan alizaliwa katika familia ya Tiwana ya Shahpur, mwana wa Sahib Khan.",
+        "sentence2": "Sahib Khan alizaliwa katika familia ya Tiwana ya Shahpur, mwana wa Ahmad Yar Khan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mzaliwa wa Brooklyn, New York, alikufa huko Tiburon, California.",
+        "sentence2": "Alizaliwa huko Tiburon, California, na alikufa huko Brooklyn, New York.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mapendekezo kutoka Met ya kupanua kutoka Paddington hadi Kensington Kusini na kusini kutoka Moorgate hadi Tower Hill kuelekea kusini yalikubaliwa na kupokea kibali cha kifalme mnamo Julai 29, 1864.",
+        "sentence2": "Mapendekezo kutoka Met kupanua kutoka Paddington hadi Kensington Kusini na mashariki kutoka Moorgate hadi Tower Hill kuelekea kusini yalikubaliwa na kupokea kibali cha kifalme mnamo Julai 29, 1864.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Shairi limehifadhiwa katika hati nne za vipande vipande, ambazo ni za kisasa.",
+        "sentence2": "Shairi limehifadhiwa katika hati nne za kisasa, moja ikiwa imegawanyika:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Baraza la jiji la Webster Grove lilikuwa na wajumbe wa baraza hilo Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt na Anne Tolan.",
+        "sentence2": "Baraza la Jiji la Webster Groves lilikuwa na wajumbe wa baraza Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt, na Anne Tolan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kwa hivyo, kuyeyuka na kuchemka kwa metali za alkali kunaonyesha kuwa uimara wa vifungo vya metali vya metali za alkali hupungua chini ya kundi.",
+        "sentence2": "Kwa hivyo, kuyeyuka na kuchemka kwa metali za alkali kunaonyesha kuwa nguvu ya vifungo vya metali ya metali za alkali katika kikundi hupungua.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Scrivener anaweka tarehe ya maandishi ya karne ya 13, CR Gregory hadi karne ya 12, kwa sasa maandishi hayo yameandikwa katika karne ya 12 na INTF.",
+        "sentence2": "Scrivener aliweka tarehe ya maandishi ya karne ya 12, CR Gregory hadi karne ya 13. Hivi sasa muswada huo umeandikwa na INTF hadi karne ya 12.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "County Road 540 ni maili chache magharibi mwa State Road 540 katika Highland City na inakimbia kusini kutoka US 98 hadi County Road 37B.",
+        "sentence2": "County Road 540 ni maili chache kusini mwa State Road 540 katika Highland City na inakimbia magharibi kutoka US 98 hadi County Road 37B.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "SPB ina ukubwa wa urefu usiobadilika (umbali kutoka ubao wa ndani hadi ubao wa nje) kwa takriban nm 150, lakini kipenyo chake hubadilika wakati wa mzunguko wa seli, z.",
+        "sentence2": "SPB ina saizi ya kimo cha ndani ( bamba la nje hadi umbali usiobadilika wa kaba) kwa takriban nm 150, lakini kipenyo chake hubadilika wakati wa mzunguko wa seli, kwa mfano.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rami Nieminen (amezaliwa 25 Februari 1966 ) ni mwanasoka wa zamani wa Kifini .",
+        "sentence2": "Rami Nieminen ( amezaliwa 25 Februari , 1966 ) ni mwanasoka wa Kifini .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alikuwa binamu wa mchezaji wa Kicheki Miroslav Hlinka na mtoto wa mchezaji wa zamani Jaroslav Hlinka sr.",
+        "sentence2": "Alikuwa binamu wa mchezaji wa timu ya taifa ya Czech Miroslav Hlinka na mtoto wa mchezaji wa zamani Jaroslav Hlinka sr.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Walikuwepo kutuombea na walikuwepo kutufurahia.",
+        "sentence2": "Walikuwepo kwa ajili yetu ili tuombe na walikuwepo ili tufurahie.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "William Llewelyn Williams, anayejulikana zaidi kama Llewelyn Williams (Machi 10, 1867 - 22 Aprili 1922), alikuwa mwandishi wa habari mwenye itikadi kali, wakili na mwanasiasa wa chama cha kiliberali cha Wales.",
+        "sentence2": "William Williams, anayejulikana kama Llewelyn Williams (Machi 10, 1867 - 22 Aprili 1922), alikuwa mwandishi wa habari wa Wales, wakili, na mwanasiasa mwenye itikadi kali wa chama cha Liberal.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ndege Kubwa ni mti wa tatu kwa ukubwa na kongwe nchini Poland na ndege mnene zaidi ya London.",
+        "sentence2": "Ndege Kubwa ni mti wa tatu kwa ukubwa na kongwe nchini Poland, na ndege mnene zaidi ya London nchini humo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mto Molmys ni mto katika Perm Krai , Urusi , kijito cha Mto Yazva upande wa kushoto .",
+        "sentence2": "Yazva ni mto katika Perm Krai, Urusi, kijito cha kushoto cha Mto Molmys.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sarika anamwomba Kabir kusitisha mpango wake wa kumdhihirishia mchezo wa Ranvir.",
+        "sentence2": "Kabir anamwomba Sarika kufichua mpango wake wa kumaliza mchezo wa Ranvir.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hadi kuja kwa teknolojia ya kielektroniki na kidijitali ya video, utengenezaji wa filamu za ponografia ulihusishwa moja kwa moja na tasnia kuu ya filamu.",
+        "sentence2": "Uzalishaji wa wingi wa filamu za kielektroniki na dijitali ulihusishwa moja kwa moja na tasnia ya filamu iliyoanzishwa hadi ujio wa teknolojia ya video za ponografia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wakati Kundi la Wapiganaji wa 33d halikufanya kazi, liliunganishwa na Kundi la Tactical 33d kama Kundi la 33d Tactical Fighter.",
+        "sentence2": "Wakati Kundi la Mbinu la 33d halikufanya kazi, liliunganishwa kama Kundi la 33d la Tactical Fighter na Kundi la 33d Fighter.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Inatumika katika kitongoji cha kusini-mashariki cha Edithvale cha ufunguzi wa Melbourne mnamo 20 Septemba 1919.",
+        "sentence2": "Inahudumia kitongoji cha kusini-mashariki cha Melbourne cha ufunguzi wa Edithvale mnamo 20 Septemba 1919.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Massé alizaliwa katika Kaunti ya Westchester, New York, alikulia Holland, Michigan, na aliishi Ulaya wakati wa ujana wake.",
+        "sentence2": "Massé alizaliwa katika Kaunti ya Westchester, New York, alikulia Holland, Michigan, na aliishi Ulaya wakati wa miaka yake ya ujana.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fishman ana shahada ya kwanza kutoka Chuo Kikuu cha Columbia na shahada ya uzamili katika uchumi kutoka Chuo Kikuu cha Brown.",
+        "sentence2": "Fishman ana Shahada ya Kwanza kutoka Chuo Kikuu cha Brown na Shahada ya Uzamili katika Uchumi wa Chuo Kikuu cha Columbia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kufuatia mafanikio yake, Jane Campion alimwajiri Jones kwa tasnia ya televisheni iliyogeuzwa kuwa filamu ya Angel at my Table, iliyoiga wasifu wa Janet Frame.",
+        "sentence2": "Kufuatia mafanikio yake, Jane Campion Jones aliiga wasifu wa Janet Frame kwa tawasifu za televisheni ambazo ziligeuka kuwa filamu ya Angel at my Table.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stipsits alizaliwa huko Vienna, na alitumia utoto wake huko Stammersdorf, Korneuburg.",
+        "sentence2": "Stipsits alizaliwa huko Vienna na alitumia utoto wake huko Stammersdorf, Korneuburg.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Navarro ni partido kaskazini mashariki mwa Mkoa wa Buenos Aires nchini Argentina.",
+        "sentence2": "Navarro ni partido kaskazini mashariki mwa Argentina katika jimbo la Buenos Aires.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mkondo wa juu ni Daraja la Reli ya Kati la Michigan lililoondolewa kazini, ambalo pamoja na mtangulizi wake, Niagara Cantilever Bridge, lilishindana na kimbunga cha Rapids Bridge kwa usafiri wa reli.",
+        "sentence2": "Mkondo wa juu ni Daraja la Reli ya Kati la Michigan ambalo halitumiki tena, ambalo lilishindana na mtangulizi wake, Rapids Bridge whirlpool, na Niagara Cantilever Bridge kwa trafiki ya reli.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wimbo huu uliandikwa na kutayarishwa na gala, ambao ulitungwa na Filippo Andrea Carmeni na Maurizio Molella.",
+        "sentence2": "Wimbo huu uliandikwa na kutungwa na Gala uliotayarishwa na Filippo Andrea Carmeni na Maurizio Molella.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Retzius alizaliwa huko Stockholm, mwana wa mwana anatomist Anders Jahan Retzius (na mjukuu wa mwanasayansi wa asili na kemia Anders Retzius).",
+        "sentence2": "Retzius alizaliwa huko Stockholm, mwana wa mwana anatomist Anders Retzius (na mjukuu wa mwanasayansi wa asili na kemia Anders Jahan Retzius).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Katika sensa ya 2011 , 78.8 % ya wakazi walikuwa Waromania , 17 % Waroma , 2.7 % Wahungari na 1.4 % Wajerumani .",
+        "sentence2": "Katika sensa ya 2011 , 78.8 % ya wakazi walikuwa Waroma , 17 % Wahungaria , 2.7 % Warumi na 1.4 % Wajerumani .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Jumba la makumbusho liko katikati mwa Jiangbeizui CBD, karibu na makutano ya Mto Jialing na Mto Yangtze.",
+        "sentence2": "Jumba la makumbusho liko katikati mwa Jiangbeizui CBD, karibu na makutano ya Mto Jialing na mto Yangtze.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Robbins alizaliwa huko Coventry tarehe 21 Septemba 1933, pamoja na mapacha wake David, watoto wa nane na wa tisa kati ya kumi na wawili na Charles na Jessamine Robbins.",
+        "sentence2": "David alizaliwa tarehe 21 Septemba 1933 huko Coventry na babake mapacha Charles na Jessamine Robbins, mtoto wa nane na wa tisa kati ya kumi na wawili wa Robbins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kikosi hiki kinadumishwa na Queen's York Rangers (Kikosi cha 1 cha Marekani) (RCAC).",
+        "sentence2": "Kikosi hiki kinadumishwa na The Queen's York Rangers (RCAC) (Kikosi cha 1 cha Marekani).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Katz alizaliwa mwaka 1947 nchini Sweden na kuhamia New York akiwa na umri wa mwaka mmoja.",
+        "sentence2": "Katz alizaliwa huko New York City mnamo 1947 na kuhamia Uswidi akiwa na umri wa miaka 1.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Picha kwenye ukurasa ni picha ya pande mbili tofauti na 3D iliyotolewa awali .",
+        "sentence2": "Picha iliyo upande ni picha ya pande mbili kinyume na 3D iliyotolewa awali .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` Imesimamishwa '' mwanga , katika muktadha wa kati wa EIT , inarejelea `` quantum '' uhamishaji wa fotoni kwenye mfumo madhubuti na kurudi tena.",
+        "sentence2": "`` Imesimamishwa'' Mwanga unarejelea katika muktadha wa kati ya EIT hadi `` quantum '' uhamishaji wa fotoni hadi mfumo madhubuti na urejeshaji .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wastani wa awali ni muhimu zaidi kwa viwango vya juu vya fomula _ 2 .",
+        "sentence2": "Kwa viwango vya juu vya Mfumo 2 wastani wa sasa ni muhimu zaidi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Miongoni mwa wanawake mashuhuri wa Suriname ni Jennifer Simons, Marijke Djwalapersad, Elisabeth Samson, Cynthia McLeod, na Ruth Wijdenbosch.",
+        "sentence2": "Miongoni mwa wanawake mashuhuri zaidi wa Suriname ni Jennifer Simons, Marijke Djwalapersad, Elisabeth Samson, Cynthia McLeod na Ruth Wijdenbosch.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mnamo 1924 alikuwa msemaji aliyealikwa wa ICM huko Toronto, huko Oslo mnamo 1932 na 1936 huko Zurich.",
+        "sentence2": "Mwaka 1924 alikuwa msemaji aliyealikwa wa ICM huko Toronto , mwaka wa 1932 huko Zurich na Oslo mwaka wa 1936 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "BBC World Service pia ilitangaza toleo liitwalo ``Mnyama, Mboga na Madini', lililoongozwa na Michael Flanders akiwa na jopo akiwemo Terry Wogan.",
+        "sentence2": "BBC World Service pia ilionesha toleo linaloitwa ``Mnyama, Mboga na Madini', lililoongozwa na Michael Flanders, likiwa na jopo na Terry Wogan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mdogo wa Thompson, Julia, alizaliwa mwaka wa 1863 huko Charles Martin Hall, Kaunti ya Geauga, Ohio.",
+        "sentence2": "Mdogo wa Julia, Charles Martin Hall, alizaliwa huko Thompson, Kaunti ya Geauga, Ohio, mwaka wa 1863.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mto Horezu ni kijito cha Mto Ponoru nchini Romania.",
+        "sentence2": "Mto Ponoru ni kijito cha Horezu nchini Romania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo 2002, wimbo huo ulichapishwa na mtayarishaji wa Uingereza Vincent Stormfield na kufunikwa na Independiente kama '' Sweet Harmony 02 ``.",
+        "sentence2": "Mnamo mwaka wa 2002, wimbo huo ulifunikwa na mtayarishaji wa Uingereza Vincent Stormfield na kutolewa kama `` Sweet Harmony '02' na Independiente.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "David alizaliwa tarehe 21 Septemba 1933 huko Coventry na babake mapacha Charles na Jessamine Robbins, mtoto wa nane na wa tisa kati ya kumi na wawili wa Robbins.",
+        "sentence2": "Robbins alizaliwa tarehe 21 Septemba 1933 huko Coventry, pamoja na mapacha wake David, mtoto wa nane na wa tisa kati ya kumi na wawili wa Charles na Jessamine Robbins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kikosi kiliondoka Boston mnamo Oktoba 1777 na kujiunga na Jeshi kuu la Jenerali George Washington nje ya Philadelphia.",
+        "sentence2": "Utawala uliondoka Philadelphia mnamo Oktoba 1777 na kujiunga na jeshi kuu la Jenerali George Washington nje ya Boston.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kiwanja kilitengenezwa na Dk. Patrick Page na timu yake na kilipewa hati miliki na Genkyotex mwaka wa 2007.",
+        "sentence2": "Kiwanja hiki kilipewa hati miliki na Dk. Patrick Page na timu yake na ilivumbuliwa na Genkyotex mwaka wa 2007.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Kesi '' ilitumika kwa mara ya mwisho mwaka 1949 huko Ujerumani Mashariki, 1966 huko Ujerumani Magharibi.",
+        "sentence2": "`` Fallbeil '' ilitumika kwa mara ya mwisho Ujerumani Magharibi mwaka wa 1949, mwaka wa 1966 huko Ujerumani Mashariki.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ringo Sheena ni kiongozi wa Saito Neko Quartet, na anajulikana kwa ushirikiano wake mwingi na mwanamuziki Saito.",
+        "sentence2": "Saito ndiye mkuu wa kikundi cha Saito Neko Quartet na anajulikana sana kwa ushirikiano wake mwingi na mwanamuziki Ringo Sheena.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abu Halifa au Abu Hulayfah au Abu Huleifa au Abu Haleifah ni mji mdogo katika wilaya ya Abu Halifa ya mkoa wa Al Ahmadi kusini mwa Kuwait.",
+        "sentence2": "Abu Halifa au Abu Hulayfah au Abu Huleifa au Abu Haleifah ni mji mdogo katika Kuwait ya mkoa wa Al Ahmadi katika Wilaya ya kusini ya Abu Halifa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Baba yake alikuwa mwana haramu wa Anne Tothby, Mbunge wa Lincolnshire, na William Skipwith.",
+        "sentence2": "Baba yake alikuwa mwana haramu wa Anne Tothby, mwanachama wa Bunge la Lincolnshire, na William Skipwith.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Miongoni mwao ni Marie Teresa Rios , mtunzi wa boleros , Julita Ross , mwandishi , na Sylvia Rexach , mwimbaji .",
+        "sentence2": "Miongoni mwao ni Sylvia Rexach , mtunzi wa Boleros , Marie Teresa Rios , mwandishi , na Julita Ross , mwimbaji .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Aliacha mke wake Carol Ober, binti Viola na wajukuu wanne.",
+        "sentence2": "Aliacha mke wake Carol Ober, binti yake Viola na wajukuu wanne.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Angerudi kwenye kituo kilicho magharibi mwa Tecumseh usiku huo, na kisha kupanda farasi mwingine hadi Violet Springs kabla majirani zake hawajatiliwa shaka.",
+        "sentence2": "Angesafiri hadi kwenye kituo usiku huo, kilichoko magharibi mwa Tecumseh, na kisha kurudi Violet Springs na farasi mwingine kabla majirani zake hawajatiliwa shaka.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Shirika hilo lina makao yake makuu mjini Paris, Ufaransa, na ofisi yake ya ng'ambo -Ofisi ya Uendeshaji huko Arlington, Virginia.",
+        "sentence2": "Shirika hilo lina makao yake makuu huko Arlington, Virginia, na Ofisi yake ya Operesheni ya Ng'ambo huko Paris, Ufaransa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo 1964, dayosisi hiyo ilirejeshwa kwa jina kama raia mwenye cheo cha chini kabisa ( maaskofu).",
+        "sentence2": "Mnamo mwaka wa 1964, dayosisi hiyo ilirejeshwa kwa jina kama kiti cha uaskofu cha cheo cha chini kabisa ( chenye cheo).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kazi yake iliyofuata katika kilimo ilikuwa hasa Lincolnshire, lakini pia alipendekeza tuta kubwa huko Norfolk, ambazo zilitekelezwa kwa mafanikio.",
+        "sentence2": "Kazi yake ya baadaye katika kilimo ilikuwa hasa katika Norfolk, lakini pia alipendekeza tuta kubwa huko Lincolnshire, ambazo zilitekelezwa kwa mafanikio.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Jack Nitzsche aliposikia kwa mara ya kwanza ``Aina ya Wenzake Mkaidi'' alifurahi sana na kupoteza udhibiti wa gari lake alipokuwa akiendesha gari kwenye Sunset Boulevard akiwa na Phil Spector.",
+        "sentence2": "Wakati Phil Spector aliposikia `` Aina ya Wenzake Mkaidi'' kwa mara ya kwanza, alifurahi sana kwamba alipoteza udhibiti wa gari lake alipokuwa akiendesha gari la Sunset Boulevard akiwa na Jack Nitzsche.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wakomunisti waliamini kwa dhati kwamba Shirika Kuu la Ujasusi liliunga mkono maandamano haya kwa busara kifedha na vinginevyo.",
+        "sentence2": "Wakomunisti waliamini kwa busara kwamba Shirika Kuu la Ujasusi liliunga mkono kwa nguvu maandamano haya kifedha na vinginevyo.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Spishi hizi ni wanachama wa makundi mbalimbali ya kiikolojia, ikiwa ni pamoja na vichaka vya xerophytic, liana na miti, mimea ya kitropiki, mycoheterotrophy, pamoja na wawakilishi mbalimbali wa mitishamba.",
+        "sentence2": "Spishi hizi ni wanachama wa makundi mbalimbali ya kiikolojia, ikiwa ni pamoja na vichaka vya kitropiki, liana na miti, mimea ya xerophytic, mycoheterotrophic pamoja na wawakilishi mbalimbali wa mitishamba.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Khan alitoka nje na kusindikizwa, Tsitsianov alipanda farasi na wanaume wengine wawili na akauawa kwa kupigwa risasi.",
+        "sentence2": "Khan alisonga mbele kwa kusindikizwa, Tsitsianov alipanda farasi na watu wengine wawili na akauawa kwa kupigwa risasi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sculcoates ina maktaba, ofisi ya posta, bafu ya kuogelea inayoitwa Beverley Road Baths, shule ya upili na shule mbili za msingi.",
+        "sentence2": "Sculcoates ina maktaba, ofisi ya posta, bwawa la kuogelea linaloitwa Beverley Road Baths, shule ya upili na shule mbili za msingi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alizaliwa huko Melbourne na kuhamia New Zealand na familia yake alipokuwa na umri wa miaka 10.",
+        "sentence2": "Alizaliwa New Zealand, na alihamia na familia yake Melbourne alipokuwa na umri wa miaka 10.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Katika historia ya vifaa hivyo , ilitangulia `` The Turk '' na kufanikiwa `` Mephisto '' .",
+        "sentence2": "Katika historia ya vifaa hivyo '' Mturuki `` amefaulu na '' Mephisto `` alitangulia .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Agranat alizaliwa huko Louisville, Kentucky, mwaka wa 1906, katika familia ya Kiyahudi-Kizayuni.",
+        "sentence2": "Agranat alizaliwa katika familia ya Wazayuni-Wayahudi huko Louisville, Kentucky mwaka wa 1906.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Massé alizaliwa katika Kaunti ya Westchester, New York, alikulia Holland, Michigan, na aliishi Ulaya wakati wa miaka yake ya ujana.",
+        "sentence2": "Massé alizaliwa Holland, Michigan, alikulia katika Kaunti ya Westchester, New York, na aliishi Ulaya wakati wa ujana wake.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nasaba hizi tatu za akina mama zilitawala ufalme wa Waalo pamoja na ukoo wa baba wa Mbooj.",
+        "sentence2": "Nasaba hizi tatu za akina mama zilitawala ufalme wa Waalo pamoja na familia ya baba Mbooj.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "BAC inatoa maonyesho matatu ya kila mwaka ya Orchestra ya Minnesota na hivi karibuni imeagiza kazi za Diavolo na Merce Cunningham Dance Company.",
+        "sentence2": "BAC ina maonyesho matatu ya kila mwaka na Orchestra ya Minnesota na inatoa kazi zilizoagizwa hivi majuzi na Diavolo na Merce Cunningham Dance Company.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Monroe Meadows, katika bonde la Yosemite karibu na Maporomoko ya maji ya Bridalveil, pia imepewa jina la George Monroe.",
+        "sentence2": "Monroe Meadows, katika kesi ya Bridalveil karibu na Bonde la Yosemite, pia anaitwa George Monroe.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Andesite ilikuwa aina kuu ya lava yenye baadhi ya sampuli za mafic za kutosha kuainishwa kama basaltic andesite .",
+        "sentence2": "Andesite ilikuwa aina kuu ya lava yenye baadhi ya sampuli ambazo zilitosha kuainishwa kuwa basaltic andesite .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mapema mwaka wa 2016, Seneta Bob Hackett aliteuliwa katika Seneti ya Ohio ili kumrithi Seneta Chris Widener, ambaye alijiuzulu.",
+        "sentence2": "Mapema mwaka wa 2016, Seneta Chris Widener aliteuliwa katika Seneti ya Ohio kumrithi Seneta Bob Hackett, ambaye alijiuzulu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kivitendo ni `` moduli'' za Java-madarasa , kwa kawaida aina ndogo za fasili halisi za darasa .",
+        "sentence2": "Kiutendaji , Mesquite `` moduli' madarasa ya Java kwa kawaida ni aina ndogo za ufafanuzi wa darasa dhahania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Papa alipendekeza suluhisho mwaka 1980 ambalo lilikataliwa na Chile na kupitishwa na Argentina.",
+        "sentence2": "Papa alipendekeza suluhisho lililokubaliwa na Chile mwaka 1980 na kukataliwa na Argentina.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Katika miaka ya 1930 na 1940 , alichaguliwa mara nne kwa Al Smith mwaka wa 1928 kwa Franklin D. Roosevelt na kwa Harry S. Truman mwaka wa 1948 .",
+        "sentence2": "Massachusetts ilimpigia kura Al Smith mwaka wa 1928 , Franklin D. Roosevelt mara nne katika miaka ya 1930 na 1940 , na Harry S. Truman mwaka wa 1948 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Muziki ulioimbwa kama ukumbi wa Bob `` Blackadder '' ni Vaughan Williams' `` Fantasia kwenye Greensleeves '' .",
+        "sentence2": "Muziki unaoimbwa kama Blackadder courts ''Bob `` ni ''Fantasia on greensleeves'' na Vaughan Williams.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Inafaa pia kuzingatia kwamba nambari ifuatayo ingefanya kazi bila ADL ( itatumika kwayo hata hivyo).",
+        "sentence2": "Inafaa pia kuzingatia kwamba nambari ifuatayo ingefanya kazi bila ADL ( itatumika kwayo hata hivyo).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kisha hukutana na Mto Snoqualmie kuunda Mto Snohomish huko Monroe.",
+        "sentence2": "Kisha hukutana na Mto Snoqualmie kuunda Mto Snohomish huko Monroe.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wakati wa kampeni yake, alimjadili McCain mara mbili, mara moja huko Tucson na mara moja huko Flagstaff.",
+        "sentence2": "Wakati wa kampeni yake, alimjadili McCain mara mbili, mara moja huko Flagstaff na mara moja Tucson.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ilikamilishwa na mke wake, Stella Gemmell, kufuatia kifo chake mnamo Julai 28, 2006 na kutolewa chini ya uandishi wa pamoja wa David na Stella Gemmell.",
+        "sentence2": "Ilichapishwa na mke wake Stella Gemmell kufuatia kifo chake tarehe 28 Julai 2006 na kumaliza chini ya uandishi wa pamoja wa David na Stella Gemmell.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Muungano wa Wabaptisti wa Kati ni muungano wa makanisa kutoka Carolina Kusini hadi Indiana, yenye makanisa mengi zaidi mashariki mwa Tennessee na kusini-magharibi mwa Virginia.",
+        "sentence2": "Muungano wa Wabaptisti wa Kati ni muungano wa makanisa yanayopatikana kutoka Carolina Kusini hadi Virginia, huku makanisa mengi yakiwa mashariki mwa Tennessee na kusini-magharibi mwa Indiana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Karen Phillips alianza uhusiano na Steve wa Suranne Jones alicheza.",
+        "sentence2": "Steve alianza uhusiano na Karen Phillips iliyochezwa na Suranne Jones.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "vidas distintas ni telenovela ya Meksiko kutoka 1969 iliyopitishwa na Televisa na ilitolewa awali na Telesistema Mexicano.",
+        "sentence2": "Tres vidas distintas, ni telenovela ya 1969 ya Meksiko iliyopitishwa na Televisa na ilitolewa awali na Telesistema Mexicano.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Chandler alichukulia kompyuta kama chombo cha kujifunzia, lakini alikataa mtazamo uliokuwepo ambao ulitambua data kama taarifa, na habari kama maarifa.",
+        "sentence2": "Chandler alitambua kompyuta kama chombo cha kujifunzia, lakini alikataa mtazamo uliokuwepo, ambao uliona data kama habari na habari kama maarifa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mpito wa awamu kutoka kwa ferromagnet hadi paramagnet ni ya pili na ni ya utaratibu unaoendelea.",
+        "sentence2": "Mpito wa awamu kutoka kwa ferromagnet hadi paramagnet ni endelevu na una mpangilio wa pili.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Familia za Kialbania ziliondoka kijijini kabla ya wakimbizi wa Serbia kurejea mwaka 1999 .",
+        "sentence2": "Kabla ya wakimbizi wa Serb kurejea mwaka 1999, familia za Kialbeni ziliondoka kijijini.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hata hivyo, toleo la asili lilirukwa kwa ajili ya toleo laini.",
+        "sentence2": "Toleo laini, hata hivyo, lilirukwa kwa ajili ya toleo asilia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo mwaka wa 1864, Jumuiya ya Wamishonari ya Umoja wa Presbyterian ya Scotland ilituma mawakala wake kwenda Uchina.",
+        "sentence2": "Jumuiya ya Wamishonari ya Umoja wa Presbyterian ya Uchina ilituma mawakala wake huko Scotland mnamo 1864.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Baada ya miaka kumi kukaa Paris, Houdon alirejea Italia.",
+        "sentence2": "Baada ya miaka kumi huko Paris, Houdon alirudi Italia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alizamishwa na Wajerumani na kutupiliwa mbali na washambuliaji wa Allied mara mbili mwaka wa 1943 -- 1944 na hatimaye akainuliwa mwaka 1946 -- 1947.",
+        "sentence2": "Ililelewa na Wajerumani mwaka 1943 -- 1944 na kuzamishwa mara mbili na washambuliaji washirika na hatimaye kutupiliwa mbali mwaka 1946 -- mwaka 1947.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo 1864, Jumuiya ya Wamishonari ya Umoja wa Presbyterian ya China ilituma mawakala wake huko Scotland.",
+        "sentence2": "Jumuiya ya Wamishonari ya Umoja wa Presbyterian ya Uchina ilituma mawakala wake huko Scotland mnamo 1864.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Filamu hiyo ni nyota Lily Rabe , Timothée Chalamet , Lili Reinhart , Anthony Quintal , Oscar Nunez , na Rob Huebel .",
+        "sentence2": "Nyota Lilie Rabe , Timothée Chalamet , Lili Reinhart , Anthony Quintal , Oscar Nunez na Rob Huebel .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dakota City ni sehemu ya eneo la mji mkuu Sioux City, IA -- NE -- SD.",
+        "sentence2": "Dakota City ni sehemu ya Sioux City, IA -- NE -- SD Metropolitan Statistical Area.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Grant Connell na Glenn Michibata walishinda taji hilo, na kuwashinda Wayne Ferreira na Jim Grabb 6: 4, 6:3 katika fainali.",
+        "sentence2": "Wayne Ferreira na Jim Grabb walishinda taji hilo , wakiwashinda Grant Connell na Glenn Michibata 6 -- 4 , 6 -- 3 katika fainali .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Uchaguzi wa ubunge huko Zagreb mwaka wa 1927 ulifanyika tarehe 4 Septemba siku 7 kabla ya uchaguzi wa serikali za mitaa.",
+        "sentence2": "Uchaguzi wa wabunge wa 1927 huko Zagreb ulifanyika tarehe 4 Septemba, siku 7 kabla ya uchaguzi wa mitaa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum ni aina ya konokono wa baharini, moluska wa kweli wa gastropod katika familia ya Buccinidae, nyangumi wa baharini.",
+        "sentence2": "Probuccinum tenerum ni aina ya konokono wa baharini, moluska halisi wa gastropod katika familia ya Buccinidae, whelks baharini.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mto Valea lui Lambă au Mto Lom ni kijito cha Mto Șimon huko Rumania.",
+        "sentence2": "Mto Valea lui Lambă au Mto Lom ni kijito cha `` unk '' imon mto huko Rumania .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Jenasi hii sasa imeainishwa katika familia ya mijusi, inayojulikana kama Iguanidae, familia ndogo ya Polychrotinae, na haijaainishwa tena katika familia batili ya sasa, polychrotidae.",
+        "sentence2": "Jenasi hii sasa iko katika familia ya mijusi inayojulikana kama Iguanidae, familia ndogo ya Polychrotinae, na haijaainishwa tena katika familia isiyo sahihi ya sasa, Polychrotidae.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mnamo mwaka wa 2012, jiji hilo lilipinduka na kushinda kwa mwanademokrasia aliyemaliza muda wake Barack Obama, ambaye alichukua 51% ya kura kwa Mitt Romney wa Republican aliyepata 48%.",
+        "sentence2": "Mnamo mwaka wa 2012, halmashauri hiyo ilibadilika na kushinda kwa mwanademokrasia aliyemaliza muda wake Barack Obama, ambaye alichukua 51% ya kura dhidi ya 48% ya Republican Mitt Romney.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pamoja naye nimeweza kutimiza baadhi ya ndoto zangu za muziki kwa mitindo ya mapema na mtindo huu mpya ni mkubwa sana, safi na wa kawaida.",
+        "sentence2": "Pamoja naye nimeweza kutimiza baadhi ya ndoto zangu za mapema kwa mitindo ya muziki na mtindo huu mpya ni mkubwa sana, mpya na unavuma kiasili.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Grady Howard alichaguliwa kuwa meya wa kwanza mnamo tarehe hii, na alitajwa rasmi kuwa meya wa muda wa Spring Lake mnamo Juni 5, 1951.",
+        "sentence2": "Grady Howard alichaguliwa kuwa meya wa kwanza katika tarehe hii na kuteuliwa rasmi kuwa Meya wa Spring Lake mnamo Juni 5, 1951.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ballouhey inapatikana hasa Isère huko Paris na pia Ufaransa na Afrika Kusini.",
+        "sentence2": "Ballouhey inapatikana hasa nchini Ufaransa huko Isère na Paris, na pia Afrika Kusini.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Itakuwa ya juu na ukuta mrefu na uwezo.",
+        "sentence2": "Itakuwa juu, na ukuta mrefu na uwezo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Elimu katika Alabama ina shule za upili na msingi huko Alabama, ikijumuisha Chuo Kikuu cha Alabama, vyuo vya kibinafsi, na shule za umma na za kibinafsi.",
+        "sentence2": "Elimu katika Alabama ina shule za umma na za kibinafsi huko Alabama, ikijumuisha Chuo Kikuu cha Alabama, vyuo vikuu vya kibinafsi na shule za upili na msingi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mfululizo ulianza tarehe 18 Aprili 2009 nchini Australia kwenye Nickelodeon (New Zealand na New Zealand).",
+        "sentence2": "Mnamo Aprili 18, 2009, mfululizo ulianza New Zealand kwenye Nickelodeon (Australia na New Zealand).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Iliongozwa na George Fitzmaurice na inategemea igizo la 1917, `` Tiger Rose', la Willard Mack.",
+        "sentence2": "Imeongozwa na George Fitzmaurice, imetokana na igizo la 1917 ``Tiger Rose' la Willard Mack.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Toleo la Mahabharata lililoandikwa na Odia-mshairi Sarala Dasa linasimulia ngano ya Navagunjara, hakuna mwingine aliye na hadithi hiyo.",
+        "sentence2": "Toleo la Mahabharata, lililoandikwa na mshairi wa Odia Sarala Dasa, lina hekaya ya Navagunjara. Hakuna toleo lingine linalosimulia hadithi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam ( 15 Oktoba 1929 - 29 Julai 2012 ) alikuwa dansa wa Kihindi na gwiji wa umbo la densi la Kuchipudi .",
+        "sentence2": "Vempati Chinna Satyam ( 15 Oktoba 1929 - 29 Julai 2012 ) alikuwa dansa na gwiji wa Kihindi wa aina ya densi ya Kuchipudi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lee Hi ni mwimbaji wa Korea Kusini chini ya YG Entertainment.",
+        "sentence2": "Mwimbaji wa Kikorea Lee Hi ni mwimbaji wa Korea Kusini chini ya YG Entertainment.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lahaja za mbinu hii hutokeza ukadiriaji mzuri wa nambari kwa vielezi vingi wakati maneno muhimu yanapojumuishwa, katika vipimo viwili na vitatu.",
+        "sentence2": "Lahaja za utaratibu huu hutokeza ukadiriaji mzuri wa nambari kwa viambajengo muhimu wakati istilahi nyingi zimejumuishwa katika vipimo viwili na vitatu .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kifuniko kiliondolewa tu na watazamaji waliobahatika , kwa hivyo matukio haya yanaweza kuwa ya karibu zaidi .",
+        "sentence2": "Kifuniko kiliondolewa na watazamaji waliobahatika pekee , kwa hivyo matukio haya yanaweza kuwa ya karibu zaidi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Inatumikia eneo la Cantonment la Chandimandir la jiji la Panchkula.",
+        "sentence2": "Inahudumia eneo la Panchkula la jiji la Chandimandir Cantonment.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Shule ya Upili ya Slough ilikuwa shule ya sarufi ya kuchagua wasichana huko Slough, Buckinghamshire, sasa Berkshire.",
+        "sentence2": "Shule ya Upili ya Slough ilikuwa shule ya kuchagua sarufi ya wasichana huko Slough, Buckinghamshire, sasa Berkshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eugene D. Engley alizaliwa tarehe 5 Aprili 1851 huko Attleborough, Massachusetts, kama mtoto wa James Henry Engley na mkewe, Mary Kaley wa zamani.",
+        "sentence2": "James Henry Engley alizaliwa tarehe 5 Aprili 1851 huko Attleborough, Massachusetts, mwana wa Eugene D. Engley na mkewe, Mary Kaley wa zamani.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Maritsa Lazari alizaliwa Cyprus mnamo Oktoba 1943 na alihama na familia yake akiwa na umri wa miaka 16 kwenda London, Uingereza.",
+        "sentence2": "Maritsa Lazari alizaliwa London mnamo Oktoba 1943 na amehamia Cyprus pamoja na familia yake akiwa na umri wa miaka 16 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo Machi 5, 2011, MTV Hive ilichapisha kiungo cha kutiririsha kwa Anni Rossi akiigiza wimbo wa Rihanna ``Rude Boy'.",
+        "sentence2": "Mnamo Machi 5, 2011, MTV Hive ilichapisha kiungo cha kutiririsha kwa Rihanna, akiigiza Anni Rossi ``Rude Boy'.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Makaburi ya Machpela, pia yameandikwa kama ''Makaburi ya Macpela `` au '' Makaburi ya Macphelah ``, ni makaburi katika Kaunti ya Hudson, New Jersey.",
+        "sentence2": "Makaburi ya Macpelah, pia yameandikwa kama `` Makaburi ya Macpelah '' , au `` Makaburi ya Macphelah '' , ni makaburi katika Kaunti ya Hudson , New Jersey .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wimbo huu uliandikwa na kutungwa na Gala na Filippo Andrea Carmeni na Maurizio Molella akatayarishwa.",
+        "sentence2": "Wimbo huu uliandikwa na kutayarishwa na gala, ambao ulitungwa na Filippo Andrea Carmeni na Maurizio Molella.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kulingana na Kabla, Robert Goldsmith babu wa mshairi, mtunzi wa tamthilia na mwandishi wa riwaya Oliver Goldsmith alikuwa wa kwanza wa familia kuishi Ballyoughter.",
+        "sentence2": "Kulingana na Robert Prior, Robert Goldsmith alikuwa babu wa mshairi, mwandishi wa tamthilia, na mwandishi, Oliver Goldsmith, wa kwanza wa familia kukaa na Ballyoughter.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kuacha injini na mafuta yake kungepunguza utata na kuongeza mzigo wa malipo.",
+        "sentence2": "Kuacha injini na mafuta yake kungeongeza ugumu na kupunguza mzigo wa malipo.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kulingana na Tobe na Gunnar Hansen, sababu iliyomfanya kuvaa barakoa ni kwamba kinyago hicho kiliamua utu wake.",
+        "sentence2": "Gunnar Hansen alitoa maoni: `` Sababu ya yeye kuvaa barakoa, kulingana na Tobe na Kim, ilikuwa kwamba barakoa hiyo iliamua utu wake.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Chuo cha kibinafsi cha Claiborne kiko Haynesville, karibu na Parokia ya Claiborne.",
+        "sentence2": "Chuo cha kibinafsi cha Claiborne kiko katika Parokia ya Claiborne, si karibu na Haynesville.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "NVIDIA TITAN V ilitangazwa rasmi na Nvidia mnamo Desemba 7, 2017.",
+        "sentence2": "Mnamo Desemba 7, 2017 NVIDIA ilitangaza rasmi Nvidia TITAN V.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alifanya mafunzo ya matibabu katika Hospitali ya Middlesex mjini London, na kufuzu kama daktari wa kimatibabu mwaka wa 1943.",
+        "sentence2": "Alifanya mafunzo ya kimatibabu katika Hospitali ya Middlesex huko London na kufuzu kama daktari mnamo 1943.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alifanya kazi kama mtengenezaji wa vioo na alifanya kazi na bendi nyingi tofauti kwenye ala tofauti za muziki.",
+        "sentence2": "Alifanya kazi ya kutengeneza vioo na kutumbuiza kwenye ala mbalimbali za muziki na bendi nyingi tofauti.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vipengele vya mifumo ya mitambo huhifadhi nishati inayoweza kunyumbulika ikiwa imeharibika kwenye mfumo inapotumika kwa nguvu.",
+        "sentence2": "Vipengele vya mifumo ya mitambo huhifadhi nishati inayoweza kunyumbulika ikiwa imeharibika wakati nguvu zinatumika kwenye mfumo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "William Llewelyn Williams anayejulikana kama Llewelyn Williams ( 10 Machi 1867 -- 22 Aprili 1922 ) , alikuwa mwandishi wa habari wa Wales , wakili na mwanasiasa mwenye itikadi kali wa Chama cha Kiliberali .",
+        "sentence2": "William Williams, anayejulikana kama Llewelyn Williams ( 10 Machi 1867 - 22 Aprili 1922 ), alikuwa mwandishi wa habari wa Wales, wakili na mwanasiasa mwenye itikadi kali wa chama cha kiliberali.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Blagoy Ivanov alishindana na Mehmen kwa Mashindano ya Uzito wa Juu ya WSOF mnamo Oktoba 17, 2015.",
+        "sentence2": "Blagoy Ivanov alishindana na Mehmen kwa Mashindano ya Uzito wa Juu ya WSOF mnamo Oktoba 17, 2015.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ilianzishwa na Richard Creed, iliyojengwa na George Edwards, iliyoundwa na Collins na Geoffrey wa Monmouth.",
+        "sentence2": "Iliundwa na Richard Creed, iliyojengwa na Collins na Geoffrey na kuwekwa na George Edwards wa Monmouth.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sacramento iko katika ( 38.651254, -121.259279 ), kati ya Fair Oaks na Folsom.",
+        "sentence2": "Fair Oaks iko kati ya Sacramento na Folsom (38.651254, -121.259279).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wimbo wa `` Astrud '' kwenye albamu ya Gilberto ya 1987, `` Time and Tide '', ni heshima kwa Basia Trzetrzelewska.",
+        "sentence2": "Wimbo wa `` Astrud '' kwenye albamu ya Basia Trzetrzelewska `` Time and Tide' kutoka 1987 ni heshima kwa Gilberto.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Clark alikuwa na mtoto wa kiume, Rishi, aliyezaliwa Aprili 3, 2007. EP ya soksi na viatu kwenye Muziki wa Microcosm ilipewa jina lake, Rishi Saturn.",
+        "sentence2": "Rishi alikuwa na mtoto wa kiume, Clark, aliyezaliwa Aprili 3, 2007. EP ya soksi na viatu kwenye Muziki wa Microcosm ilipewa jina lake, Rishi Saturn.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Melodie Crittenden aliondoka kwenye kikundi mwaka wa 2004 na kufuata kazi ya peke yake, na kwa muda mwingi wa 2005 Nicol aliimba na kikundi.",
+        "sentence2": "Melodie Crittenden aliondoka kwenye kikundi mwaka wa 2004 ili kutazama kazi ya peke yake, na kwa muda mwingi wa 2005 Nicol aliimba na kikundi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Katika kandanda ya nusu taaluma, timu za Uskoti hushindana katika viwango vyote chini ya Ligi Kuu ya Uskoti, huku timu nyingi zilizo chini ya Ubingwa wa Uskoti zikiwa za utaalamu.",
+        "sentence2": "Katika kandanda ya Uskoti, timu za wataalam katika viwango vyote huonekana chini ya uwaziri mkuu wa Uskoti, huku timu nyingi zilizo chini ya ubingwa wa Uskoti zikiwa za utaalamu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Diboll na Owen wa New Orleans walikuwa wasanifu na GA Chamblin of Mobile alikuwa mkandarasi.",
+        "sentence2": "Wasanifu majengo walikuwa Diboll na Owen wa New Orleans na mkandarasi alikuwa GA. Chamblin ya Simu ya Mkononi .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Katika shinikizo la damu mbaya, mabadiliko haya ya hyperplastic mara nyingi hufuatana na necrosis ya ateri ya intima ya fibrinoid na vyombo vya habari.",
+        "sentence2": "Katika shinikizo la damu mbaya, mabadiliko haya ya hyperplastic mara nyingi huambatana na nekrosisi ya fibrinoid ya intima ya ateri na vyombo vya habari.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Timu ilizuru Australia mnamo 1953 na Asia mnamo Agosti 1959.",
+        "sentence2": "Mnamo 1953 timu ilizuru Asia na Australia mnamo Agosti 1959.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Filamu hii inamhusu Rafael, mwimbaji wa Kimalayalam katika tasnia mpya ya filamu.",
+        "sentence2": "Filamu inamhusu Rafael, mwimbaji mpya katika tasnia ya filamu ya Kimalayalam.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo 1864, Jumuiya ya Wamishonari ya Umoja wa Presbyterian ya China ilituma wawakilishi wake huko Scotland.",
+        "sentence2": "Jumuiya ya Wamishonari ya Umoja wa Presbyterian ya Uchina ilituma mawakala wake huko Scotland mnamo 1864.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fomula ya awali ya nafasi ya vekta _ 13 inaitwa `` kitu cha awali '' au `` muundo wa kitopolojia '' kuhusiana na data iliyotolewa .",
+        "sentence2": "Nafasi ya kwanza ya vekta Mfumo 13 inaitwa kitu cha awali `` au '' muundo wa kitopolojia kuhusiana na data iliyotolewa .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nasaba hizi tatu za akina mama zilitawala ufalme wa Waalo pamoja na ukoo wa baba wa Mbooj.",
+        "sentence2": "Nasaba hizi tatu za ukoo wa baba zilitawala Ufalme wa Waalo na familia ya akina mama Mbooj.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Filamu hii inaigiza Jembie Almazan kama Alex, Bernardo Garnica Cruz kama David na Jonathan Diaz Angulo kama Maria.",
+        "sentence2": "Filamu ya Stars Jembie Almazan kama Mary, Bernardo Garnica Cruz kama David na Jonathan Diaz Angulo kama Alex.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ingawa kutengwa kwa wachezaji weusi haikuwa sheria iliyoandikwa, tangu 1933 hakuna Mwafrika-Amerika aliyecheza katika Ligi ya Taifa ya Soka.",
+        "sentence2": "Ingawa kutengwa kwa wachezaji weusi haikuwa sheria iliyoandikwa, hakuna Mwafrika Mmarekani aliyecheza katika Ligi ya Taifa ya Soka tangu 1933.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dale ameolewa na Patricia Meyer tangu 1984 na kwa pamoja wana wana wawili: Ryan (aliyezaliwa 1988) na Blake (aliyezaliwa 1992).",
+        "sentence2": "Tangu 1984, Blake ameolewa na Patricia Meyer na ana watoto wawili wa kiume: Ryan (aliyezaliwa 1988) na Dale (aliyezaliwa 1992).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Platzer alipofungua mgahawa wake wa pili huko Allentown mnamo 1993, alibadilisha jina na kuwa PJ Whelihan's ili kumtukuza babu yake, Peter Joseph Whelihan.",
+        "sentence2": "Mnamo 1993, Platzer alipofungua mgahawa wake wa pili huko Allentown, alibadilisha jina na kuwa PJ Whelihan ili kumtukuza babu yake Peter Joseph Whelihan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wakati wa misheni hiyo, wanajeshi 65 waliuawa: 34 Wanaijeria, 28 wa Chad, 2 wa Togo na 1 Burkinabé.",
+        "sentence2": "Wakati wa misheni hiyo, wanajeshi 65 waliuawa: 34 wa Chad, 28 wa Nigeria, 2 wa Togo na 1 Burkinabé.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo Desemba 1969, Jeshi la 49 - Idara ya 29 ya Jeshi - Idara.",
+        "sentence2": "Mnamo Desemba 1969, Jeshi la 29 - Idara ya 49 ya Jeshi - Idara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Scapes mara nyingi haipo au ni fupi sana.",
+        "sentence2": "Scapes ni fupi sana au nyingi hazipo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alionekana kama ''ana uwezo mkubwa sana na kipaji kikubwa, na atakua katika siku zijazo hadi kuwa mtu wa kipekee wa muziki.",
+        "sentence2": "Alionekana kama `` ana uwezo mkubwa sana na kipaji kikubwa , na atakua na kuwa mtu wa kipekee wa muziki katika siku zijazo . ''",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mnamo Januari 2013, ilitangazwa kuwa Warren Spector Disney Interactive alikuwa ameondoka baada ya kufungwa kwa Junction Point Studios.",
+        "sentence2": "Mnamo Januari 2013, ilitangazwa kuwa Warren Spector alikuwa ameondoka kwenye Junction Point Studios kufuatia kufungwa kwa Disney Interactive.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Usafiri wa anga hutolewa ndani ya nchi na ndege ndogo huko New Bedford, Berkley, na uwanja wa ndege wa eneo huko Taunton Mashariki.",
+        "sentence2": "Usafiri wa anga hutolewa ndani ya nchi kupitia ndege ndogo huko East Taunton, Berkley, na uwanja wa ndege wa eneo huko New Bedford.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tunapotumia mashine ya kupitisha mbadala, tunayo rasilimali ya ATIME.",
+        "sentence2": "Ikiwa tuna mashine mbadala ya Turing , tunatumia rasilimali ATIME .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alimaliza vipigo viwili nyuma ya Bubba Watson na Louis Oosthuizen na akalalamikia uchezaji wake bora kama sababu ya yeye kutoshinda mashindano hayo.",
+        "sentence2": "Alimaliza mipigo miwili nyuma ya Louis Oosthuizen na Bubba Watson na kuomboleza uchezaji wake bora kama sababu ya yeye kutoshinda mashindano hayo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Miji iliyotangulia kuandaa Mkutano wa Maamuzi ya Sirius ni pamoja na Orlando (2014), Scottsdale (2013) na San Diego (2012).",
+        "sentence2": "Miji ya awali mwenyeji wa Mkutano wa SiriusDecisions ni pamoja na Orlando (2014), San Diego (2013) na Scottsdale (2012).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Taa katika uchoraji wa Louvre ni joto zaidi na inaonekana kuwa laini, lakini hii inaweza kuwa matokeo ya sauti ya varnish juu ya uso.",
+        "sentence2": "Mwangaza katika uchoraji wa Louvre ni wa joto na unaonekana kuwa laini, lakini hii inaweza kuwa matokeo ya sauti ya varnish juu ya uso.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mto Molmys ni mto katika Perm Krai, Urusi, kijito cha kushoto cha Mto Yazva.",
+        "sentence2": "Yazva ni mto katika Perm Krai, Urusi, kijito cha kushoto cha Mto Molmys.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo Agosti 1, 1699, William Blackett alikabidhi ardhi ya umiliki wake huko Chirton kwa Sir Archibald Campbell, ambaye aliuza Bickerstaffe, 1st Duke of Argyll Hall.",
+        "sentence2": "Mnamo Agosti 1, 1699, William Blackett alisalimisha umiliki wake huko Chirton kwa Sir Archibald Campbell, ambaye aliuza jumba hilo kwa Bickerstaffe, Duke wa 1 wa Argyll.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Big Band Specials ni albamu ya 1962 ya Bob Cooper, na nyimbo zilizopangwa na Bill Holman, Shorty Rogers na mume June Christy.",
+        "sentence2": "Big Band Specials ni albamu ya 1962 ya Bob Cooper, yenye nyimbo za Bill Holman, Shorty Rogers na mumewe June Christy.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mbali na sahani mbalimbali za chuma, saruji na mifuko ya mchanga ilitumika kwa matangi yaliyoboreshwa katika baadhi ya matukio.",
+        "sentence2": "Mbali na sahani za chuma zilizoboreshwa, saruji na mifuko ya mchanga ilitumika katika baadhi ya matukio kwa treni mbalimbali.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Barbara Boothe Ellison alizaliwa katika Kaunti ya Santa Clara, California, binti wa bilionea mwenyekiti wa Oracle Corporation Larry Ellison na mke wake wa zamani, Megan Ellison.",
+        "sentence2": "Megan Ellison alizaliwa katika Kaunti ya Santa Clara, California kama binti wa bilionea Oracle Corporation - Mwenyekiti Larry Ellison na Mkewe wa Zamani Barbara Boothe Ellison.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Guillermo Coria alimshinda Alberto Martín 6 -- 3 , 3 - 6 , 6 -- 2",
+        "sentence2": "6 Alberto Martin alimshinda Guillermo Coria 6 -- 3 , 3 -- 6 , 6 -- 2",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Red Bulls walishindwa lakini wakaingia katika raundi ya 1 ya mchujo .",
+        "sentence2": "Red Bulls walishindwa, lakini wakaingia katika raundi ya 1 ya mchujo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "12 Januari 1978: Meneja wa Cambridge United Ron Atkinson anateuliwa kuwa meneja wa West Bromwich Albion.",
+        "sentence2": "Januari 12, 1978: Meneja wa Cambridge United Ron Atkinson aliteuliwa kuwa meneja wa West Bromwich Albion.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mwaka wa 1979 alikuwa na mwaka wake bora zaidi katika ziara, na kufika robo fainali huko Atlanta, Johannesburg na Tel Aviv.",
+        "sentence2": "Mnamo 1979 alikuwa na mwaka wake bora zaidi kwenye ziara, robofainali huko Tel Aviv, Johannesburg na Atlanta.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Toleo lililofuata liliundwa na kaka wa Robert Fuller Ron mnamo 1986.",
+        "sentence2": "Toleo lililofuata liliundwa mnamo 1986 na kaka wa Robert Fuller Ron.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hekalu hutumika kama kituo cha kitamaduni na kidini kwa Wahindu wa Korea na wahamiaji kutoka nchi za Kusini mwa Asia.",
+        "sentence2": "Hekalu hutumika kama kituo cha kitamaduni na kidini kwa Wahindu wa Asia Kusini na wahamiaji kutoka nchi za Korea.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Jumba hilo la klabu lilijengwa na Curtis, kwa kiasi cha dola 60,000 wakati huo, na kulikodisha kwa malipo makubwa kwa klabu.",
+        "sentence2": "Jumba hilo la klabu lilijengwa na Curtis, kwa kiasi cha dola 60,000 wakati huo, na kuikodisha kwa klabu kwa ada kubwa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mitsuhisa Ishikawa na Tomohiko Ishii kutoka Production IG, Danny Choo, Kaname, na Tasha pamoja na Miyuko kutoka Korea walikuwa wageni maalum kwa hafla hiyo.",
+        "sentence2": "Tasha kutoka kwa production IG , Danny Choo , Kaname , Mitsuhisa Ishikawa na Tomohiko Ishii pamoja na Miyuko kutoka Korea walikuwa wageni maalum kwa tukio hilo .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam ( 15 Oktoba 1929 - 29 Julai 2012 ) alikuwa dansa na gwiji wa Kihindi wa aina ya densi ya Kuchipudi.",
+        "sentence2": "Vempati Chinna Satyam ( 15 Oktoba 1929 -- 29 Julai 2012 ) alikuwa mchezaji densi wa Kuchipudi na gwiji wa densi ya Kihindi .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tukio hili liliadhimishwa baadaye na sasa linaadhimishwa nchini Misri tarehe 25 Januari ya kila mwaka kama Siku ya Kitaifa ya Polisi.",
+        "sentence2": "Tukio hili lilisherehekewa baadaye na sasa linaadhimishwa nchini Misri kama Siku ya Kitaifa ya Polisi tarehe 25 Januari ya kila mwaka.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Udaipur ni mji katika jimbo la India la Madhya Pradesh karibu na Ganj Basoda.",
+        "sentence2": "Ganj Basoda ni mji katika jimbo la India la Madhya Pradesh karibu na Udaipur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kisha nafasi yake ilichukuliwa na Heraclius, binamu wa kwanza wa Nicetas, na alilazimika kula kiapo cha kimonaki.",
+        "sentence2": "Kisha nafasi yake ikachukuliwa na Nicetas, binamu wa kwanza wa Heraclius, na kulazimishwa kula kiapo cha kimonaki.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kwanza, eleza maeneo yenye thamani kubwa ya chavua badala ya maeneo yenye chavua kidogo.",
+        "sentence2": "Kwanza, eleza maeneo yenye thamani ndogo ya chavua badala ya maeneo yenye chavua nyingi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hadi sasa kazi za Zinovjev zimefanywa na Orchestra ya Redio ya Kifini ya Symphony Orchestra, Orchestra ya Lahti Symphony, Kymi Sinfonietta, Orchestra ya Oulu Symphony na Avanti!",
+        "sentence2": "Hadi sasa kazi za Zinovjev zimefanywa na Oulu Symphony Orchestra, Lahti Symphony Orchestra, Kymi Sinfonietta, Finnish Radio Symphony Orchestra na Avanti!",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Iliundwa na Richard Creed, iliyojengwa na Collins na Geoffrey na kuwekwa na George Edwards wa Monmouth.",
+        "sentence2": "Ilitolewa na Richard Creed, iliyojengwa na George Edwards na iliyoundwa na Collins na Geoffrey wa Monmouth.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "McCall na Lesiuk waliacha bendi katika msimu wa joto wa 2007, na nafasi yake kuchukuliwa na McCall na Steven Tosh kwenye ngoma na Jamie Macleod alichukua majukumu ya besi.",
+        "sentence2": "McCall na Lesiuk waliacha bendi katika msimu wa joto wa 2007 na McCall akibadilishwa na Steven Tosh kwenye ngoma na Jamie Macleod akichukua majukumu ya besi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mnamo 1886, Miles alichukua nafasi ya Jenerali George Crook kama kamanda wa jeshi linalopigana na Geronimo, kiongozi wa Apache wa Chiricahua, katika Idara ya Arizona.",
+        "sentence2": "Mnamo 1886, Miles alichukua nafasi ya Jenerali George Crook kama kamanda wa vikosi vinavyopigana dhidi ya Geronimo, kiongozi wa Apache wa Chiricahua, katika Idara ya Arizona.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Barshi, ni bwawa la ardhi kwenye mto wa karibu na Bwawa la Pathari, wilaya ya Solapur katika jimbo la Maharashtra nchini India.",
+        "sentence2": "Bwawa la Pathari, ni bwawa la kujaza udongo kwenye mto wa karibu na Barshi, wilaya ya Solapur katika jimbo la Maharashtra nchini India.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alimwoa Mary, binti wa Brooke wa Selston, Nottingham, na kurithiwa na mwanawe mkubwa, Richard.",
+        "sentence2": "Brooke alimuoa Mary, bintiye Timothy Pusey wa Selston, Nottingham. Alifuatiwa na mtoto wake mkubwa, Richard.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Luk au Loke ni tafsiri ya Kichina ya majina ya ukoo kadhaa (lakini si yote) ya Kikantoni ambayo yanatafsiriwa kwa kirumi kama Lu katika Kimandarini.",
+        "sentence2": "Luk au Loke ni tafsiri ya Kichina ya majina ya ukoo kadhaa (lakini si yote) ya Kikantoni, ambayo yanatafsiriwa kwa kirumi kama Lu katika Kimandarini.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mizunguko sahihi ya mchemraba, ambayo inaweza kuwa na sifa ya vibali vya diagonal za mwili, pia inaelezewa kwa mnyambuliko katika `` S'.",
+        "sentence2": "Mizunguko ifaayo ya mchemraba, ambayo inaweza kuelezewa na viingilio vya diagonal za mwili, pia ina sifa ya mnyambuliko katika `` S'.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kwa mfano, katika amfibia Cerberus inaonyeshwa kwenye endoderm ya mbele ya mgongo na katika panya inaonyeshwa kwenye endoderm ya visceral ya mbele.",
+        "sentence2": "Kwa mfano, Cerberus inaonyeshwa kwenye endoderm ya mbele ya mgongo katika amfibia na katika panya kwenye endoderm ya mbele ya visceral.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alifanya mafunzo ya kimatibabu katika Hospitali ya Middlesex huko London, na kufuzu kama daktari katika 1943.",
+        "sentence2": "Alifanya mafunzo ya kimatibabu katika Hospitali ya Middlesex huko London na kufuzu kama daktari mnamo 1943.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sunny alikata wimbo huo mnamo Novemba 1973 huku Roger Greenaway akitayarisha huku Chris Gunning akiandaa na kuendesha.",
+        "sentence2": "Mnamo Novemba 1973, Roger Sunny alikatiza wimbo huo na Roger Greenaway, huku Chris Gunning alitoa na kuendesha mpangilio.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Damon Knight (aliyenukuliwa na James Blish) alisema kuhusu tafsiri ya hadithi ya Knight:",
+        "sentence2": "James Blish (aliyenukuliwa na Damon Knight) alisema kuhusu tafsiri ya Knight ya hadithi yake:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Filamu inamhusu Rafael, mwimbaji mpya katika tasnia ya filamu ya Kimalayalam.",
+        "sentence2": "Filamu hii inamhusu Rafael, mwimbaji mpya katika tasnia ya filamu ya Kimalayalam.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ilikuwa msimu wa tatu kutangazwa zaidi ya miaka miwili baada ya toleo la familia na zaidi ya miaka mitatu baada ya toleo la kwanza la watu mashuhuri.",
+        "sentence2": "Ulikuwa ni msimu wa tatu kupeperushwa zaidi ya miaka miwili baada ya toleo la familia na zaidi ya miaka mitatu baada ya toleo la kwanza la watu mashuhuri.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alikufa tarehe 19 Septemba 1891 huko Gallatin, Tennessee, na kupokea Masonic huko Gallatin.",
+        "sentence2": "Bunting alikufa mnamo Septemba 19, 1891 huko Gallatin. Alipokea mazishi ya Kimasoni huko Gallatin, Tennessee.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mcheza mieleka kisha anaruka huku na huko na kuyumba mbele ili arudi nyuma na kuruhusu kichwa cha mpinzani kudondokea kwenye mkeka.",
+        "sentence2": "Mcheza mieleka kisha anaruka mbele na kuyumba-yumba ili aanguke nyuma na kuruhusu kichwa cha mpinzani kudondokea kwenye mkeka.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alihama na wazazi wake kutoka Finland hadi Estonia akiwa na umri wa miaka 3 na kwa sasa anaishi Helsinki.",
+        "sentence2": "Alihama kutoka Estonia hadi Ufini pamoja na wazazi wake akiwa na umri wa miaka 3 na kwa sasa anaishi Helsinki.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mji uko kwenye mwisho wa magharibi wa `` Horta de València'', kwenye ukingo wa kulia wa mto Turia.",
+        "sentence2": "Jiji liko kwenye ukingo wa kulia wa `` Horta de València '', kwenye mwambao wa magharibi wa Mto Turia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pepo nyingi katika kukutana na Sulemani ni za Kigiriki, Kikristo, Kiyahudi, Kimisri, Kiarabu, na mapokeo mengine.",
+        "sentence2": "Pepo wengi katika kukutana na Sulemani ni Wagiriki, Wakristo, Wayahudi, Wamisri, Waarabu, na mapokeo mengine.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eneo la kiutawala la Chenzhou katika nasaba ya Tang liko chini ya usimamizi wa Zhoukou wa kisasa mashariki mwa Henan:",
+        "sentence2": "Mkoa wa Utawala wa Chenzhou katika Enzi ya Tang uko chini ya usimamizi wa Henan ya kisasa mashariki mwa Zhoukou:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Jaribio ni lifuatalo : `` Kwanza unatambua nyuzinyuzi za pranganglioniki na kuchochea mwitikio unaoonekana .",
+        "sentence2": "Jaribio ni lifuatalo: Kwanza changamsha nyuzinyuzi za preganglioniki na tambua mwitikio unaoonekana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ukhrul pia ni sehemu kubwa ya watalii katika jimbo la Manipur.",
+        "sentence2": "Manipur pia ni sehemu ya watalii wa jimbo la Ukhrul.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Caspar Peucer ( alitamkwa , Januari 6 , 1525 -- 25 Septemba , 1602 ) alikuwa mwanamatengenezo wa Kiserbia , daktari , na msomi mwenye asili ya Kijerumani .",
+        "sentence2": "Caspar Peucer ( tamko la Januari 6 , 1525 - 25 Septemba , 1602 ) alikuwa mwanamatengenezo wa Kiserbia , daktari na msomi mwenye asili ya Ujerumani .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cornelius Olatunji Adebayo ni seneta wa zamani wa Nigeria, ambaye alikuwa gavana na baadaye akawa mkuu wa Wizara ya Mawasiliano ya Shirikisho la Nigeria.",
+        "sentence2": "Cornelius Olatunji Adebayo ni seneta wa zamani wa Nigeria, ambaye alikua gavana, na baadaye alikuwa mkuu wa Wizara ya Mawasiliano ya Shirikisho la Nigeria.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Massachusetts ilimpigia kura Harry S. Truman mwaka wa 1928 , Al Smith mara nne katika miaka ya 1930 na 1940 , na Franklin D. Roosevelt mwaka wa 1948 .",
+        "sentence2": "Katika miaka ya 1930 na 1940 , alichaguliwa mara nne kwa Al Smith mwaka wa 1928 kwa Franklin D. Roosevelt na kwa Harry S. Truman mwaka wa 1948 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ibn Amira alizaliwa Alzira katika mkoa wa Valencia.",
+        "sentence2": "Ibn Amira alizaliwa Valencia, mkoa wa Alzira.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tukitumia mashine mbadala ya Turing , tunayo rasilimali ATIME .",
+        "sentence2": "Tunapokuwa na mashine ya kupitisha mbadala, tunatumia rasilimali ATIME.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo Novemba 13, 2016, David Machado aliuawa katika Fox Grove Park karibu na jiji la Hughson na Dennis Wallace.",
+        "sentence2": "Mnamo tarehe 13 Novemba 2016, Naibu wa David Machado Dennis Wallace aliuawa katika bustani ya Fox Grove karibu na jiji la Hughson.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alipofariki mwaka wa 1946, karatasi zake kuhusu mradi huu zilikuwa katika hali mbaya sana.",
+        "sentence2": "Kufuatia kifo chake mwaka wa 1946, karatasi zake kuhusu mradi huu zilikuwa katika hali mbaya.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alexander Baumgartner ( amezaliwa 27 Juni , 1841 huko Luxemburg , Ujerumani ; alifariki 1910 huko St. Gallen , Uswisi ) alikuwa mshairi na mwandishi wa historia ya fasihi .",
+        "sentence2": "Alexander Baumgartner ( alizaliwa St. Gall , Uswisi , 27 Juni 1841 ; alifariki dunia Luxemburg , 1910 ) alikuwa mshairi na mwandishi wa historia ya fasihi .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Watafiti katika Utafiti wa Jiolojia wa Kanada wameiga tofauti asilia ya arseniki katika uwezekano wa hatari kwa jimbo la New Brunswick.",
+        "sentence2": "Watafiti katika Utafiti wa Jiolojia wa Kanada wameiga utofauti wa asili wa arseniki katika uwezekano wa hatari kwa jimbo la New Brunswick.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Shirika hilo la ndege liliundwa na Irelandia, ambayo pia iliunda mashirika mengine matano ya ndege, ambayo ni VivaColombia, Ryanair, Allegiant Air, VivaAerobus na Tigerair.",
+        "sentence2": "Shirika hilo la ndege liliundwa na Irelandia ambayo pia imeunda mashirika mengine matano ya ndege ambayo ni VivaColombia , Ryanair , Allegiant Air , VivaAerobus na Tigerair .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mto Geamărtălui ni kijito cha Mto Breaza huko Romania.",
+        "sentence2": "Mto Breaza ni kijito cha Mto Geamărtălui huko Rumania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ilinunuliwa na CR Gregory mnamo 1834 katika monasteri ya Saba. Robert Curzon aliiona mwaka 1883.",
+        "sentence2": "Ilinunuliwa mnamo 1834 na CR Gregory katika monasteri ya Saba, mnamo 1883 na Robert Curzon.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prabhupada alifurahishwa na Gopal Krishna alipomkabidhi nakala za kwanza za Srimad Bhagavatam, zilizotafsiriwa kwa Kihindi.",
+        "sentence2": "Gopal Krishna alifurahi wakati Prabhupada alipomkabidhi nakala za kwanza za Srimad Bhagavatam zilizotafsiriwa kwa Kihindi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Benki ya St.George ( na kampuni yake tanzu BankSA ) ilichukuliwa tena na Benki ya Advance mwaka wa 1997 .",
+        "sentence2": "Kwa upande wake , Benki ya Advance ( na kampuni yake tanzu BankSA ) ilichukuliwa na Benki ya St.George mwaka 1997 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kisha alifundisha shule huko Cleveland, OH, na kuanzia 1856-1859 alikuwa msimamizi wa mwigizaji wa shule huko Toledo.",
+        "sentence2": "Kisha alifundisha shule huko Cleveland, OH na alikuwa kaimu msimamizi wa shule huko Toledo kuanzia 1856-1859.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Shairi limehifadhiwa katika hati nne za kisasa, moja ikiwa ni vipande vipande:",
+        "sentence2": "Shairi limehifadhiwa katika hati nne za kisasa, moja ikiwa imegawanyika:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Matatizo mengine ni pamoja na uamuzi wa James Newton Howard kubadili watunzi wa Howard Shore hadi Peter Jackson wiki saba kabla ya filamu kubadilika.",
+        "sentence2": "Matatizo mengine ni pamoja na uamuzi wa James Newton Howard wa kubadilisha watunzi kutoka Howard Shore hadi Peter Jackson wiki saba kabla ya filamu kufunguliwa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dusty Baker alikua meneja wa kwanza mweusi kushiriki katika Msururu wa Dunia tangu Cito Gaston kwa Toronto katika na.",
+        "sentence2": "Dusty Baker alikua meneja wa kwanza mweusi kujiunga na kushiriki katika Msururu wa Dunia tangu Cito Gaston kwa Toronto.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rafiki wa Sukumar Stephen (Murugan) anawasaidia wakati wa shida, na wapenzi wanaungana katika ndoa.",
+        "sentence2": "Rafiki wa Murugan Stephen (Sukumar) anawasaidia katika saa yao ya shida na wapenzi kuungana katika ndoa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dk. Adams alimwacha Bi Sarah Hunt, ambaye alioa naye binti, alimuoa B. Hyatt mwaka wa 1788, esq.",
+        "sentence2": "Dk. Adams alimuoa Bi Sarah Hunt, ambaye alimwacha binti, na kuoa, mwaka wa 1788, na B. Hyatt, esq.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wakati mwingine hutumika kama reductio ad absurdum ya hoja inayojulikana ya design , ambayo huendeshwa kama ifuatavyo :",
+        "sentence2": "Wakati mwingine hutumika kama reductio ad absurdum ya hoja inayojulikana kutoka kwa design , ambayo huendeshwa kama ifuatavyo :",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kudawa ni kamati ya maendeleo ya kijiji na kijiji katika ukanda wa Narayani katika wilaya ya Bara kusini-mashariki mwa Nepal.",
+        "sentence2": "Kudawa ni Kamati ya Maendeleo ya Kijiji na Kijiji katika Kanda ya Narayani katika Wilaya ya Bara kusini-mashariki mwa Nepal.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Baada ya Vita vya Bahari ya Matumbawe, `` Barnett alisafirisha manusura 1,360 kutoka USS Lexington (CV-2) kutoka San Diego hadi Nouméa.",
+        "sentence2": "Baada ya Vita vya Bahari ya Matumbawe, `` Barnett alisafirisha manusura 1,360 kutoka USS Lexington (CV-2) kutoka Nouméa hadi San Diego.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Barabara R205 ni barabara ya mkoa nchini Ireland kutoka barabara ya R199 katika kaunti ya Cavan hadi mpaka wa Ireland Kaskazini katika kaunti ya Leitrim, hasa katika kaunti ya Fermanagh.",
+        "sentence2": "Barabara ya R205 ni barabara ya eneo nchini Ireland kutoka barabara ya R199 katika County Leitrim hadi mpaka wa Ireland Kaskazini katika County Fermanagh, hasa katika County Cavan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Schliemann aligundua shimo tano na kuzifuta kama makaburi yaliyotajwa na Pausanias.",
+        "sentence2": "Schliemann alifuta shimoni tano na kuzitambua kama makaburi yaliyotajwa na Pausania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wa kwanza, Kai-sung, alikuwa binti wa Jin-Qua, mama wa Dirk Struan na Gordon Chen.",
+        "sentence2": "Wa kwanza, Kai-sung, alikuwa binti wa Jin-Qua. Alikuwa mama wa Dirk Struan wa Gordon Chen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mnamo 1974 wilaya ya mijini iliunganishwa na Wilaya ya Repton Vijijini na sehemu ya Wilaya ya Vijijini ya Kusini Mashariki ya Derbyshire kuunda Wilaya ya sasa ya Derbyshire Kusini.",
+        "sentence2": "Mnamo 1974, wilaya ya sasa iliunganishwa na Wilaya ya Vijijini ya Repton na sehemu ya Wilaya ya Vijijini ya Kusini Mashariki ya Derbyshire kuunda Wilaya ya Mjini ya Derbyshire Kusini.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kwa mfano, Cerberus inaonyeshwa katika amfibia katika endoderm ya mbele ya visceral, na katika panya inaonyeshwa kwenye endoderm ya mbele ya dorsal.",
+        "sentence2": "Kwa mfano, Cerberus inaonyeshwa kwenye endoderm ya mbele ya mgongo katika amfibia na katika panya kwenye endoderm ya mbele ya visceral.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abraham Hart alikuwa rais, na Mayer Sulzberger katibu, wa bodi ya wadhamini.",
+        "sentence2": "Abraham Hart alikuwa rais, na Mayer Sulzberger Katibu, bodi ya wadhamini.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alishirikiana na wasanifu majengo wa kisasa kama vile Giovan Giacomo Di Conforto, Bartolomeo Picchiatti na Francesco Grimaldi.",
+        "sentence2": "Ameshirikiana na wasanifu wa kisasa kama vile Giovan Giacomo Di Conforto, Bartolomeo Picchiatti na Francesco Grimaldi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mzaliwa wa Cochabamba, Bolivia, alihamia Mexico City katika miaka ya 1990 na baadaye Los Angeles.",
+        "sentence2": "Alizaliwa huko Cochabamba, Bolivia. Katika miaka ya 1990, alihamia Mexico City na baadaye Los Angeles.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mzaliwa wa Leiden , de Ruiter amechezea FC Utrecht , FC Den Bosch , Excelsior , RKC Waalwijk na FC Emmen .",
+        "sentence2": "de Ruiter alizaliwa Leiden na alichezea RKC Waalwijk, FC Den Bosch, Excelsior, FC Utrecht na FC Emmen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vermont imepakana na Mitcham upande wa kaskazini, Nunawading na Forest Hill upande wa magharibi, Vermont Kusini kuelekea kusini na Wantirna na Ringwood upande wa mashariki.",
+        "sentence2": "Vermont imepakana upande wa kaskazini na Mitcham, magharibi mwa Nunawading na Forest Hill, kusini na Vermont na mashariki na Wantirna na Ringwood.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dk. Julio Square Junqueira ilikuwa ya kwanza kujengwa huko Arapongas, ilipewa jina la Dk. Julio Junqueira aliyepewa jina la meya wa kwanza wa Arapongas.",
+        "sentence2": "Julio Junqueira alikuwa wa kwanza kujengwa Arapongas, na alipewa jina la Dk. Julio Square Junqueira, aliyepewa jina la meya wa kwanza wa Araponga.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Prakash Raj pia alijiunga na timu mnamo Agosti 2017 ili kudaiwa kucheza nafasi ya mtayarishaji Aluri Chakrapani.",
+        "sentence2": "Mnamo Agosti 2017, Aluri Chakrapani pia alijiunga na timu kucheza nafasi ya mtayarishaji Prakash Raj pia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Meridian inajumuisha wakaazi wa Daykin, Alexandria, Western, Fairbury na Tobias, na kuunda Wilaya ya Shule ya 303 Nebraska.",
+        "sentence2": "Meridian inajumuisha wakaazi wa Daykin, Fairbury, Western, Alexandria, na Tobias, na kuunda Wilaya ya Shule ya 303 Nebraska.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Julai ni, kwa wastani, mwezi wa baridi zaidi, na joto zaidi katika Januari.",
+        "sentence2": "Julai ndio mwezi wa joto zaidi kwa wastani na Januari ndio baridi zaidi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Njia nyingine ya kudhibiti idadi ya kulungu ni kudhibiti kiwango cha uzazi.",
+        "sentence2": "Njia nyingine ya kudhibiti idadi ya kulungu ni kudhibiti kiwango cha uzazi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mzunguko wa kwanza ulifanyika mwishoni mwa wiki ya 23 - 25 Septemba 2011 huko Slovakia ( Prievidza )",
+        "sentence2": "Raundi ya kwanza ilifanyika mwishoni mwa juma la Septemba 23-25, 2011 nchini Slovakia (Prievidza).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alimwoa Marie Magdalene Schweigaard, bintiye Tellef Dahll Schweigaard, mpwa wa mwanasiasa mashuhuri Anton Martin Schweigaard na Shangazi wa Waziri Mkuu wa baadaye Christian Homann Schweigaard.",
+        "sentence2": "Alimwoa Marie Magdalene Schweigaard, bintiye Tellef Dahll Schweigaard, mpwa wa mwanasiasa kiongozi Christian Homann Schweigaard na shangazi wa Waziri Mkuu wa baadaye Anton Martin Schweigaard.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Inaweza kufikiwa kutoka Formia kutoka mashariki, na Maranola, ``frazione' ya Spigno Saturnia, kutoka magharibi.",
+        "sentence2": "Inaweza kufikiwa kutoka Formia kutoka mashariki, na Maranola, ``frazione' ya Spigno Saturnia, kutoka magharibi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wakati Phil Spector aliposikia `` Aina ya Wenzake Mkaidi'' kwa mara ya kwanza, alifurahi sana kwamba alipoteza udhibiti wa gari lake alipokuwa akiendesha gari la Sunset Boulevard akiwa na Jack Nitzsche.",
+        "sentence2": "Jack Nitzsche aliposikia kwa mara ya kwanza `` Aina ya Wenzake Mkaidi', alisisimka sana hivi kwamba alipoteza udhibiti wa gari lake alipokuwa akiendesha Sunset Boulevard akiwa na Phil Spector.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Baadhi ya wafanyakazi waliuawa katika Ghuba ya Dhahabu na hakukuwa na mawasiliano ya ndani na Wamaori wengine.",
+        "sentence2": "Baadhi ya wafanyakazi waliuawa katika Ghuba ya Dhahabu na hakukuwa na mawasiliano mengine na Māori wa eneo hilo.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wimbo huu ulitangazwa tarehe 31 Oktoba 2015 na ilitolewa tarehe 13 Novemba 2015.",
+        "sentence2": "Wimbo huu ulitangazwa tarehe 31 Oktoba 2015 , na kuchapishwa tarehe 13 Novemba 2015 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Katika mfululizo mpya wa TV ''Dead Gorgeous'' Hazel alicheza nafasi ya dada mdogo Alexandra Coppinger.",
+        "sentence2": "Hazel aliigiza nafasi ya Alexandra Coppinger, dada mdogo zaidi, katika kipindi kipya cha televisheni ``Dead Gorgeous'.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Baadhi yao yameelezwa hapa na baadhi yao yameunganishwa chini ya `` Viungo vya nje '' hapa chini .",
+        "sentence2": "Baadhi yao yameelezwa hapa chini na baadhi yao yameunganishwa na `` Viungo vya Nje '' hapa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Katika kandanda ya Uskoti, timu za wataalamu nusu hushindana katika viwango vyote chini ya Ligi Kuu ya Uskoti, huku timu nyingi zilizo chini ya Ubingwa wa Uskoti zikiwa za utaalamu.",
+        "sentence2": "Katika kandanda ya Uskoti, timu za wataalamu wanacheza chini ya uwaziri mkuu wa Uskoti katika viwango vyote, huku timu nyingi zilizo chini ya ubingwa wa Uskoti zikiwa za kitaalamu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wimbo huu ni sampuli ya ndoano katika muundo mmoja wa `` katika Malice' wa kundi la hip-hop la Marekani Jedi Mind Tricks.",
+        "sentence2": "Wimbo huu ni sampuli ya ndoano katika `` Design in Malice' ya Marekani kutoka kwa kundi moja la hip-hop la Jedi Mind Tricks.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "ambapo , fomula ya 5 ni mojawapo ya vitendakazi vya ukomo vya Horn yenye viambajengo viwili na vinavyounganika kwa thamani zote mbovu za hyperjiometriki za fomula ya 6 na fomula ya 7 . Inatolewa na:",
+        "sentence2": "Fomula ya 5 ni mojawapo ya vitendaji shirikishi vya haipajiometri ya Horn yenye vigeu viwili na vinavyounganika kwa thamani zote zenye kikomo za Mfumo wa 6 na Mfumo wa 7 . Inatolewa na:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo mwaka wa 1830, James aliathiriwa na kukomeshwa kwa baadhi ya wanachama wa Jumuiya ya Ukoloni ya Marekani (ACS) na maandishi ya Arthur Tappan.",
+        "sentence2": "Kuanzia mwaka wa 1830, James aliathiriwa na kukomeshwa kwa baadhi ya wanachama wa Jumuiya ya Ukoloni ya Marekani (ACS) na maandishi ya Arthur Tappan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Zilitengenezwa na Namco Bandai na kuchapishwa na CyberConnect2, kuanzia na `` Naruto: Ultimate Ninja'' mwaka wa 2005.",
+        "sentence2": "Zilitengenezwa na CyberConnect2 na kuchapishwa na Namco Bandai, kuanzia na `` Naruto: Ultimate Ninja'' 2005.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Barabara kuu ilisitishwa mnamo Oktoba 18, 1954, wakati FM 1241 ilipopanuliwa.",
+        "sentence2": "Barabara kuu ilifutwa tarehe 18 Oktoba 1954 , wakati FM 1241 ilipopanuliwa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mbinu ya nishati ya jua kwa hitaji hili ni matumizi ya paneli za jua katika ndege ya kawaida inayotumia nishati.",
+        "sentence2": "Mbinu ya kawaida ya mahitaji haya ni matumizi ya paneli za jua katika ndege ya jua.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alikuwa mama wa Val, Boris na Rosalind Lorwin, na binti yake akawa profesa wa saikolojia.",
+        "sentence2": "Alikua mama wa Val, Boris na Rosalind Lorwin, binti yake alikuwa profesa wa saikolojia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ushahidi usio wa moja kwa moja wa jambo la giza unatokana na uvutano wake juu ya jambo la giza, kwani hakuna chembe nyingine za maada ambazo zimezingatiwa katika maabara.",
+        "sentence2": "Ushahidi usio wa moja kwa moja wa jambo la giza unatokana na uvutano wake juu ya jambo lingine, kwa kuwa hakuna chembe za maada nyeusi ambazo zimezingatiwa katika maabara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alibadilishwa katika mapinduzi yaliyofuatana na Olusegun Obasanjo (1975) na Murtala Mohammed (1976).",
+        "sentence2": "Nafasi yake ilichukuliwa na Olusegun Obasanjo (mwaka 1975) na Murtala Mohammed (mwaka 1976) katika mapinduzi yaliyofuatana.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "McMillan alitumia miaka miwili katika Royal Medical Corp. huko Tidworth -- na baadaye huko Didcot, ambako aliendesha MRS kwa askari waliojeruhiwa katika Vita vya Korea.",
+        "sentence2": "Kwa miaka miwili, McMillan alikaa katika Royal Medical Corp. huko Didcot -- na baadaye huko Tidworth, ambako aliendesha MRS kwa askari waliojeruhiwa katika Vita vya Korea.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Aku Ankka'' imechapishwa na Sanoma Media (zamani Sanoma), ambayo ni sehemu ya Majarida ya Sanoma.",
+        "sentence2": "`` Aku Ankka'' imechapishwa na Sanoma Media (zamani Sanoma Magazines), ambayo ni sehemu ya Sanoma.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rakai ni makao makuu ya Uganda, ambayo mwanzoni mwa miaka ya 1980, ilikuwa kitovu na cha kwanza katika Wilaya ya Rakai kuathiriwa na janga la UKIMWI.",
+        "sentence2": "Rakai ni makao makuu ya wilaya ya Rakai, ambayo ilikuwa kitovu mwanzoni mwa miaka ya 1980 na iliathiriwa kwa mara ya kwanza na janga la UKIMWI nchini Uganda.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Shughuli za Asia zikawa sehemu ya Ebel wakati shughuli za Ulaya ziliuzwa kwa mjasiriamali wa Hong Kong Joseph Wong na sasa ni sehemu ya Stelux Holdings.",
+        "sentence2": "Shughuli za Asia zikawa sehemu ya Ebel, wakati shughuli za Ulaya ziliuzwa kwa mjasiriamali wa Hong Kong Joseph Wong na sasa ni mali ya Stelux Holdings.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fedha hizo zilitoka kwa Wakfu wa Bill Melinda Gates, mfadhili George Soros, na mjasiriamali wa teknolojia Edward W. Scott.",
+        "sentence2": "Fedha za kuanzisha biashara zilitoka kwa Wakfu wa Bill & Melinda Gates, mfadhili George Soros, na mjasiriamali wa teknolojia Edward W. Scott.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Finale ni mji wa Afrika Kusini katika mkoa wa Manispaa ya Wilaya ya Mopani , Limpopo .",
+        "sentence2": "Finale ni mji katika Manispaa ya Wilaya ya Mopani katika mkoa wa Limpopo nchini Afrika Kusini.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rashidi hakushtakiwa, lakini aliwekwa kizuizini na mamlaka ya Morocco, aliporejeshwa nyumbani.",
+        "sentence2": "Rashidi hakushtakiwa, lakini alirudishwa nyumbani na mamlaka ya Morocco alipokamatwa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Aliteuliwa kuwa mwendesha mashtaka wa Kaunti ya Seneca mnamo 1824 , kwa Kaunti ya Williams mnamo 1826 , na Kaunti ya Sandusky mnamo 1827 .",
+        "sentence2": "Aliteuliwa kuwa Mwendesha Mashtaka wa Kaunti ya Williams mwaka wa 1824 , katika Kaunti ya Seneca mwaka wa 1826 , na Kaunti ya Sandusky mwaka wa 1827 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ziwa Georgetown pia ni chanzo cha maji ya kunywa kwa Georgetown na mji wa karibu wa Round Rock.",
+        "sentence2": "Ziwa Georgetown pia ni chanzo cha maji ya kunywa kwa Georgetown na jiji la karibu la Round Rock.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Holly alishawishiwa kimuziki na Elton John.",
+        "sentence2": "Elton John alishawishiwa na Holly kimuziki.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wakati wa kifo chake, David Cardinal Beaton alikuwa Bwana Chansela wa Scotland, Askofu Mkuu wa St Andrews, na Kardinali Legate huko Scotland.",
+        "sentence2": "David Kardinali Beaton alikuwa Bwana Chansela wa Scotland wakati wa kifo chake, Askofu Mkuu wa St. Andrews na Kardinali Legate wa Scotland.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kjeld Deichmann alikufa ghafla mwaka wa 1963 na Erica alifunga studio na kuacha ufinyanzi.",
+        "sentence2": "Mnamo 1963 Kjeld Deichmann alikufa ghafla na Erica alifunga studio na kuacha sanaa ya ufinyanzi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hata hivyo, Michael Jackson, Prince, na Madonna walikuwa na ushawishi kwenye albamu.",
+        "sentence2": "Madonna, Prince na Michael Jackson, hata hivyo, walikuwa na ushawishi kwenye albamu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Depo pekee ya tramu iko Miraflores. Termini ni San Antonio, na Oriente.",
+        "sentence2": "Depo pekee ya tramu iko San Antonio, Termini ni Miraflores na Oriente.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pia alisaidia kuanzisha vituo vya kutafakari kote Amerika ya Kaskazini, Kati na Kusini na pia Ulaya.",
+        "sentence2": "Pia alisaidia kuanzisha vituo vya kutafakari kote Ulaya na vilevile Kaskazini, Kati na Amerika Kusini.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nchini Sri Lanka, jina la Mhasibu Mkodishwa ( CA Sri Lanka ) linaweza kutumiwa na wanachama pekee wa Taasisi ya Wahasibu Walioandikishwa ya Sri Lanka.",
+        "sentence2": "Katika CA, jina la mhasibu ( Sri Lanka Sri Lanka) linaweza tu kutumiwa na wanachama wa Taasisi ya Wahasibu nchini Sri Lanka.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Brown pia aliunda Kituo cha Mikutano cha Maaskofu cha Solomon huko Robert, Louisiana.",
+        "sentence2": "Robert pia alianzisha Kituo cha Mikutano cha Maaskofu cha Solomon huko Brown, Louisiana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus ni kampuni ya bia ya kikanda, yenye mvuto wa mtindo wa Kijerumani.",
+        "sentence2": "Lobethal Bierhaus ni kampuni ya bia ya kikanda yenye ushawishi wa Ujerumani kwenye mtindo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wadhibiti wa fedha wakati mwingine hushiriki mtazamo wa ulimwengu wa mashirika yao yaliyodhibitiwa kupitia udhibiti wa kisekta.",
+        "sentence2": "Kwa udhibiti wa kisekta, wadhibiti wa fedha wakati mwingine hushiriki mtazamo wa ulimwengu wa vyombo vyao vinavyodhibitiwa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mnamo Aprili 1942, Montagu Slater alirejea Uingereza na, muda mfupi baada ya kurejea, alimwomba Britten awe mtunzi wake wa \"Peter Grimes\".",
+        "sentence2": "Mnamo Aprili 1942, Britten alirudi Uingereza, na mara baada ya kurejea alimwomba Montagu Slater kuwa mwandishi wake wa librettist wa `` Peter Grimes ''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Miaka mitatu baadaye alishinda medali ya fedha katika mashindano yale yale katika Mashindano ya Uropa huko Hahnenklee kwa Ujerumani Magharibi.",
+        "sentence2": "Miaka mitatu baadaye, alishinda medali ya fedha katika mashindano hayo hayo kwa Ujerumani Magharibi katika michuano ya Ulaya huko Hahnenklee.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bendi ilianzishwa huko Dunwoody, Georgia mwaka wa 1999, baada ya mpiga gitaa Cole Alexander na mpiga besi Jared Swilley kuacha Renegades, na mpiga gitaa Ben Eberbaugh akaondoka kwenye Reruns.",
+        "sentence2": "Bendi hiyo, iliyoanzishwa mwaka wa 1999 huko Dunwoody, Georgia, baada ya mpiga gitaa Ben Eberbaugh na mpiga besi Jared Swilley kuacha Renegades, na mpiga gitaa Cole Alexander akaondoka kwenye Reruns.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Baadhi yao yameelezwa hapa na baadhi yao yameunganishwa chini ya `` Viungo vya nje '' hapa chini .",
+        "sentence2": "Baadhi yao yamefafanuliwa hapa chini na baadhi yao yameunganishwa hapa chini ya `` Viungo vya Nje'.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mhariri wa pili ni Herbert Wessels (tangu 2009), mhariri mkuu ni Markus Ermert (tangu 2002).",
+        "sentence2": "Mhariri wa pili ni Herbert Wessels (tangu 2009), mhariri mkuu ni Markus Ermert (tangu 2002).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis ni spishi ya mbawakawa wa majani wenye asili ya Afrika Kaskazini na sehemu za Ulaya.",
+        "sentence2": "Ochrosis ventralis ni spishi asili ya mbawakawa wa majani huko Uropa na sehemu za Afrika Kaskazini.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Baadhi ya wafanyakazi waliuawa katika Ghuba ya Dhahabu na hakukuwa na mawasiliano ya ndani na Wamaori wengine.",
+        "sentence2": "Baadhi ya wafanyakazi waliuawa katika Ghuba ya Dhahabu na hakukuwa na mawasiliano ya ndani na Wamaori wengine.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nasaba hizi tatu za ukoo wa baba zilitawala Ufalme wa Waalo na familia ya akina mama Mbooj.",
+        "sentence2": "Nasaba hizi tatu za akina mama zilitawala ufalme wa Waalo na familia ya baba Mbooj.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mapema miaka ya 1950, Fiaminghi alianza kuunda kazi ambazo zilikuwa sanaa ya kufikirika na kujumuisha vipengele vya sanaa ya kujenga.",
+        "sentence2": "Mapema miaka ya 1950, Fiaminghi alianza kuunda kazi ambazo zilikuwa sanaa ya kufikirika, ikijumuisha vipengele vya sanaa ya kujenga.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Njia ya Pennsylvania 268 inaongoza kutoka mwisho wa magharibi wa daraja kusini hadi Parker na kaskazini hadi Emlenton.",
+        "sentence2": "Njia ya Pennsylvania 268 inaongoza kutoka mwisho wa magharibi wa daraja kaskazini hadi Parker na kusini hadi Emlenton.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Jina lake, Afolabi, ni `` Mzaliwa wa mali``. Jina lake la utani nchini Nigeria linamaanisha Robocop kwa sababu ya harakati zake ngumu.",
+        "sentence2": "Jina lake, Afolabi, linamaanisha ''Mzaliwa wa Mali ``, jina lake la utani nchini Nigeria ni Robocop kwa sababu ya harakati zake ngumu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mnamo Aprili 1942, Britten alirudi Uingereza, na mara baada ya kurejea alimwomba Montagu Slater kuwa mwandishi wake wa librettist wa `` Peter Grimes ''.",
+        "sentence2": "Montagu Slater alirejea Uingereza mnamo Aprili 1942. Mara tu baada ya kurejea, alimwomba Britten awe mtunzi wake wa \"Peter Grimes\".",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alizaliwa akiwa mtoto baada ya kifo cha Sir John Lade, 1 Baronet, mama yake alikuwa dada wa mtengenezaji wa pombe Henry Thrale.",
+        "sentence2": "Alizaliwa kama mtoto wa Sir Henry Thrale, 1st Baronet, mama yake alikuwa dada wa mtengenezaji wa pombe John Lade.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tofauti ilikuwa kati ya mwishoni mwa 2005 na 2009, alipocheza nchini Sweden na Carlstad United BK, Serbia na FC Terek Grozny na FK Borac Čačak ya Urusi.",
+        "sentence2": "Tofauti ilikuwa kati ya mwishoni mwa 2005 na 2009 alipocheza nchini Sweden na Carlstad United BK, Serbia na FK Borac Čačak na FC Terek Grozny ya Urusi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kipindi kiliandikwa na Chuck Tatham na kuongozwa na Fred Savage.",
+        "sentence2": "Kipindi kiliandikwa na Chuck Tatham na kuongozwa na Fred Savage.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mkutano umekatizwa na kuwasili kwa wajumbe mbalimbali kutoka kwa Mardukans mbalimbali wenye nguvu au ushawishi katika jiji na mialiko mingi ya chakula cha jioni kwa Prince.",
+        "sentence2": "Mkutano umekatizwa na kuwasili kwa wajumbe wengi kutoka kwa Mardukans mbalimbali wenye nguvu au ushawishi katika jiji na mialiko mbalimbali ya chakula cha jioni kwa Prince.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beximco inazalisha nguo , kemikali za kimsingi , dawa , jute na vyakula vya baharini , na kampuni pia ina maslahi ya mali isiyohamishika na maendeleo ya ardhi .",
+        "sentence2": "Beximco inazalisha nguo, kemikali za kimsingi, dawa, jute na vyakula vya baharini; kampuni pia ina maslahi ya mali isiyohamishika na maendeleo ya ardhi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` The Rider's Digest' sasa ni jarida la kila mwezi linalochapishwa na matoleo mawili: Rejareja-Toleo na toleo la bure la kurasa 60.",
+        "sentence2": "``The Rider's Digest' sasa ni jarida la kila mwezi lenye matoleo mawili yanayochapishwa: toleo la bila malipo, na toleo la rejareja la kurasa 60.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mkewe alikuwa Klára Csabi, na mtoto wao wa kiume Ferenc Wathay pia alikuwa kamanda maarufu na mwandishi wa `` Kitabu cha Nyimbo cha Ferenc Wathay''.",
+        "sentence2": "Mkewe alikuwa Klára Csabi, na mwanawe Ferenc Wathay pia alikuwa kamanda maarufu na mwandishi wa `` kitabu cha nyimbo cha Ferenc Wathay''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Uwiano wa 2.5: 1 ulipunguza kuenea kwa seli za colorectal kwa wagonjwa walio na saratani ya puru, ambapo uwiano wa 4: 1 haukuwa na athari.",
+        "sentence2": "Uwiano wa 2.5: 1 ulipunguza kuenea kwa seli za colorectal kwa wagonjwa walio na saratani ya mstatili, ambapo uwiano wa 4: 1 haukuwa na athari.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alizaliwa Charles Wyndham Standing huko London, Uingereza na alikufa huko Los Angeles, California.",
+        "sentence2": "Alizaliwa London, Uingereza, na alikufa huko Los Angeles, California, Charles Wyndham.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Berks County , Pennsylvania , Marekani ni jumuiya katika Kitongoji cha Robeson.",
+        "sentence2": "Berks County , Pennsylvania , Marekani ni mji mdogo katika Robeson Township.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vermont imepakana upande wa kaskazini na Mitcham, magharibi mwa Nunawading na Forest Hill, kusini na Vermont na mashariki na Wantirna na Ringwood.",
+        "sentence2": "Vermont Kusini imepakana na Mitcham upande wa kaskazini, magharibi na Nunawading na Forest Hill, kusini mwa Vermont na upande wa mashariki na Wantirna na Ringwood.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cook Pond, pia inajulikana kama Bwawa la Watuppa Kusini, liko kusini mashariki mwa Ziwa Laurel na magharibi mwa Mto Taunton.",
+        "sentence2": "Cook Pond, pia zamani ikijulikana kama Ziwa Laurel, iko katika mwisho wa kusini wa Mto Taunton na magharibi mwa Bwawa la Watuppa Kusini.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ni Ronnie Fields pekee ambaye hakucheza mchezo hata mmoja katika NCAA au NBA.",
+        "sentence2": "Ronnie Fields hakucheza mchezo hata mmoja katika NBA au NCAA.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duncan McIntyre alizaliwa mnamo Oktoba 6, 1899 huko Kent, Uingereza, mwana wa Kapteni Ivor Ewing McIntyre.",
+        "sentence2": "Ivor Ewing McIntyre alizaliwa tarehe 6 Oktoba 1899 huko Kent, Uingereza, kama mtoto wa Kapteni Duncan McIntyre.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pia kuna ugonjwa wa kupumua kwa wanyama wanaocheua, na wanyama wanaweza kukataa kula, kuonekana walegevu na pia kupata dalili za neva.",
+        "sentence2": "Katika wanyama wanaocheua, ugonjwa wa kupumua pia upo, na wanyama wanaweza kukataa kula, kuonekana wavivu, na pia kupata ishara za neva.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alama hiyo ilitolewa na mtunzi Maury Yeston, kwa choreography na William Whitener, mkurugenzi wa kisanii wa Kansas City Ballet.",
+        "sentence2": "Alama hiyo ilitolewa na mtunzi William Whitener, na choreography na Maury Yeston, mkurugenzi wa sanaa wa Kansas 'City Ballet'.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Dream'' ilichezwa katika Jumba la Royal Opera House, Covent Garden, mwaka wa 1961, ilitolewa na John Gielgud na kuendeshwa na Georg Solti.",
+        "sentence2": "`` Dream'' ilichezwa mwaka wa 1961 katika Jumba la Opera la Royal huko Covent Garden, lililotayarishwa na John Gielgud na kuongozwa na Georg Solti.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mnamo Septemba 22, 1918 ujumbe wa kwanza wa telegraph kwa Snowdonia ulitumwa kutoka Australia.",
+        "sentence2": "Mnamo Septemba 22, 1918, mawasiliano ya simu ya kwanza ya bila waya yalitumwa kwa Snowdonia kutoka Australia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cook Pond, pia inajulikana kama Bwawa la Watuppa Kusini, liko kusini mashariki mwa Ziwa Laurel na magharibi mwa Mto Taunton.",
+        "sentence2": "Katika mwisho wa kusini, Cook Pond, pia zamani ikijulikana kama South Watuppa Pond, iko mashariki mwa Ziwa Laurel na magharibi mwa Mto Taunton.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wana miiba laini ya mkundu 13, miale laini ya dorsale 11 hadi 13, miiba 2 ya uti wa mgongo na miale 11 hadi 13 ya mkundu.",
+        "sentence2": "Wana miiba 13 ya uti wa mgongo, miale laini ya uti wa mgongo 11 hadi 13, miiba 2 ya mkundu, na miale laini ya mkundu 11 hadi 13.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Uwezo uliounganishwa na jumla ya nishati inaitwa nishati ya kinetic au `` kifurushi cha nishati' .",
+        "sentence2": "Uwezo uliounganishwa na nishati ya kinetiki inaitwa jumla ya nishati , au `` kifurushi cha nishati '' .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Walikuwepo kwa ajili yetu kuomba, na walikuwepo kutufurahia.",
+        "sentence2": "Walikuwepo kwa ajili yetu ili tuombe na walikuwepo ili tufurahie.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vidonda vya mapema ni tishu za kawaida ambazo huonekana kuwa zisizo za kawaida katika uchunguzi wa hadubini na ambapo saratani ina uwezekano mkubwa kuliko ile ya kawaida ya kimofolojia.",
+        "sentence2": "Vidonda vya premalignant ni tishu za kawaida ambazo huonekana kuwa zisizo za kawaida chini ya uchunguzi wa hadubini, na ambapo saratani ina uwezekano mkubwa wa kutokea kuliko ile ya kawaida ya kimofolojia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` R. satarae'' ana koti ya hudhurungi ya dhahabu na mgongo mrefu, laini na sehemu ya chini ya chini nyeupe.",
+        "sentence2": "``R. satarae'' ana koti ya hudhurungi ya dhahabu na mgongo mrefu, laini na upande wa chini mweupe.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kumesalia ligi mbili ndogo zinazojitegemea zenye wanachama wachache tu: Highland Alliance League na Grampian Alliance League.",
+        "sentence2": "Ligi ndogo mbili ndogo zimesalia, zikiwa na wanachama wachache tu: Grampian Alliance League na Highland Alliance League.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` Fall Beil '' ilitumika kwa mara ya mwisho huko Ujerumani Magharibi mwaka wa 1949, mwaka wa 1966 huko Ujerumani Mashariki.",
+        "sentence2": "`` Kesi '' ilitumika kwa mara ya mwisho mwaka 1949 huko Ujerumani Mashariki, 1966 huko Ujerumani Magharibi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Annette Amelia Crum alimuoa Bryant, bintiye Samuel Crum, mnamo Septemba 29, 1874. Walikuwa na binti mmoja.",
+        "sentence2": "Mnamo Septemba 29, 1874, Annette Amelia alimuoa Crum Bryant, bintiye Samuel Crum, na wakapata mtoto wa kike.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Zaidi ya hayo, mechi ya tishio mara tatu ya Ubingwa wa Marekani kati ya Bingwa Jack Swagger, The Miz na Kofi Kingston ilikuwa.",
+        "sentence2": "Iliyofuata ilikuwa mechi ya Tishio Mara tatu kwa Ubingwa wa Marekani kati ya bingwa Kofi Kingston, The Miz na Jack Swagger.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wimbo uliwasilishwa katika promo ya sita kwa msimu wa pili wa `` Wana wa Anarchy', mfululizo wa televisheni wa FX mtandao.",
+        "sentence2": "Wimbo huu uliangaziwa katika promo ya sita kwa msimu wa pili wa `` Sons of Anarchy', mfululizo wa televisheni wa mtandao wa FX.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alicheza huko Australia mapema katika kazi yake lakini alihamia Scotland kuichezea Frankston City kwenye Ligi ya Jimbo la Victoria.",
+        "sentence2": "Alicheza huko Scotland mapema katika taaluma yake, lakini alihamia Australia kucheza Ligi ya Jimbo la Victoria kwa Frankston City.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wimbo mpya zaidi `` Every Morning '' ni toleo la gitaa la sauti la wimbo wa kwanza `` Morning '' .",
+        "sentence2": "Wimbo wa mwisho , `` Every Morning' ni toleo la gitaa la sauti la wimbo wa kwanza `` Morning '' .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bataruki waliokunwa au wenye rangi ya kahawia (``Talegalla jobiensis') ni aina ya ndege wa familia ya Megapodiidae.",
+        "sentence2": "Bataruki wenye kola au mburushi wenye kola ya kahawia ( `` Talegalla jobiensis '' ) ni aina ya ndege katika familia Megapodiidae .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duncan McIntyre alizaliwa mnamo Oktoba 6, 1899 huko Kent, Uingereza, mwana wa Kapteni Ivor Ewing McIntyre.",
+        "sentence2": "Ivor Ewing McIntyre alizaliwa tarehe 6 Oktoba 1899 huko Kent , Uingereza , mwana wa nahodha Duncan McIntyre .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Historia ya Kitengo cha 46 cha Roketi huanza kutoka Aprili 29, 1941, wakati uundaji wa Kitengo cha 188 cha Rifle ulipokamilika huko Kaunas.",
+        "sentence2": "Historia ya kitengo cha 46 cha roketi inaanza Aprili 29, 1941, wakati uundaji wa Kitengo cha 188 cha Rifle kilikamilika huko Kaunas.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Whitlam, ambaye alikuwa amemshinda Malcolm Fraser katika ushindi mkubwa katika uchaguzi wa shirikisho wa Desemba 1975, alitoa uwezo kwa Egerton kwa ajili ya kutumikia chama cha wafanyakazi.",
+        "sentence2": "Whitlam, ambaye alikuwa amemshinda Malcolm Fraser katika ushindi mkubwa katika uchaguzi wa shirikisho mnamo Desemba 1975, alimpa Egerton uwezo wa kutumikia chama cha wafanyakazi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis ni spishi asili ya mbawakawa wa majani huko Uropa na sehemu za Afrika Kaskazini.",
+        "sentence2": "Ochrosis ventralis ni spishi ya mende wa majani waliotokea Ulaya na sehemu za Afrika Kaskazini",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Msimu ulianza tarehe 6 Januari 1984 huko Falun, Uswidi, na kumalizika tarehe 11 Machi 1984 huko Lygna, Norway.",
+        "sentence2": "Msimu ulianza Januari 6, 1984 huko Falun, Uswidi, na kumalizika Machi 11, 1984 huko Lygna, Norway.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "de Ruiter, ambaye alizaliwa Leiden, alichezea FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk na FC Emmen.",
+        "sentence2": "Mzaliwa wa Leiden , de Ruiter amechezea FC Utrecht , FC Den Bosch , Excelsior , RKC Waalwijk na FC Emmen .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Farrell anapingana na udukuzi wa Gabriel, huku McClane akiwaondoa watu wake.",
+        "sentence2": "Farrell anapinga udukuzi wa Gabriel, huku McClane akiwaondoa watu wake.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wimbo huu ulitolewa kwenye Radio Airplay nchini Italia mnamo Oktoba 12, 2012, na kusafirishwa duniani kote tarehe 3 Desemba 2012.",
+        "sentence2": "Wimbo huu ulitolewa kwa uchezaji wa redio mnamo Oktoba 12, 2012 nchini Italia na ilitumwa ulimwenguni kote mnamo Desemba 3, 2012.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Binti wa pili wa Octavius Warre Malet, Alice Anna Catherine, aliolewa na Thomas katika Ubalozi wa Uingereza huko Cologne tarehe 24 Juni 1852.",
+        "sentence2": "Binti wa pili wa Octavius Warre Malet, Alice Anna Catherine, aliolewa na Thomas tarehe 24 Juni 1852 katika Ubalozi wa Uingereza, Cologne.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum ni aina ya konokono wa baharini, moluska wa kweli wa gastropod katika familia ya Buccinidae, whelks baharini.",
+        "sentence2": "Probuccinum tenerum ni aina ya konokono wa baharini, moluska wa kweli wa gastropod katika familia ya Buccinidae, nyangumi wa baharini.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "David David Godwin anawakilishwa na Emma Townshend katika DGA Associates.",
+        "sentence2": "David Godwin anawakilishwa na Emma Townshend katika DGA Associates.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Njia rahisi inaweza kuainishwa kwa sehemu mtambuka zinazofaa za ufyonzwaji na utoaji katika fomula ya masafa _ 2 na fomula _ 3 .",
+        "sentence2": "Njia rahisi inaweza kuainishwa kwa sehemu mtambuka zinazofaa za ufyonzwaji na utoaji katika masafa ya Mfumo 2 na Mfumo wa 3 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "de Ruiter, ambaye alizaliwa Leiden, alichezea FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk na FC Emmen.",
+        "sentence2": "Mzaliwa wa Leiden , de Ruiter amechezea RKC Waalwijk , FC Den Bosch , Excelsior , FC Utrecht na FC Emmen .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ukuu wa waendeshaji hesabu umekosolewa , kimawazo na 'ni waendeshaji wenye mantiki kidogo kama na + .",
+        "sentence2": "Utangulizi wa waendeshaji hesabu umekosolewa. Kidhana , & na ni waendeshaji wenye mantiki kidogo kama na + .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mwaka 1974 , kwa msaada wa Umoja wa Mataifa , Benki ya Maendeleo ya Asia na Benki ya Dunia , Lao PDR ilianzisha Mfuko wa Hatua ya Pili .",
+        "sentence2": "Kwa msaada wa Benki ya Dunia , Umoja wa Mataifa , na Benki ya Maendeleo ya Asia , Lao PDR ilianzisha mfuko wa Hatua ya Pili mwaka 1974 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Baraza la Jiji la Webster Groves lilikuwa na wajumbe wa baraza Debi Salberg, Kathy Hart, Greg Mueller, Ken Burns, Toni Hunt, na Anne Tolan.",
+        "sentence2": "Baraza la Jiji la Webster Groves lilikuwa na madiwani Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt na Anne Tolan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Elton John alishawishiwa na Holly kimuziki.",
+        "sentence2": "Elton John alishawishiwa kimuziki na Holly.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Muziki wao unachukuliwa na wengi kama metali mbadala yenye mvuto wa metali ya rap na metali ya viwandani. Kulingana na mahojiano ya awali, wanajiona kama `` mwamba wa mauaji''.",
+        "sentence2": "Muziki wao unachukuliwa na wengi kama chuma mbadala chenye mvuto wa metali ya rap na metali ya viwandani, ambao kulingana na mahojiano ya awali wanajiita '' mauaji - rock ``.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kisha huvuka upande wa Ziwa Texoma wa Mto Washita.",
+        "sentence2": "Kisha inavuka mkono wa Ziwa Texoma wa Mto Washita.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Jedwali lifuatalo linalinganisha utendakazi wa uwasilishaji wenye uwezo wa LOD na mbinu kamili ya maelezo ( `` brute-force '' ).",
+        "sentence2": "Jedwali lifuatalo linalinganisha utendakazi wa uwasilishaji wa ufahamu wa LOD na maelezo kamili ( `` brute force '' ) mbinu .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kundi la Volare lina ofisi yake kuu huko Thiene, Milan na usimamizi wake wa kibiashara na usimamizi wa katiba nchini Italia.",
+        "sentence2": "Volare Group ilikuwa na ofisi yake kuu huko Thiene, Milan na usimamizi wake wa kibiashara na usimamizi wa katiba nchini Italia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Inafaa pia kuzingatia kwamba nambari ifuatayo inaweza kufanya kazi bila ADL ( inatumika kwake hata hivyo).",
+        "sentence2": "Inafaa pia kuzingatia kwamba nambari ifuatayo ingefanya kazi bila ADL ( itatumika kwayo hata hivyo).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Zilitengenezwa na CyberConnect2 na kuchapishwa na Namco Bandai kuanzia `` Naruto: Ultimate Ninja'' mwaka wa 2005.",
+        "sentence2": "Zilitengenezwa na CyberConnect2 na kuchapishwa na Namco Bandai kuanzia 2005 na `` Naruto: Ultimate Ninja''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "AleX ni kipindi cha televisheni cha Italia. Mfululizo huu uliandikwa na Alfredo Castelli, Guglielmo Duccoli na Giorgio Schottler na kutayarishwa na Videotime.",
+        "sentence2": "Kipindi cha televisheni cha Italia AleX kiliandikwa na Alfredo Castelli, Guglielmo Duccoli na Giorgio Schottler na kutayarishwa na muda wa video.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Enoteche ilienea hadi Austria kaskazini mwa Milima ya Alps chini ya jina la Kijerumani `` Vinothek '' na kutoka Ujerumani hadi Austria.",
+        "sentence2": "Enoteche imeenea kaskazini mwa Milima ya Alps hadi Austria chini ya jina la Kijerumani `` Vinothek '' na kutoka Ujerumani hadi Austria.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Smartass ni filamu iliyoongozwa na Jena Serbu na kuigiza na Joey King.",
+        "sentence2": "Smartass ni filamu ya Jena Serbu na Joey King.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wanajeshi 65 wameuawa wakati wa misheni hiyo: 34 Wanigeria, 28 wa Chad, 2 Togo na 1 Burkinabé.",
+        "sentence2": "Wakati wa misheni hiyo, wanajeshi 65 waliuawa: 34 Wanaijeria, 28 wa Chad, 2 wa Togo na 1 Burkinabé.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mgawanyiko huo uliharibiwa katika vita vya Normandy, na vipengele vya mwisho vikipotea kwa sababu ya kuanguka kwa Cherbourg.",
+        "sentence2": "Mgawanyiko huo uliharibiwa katika Vita vya Normandy, na vipengele vyake vya mwisho vilipotea katika kuanguka kwa Cherbourg.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam ( 15 Oktoba 1929 -- 29 Julai 2012 ) alikuwa mchezaji densi wa Kuchipudi na gwiji wa densi ya Kihindi .",
+        "sentence2": "Vempati Chinna Satyam ( 15 Oktoba 1929 - 29 Julai 2012 ) alikuwa mchezaji wa Kuchipudi na gwiji wa umbo la densi la Kihindi .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alikufa huko Milwaukee, Wisconsin, ambako alistaafu Mei 5, 1903.",
+        "sentence2": "Alikufa huko Milwaukee, Wisconsin, ambapo tarehe 5 Mei 1903 alistaafu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alizaliwa huko Tiburon, California, na alikufa huko Brooklyn, New York.",
+        "sentence2": "Alizaliwa huko Tiburon, California, na alikufa huko Brooklyn, New York.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mfululizo ulianza tarehe 18 Aprili 2009 nchini Australia kwenye Nickelodeon (New Zealand na New Zealand).",
+        "sentence2": "Mfululizo ulianza Australia Aprili 18, 2009 kwenye Nickelodeon (New Zealand na New Zealand).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Huu ni mtindo wa Zen wa kupeana na kula milo inayotekelezwa katika mahekalu rasmi.",
+        "sentence2": "Huu ni mtindo wa Zen wa kuhudumia na kula unaofanywa katika mahekalu rasmi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kiongozi mpya wa Gerakan Tiga Daerah alikuwa Sarjiyo, ambaye alikuja kuwa mwakilishi mkuu wa Pekalongan.",
+        "sentence2": "Kiongozi mpya wa Gerakan Tiga Daerah alikuwa Sarjiyo, ambaye alikuja kuwa mwakilishi mkuu wa Pekalongan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wakati wa kampeni yake, alimjadili McCain mara mbili, mara moja kwenye bendera, na mara moja Tucson.",
+        "sentence2": "Wakati wa kampeni zake za uchaguzi, alimjadili McCain mara mbili, mara moja Tucson, na mara moja huko Flagstaff.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Washindi wa jumla wa daraja la 1 wanapewa Kombe la James Delahunt.",
+        "sentence2": "Washindi wa Kitengo cha 1 cha Vijana wamekabidhiwa Kombe la James Delahunt.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Seti hiyo ilikuwa na jezi ya kijani kibichi na kola nyeupe, kaptura za bluu na soksi za bluu.",
+        "sentence2": "Seti hiyo ilikuwa na jezi ya kijani kibichi na kola nyeupe, kaptula za bluu na soksi za bluu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hafla hiyo ilihudhuriwa na Balozi wa Boutique @ hs, Teresa Palmer Michala Banas na mwigizaji wa Australia Kyly Clarke.",
+        "sentence2": "Hafla hiyo ilihudhuriwa na Balozi wa Boutique @ hs, Teresa Palmer Michala Banas na mwigizaji wa Australia Kyly Clarke.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duminda Silva, pia anajulikana kama Arumadura Lawrence Romelo Duminda Silva na R. Dumindha Silva, ni mwanasiasa wa Sri Lanka na Mbunge wa zamani.",
+        "sentence2": "Arumadura Lawrence Romelo Duminda Silva, pia anajulikana kama Duminda Silva na R. Dumindha Silva, ni mwanasiasa wa Sri Lanka na mwakilishi wa zamani wa Bunge.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Inatumika katika kitongoji cha kusini-mashariki cha Edithvale cha ufunguzi wa Melbourne mnamo 20 Septemba 1919.",
+        "sentence2": "Inahudumia kitongoji cha kusini-mashariki cha Edithvale cha ufunguzi wa Melbourne mnamo 20 Septemba 1919.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Katika chakula cha jioni kama hicho, divai bora mara nyingi hutumiwa, kwa kawaida na champagne au divai zinazometa kama hizo.",
+        "sentence2": "Mvinyo bora kwa kawaida hutumiwa katika chakula cha jioni kama hicho, mara nyingi na champagne au divai zinazometa kama hitimisho.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kulingana na Ofisi ya Sensa ya Marekani, Kennesaw ina jumla ya eneo ambalo ardhi yake na, au 1.08%, ni maji.",
+        "sentence2": "Kulingana na Ofisi ya Sensa ya Marekani, Kennesaw ni eneo ambalo jumla yake ni ardhi na 1.08% ina maji.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Joe R. Campa Mdogo. ni baharia wa zamani wa Jeshi la Wanamaji la Marekani, ambaye aliwahi kuwa Afisa Mkuu Mdogo wa 11 wa Jeshi la Wanamaji la Marekani.",
+        "sentence2": "Joe R. Campa Mdogo. ni baharia wa zamani wa Jeshi la Wanamaji la Marekani, ambaye alihudumu kama Afisa Mkuu wa kumi na moja Mkuu wa Jeshi la Wanamaji la Marekani.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Poonam Devi wa RJD alimshinda Dharmendra Yadav mwaka wa 2000 kama JDU.",
+        "sentence2": "Poonam Devi wa RJD alimshinda Dharmendra Yadav anayewakilisha JDU mwaka wa 2000.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mark Knowles na Daniel Nestor walishinda taji hilo na kuwashinda Jonathan Erlich na Andy Ram katika fainali kwa 5: 3 , 5:4 .",
+        "sentence2": "Mark Knowles na Daniel Nestor walishinda taji hilo na kuwashinda Jonathan Erlich na Andy Ram 5 -- 3 , 5 -- 4 katika fainali .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Akiwa na Terry kama Ophelia na Portia alichangamsha `` Hamlet '' na akatoa `` The Merchant of Venice' (1879).",
+        "sentence2": "Akiwa na Terry kama Ophelia na Portia , alifufua `` Hamlet '' na akatoa `` The Merchant of Venice'' (1879).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pia alisaidia kuanzisha vituo vya kutafakari kote Ulaya na vilevile Kaskazini, Kati na Amerika Kusini.",
+        "sentence2": "Pia alisaidia kuanzisha vituo vya kutafakari kote Ulaya na vile vile kaskazini, kati na Amerika ya kusini.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Barabara kuu ilisitishwa mnamo Oktoba 18, 1954, wakati FM 1241 ilipopanuliwa.",
+        "sentence2": "Barabara hiyo ilisitishwa mnamo Oktoba 18, 1954, wakati FM 1241 ilipopanuliwa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "McCarthy alizaliwa Auckland, lakini alihamia na wazazi wake San Francisco, California akiwa na umri wa miaka minne.",
+        "sentence2": "McCarthy alizaliwa Auckland, lakini alihamia San Francisco, California na wazazi wake akiwa na umri wa miaka minne.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Phnom Penh - Mnara wa ukumbusho wa urafiki wa Vietnam huko Kambodia, mji mkuu wa Kambodia, ni mnara mkubwa wa zege unaokumbuka muungano wa zamani kati ya Vietnam na Kambodia.",
+        "sentence2": "Phnom Penh - Monument ya Urafiki ya Vietnam huko Kambodia, mji mkuu wa Kambodia, ni mnara mkubwa wa ukumbusho wa muungano wa zamani kati ya Vietnam na Kambodia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sher Ahmed Akhundzada ( pia anajulikana kama Sher Mohammed Akhundzada ) ni kiongozi wa kabila ambaye alikuwa gavana wa Helmand nchini Afghanistan kuanzia 2001 hadi 2005 .",
+        "sentence2": "Sher Ahmed Akhundzada (pia anajulikana kama Sher Mohammed Akhundzada) ni kiongozi wa kabila ambaye kuanzia 2001 hadi 2005 alikuwa Gavana wa Helmand nchini Afghanistan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rakai ni makao makuu ya wilaya ya Rakai, ambayo ilikuwa kitovu mwanzoni mwa miaka ya 1980 na iliathiriwa kwa mara ya kwanza na janga la UKIMWI nchini Uganda.",
+        "sentence2": "Rakai ni makao makuu ya Wilaya ya Rakai, ambayo mwanzoni mwa miaka ya 1980, ilikuwa kitovu na cha kwanza nchini Uganda kuathiriwa na janga la UKIMWI.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Gharama za wazi huzingatiwa pamoja na za kiuchumi wakati wa kuzingatia faida iliyofichwa.",
+        "sentence2": "Wakati wa kuzingatia faida kamili, gharama za wazi huzingatiwa pamoja na zile za kiuchumi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rami Nieminen ( amezaliwa 25 Februari , 1966 ) ni mwanasoka wa Kifini .",
+        "sentence2": "Rami Nieminen ( amezaliwa 25 Februari , 1966 ) ni mwanasoka wa Kifini .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prang Ku ni wilaya ( `` Amphoe '' ) katika sehemu ya magharibi ya mkoa wa Sisaket , kaskazini mashariki mwa Thailand .",
+        "sentence2": "Prang Ku ni wilaya ( `` amphoe '') katika sehemu ya magharibi ya Mkoa wa Sisaket, kaskazini mashariki mwa Thailand.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mstari wa 14, 16, na 117 kila moja ilikuwa na vikosi viwili katika pambano hilo.",
+        "sentence2": "Mstari wa 14, 16 na 117 ulikuwa na vikosi viwili katika pambano hilo kila moja.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Montreal Montreal Stars ilishinda Kombe la Clarkson kwa kushinda 3 - 1 ya Minnesota Whitecaps ( WWHL ) .",
+        "sentence2": "Montreal Stars ilishinda Kombe la Clarkson kwa kushinda 3 - 1 Minnesota Whitecaps (WWHL)",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Inafaa pia kuzingatia kwamba nambari ifuatayo ingefanya kazi bila ADL ( itatumika kwayo hata hivyo).",
+        "sentence2": "Inafaa pia kuzingatia kwamba nambari ifuatayo inaweza kufanya kazi bila ADL ( inatumika kwake hata hivyo).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Shirika hilo la ndege liliundwa na Irelandia ambayo pia imeunda mashirika mengine matano ya ndege ambayo ni VivaColombia , Ryanair , Allegiant Air , VivaAerobus na Tigerair .",
+        "sentence2": "Shirika hilo la ndege lilianzishwa na Irelandia, ambayo pia imeunda mashirika mengine matano ya ndege, ambayo ni VivaColombia, Ryanair, Allegiant Air, VivaAerobus na Tigerair.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Jimbo Katoliki la Bungoma ni dayosisi inayopatikana katika mji wa Kisumu katika jimbo la kikanisa la Bungoma nchini Kenya .",
+        "sentence2": "Dayosisi ya Kirumi-Katholiki ya Bungoma ni dayosisi katika mji wa Kisumu katika jimbo la kanisa la Bungoma, Kenya.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Martin Damm na Radek Štěpánek walishinda katika fainali 6 -- 2 , 6 -- 4 , dhidi ya Jonas Björkman na Fabrice Santoro .",
+        "sentence2": "Martin Damm na Radek Štěpánek walishinda dhidi ya Jonas Björkman na Fabrice Santoro katika fainali kwa 6: 2, 6: 4.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alicheza huko Australia mapema katika kazi yake lakini alihamia Scotland kuichezea Frankston City kwenye Ligi ya Jimbo la Victoria.",
+        "sentence2": "Alicheza mapema katika uchezaji wake huko Australia, lakini alihamia Scotland kuchezea Frankston City katika Ligi ya Jimbo la Victoria.",
+        "answer": "same"
+    }
+]

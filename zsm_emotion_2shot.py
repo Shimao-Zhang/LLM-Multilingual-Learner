@@ -59,11 +59,11 @@ all_avaliable_model = {'mistral-7b':'/home/nfs02/model/mistralai_Mistral-7B-v0.1
                        'mistral-7b-aligned':'/home/nfs03/zhangsm/multiL-transfer-interpretability/pretrained-models/mistral_zhit20k_round1_epoch3',
                        'Qwen1.5-0.5b':'/home/nfs02/model/Qwen1.5-0.5B',
                        'Qwen1.5-1.8b':'/home/nfs02/model/Qwen1.5-1.8B',
-                       'Qwen1.5-1.8b-aligned':'/home/nfs03/zhangsm/multiL-transfer-interpretability/pretrained-models/Qwen1.8b_emotion_zh2ites2it20k_round1_epoch3',
+                       'Qwen1.5-1.8b-aligned':'/home/nfs03/zhangsm/multiL-transfer-interpretability/pretrained-models/Qwen1.8b_emotion_zhde20k_round1_epoch3',
                        'Qwen1.5-4b':'/home/nfs02/model/Qwen1.5-4B',
                        'Qwen1.5-4b-aligned':'/home/nfs03/zhangsm/multiL-transfer-interpretability/pretrained-models/Qwen4b_emotion_swhi20k_round1_epoch3',
                        'Qwen1.5-14b':'/home/nfs02/model/Qwen1.5-14B-Base',
-                       'Qwen1.5-14b-aligned':'/home/nfs03/zhangsm/multiL-transfer-interpretability/pretrained-models/Qwen14b_snli_swhi20k_round1_epoch3'}
+                       'Qwen1.5-14b-aligned':'/home/nfs03/zhangsm/multiL-transfer-interpretability/pretrained-models/Qwen14b_emotion_swhi20k_round1_epoch3'}
 custom_model = all_avaliable_model[model_size]
 single_token_only = False
 multi_token_only = False
@@ -432,22 +432,18 @@ print(f"Using the model in {custom_model}")
 
 
 # 画图
-size2tik = {'mistral-7b': 5, 'mistral-7b-aligned': 5, 'Qwen1.5-14b': 5, 'Qwen1.5-14b-aligned': 5}
+size2tik = {'llama2-7b': 5, 'llama2-7b-aligned': 5, 'llama2-13b': 5, 'mistral-7b': 5, 'mistral-7b-aligned': 5, 'Qwen1.5-1.8b':5, 'Qwen1.5-1.8b-aligned':5}
 
-fig, ax, ax2 = plot_ci_plus_heatmap(latent_token_probs, entropy, 'en', color='tab:orange', tik_step=size2tik[model_size], do_colorbar=True,
+fig, ax, ax2 = plot_ci_plus_heatmap(latent_token_probs, entropy, 'en', color='tab:green', tik_step=size2tik[model_size], do_colorbar=True,
 nums=[.99, 0.18, 0.025, 0.6])
 if target_lang != 'en':
-    plot_ci(ax2, out_token_probs, target_lang, color='tab:blue', do_lines=False)
-    plot_ci(ax2, all_possible_out_token_probs, 'all_possible_out', color='tab:cyan', do_lines=False)
-    plot_ci(ax2, all_possible_latent_token_probs, 'all_possible_latent', color='tab:gray', do_lines=False)
+    plot_ci(ax2, out_token_probs, target_lang, color='tab:orange', do_lines=False)
+    plot_ci(ax2, all_possible_out_token_probs, 'all_possible_out', color='tab:blue', do_lines=False)
+    plot_ci(ax2, all_possible_latent_token_probs, 'all_possible_latent', color='tab:red', do_lines=False)
 else:
-    plot_ci(ax2, all_possible_latent_token_probs, 'all_possible_latent', color='tab:gray', do_lines=True)
+    plot_ci(ax2, all_possible_latent_token_probs, 'all_possible_latent', color='tab:red', do_lines=True)
 ax2.set_xlabel('layer')
 ax2.set_ylabel('probability')
-# if model_size == '7b':
-#     ax2.set_xlim(0, out_token_probs.shape[1]+1)
-# else:
-#     ax2.set_xlim(0, round(out_token_probs.shape[1]/10)*10+1)
 ax2.set_xlim(0, out_token_probs.shape[1]+1)
 ax2.set_ylim(0, 1)
 # put legend on the top left

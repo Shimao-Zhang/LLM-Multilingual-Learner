@@ -1,0 +1,2502 @@
+[
+    {
+        "sentence1": "Izjema je bilo med koncem leta 2005 in 2009, ko je igral na Švedskem za Carlstad United BK, v Srbiji za FK Borac Čačak in ruski FC Terek Grozny.",
+        "sentence2": "Izjema je bilo med koncem leta 2005 in 2009, ko je igral na Švedskem za Carlstad United BK, v Srbiji za FK Borac Čačak in ruski FC Terek Grozny.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Reka Tabaci je pritok reke Leurda v Romuniji.",
+        "sentence2": "Reka Leurda je pritok reke Tabaci v Romuniji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Leta 1993 je igral za A-level Kane County Cougars in AA Portland Sea Dogs.",
+        "sentence2": "Leta 1993 je igral za A-Level Portland Sea Dogs in AA Kane County Cougars.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Winarsky je član IEEE, Phi Beta Kappa, ACM in Sigma Xi.",
+        "sentence2": "Winarsky je član združenj ACM, IEEE, Phi Beta Kappa in Sigma Xi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Leta 1938 je postal vladni antropolog anglo-egiptovskega Sudana in vodil terensko delo z Nubami.",
+        "sentence2": "Leta 1938 je postal vladni antropolog Egiptovsko-Anglo Sudana in vodil terensko delo z Nubami.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Billy Billy Batson se je pojavil v prvih štirih številkah ``Črnega Adama'', objavljenih med koncem leta 2008 in začetkom leta 2009.",
+        "sentence2": "Črni Adam se je pojavil v prvih štirih številkah Billyja Batsona, ki so izhajale med koncem leta 2008 in začetkom leta 2009.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Solarni pristop k tej zahtevi je uporaba sončnih kolektorjev v letalu na konvencionalni pogon.",
+        "sentence2": "Sončni pristop k tej zahtevi je uporaba sončnih kolektorjev v letalu na konvencionalni pogon.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Policija je v okviru tekoče preiskave zaslišala tudi pevko Rimi Tomy in igralca Kavyo Madhavana, oba tesna prijatelja Siddiqueja in njegove žene Dileep.",
+        "sentence2": "Policija je v okviru tekoče preiskave zaslišala tudi pevko Rimi Tomy in igralca Kavyo Madhavana, oba tesna prijatelja Siddiqueja in njegove žene Dileep.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prekriva jih redka živa orkestralna glasba in so sestavljeni iz nejasnih, skoraj namenoma brezbarvnih zvokov.",
+        "sentence2": "Prekriva jih brezbarvna, v živo odigrana glasba in sestavljena iz nejasnih, skoraj namenoma redkih orkestrskih zvokov.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Na Holly je glasbeno vplival Elton John.",
+        "sentence2": "Holly Holly je bila pod glasbenim vplivom Eltona Johna.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ekipa se je na spremembe odzvala na naslednji tekmi še isti večer 19. februarja.",
+        "sentence2": "Ekipa se je na spremembe odzvala v isti igri naslednjega 19. februarja zvečer.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nashua Silver Knights, del trenutne poletne lige, je univerzitetna ekipa mesta.",
+        "sentence2": "Nashua Silver Knights, del poletne študentske lige, je trenutna ekipa mesta.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "``Fallbeil`` je bil zadnjič uporabljen v Zahodni Nemčiji leta 1949, v Vzhodni Nemčiji leta 1966.",
+        "sentence2": "``Fall Beil`` je bil zadnjič uporabljen v Zahodni Nemčiji leta 1949, leta 1966 v Vzhodni Nemčiji.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prekop je eden najstarejših plovnih kanalov v Evropi in Belgiji.",
+        "sentence2": "Prekop je eden najstarejših plovnih kanalov v Belgiji in tudi v Evropi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Leta 2009 se je preselil nazaj v Philadelphio in danes živi v New Yorku.",
+        "sentence2": "Leta 2009 se je vrnil v Philadelphio in zdaj živi v New Yorku.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Umrl je zaradi raka na želodcu v Claremoru v Oklahomi v New Yorku, kjer se nahaja spomenik Lynn Riggs, 30. junija 1954.",
+        "sentence2": "Umrl je 30. junija 1954 za rakom na želodcu v New Yorku. Claremore v Oklahomi je dom spomenika Lynn Riggs.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stipsits se je rodil v Korneuburgu v Nemčiji in preživel otroštvo v Stammersdorfu na Dunaju.",
+        "sentence2": "Stipsits se je rodil v Korneuburgu, otroštvo pa preživel v Stammersdorfu na Dunaju.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dinastija Keita je vladala predimperialnemu in imperialnemu Maliju od 12. stoletja do začetka 17. stoletja.",
+        "sentence2": "Dinastija Keita je vladala Maliju od 12. do zgodnjega 17. stoletja, predcesarski in imperialni.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "\"Angel Eyes\" je priljubljena pesem iz leta 1946, ki jo je zložil Matt Dennis, besedilo pa Earl Brent.",
+        "sentence2": "\"Angel Eyes\" je priljubljena pesem, ki jo je leta 1946 zložil Earl Brent z besedilom Matta Dennisa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Glasbo je napisal Shyam, besedilo pa sta zložila Sreekumaran Thampi in Sathyan Anthikkad.",
+        "sentence2": "Glasbo je napisal Shyam, besedilo pa Sreekumaran Thampi in Sathyan Anthikkad.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Film je bil komercialna uspešnica in eden uspešnejših filmov Sergia Sollime ter manj političen kot vesterni nekdanjega špageti režiserja.",
+        "sentence2": "Film je bil komercialna uspešnica in eden bolj političnih filmov Sergia Sollime ter manj uspešen kot vesterni nekdanjega špageti režiserja.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kabir prosi Sariko, naj razkrije svoj načrt za konec Ranvirjeve igre.",
+        "sentence2": "Kabir prosi Sariko, naj mu razkrije svoj načrt za konec Ranvirjeve igre.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ekipa se je na spremembe odzvala na naslednji tekmi še isti večer 19. februarja.",
+        "sentence2": "Ekipa se je na spremembe odzvala v isti igri, ki se je zgodila naslednji februarski večer.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Poročnik John Gedge jih je maja 1805 naročil za Severno morje, leta 1806 pa ga je zamenjal poročnik Robert Ramsey.",
+        "sentence2": "Poročnik Robert Ramsey jo je maja 1805 pooblastil za plovbo v Severnem morju, leta 1806 pa ga je zamenjal poročnik John Gedge.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Emmo Townshend pri DGA Associates zastopa David Godwin.",
+        "sentence2": "Davida Davida Godwina pri DGA Associates zastopa Emma Townshend.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nashua Silver Knights, del poletne študentske lige, je trenutna ekipa mesta.",
+        "sentence2": "Nashua Silver Knights, del trenutne poletne lige, je univerzitetna ekipa mesta.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Od zahodnega konca mostu Pennsylvania Route 268 vodi proti jugu do Parkerja in severno do Emlentona.",
+        "sentence2": "Pennsylvania Route 268 vodi od zahodnega konca mostu proti jugu do Parkerja in proti severu do Emlentona.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Te so bile pogoste v Združenem kraljestvu, vendar so v Evropi, vsaj pri velikih lokomotivah, relativno redke.",
+        "sentence2": "Te so bile v Združenem kraljestvu redke, v Evropi pa so, vsaj pri velikih lokomotivah, relativno pogoste.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alston se je rodil 21. decembra 1965 v Oxon Hillu v Marylandu. Obiskoval je srednjo šolo Oxon Hill v New Havenu v Connecticutu.",
+        "sentence2": "Rodil se je 21. decembra 1965 v Oxon Hillu v Marylandu in obiskoval srednjo šolo v New Havenu v Connecticutu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Skupne žrtve ZDA so bile 28 ubitih, medtem ko so izgube Viet Konga znašale 345 ubitih in dodatnih 192 ocenjenih ubitih.",
+        "sentence2": "Skupno je bilo ubitih 28 ameriških žrtev, medtem ko so izgube Viet Konga ubile 345 in dodatnih 192 ocenjenih ubitih.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "V Kaliforniji lahko naziv pooblaščenega računovodje (Šrilanka Šrilanka) uporabljajo samo člani Inštituta šrilanških računovodij.",
+        "sentence2": "V CA lahko naziv pooblaščeni računovodja (Šrilanka Šrilanka) uporabljajo samo člani Inštituta pooblaščenih računovodij Šrilanke.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Simyo pripada nizozemski telekomunikacijski skupini KPN, potem ko je 14. marca prevzela preostanek E-Plus.",
+        "sentence2": "Po nakupu preostalega dela E-Plusa 14. marca Simyo pripada nizozemski telekomunikacijski skupini KPN.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Poleg Kuykendalla sta bila še Robert White in Joshua Soule Zimmerman kot kanclerski komisar za okrožje Hampshire.",
+        "sentence2": "Robert White in Joshua Soule Zimmerman sta skupaj s Kuykendallom služila kot kanclerski komisar za okrožje Hampshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ta stališča so bila pogosto izražena med nastankom protestantskih, puritanskih in evangeličanskih gibanj.",
+        "sentence2": "Ta stališča so bila pogosto izražena med nastankom evangeličanskih, puritanskih in protestantskih gibanj.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pokal UEFA 1973-74 je osvojil Feyenoord Rotterdam proti Tottenham Hotspurju s 4:2.",
+        "sentence2": "Pokal UEFA 1973–74 je osvojil Feyenoord Rotterdam nad Tottenham Hotspur s skupnim izidom 4:2.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Talfourd Ely je bil vnuk Johna Towilla Rutta, ki je bil prvi prijatelj Crabba Robinsona.",
+        "sentence2": "Talfourd Ely je bil vnuk Crabba Robinsona, ki je bil prvi prijatelj Johna Towilla Rutta.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Oče mu je umrl v mladosti, mati Samuel Adams pa se je leta 1842 poročil s Catherine A. Fagan, ki je dve leti pozneje postala guvernerka Arkansasa.",
+        "sentence2": "Njegov oče je umrl med njegovo mladostjo, njegova mati Catherine A. Fagan pa se je leta 1842 poročila s Samuelom Adamsom, ki je dve leti pozneje postal guverner Arkansasa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "13. junija so izdali tudi drugo skladbo na albumu, ``Vices``, kot 5. singel z albuma.",
+        "sentence2": "13. junija so izdali tudi drugo skladbo na albumu, ``Vices'', kot 5. singel z albuma.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sydney Water Board je leta 1888 od mestnega sveta prevzel oskrbo Sydneya z vodo.",
+        "sentence2": "Leta 1888 je Sydney Water Board od mestnega sveta prevzel oskrbo Sydneya z vodo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tudi Cai Feng je imel sina Cai Maoa.",
+        "sentence2": "Cai Mao je imel tudi sina Cai Fenga .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Njeni listi so izmenično oblikovani vzdolž vej in imajo suličasto, jajčasto ali skoraj okroglo obliko in so dolgi pecelj.",
+        "sentence2": "Njeni listi so premenjalno razporejeni vzdolž vej in so suličasti, jajčasti ali skoraj okrogli ter imajo dolg pecelj.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "S tem se je razširilo območje konflikta med Massachusettsom in provinco Rhode Island.",
+        "sentence2": "To je razširilo območje konflikta med Rhode Islandom in provinco Massachusetts.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Srednja šola Slough je bila selektivna gimnazija za dekleta v Berkshiru, zdaj Slough, Buckinghamshire.",
+        "sentence2": "Srednja šola Slough je bila selektivna gimnazija za dekleta v kraju Slough v Buckinghamshiru, zdaj Berkshire.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nahaja se blizu jezera Lough Corrib, na cesti N59 proti Oughterardu in Clifdnu v Connemari.",
+        "sentence2": "Je blizu Oughterarda in Clifdna, na cesti N59 proti Lough Corribu, v Connemari.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Čeprav izključitev temnopoltih igralcev ni bilo pisno pravilo, noben Afroameričan ni igral v nacionalni nogometni ligi od leta 1933.",
+        "sentence2": "Čeprav izključitev afriških igralcev ni bilo pisno pravilo, noben temnopolti ameriški igralec v nacionalni nogometni ligi ni igral od leta 1933.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Muavija je prišel na oblast po Alijevi smrti in ustanovil dinastijo.",
+        "sentence2": "Po Muavijini smrti je na oblast prišel Ali in ustanovil dinastijo.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Leta 1994 je skupino zapustil Rodrigo Leão in začel solo kariero, zamenjal pa ga je Carlos Maria Trindade (sintetizator s klaviaturami).",
+        "sentence2": "Leta 1994 je skupino zapustil Rodrigo Leão in začel solo kariero, zamenjal pa ga je Carlos Maria Trindade (sintetizator s klaviaturami).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Leta 1933 je Cattell zapisal, da je od vseh nordijskih ras \"evropejska rasa najbolj razvita v inteligenci in stabilnosti temperamenta\".",
+        "sentence2": "Leta 1933 je Cattell zapisal, da je od vseh nordijskih ras \"evropska rasa najbolj razvita v inteligenci in stabilnosti temperamenta\".",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Abies lasiocarpa, običajno imenovana zahodna severnoameriška jelka ali skalnato gorska jelka, je subalpska jelka.",
+        "sentence2": "Abies lasiocarpa, splošno znana kot zahodna severnoameriška jelka ali skalnatogorska jelka, je subalpska jelka.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "American Motors je zagotovil le tehnično podporo v obliki omejene pomoči.",
+        "sentence2": "American Motors je zagotovil le tehnično podporo v obliki omejene pomoči.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Glavna zgradba v Houstonu (HMB) prej kot zgradba Prudential je bila nebotičnik v Teksaškem medicinskem centru v Houstonu v Teksasu.",
+        "sentence2": "Glavna zgradba v Houstonu ( HMB ) prej Prudential Building je bila nebotičnik v Teksaškem medicinskem centru v Houstonu v Teksasu .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Po vrnitvi v Paramaribo leta 1954 se je kot odvetnik ustalil v Surinamu.",
+        "sentence2": "Po vrnitvi v Surinam leta 1954 se je kot odvetnik ustalil v Paramaribu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Strmoglavljenje letala Aerosucre Flight 4544 je bil prvi letalski incident, v katerega je bil vpleten Aerosucre, drugi pa je bil strmoglavljenje drugega boeinga 727 18. novembra 2006.",
+        "sentence2": "Strmoglavljenje letala Aerosucre Flight 4544 je bil drugi letalski incident, v katerega je bil vpleten Aerosucre, prvi je bil strmoglavljenje drugega letala Boeing 727 18. novembra 2006.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Epizoda Cabot Trail je bila posneta na kraju samem v Cape Bretonu, vključno z zalivom Peggys Cove in višavjem Nove Škotske ob vzhodni obali.",
+        "sentence2": "Epizoda o Vzhodni obali je bila posneta na lokaciji v Novi Škotski, vključno z zalivom Peggys in visokogorjem Cape Bretona, ob Cabotovi poti.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Drug način uravnavanja populacije jelenov je nadzor nad rodnostjo.",
+        "sentence2": "Drugi način uravnavanja populacije jelenov je nadzor nad rodnostjo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pesem je ohranjena v štirih fragmentarnih rokopisih, od katerih je eden sodoben.",
+        "sentence2": "Pesem je shranjena v štirih sodobnih rokopisih, od katerih je eden fragmentaren:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pri albumu so sodelovali tudi Manu Chao, skupine ``Air``, Cassius, Mars IV, Les Négresses Vertes in FFF ter Howie B.",
+        "sentence2": "Pri albumu so sodelovale tudi skupine ''Air'', Howie B, Mars IV, Les Négresses Vertes in FFF ter Manu Chao.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Reka Hudeasa je pritok reke Bradu v Romuniji.",
+        "sentence2": "Reka Hudeasa je pritok reke Bradu v Romuniji.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Čeprav izključitev afriških igralcev ni bilo pisno pravilo, noben temnopolti ameriški igralec v nacionalni nogometni ligi ni igral od leta 1933.",
+        "sentence2": "Čeprav izključitev temnopoltih igralcev ni bilo pisno pravilo, od leta 1933 noben Afroameričan ni igral v nacionalni nogometni ligi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Njegov oče Patrick Byrne je bil poslanec, državni sekretar, senator in župan Dublina. Drugi brat Alfie Byrne je bil tudi TD.",
+        "sentence2": "Njegov oče Patrick Byrne je bil delegat, senator in župan Dublina, drugi brat Alfie Byrne je bil prav tako TD.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prva serija je bila med kritiki bolje sprejeta kot druga.",
+        "sentence2": "Drugo serijo so kritiki sprejeli bolje kot prvo.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fanwood se nahaja v 12. kongresnem okrožju in je del 22. zakonodajnega okrožja New Jerseyja.",
+        "sentence2": "Fanwood se nahaja v 22. kongresnem okrožju in je del 12. državnega zakonodajnega okrožja New Jerseyja.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Santa Cruz se nahaja na bregovih reke Santa Cruz, ki se izliva v vzhodni del zaliva Laguna de Bay.",
+        "sentence2": "Laguna de Bay se nahaja na bregovih reke Santa Cruz, ki se izliva v vzhodni del Santa Cruza.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Porte de Vincennes se nahaja tam, kjer se jugovzhodni vogal 20. okrožja sreča s severovzhodnim vogalom 12. pariškega okrožja.",
+        "sentence2": "Porte de Vincennes se nahaja tam, kjer se severovzhodni vogal 12. okrožja sreča z jugovzhodnim vogalom 20. pariškega okrožja.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "5. marca 2011 je MTV Hive objavil povezavo za pretakanje Anni Rossi, ki izvaja Rihannino pesem ''Rude Boy``.",
+        "sentence2": "5. marca 2011 je MTV Hive objavil povezavo do Rihanne, ki izvaja pesem Anni Rossi ``Rude Boy``.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kralj Qi se je leta 284 pr. n. št. srečal s kraljem Zhaom iz Qina v zahodnem Zhouju, da bi sklenil zavezništvo proti Xiju.",
+        "sentence2": "Leta 284 pr. n. št. se je kralj Qi srečal s kraljem Zhaom iz Qina v Zahodnem Zhouju, da bi sklenil zavezništvo proti Xiju.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Administrativna regija Chenzhou v dinastiji Tang je pod upravo sodobnega Henana na vzhodu Zhoukouja:",
+        "sentence2": "Upravna regija Chenzhou v dinastiji Tang je pod upravo sodobnega Henana v vzhodnem Zhoukouju:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "``Pure`` pomeni preprosto, ``Belter`` ali ``Belta`` pa pomeni velik ali dober.",
+        "sentence2": "``Pure`` pomeni preprosto zelo in ``Belter`` ali ``Belta`` pomeni dober ali velik.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stephena Stephena je 29. avgusta 1806 poročil Benjamin Hough, mirovni sodnik, v okrožju Jefferson, Elizabeth Core.",
+        "sentence2": "``2'' Benjamina Hougha je 29. avgusta 1806 poročil Stephen Ford, mirovni sodnik, v okrožju Jefferson z Elizabeth Core.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vrsto je prvi uradno opisal botanik Stephan Endlicher leta 1846 kot del dela Johanna Georga Christiana Lehmanna \"Irideae\". Plantae Preissianae''.",
+        "sentence2": "Vrsto je leta 1846 prvič uradno opisal botanik Stephan Endlicher kot del dela \"Irideae Plantae Preissianae\" Johanna Georga Christiana Lehmanna.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Leta 1912 je imel Indijski nacionalni kongres svoje 27. zasedanje v Bankiporeju pod predsedstvom Rao Bahadurja Raghunatha Narasinhe Mudholkarja iz Amravatija, osrednjih provinc in Berarja.",
+        "sentence2": "Leta 1912 je imel Indijski nacionalni kongres svoje 27. zasedanje v Bankiporeju pod predsedstvom Rao Bahadurja Raghunatha Narasinhe Mudholkarja iz osrednjih provinc Amravati in Berar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Najpogosteje uporabljena živalska vlakna je ovčja volna. Za ročno in hobi pletenje se pogosto prede debela, volnena in akrilna preja.",
+        "sentence2": "Najpogosteje spredeno živalsko vlakno je ovčja volna. Za ročne pletenine in hobi pletenje se pogosto uporablja debela volnena in akrilna preja .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tipico Co. Ltd in Tipico Casino Ltd sta bili ustanovljeni leta 2004 kot mednarodni trgovski podjetji v poslovnem registru Malteške uprave za finančne storitve.",
+        "sentence2": "Tipico Co . Ltd in Tipico Casino Ltd sta bili ustanovljeni leta 2004 kot mednarodni trgovski družbi v poslovnem registru malteškega organa za finančne storitve .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nahaja se blizu jezera Lough Corrib, na cesti N59 proti Oughterardu in Clifdnu v Connemari.",
+        "sentence2": "Nahaja se v bližini Oughterarda in Clifdna, na cesti N59 proti Lough Corribu v Connemari.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "14. septembra 2006 so z Langom podpisali Washington Wizards, julija 2017 pa so ga Wizardsi izpustili.",
+        "sentence2": "14. septembra 2006 je Lang podpisal pogodbo z Washington Wizards. Julija 2017 so Langa izpustili Wizardsi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Singl je bil izdan na radiu Airplay v Italiji 12. oktobra 2012, po vsem svetu pa je bil poslan 3. decembra 2012.",
+        "sentence2": "Singl je bil poslan v radijsko predvajanje 12. oktobra 2012 v Italiji, po vsem svetu pa je izšel 3. decembra 2012.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Po službi je Lockhart živel v Teksasu, a se je pred kratkim preselil na Florido.",
+        "sentence2": "Po službi je Lockhart živel na Floridi, a se je pred kratkim preselil v Teksas.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Najdemo ga v Severni Ameriki, kjer je bil zabeležen od Nove Fundlandije in Labradorja zahodno do Britanske Kolumbije, severno do Aljaske in Yukona.",
+        "sentence2": "Najdemo ga v Severni Ameriki, kjer je bil zabeležen od Nove Fundlandije in Labradorja zahodno do Britanske Kolumbije, severno do Aljaske in Yukona.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "To zahodno okrožje Randallstown vključuje Woodlawn, Milford Mill in okrožje Baltimore.",
+        "sentence2": "To zahodno okrožje Randallstown obsega Woodlawn, Milford Mill in okrožje Baltimore.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Treniral ga je John Velazquez, na njegovi najpomembnejši dirki pa ga je jahal Jockey Dale Romans.",
+        "sentence2": "Med njegovimi najpomembnejšimi dirkami ga je treniral Dale Romans, jahal pa ga je Jockey John Velazquez.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Med svojim časom v Savannah je Charles Celestine iz časopisa izvedel, da je njegov sin Sherman umrl med kampanjo v Savannah, general pa otroka ni nikoli videl.",
+        "sentence2": "Medtem ko je bil v Savannah, je Charles Celestine iz časopisa izvedel, da je njegov dojenček Sherman umrl med Savannah Campaign; general ni nikoli videl otroka.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Naslovnico je oblikoval heraldični umetnik John Pasche, naslovnico singla \"Steel Monkey\" pa je oblikoval umetniški direktor Andrew Stewart Jamieson.",
+        "sentence2": "Naslovnico je oblikoval heraldični umetnik Andrew Stewart Jamieson, naslovnico singla \"Steel Monkey\" pa je oblikoval umetniški direktor John Pasche.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "MacCormackova metoda je široko uporabljena diskretizacijska shema za numerično reševanje parcialnih hiperboličnih diferencialnih enačb.",
+        "sentence2": "V računalniški dinamiki tekočin je MacCormackova metoda široko uporabljena diskretizacijska shema za hiperbolično parcialno diferencialno rešitev numeričnih enačb.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wright se je preselil iz Chapel Hilla, NC, v New York.",
+        "sentence2": "Wright se je preselil v New York iz Chapel Hilla, NC.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Izmet soglasnika je nekakšen velarni zvok, ki se uporablja v nekaterih govorjenih jezikih Simbol v mednarodni fonetični abecedi, ki predstavlja ta zvok.",
+        "sentence2": "Velar-Ejective je nekakšen soglasniški zvok, ki se uporablja v nekaterih govorjenih jezikih Simbol v mednarodni fonetični abecedi, ki je ta zvok.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Evropske dejavnosti so postale del Ebela, azijske pa so bile prodane hongkonškemu podjetniku Josephu Wongu in zdaj pripadajo Stelux Holdings.",
+        "sentence2": "Evropske dejavnosti so postale del Ebela, medtem ko so bile azijske dejavnosti prodane hongkonškemu podjetniku Josephu Wongu in so zdaj del Stelux Holdings.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Med zgodnjimi člani svetovalnega odbora so bili Alistair Cooke, Saul Bellow, Walter Cronkite, Norman Cousins, Gore Vidal, Norman Podhoretz.",
+        "sentence2": "Med zgodnjimi svetovalci so bili Walter Cronkite, Norman Vetter, Gore Vidal, Norman Podhoretz, Saul Bellow in Alistair Cooke.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nacionalni park Petkeljärvi je nacionalni park v Ilomantsiju v regiji Severna Karelija na Finskem.",
+        "sentence2": "Nacionalni park Petkeljärvi je nacionalni park na Finskem v regiji Ilomantsi v Severni Kareliji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "13. junija so objavili tudi 5. skladbo na albumu ,,Vices'', kot drugi singel z albuma.",
+        "sentence2": "13. junija so izdali tudi peto skladbo na albumu, ``Vices`` kot drugi singel z albuma.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Stoke je premagal Sheffield Wednesday in Huddersfield Town, preden je v četrtem krogu izgubil proti Peterborough Unitedu.",
+        "sentence2": "Stoke je premagal Peterborough United in Huddersfield Town, preden je izgubil v četrtem krogu proti Sheffield Wednesdayju.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Na vprašanje, kako se izgovori njegovo ime, je za The Literary Digest povedal, da se moje ime izgovarja kot \"uho\"; hišna '' pira .",
+        "sentence2": "Na vprašanje, kako se izgovori njegovo ime, je za The Literary Digest povedal, da se moje ime črkuje, kot da se izgovarja, ear 'apos; enhouse `` .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Gojenje je uvedel leta 1880 Fernando Heydrich v Matanzasu na Kubi.",
+        "sentence2": "V Matanzasu je njegovo gojenje uvedel leta 1880 Fernando Heydrich na Kubi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Če je v stavku več slovničnih kategorij, nosi oznako množine samo prva.",
+        "sentence2": "Če je v stavku več slovničnih kategorij, nosi prvo oznako samo množina.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Režim je oktobra 1777 zapustil Filadelfijo in se pridružil glavni vojski generala Georgea Washingtona zunaj Bostona.",
+        "sentence2": "Polk je zapustil Filadelfijo oktobra 1777, da bi se pridružil glavni vojski generala Georgea Washingtona zunaj Bostona.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Leta 1974 je Laoška NDR s pomočjo Svetovne banke, Združenih narodov in Azijske razvojne banke ustanovila sklad Stage II.",
+        "sentence2": "S podporo Svetovne banke, Združenih narodov in Azijske razvojne banke je Laoška NDR leta 1974 ustanovila sklad Stage II.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kasneje ga je uporabil kot simbol nacistične stranke in ga postavil na bel krog in rdeče ozadje, da bi ga uporabil kot zastavo.",
+        "sentence2": "Kasneje ga je uporabil kot simbol nacistične stranke in ga postavil na rdeč krog in belo ozadje, da bi ga uporabil kot zastavo.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Da bi razvili zemljevid za Hoth, so oblikovalci prejeli čim več izvornega materiala od ``The Empire Strikes Back'', da bi ustvarili verodostojno reprodukcijo.",
+        "sentence2": "Da bi ustvarili zemljevid za Hotha, so oblikovalci pridobili čim več izvornega materiala iz ``Imperij vrača udarec``, da bi razvili verodostojno reprodukcijo.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Poročen je z Elizabeth ``Betsy'' Katz. Je oče Adama, Nathaniela in Sare Hundt.",
+        "sentence2": "Poročen je z Elizabeth ``Betsy'' Katz, očetom Adama, Nathaniela in Sare Hundt.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hiša je napolnjena z jezno energijo in daje obliko nekromantičnemu duhu v sebi.",
+        "sentence2": "Hiša se napolni z nekromantično energijo in daje obliko jeznemu duhu v sebi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Medtem ko je Oros pod Walkerjem delal na modelih avtomobilov in tovornjakov Ford, se je Engel osredotočil na vozila Lincoln in Mercury.",
+        "sentence2": "Medtem ko je Oros pod vodstvom Walkerja delal na Fordovih avtomobilih in tovornjakih, se je Engel osredotočil na vozila Lincoln in Mercury.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hirasea goniobasis je vrsta kopenskih pljučnih kopenskih polžev, ki dihajo zrak, majhnega polža iz družine Endodontidae.",
+        "sentence2": "Hirasea goniobasis je vrsta majhnega polža, ki diha zrak, kopenskega pljučnega polža iz družine Endodontidae.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Premaligne lezije so očitno tipično tkivo, ki se pod mikroskopskim pregledom zdi nenormalno in v katerem je bolj verjetno, da se bo pojavil rak kot v morfološko normalnem dvojniku.",
+        "sentence2": "Premaligne lezije so očitno tipično tkivo, ki se pri mikroskopskih preiskavah zdi nenormalno in pri katerem je rak verjetnejši od njegovega morfološko normalnega dvojnika.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Abu Halifa ali Abu Hulayfah ali Abu Huleifa ali Abu Haleifah je majhno mesto v Kuvajtu v provinci Al Ahmadi v južnem okrožju Abu Halifa.",
+        "sentence2": "Abu Halifa ali Abu Hulayfah ali Abu Huleifa ali Abu Haleifah je majhno mesto v Kuvajtu v provinci Al Ahmadi v južnem okrožju Abu Halifa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Israel je album ameriških jazzovskih pozavnistov Kaija Windinga in JJ Johnsona, ki vsebuje izvedbe, izdane leta 1968 in posnete na C",
+        "sentence2": "Israel je album ameriških jazzovskih pozavnistov Kaija Windinga in JJ Johnsona z izvedbami, objavljenimi leta 1968 in posnetimi na C.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Leta 2014 je Adam napisal revizijo gotske trilogije klasičnih zgodb Frankenstein, The Corruption of Dorian Gray in Jekyll Hyde Corpus Delicti",
+        "sentence2": "Leta 2014 je Adam napisal Gothic Trilogy predelave klasičnih zgodb Frankenstein, The Corruption Of Dorian Gray in Jekyll & Hyde Corpus Delicti",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Gospa Glad je delala v Ovambolandu v letih 1901 – 1919 in 1926 – leta 1936 in je bila tam prva inšpektorica šol.",
+        "sentence2": "Gospa Glad je delala v Ovambolandu v letih 1901 – 1919 in 1926 – 1936 in je tam delovala kot prva inšpektorica šol.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "To opisuje kot novo odkritje leposlovnega pisanja in meni, da gre za mito-realizem kitajske literature.",
+        "sentence2": "Meni, da je to \"novo odkritje\" leposlovnega pisanja in ga označuje za \"mitorealizem\" kitajske literature.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Leta 1953 je bila ekipa tudi na turneji po Avstraliji in avgusta 1959 po Aziji.",
+        "sentence2": "Ekipa je bila tudi na turneji v Avstraliji leta 1953 in Aziji avgusta 1959.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ronnie Fields ni odigral niti ene tekme v NBA ali NCAA.",
+        "sentence2": "Ronnie Fields ni odigral niti ene tekme v NCAA ali NBA.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Novo igrišče je opremljeno s sodobnimi fitnes napravami za otroke.",
+        "sentence2": "Igrišče je sodobno opremljeno z novimi fitnes napravami za otroke.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Probuccinum tenerum je vrsta morskega polža, pravega polža iz družine morskih volkov (Buccinidae).",
+        "sentence2": "Probuccinum tenerum je vrsta morskega polža, morskega polža iz družine Buccinidae, pravih lubadarjev.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abraham Hart je bil predsednik, Mayer Sulzberger pa sekretar skrbnikov.",
+        "sentence2": "Predsednik je bil Mayer Sulzberger, Abraham Hart pa sekretar skrbnikov.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Juhi Chawla ima z ženo Jahnavi Mehto dva otroka, deklico Mehto (rojeno 2001) in dečka Arjuna Mehto (rojeno 2003).",
+        "sentence2": "Mehta ima z ženo Juhi Chawla dva otroka, deklico Jahnavi Mehta (rojeno leta 2001) in dečka Arjuna Mehto (rojeno leta 2003).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stopnja razlikovanja med protestantskimi in katoliškimi težnjami v specifični anglikanski tradiciji je redno predmet razprave tako znotraj anglikanskih cerkva kot v celotnem anglikanskem občestvu.",
+        "sentence2": "Stopnja razlikovanja med protestantskimi in katoliškimi težnjami v anglikanski tradiciji je redno predmet razprave v obeh posebnih anglikanskih cerkvah in v celotni anglikanski skupnosti.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Srednja šola Slough je bila selektivna šola za dekleta v Sloughu, Buckinghamshire, zdaj Berkshire.",
+        "sentence2": "Srednja šola Slough je bila selektivna gimnazija za dekleta v kraju Slough v Buckinghamshiru, zdaj Berkshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus je regionalna pivovarna z vplivi nemškega stila.",
+        "sentence2": "Lobethal Bierhaus je regionalna pivovarna piva z nemškimi vplivi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Long se je rodil v Izraelu, kot mladenič se je preselil v Avstralijo in se tam naselil leta 1961.",
+        "sentence2": "Lang se je rodil v Avstraliji, kot mladenič se je preselil v Izrael in se tam naselil leta 1961.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Upokojil se je v Milwaukeeju v Wisconsinu, kjer je 5. maja 1903 umrl.",
+        "sentence2": "Umrl je v Wisconsinu v Milwaukeeju, kjer se je 5. maja 1903 upokojil.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Barva klobuka se spreminja od rjave do rjave, pogosto z rumeno liso na klobuku ob zrelosti.",
+        "sentence2": "Barva klobuka se spreminja od rjave do rumene, pogosto z rjavo liso na klobuku ob zrelosti.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Reka Valea lui Lambă ali \"unk\" reka imon je pritok reke Lom v Romuniji.",
+        "sentence2": "Reka Valea lui Lambă ali reka Șimon je pritok reke Lom v Romuniji.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dokončana ograja se nahaja predvsem v Teksasu, z gradnjo v Novi Mehiki, Arizoni in Kaliforniji.",
+        "sentence2": "Dokončana ograja je večinoma v Teksasu, gradnja pa poteka v Novi Mehiki, Arizoni in Kaliforniji.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Buccinum pulchellum je vrsta morskega polža, morskega polža iz družine Buccinidae, pravih zvitkov volanovega roga.",
+        "sentence2": "Buccinum pulchellum je vrsta morskega polža, pravega polža iz družine morskih polžev (Buccinidae).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "30. aprila 1983 je letalo C-311, dodeljeno NAS Guantanamo Bay na Kubi, strmoglavilo v NAS Jacksonville in izgubilo 13 človeških življenj.",
+        "sentence2": "30. aprila 1983 je letalo C-311, ki je bilo dodeljeno NAS Jacksonville na Kubi, v zalivu NAS Guantanamo strmoglavilo in izgubilo 13 življenj.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kot nagrado za svojo zvestobo Henryju je pridobil donosna zemljišča in številne urade v južnem Walesu.",
+        "sentence2": "Kot nagrado za svojo zvestobo Henryju je pridobil veliko zemljišč in donosnih uradov v Južnem Walesu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Leta 2010 je Univerza v New Yorku premagala Univerzo Harvard s 3-1-1 in tako osvojila svoj prvi naslov državnega prvaka.",
+        "sentence2": "Leta 2010 je Univerza v New Yorku premagala Univerzo Harvard s 3-1-1 in osvojila svoje prvo državno prvenstvo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Reka Neajlovel je pritok reke Neajlov v Romuniji.",
+        "sentence2": "Reka Neajlov je pritok reke Neajlovel v Romuniji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Agencija ima sedež v Arlingtonu v Virginiji, čezmorsko pisarno pa v Parizu v Franciji.",
+        "sentence2": "Agencija ima svoj sedež v Arlingtonu v Virginiji in svoj urad za čezmorske operacije v Parizu v Franciji.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Reka Neajlov je pritok reke Neajlovel v Romuniji.",
+        "sentence2": "Reka Neajlovel je pritok reke Neajlov v Romuniji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ahmad Yar Khan se je rodil v družini Tiwana Shahpurja, sina Sahiba Khana.",
+        "sentence2": "Sahib Khan se je rodil v družini Tiwana iz Shahpurja, sin Ahmada Yar Khana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rojen v Brooklynu v New Yorku, umrl v Tiburonu v Kaliforniji.",
+        "sentence2": "Rodil se je v Tiburonu v Kaliforniji in umrl v Brooklynu v New Yorku.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Predlogi Meta za razširitev od Paddingtona do Južnega Kensingtona in južno od Moorgatea do Tower Hilla na jugu so bili sprejeti in prejeli kraljevo soglasje 29. julija 1864.",
+        "sentence2": "Predlogi Meta za razširitev od Paddingtona do Južnega Kensingtona in vzhodno od Moorgatea do Tower Hilla na jugu so bili sprejeti in prejeli kraljevo soglasje 29. julija 1864.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pesem je ohranjena v štirih fragmentarnih rokopisih, od tega v sočasnem.",
+        "sentence2": "Pesem je ohranjena v štirih sodobnih rokopisih, od katerih je eden fragmentiran:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mestni svet Webster Grove so sestavljali člani sveta Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt in Anne Tolan.",
+        "sentence2": "Mestni svet Webster Groves so sestavljali člani sveta Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt in Anne Tolan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Zato padajoča tališča in vrelišča alkalnih kovin kažejo, da se trdnost kovinskih vezi alkalnih kovin zmanjšuje po skupini navzdol.",
+        "sentence2": "Zato padajoča tališča in vrelišča alkalnih kovin kažejo, da se moč kovinskih vezi alkalnih kovin v skupini zmanjša.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Scrivener datira rokopis v 13. stoletje, CR Gregory v 12. stoletje, trenutno je rokopis datiran v 12. stoletje s strani INTF.",
+        "sentence2": "Scrivener je rokopis datiral v 12. stoletje, CR Gregory pa v 13. stoletje. INTF trenutno rokopis datira v 12. stoletje.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Okrožna cesta 540 je nekaj milj zahodno od državne ceste 540 v Highland Cityju in poteka južno od US 98 do okrajne ceste 37B.",
+        "sentence2": "Okrožna cesta 540 je nekaj milj južno od državne ceste 540 v Highland Cityju in poteka proti zahodu od US 98 do okrožne ceste 37B.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "SPB ima konstantno velikost višine (razdalja od notranjega plaka do zunanjega plaka) približno 150 nm, vendar se njegov premer med celičnim ciklom spreminja, z.",
+        "sentence2": "SPB ima velikost notranje višine (razdalja med zunanjim plakom in konstantnim plakom) približno 150 nm, vendar se njegov premer med celičnim ciklom spreminja, npr.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rami Nieminen (rojen 25. februarja 1966) je nekdanji finski nogometaš.",
+        "sentence2": "Rami Nieminen (rojen 25. februarja 1966) je finski nogometaš.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bil je bratranec češkega reprezentanta Miroslava Hlinke in sin nekdanjega igralca Jaroslava Hlinke st.",
+        "sentence2": "Bil je bratranec češkega reprezentanta Miroslava Hlinke in sin nekdanjega igralca Jaroslava Hlinke st.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bili so tam, da bi molili za nas in bili tam, da bi uživali v nas.",
+        "sentence2": "Bili so tam, da smo molili, in bili so tam, da smo uživali.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "William Llewelyn Williams, bolj znan kot Llewelyn Williams (10. marec 1867 - 22. april 1922), je bil radikalni novinar, odvetnik in politik valižanske liberalne stranke.",
+        "sentence2": "William Williams, znan kot Llewelyn Williams (10. marec 1867 - 22. april 1922), je bil valižanski novinar, odvetnik in politik radikalne liberalne stranke.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Velikanska platana je tretje največje in najstarejše drevo na Poljskem in najdebelejša londonska platana v državi.",
+        "sentence2": "Velikanska platana je tretje največje in najstarejše drevo na Poljskem ter najdebelejša londonska platana v državi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Reka Molmys je reka v Permskem okraju v Rusiji, pritok reke Yazva na levi strani.",
+        "sentence2": "Yazva je reka v Permskem okraju v Rusiji , levi pritok reke Molmys .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sarika prosi Kabirja, naj konča svoj načrt, da mu razkrije Ranvirjevo igro.",
+        "sentence2": "Kabir prosi Sariko, naj razkrije svoj načrt za konec Ranvirjeve igre.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Do pojava elektronske in digitalne video tehnologije je bila množična produkcija pornografskih filmov neposredno povezana z mainstream filmsko industrijo.",
+        "sentence2": "Množična produkcija elektronskih in digitalnih filmov je bila neposredno povezana z uveljavljeno filmsko industrijo vse do pojava pornografske video tehnologije.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Medtem ko je bila 33. lovska skupina neaktivna, je bila konsolidirana s 33. taktično skupino kot 33. taktična lovska skupina.",
+        "sentence2": "Medtem ko je bila 33. taktična skupina neaktivna, je bila konsolidirana kot 33. taktična lovska skupina s 33. lovsko skupino.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Služi jugovzhodnemu predmestju Edithvale v Melbournu, odprtem 20. septembra 1919.",
+        "sentence2": "Oskrbuje jugovzhodno predmestje Melbourna Edithvale, odprtje 20. septembra 1919.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Massé se je rodila v okrožju Westchester v New Yorku, odraščala v Hollandu v Michiganu in v najstniških letih živela v Evropi.",
+        "sentence2": "Massé se je rodila v okrožju Westchester v New Yorku, odraščala v Hollandu v Michiganu in v najstniških letih živela v Evropi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fishman je diplomiral na univerzi Columbia in magistriral iz ekonomije na univerzi Brown.",
+        "sentence2": "Fishman je diplomiral na univerzi Brown in magistriral iz ekonomije na univerzi Columbia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Po njenem uspehu je Jane Campion najela Jonesovo za televizijsko miniserijo, ki se je spremenila v film Angel at my Table, priredbo avtobiografije Janet Frame.",
+        "sentence2": "Po njenem uspehu je bila Jane Campion Jones priredba avtobiografije Janet Frame za televizijsko miniserijo, ki se je spremenila v film Angel at my Table.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stipsits se je rodil na Dunaju, otroštvo pa je preživel v Stammersdorfu v Korneuburgu.",
+        "sentence2": "Stipsits se je rodil na Dunaju in preživel otroštvo v Stammersdorfu v Korneuburgu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Navarro je partido na severovzhodu province Buenos Aires v Argentini.",
+        "sentence2": "Navarro je partido na severovzhodu Argentine v provinci Buenos Aires.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Gorvodno je odslužen Michigan Central Railway Bridge , ki je s svojim predhodnikom Niagara Cantilever Bridge konkuriral vrtincu Rapids Bridge za železniški promet .",
+        "sentence2": "Gorvodno je odslužen Michigan Central Railway Bridge , ki je svojemu predhodniku Rapids Bridge whirlpool konkuriral Niagarskemu konzolnemu mostu za železniški promet .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pesem je napisal in produciral gala, ki sta jo zložila Filippo Andrea Carmeni in Maurizio Molella.",
+        "sentence2": "Pesem je napisal in zložil Gala, ki sta ga producirala Filippo Andrea Carmeni in Maurizio Molella.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Retzius se je rodil v Stockholmu kot sin anatoma Andersa Jahana Retziusa (in vnuk naravoslovca in kemika Andersa Retziusa).",
+        "sentence2": "Retzius se je rodil v Stockholmu kot sin anatoma Andersa Retziusa (in vnuk naravoslovca in kemika Andersa Jahana Retziusa).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Po popisu leta 2011 je bilo 78,8 % prebivalcev Romunov, 17 % Romov, 2,7 % Madžarov in 1,4 % Nemcev.",
+        "sentence2": "Po popisu leta 2011 je bilo 78,8 % prebivalcev Romov, 17 % Madžarov, 2,7 % Romunov in 1,4 % Nemcev.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Muzej se nahaja v središču Jiangbeizui CBD, blizu sotočja reke Jialing in reke Jangce.",
+        "sentence2": "Muzej se nahaja v središču Jiangbeizui CBD, blizu sotočja reke Jialing in reke Jangce.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Robbins se je rodil v Coventryju 21. septembra 1933 z dvojčkom Davidom, osmim in devetim otrokom od dvanajstih Charlesa in Jessamine Robbins.",
+        "sentence2": "David se je rodil 21. septembra 1933 v Coventryju očetu dvojčku Charlesu in Jessamine Robbins, osmi in deveti otrok od dvanajstih Robbinsovih.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bataljon vzdržujejo Queen's York Rangers (1. ameriški polk) (RCAC).",
+        "sentence2": "Bataljon ohranjajo The Queen's York Rangers (RCAC) (1. ameriški polk).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Katz se je rodil leta 1947 na Švedskem in se pri enem letu preselil v New York.",
+        "sentence2": "Katz se je rodil leta 1947 v New Yorku in se pri 1 letu starosti preselil na Švedsko.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slika na strani je dvodimenzionalna slika v nasprotju s predhodno upodobljeno 3D sliko.",
+        "sentence2": "Slika ob strani je dvodimenzionalna slika v nasprotju s predhodno upodobljeno 3D.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "``Ustavljena`` svetloba se v kontekstu EIT medija nanaša na ``kvantni`` prenos fotonov v koherentni sistem in nazaj.",
+        "sentence2": "``Ustavljena`` svetloba se v kontekstu medija EIT nanaša na ``kvantni`` prenos fotonov v koherentni sistem in nazaj.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prejšnje povprečje je bolj pomembno za visoke vrednosti formule _ 2 .",
+        "sentence2": "Za visoke vrednosti Formule 2 je bolj pomembno trenutno povprečje.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Med uglednimi ženskami v Surinamu so Jennifer Simons, Marijke Djwalapersad, Elisabeth Samson, Cynthia McLeod in Ruth Wijdenbosch.",
+        "sentence2": "Med najvidnejšimi ženskami v Surinamu so Jennifer Simons, Marijke Djwalapersad, Elisabeth Samson, Cynthia McLeod in Ruth Wijdenbosch.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Leta 1924 je bil povabljen predstavnik ICM v Torontu, leta 1932 v Oslu in leta 1936 v Zürichu.",
+        "sentence2": "Leta 1924 je bil povabljen predstavnik ICM v Torontu, leta 1932 v Zürichu in leta 1936 v Oslu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Svetovna služba BBC je prav tako predvajala različico z naslovom ``Animal, Vegetable and Mineral``, ki ji je predsedoval Michael Flanders in panel, v katerem je bil tudi Terry Wogan.",
+        "sentence2": "Svetovna služba BBC je prav tako predstavila različico z naslovom \"Žival, zelenjava in mineral\", ki jo je vodil Michael Flanders, s ploščo s Terryjem Woganom.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Thompsonov mlajši brat Julia se je rodil leta 1863 v Charles Martin Hallu v okrožju Geauga v Ohiu.",
+        "sentence2": "Julijin mlajši brat, Charles Martin Hall, se je rodil leta 1863 v Thompsonu v okrožju Geauga v Ohiu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Reka Horezu je pritok reke Ponoru v Romuniji.",
+        "sentence2": "Reka Ponoru je pritok Horezuja v Romuniji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Leta 2002 je pesem izdal britanski producent Vincent Stormfield, Independiente pa jo je obdelal kot ''Sweet Harmony 02``.",
+        "sentence2": "Leta 2002 je pesem priredil britanski producent Vincent Stormfield in izdal Independiente kot ``Sweet Harmony '02``.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "David se je rodil 21. septembra 1933 v Coventryju očetu dvojčku Charlesu in Jessamine Robbins, osmi in deveti otrok od dvanajstih Robbinsovih.",
+        "sentence2": "Robbins se je rodil 21. septembra 1933 v Coventryju z dvojčkom Davidom, osmim in devetim otrokom od dvanajstih Charlesa in Jessamine Robbins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Polk je zapustil Boston oktobra 1777, da bi se pridružil glavni vojski generala Georgea Washingtona zunaj Filadelfije.",
+        "sentence2": "Režim je oktobra 1777 zapustil Filadelfijo in se pridružil glavni vojski generala Georgea Washingtona zunaj Bostona.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Spojino so razvili dr. Patrick Page in njegova ekipa, Genkyotex pa jo je patentiral leta 2007.",
+        "sentence2": "Spojino so patentirali dr. Patrick Page in njegova ekipa, leta 2007 pa jo je izumil Genkyotex.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Zadeva je bila zadnjič uporabljena leta 1949 v Vzhodni Nemčiji, 1966 v Zahodni Nemčiji.",
+        "sentence2": "``Fallbeil`` je bil nazadnje uporabljen v Zahodni Nemčiji leta 1949, leta 1966 v Vzhodni Nemčiji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ringo Sheena je vodja kvarteta Saito Neko, znan pa je po številnih sodelovanjih z glasbenikom Saitom.",
+        "sentence2": "Saito je vodja kvarteta Saito Neko Quartet in je znan po številnih sodelovanjih z glasbenikom Ringom Sheenom.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abu Halifa ali Abu Hulayfah ali Abu Huleifa ali Abu Haleifah je majhno mesto v okrožju Abu Halifa v provinci Al Ahmadi v južnem Kuvajtu.",
+        "sentence2": "Abu Halifa ali Abu Hulayfah ali Abu Huleifa ali Abu Haleifah je majhno mesto v Kuvajtu v provinci Al Ahmadi v južnem okrožju Abu Halifa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Njegov oče je bil nezakonski sin Anne Tothby, poslanke Lincolnshira, in Williama Skipwitha.",
+        "sentence2": "Njegov oče je bil nezakonski sin Anne Tothby , članice parlamenta v Lincolnshiru , in Williama Skipwitha .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Med njimi so skladateljica bolerov Marie Teresa Rios, avtorica Julita Ross in pevka Sylvia Rexach.",
+        "sentence2": "Med njimi so Sylvia Rexach, skladateljica Boleros, Marie Teresa Rios, avtorica, in Julita Ross, pevka.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Zapustil je ženo Carol Ober , hčerko Violo in štiri vnuke .",
+        "sentence2": "Zapustil je ženo Carol Ober , hčerko Violo in štiri vnuke .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tisto noč se bo vrnil na postajo zahodno od Tecumseha in nato z drugim konjem odjahal do Violet Springsa, preden bi njegovi sosedje postali sumljivi.",
+        "sentence2": "Tisto noč bo odpotoval na postajo, ki se nahaja zahodno od Tecumseha, nato pa se bo z drugim konjem vrnil v Violet Springs, preden bodo njegovi sosedje začeli sumiti.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Agencija ima sedež v Parizu v Franciji in svojo čezmorsko pisarno - Operations - Office v Arlingtonu v Virginiji.",
+        "sentence2": "Agencija ima svoj sedež v Arlingtonu v Virginiji in svoj urad za čezmorske operacije v Parizu v Franciji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Leta 1964 je bila škofija nominalno obnovljena kot naslovna meščanska najnižja (škofovska) stopnja.",
+        "sentence2": "Leta 1964 je bila škofija nominalno obnovljena kot škofovski sedež najnižje (titularne) stopnje.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Njegovo nadaljnje delo v kmetijstvu je bilo predvsem v Lincolnshiru, predlagal pa je tudi obsežne nasipe v Norfolku, ki so bili uspešno izvedeni.",
+        "sentence2": "Njegovo prihodnje delo v kmetijstvu je potekalo predvsem v Norfolku, predlagal pa je tudi obsežne nasipe v Lincolnshiru, ki so bili uspešno izvedeni.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ko je Jack Nitzsche prvič slišal \"Stubborn Kind of Fellow\", je bil tako navdušen, da je med vožnjo po Sunset Boulevard s Philom Spectorjem izgubil nadzor nad svojim avtomobilom.",
+        "sentence2": "Ko je Phil Spector prvič slišal ``Stubborn Kind of Fellow``, je bil tako navdušen, da je med vožnjo po Sunset Boulevardu z Jackom Nitzschejem izgubil nadzor nad svojim avtomobilom.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Komunisti so bili trdno prepričani, da je Centralna obveščevalna agencija diskretno finančno in drugače podpirala te proteste.",
+        "sentence2": "Komunisti so diskretno verjeli, da je Centralna obveščevalna agencija finančno in drugače močno podpirala te proteste.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vrste so člani različnih ekoloških skupin, vključno s kserofitnimi grmovnicami, lianami in drevesi, tropskimi rastlinami, mikoheterotrofami ter različnimi predstavniki zelišč.",
+        "sentence2": "Vrste so člani različnih ekoloških skupin, vključno s tropskimi grmi, lianami in drevesi, kserofitnimi rastlinami, mikoheterotrofnimi ter različnimi rastlinskimi predstavniki.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Khan je napredoval s spremstvom, Tsitsianov je jezdil z dvema drugima možema in bil ustreljen.",
+        "sentence2": "Khan je napredoval s spremstvom, Tsitsianov je jezdil z dvema drugima možema in bil ustreljen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sculcoates ima knjižnico, pošto, kopališče, imenovano Beverley Road Baths, srednjo šolo in dve osnovni šoli.",
+        "sentence2": "Sculcoates ima knjižnico, pošto, bazen, imenovan Beverley Road Baths, srednjo šolo in dve osnovni šoli.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rodil se je v Melbournu in se z družino preselil na Novo Zelandijo, ko je bil star 10 let.",
+        "sentence2": "Rodil se je na Novi Zelandiji, pri 10 letih pa se je z družino preselil v Melbourne.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "V zgodovini tovrstnih naprav je bil pred ``Turkom`` in nasledil ``Mephisto``.",
+        "sentence2": "V zgodovini tovrstnih naprav je uspel ''Turek'' in pred njim ''Mefisto''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Agranat se je rodil v Louisvillu v Kentuckyju leta 1906 v judovsko-cionistični družini.",
+        "sentence2": "Agranat se je leta 1906 rodil v sionistično-judovski družini v Louisvillu v Kentuckyju.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Massé se je rodila v okrožju Westchester v New Yorku, odraščala v Hollandu v Michiganu in v najstniških letih živela v Evropi.",
+        "sentence2": "Massé se je rodila v Hollandu v Michiganu, odraščala v okrožju Westchester v New Yorku in v najstniških letih živela v Evropi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Te tri dinastije po materini strani so vladale kraljestvu Waalo z družino Mbooj po očetovi strani.",
+        "sentence2": "Te tri dinastije po materini strani so vladale kraljestvu Waalo z družino Mbooj po očetovi strani.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "BAC predstavlja tri letne nastope Orkestra iz Minnesote in pred kratkim je naročil dela Diavola in Merce Cunningham Dance Company.",
+        "sentence2": "BAC ima tri letne nastope Orkestra iz Minnesote in predstavlja nedavno naročena dela Diavola in Merce Cunningham Dance Company.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Monroe Meadows v dolini Yosemite blizu slapov Bridalveil je prav tako poimenovan po Georgeu Monroeju.",
+        "sentence2": "Monroe Meadows v primeru Bridalveil blizu doline Yosemite je prav tako imenovan po Georgeu Monroeju.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Andezit je bil prevladujoča vrsta lave z nekaterimi vzorci dovolj mafičnimi, da bi jih lahko opredelili kot bazaltni andezit.",
+        "sentence2": "Andezit je bil prevladujoča vrsta lave z nekaj vzorci, ki so zadostovali za klasifikacijo bazaltnega andezita.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "V začetku leta 2016 je bil senator Bob Hackett imenovan v senat Ohia, da bi nasledil senatorja Chrisa Widenerja, ki je odstopil.",
+        "sentence2": "V začetku leta 2016 je bil senator Chris Widener imenovan v senat Ohia, da bi nasledil senatorja Boba Hacketta, ki je odstopil.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "V praksi so mesquite ,,moduli'', razredi Java, običajno abstraktni podrazredi definicij konkretnih razredov.",
+        "sentence2": "V praksi so javanski razredi Mesquite ``moduli'' običajno konkretni podrazredi definicij abstraktnih razredov.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Papež je leta 1980 predlagal rešitev, ki jo je Čile zavrnil, Argentina pa odobrila.",
+        "sentence2": "Papež je predlagal rešitev, ki jo je Čile leta 1980 sprejel, Argentina pa zavrnila.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "V tridesetih in štiridesetih letih prejšnjega stoletja je bil leta 1928 štirikrat izvoljen za Al Smitha za Franklina D. Roosevelta in leta 1948 za Harryja S. Trumana.",
+        "sentence2": "Massachusetts je leta 1928 glasoval za Ala Smitha, za Franklina D. Roosevelta štirikrat v tridesetih in štiridesetih letih 20. stoletja in za Harryja S. Trumana leta 1948.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Glasba, ki jo izvaja Bob, je \"Fantasia on Greensleeves\" Vaughana Williamsa.",
+        "sentence2": "Glasba, ki se izvaja kot Blackadder Courts '' Bob `` je '' Fantasia on greensleeves '' Vaughana Williamsa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Omeniti velja tudi, da bi naslednja koda delovala brez ADL (v vsakem primeru bo uporabljena zanj).",
+        "sentence2": "Omeniti velja tudi, da bi naslednja koda delovala brez ADL (v vsakem primeru bo uporabljena zanj).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nato se sreča z reko Snoqualmie in tvori reko Snohomish pri Monroeju.",
+        "sentence2": "Nato se sreča z reko Snoqualmie in tvori reko Snohomish v Monroeju.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Med svojo kampanjo je dvakrat debatiral o McCainu, enkrat v Tucsonu in enkrat v Flagstaffu.",
+        "sentence2": "Med kampanjo je dvakrat debatiral o McCainu, enkrat v Flagstaffu in enkrat v Tucsonu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Končala ga je njegova žena Stella Gemmell po njegovi smrti 28. julija 2006 in izšla pod skupnim avtorstvom Davida in Stelle Gemmell.",
+        "sentence2": "Izdala ga je njegova žena Stella Gemmell po njegovi smrti 28. julija 2006 in dokončana pod skupnim avtorstvom Davida in Stelle Gemmell.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Osrednje baptistično združenje je združenje cerkva od Južne Karoline do Indiane, z največ cerkvami v vzhodnem Tennesseeju in jugozahodni Virginiji.",
+        "sentence2": "Osrednje baptistično združenje je združenje cerkva, ki se nahajajo od Južne Karoline do Virginije, pri čemer je večina cerkva v vzhodnem Tennesseeju in jugozahodni Indiani.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Karen Phillips je začela razmerje s Stevom iz Suranne Jones igral.",
+        "sentence2": "Steve je začel razmerje s Karen Phillips, ki jo igra Suranne Jones.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "vidas distintas je mehiška telenovela iz leta 1969, ki jo prenaša Televisa in izvirno producira Telesistema Mexicano.",
+        "sentence2": "Tres vidas distintas je mehiška telenovela iz leta 1969, ki jo prenaša Televisa in izvirno producira Telesistema Mexicano.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Chandler je računalnik obravnaval kot orodje za učenje, vendar je zavračal prevladujoči objektivizem, ki je podatke priznaval kot informacijo in informacijo kot znanje.",
+        "sentence2": "Chandler je priznaval računalnik kot orodje za učenje, vendar je zavračal prevladujoči objektivizem, ki je na podatke gledal kot na informacijo in na informacijo kot znanje.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fazni prehod iz feromagneta v paramagnet je drugi in je zveznega reda.",
+        "sentence2": "Fazni prehod iz feromagneta v paramagnet je zvezen in ima drugi red.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Albanske družine so vas zapustile pred vrnitvijo srbskih beguncev leta 1999.",
+        "sentence2": "Pred vrnitvijo srbskih beguncev leta 1999 so albanske družine zapustile vas.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vendar je bila prvotna različica preskočena v korist blage izdaje.",
+        "sentence2": "Vendar je bila blaga različica preskočena v korist prvotne različice.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Leta 1864 je Združeno prezbiterijansko misijonsko društvo Škotske poslalo svoje agente na Kitajsko.",
+        "sentence2": "Združena prezbiterijanska misijonska družba Kitajske je leta 1864 poslala svoje agente na Škotsko.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Po desetih letih bivanja v Parizu se je Houdon vrnil v Italijo.",
+        "sentence2": "Po desetih letih v Parizu se je Houdon vrnil v Italijo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Potopili so jo Nemci in dvakrat razrezali zavezniški bombniki v letih 1943-1944 in dokončno dvignili v letih 1946-1947.",
+        "sentence2": "Dvignili so ga Nemci v letih 1943-1944, dvakrat potopili zavezniški bombniki in nazadnje razrezali leta 1946-1947.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Leta 1864 je Združeno prezbiterijansko misijonsko društvo Kitajske poslalo svoje agente na Škotsko.",
+        "sentence2": "Združena prezbiterijanska misijonska družba Kitajske je leta 1864 poslala svoje agente na Škotsko.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "V filmu igrajo Lily Rabe, Timothée Chalamet, Lili Reinhart, Anthony Quintal, Oscar Nunez in Rob Huebel.",
+        "sentence2": "Igrajo Lilie Rabe, Timothée Chalamet, Lili Reinhart, Anthony Quintal, Oscar Nunez in Rob Huebel.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dakota City je del metropolitanske regije Sioux City, IA - NE - SD.",
+        "sentence2": "Dakota City je del metropolitanskega statističnega območja Sioux City, IA - NE - SD.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Naslov sta osvojila Grant Connell in Glenn Michibata, ki sta v finalu premagala Wayna Ferreiro in Jima Grabba s 6:4, 6:3.",
+        "sentence2": "Naslov sta osvojila Wayne Ferreira in Jim Grabb, ki sta v finalu premagala Granta Connella in Glenna Michibato s 6-4, 6-3.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Parlamentarne volitve v Zagrebu leta 1927 so bile 4. septembra 7 dni pred lokalnimi volitvami.",
+        "sentence2": "Parlamentarne volitve leta 1927 v Zagrebu so bile 4. septembra, 7 dni pred lokalnimi volitvami.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum je vrsta morskega polža, pravega polža iz družine morskih lubadark (Buccinidae).",
+        "sentence2": "Probuccinum tenerum je vrsta morskega polža, pravega polža iz družine morskih polžev.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Reka Valea lui Lambă ali reka Lom je pritok reke Șimon v Romuniji.",
+        "sentence2": "Reka Valea lui Lambă ali reka Lom je pritok \"unk\" reke Imon v Romuniji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ta rod je zdaj uvrščen v družino kuščarjev, znano kot Iguanidae, poddružino Polychrotinae, in ni več uvrščen v trenutno neveljavno družino, polychrotidae.",
+        "sentence2": "Ta rod je zdaj v družini kuščarjev, znani kot Iguanidae, poddružina Polychrotinae, in ni več razvrščen v trenutno neveljavno družino Polychrotidae.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Leta 2012 se je mesto obrnilo in zmagal je sedanji demokrat Barack Obama, ki je dobil 51 % glasov, republikanec Mitt Romney pa 48 %.",
+        "sentence2": "Leta 2012 se je okrožje obrnilo in zmagal je sedanji demokrat Barack Obama, ki je dobil 51 % glasov, republikanec Mitt Romney pa 48 %.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Z njo mi je uspelo izpolniti nekaj svojih glasbenih sanj z zgodnjimi slogi in ta novi slog je res velik, svež in naravno tekoč.",
+        "sentence2": "Z njo mi je uspelo izpolniti nekaj svojih zgodnjih sanj o glasbenih stilih in ta novi slog je res velik, svež in naravno tekoč.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Grady Howard je bil na ta dan izvoljen za prvega župana in je bil 5. junija 1951 uradno imenovan za začasnega župana Spring Lakea.",
+        "sentence2": "Grady Howard je bil na ta dan izvoljen za prvega župana in 5. junija 1951 uradno imenovan za župana Spring Lakea.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ballouhey obstaja predvsem v Isèru v Parizu ter v Franciji in Južni Afriki.",
+        "sentence2": "Ballouhey obstaja predvsem v Franciji v Isèru in Parizu ter v Južni Afriki.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Visoka bo z dolgo steno in kapaciteto.",
+        "sentence2": "Bo visoka, z dolgo steno in kapaciteto.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Izobraževanje v Alabami obsega srednje in osnovne šole v Alabami, vključno z Univerzo v Alabami, zasebnimi fakultetami ter javnimi in zasebnimi šolami.",
+        "sentence2": "Izobraževanje v Alabami je sestavljeno iz javnih in zasebnih šol v Alabami, vključno z Univerzo v Alabami, zasebnimi univerzami ter srednjimi in osnovnimi šolami.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Serija je bila predvajana 18. aprila 2009 v Avstraliji na Nickelodeonu (Nova Zelandija in Nova Zelandija).",
+        "sentence2": "18. aprila 2009 je serija debitirala na Novi Zelandiji na Nickelodeonu (Avstralija in Nova Zelandija).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Režiral ga je George Fitzmaurice, temelji pa na drami Willarda Macka Tiger Rose iz leta 1917.",
+        "sentence2": "Režiral ga je George Fitzmaurice in temelji na drami Willarda Macka Tiger Rose iz leta 1917.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Različica Mahabharate, ki jo je napisal Odia-pesnik Sarala Dasa, pripoveduje legendo o Navagunjari, zgodbe nima nobena druga.",
+        "sentence2": "Različica Mahabharate, ki jo je napisal pesnik Sarala Dasa iz Odije, vsebuje legendo o Navagunjari. Nobena druga različica ne pripoveduje zgodbe.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam (15. oktober 1929 - 29. julij 2012) je bil indijski plesalec in guru plesne oblike Kuchipudi.",
+        "sentence2": "Vempati Chinna Satyam (15. oktober 1929 - 29. julij 2012) je bil indijski plesalec in guru plesne oblike Kuchipudi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lee Hi je južnokorejska pevka pod vodstvom YG Entertainment.",
+        "sentence2": "Korejska pevka Lee Hi je južnokorejska pevka pod vodstvom YG Entertainment.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Različice te metode dajejo dobre numerične približke za številne eksponente, ko so vključeni kritični členi, tako v dveh kot v treh dimenzijah.",
+        "sentence2": "Različice tega postopka dajejo dobre numerične približke za kritične eksponente, ko je veliko členov vključenih tako v dve kot v tri dimenzije.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pokrov so odstranili le privilegirani gledalci, zato bi bili ti prizori morda bolj intimni.",
+        "sentence2": "Pokrov so odstranili le privilegirani gledalci, zato bi bili ti prizori morda bolj intimni.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Služi območju kantona Chandimandir v mestu Panchkula.",
+        "sentence2": "Služi območju Panchkula v mestnem kantonu Chandimandir.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Srednja šola Slough je bila selektivna gimnazija za dekleta v kraju Slough v Buckinghamshiru, zdaj Berkshire.",
+        "sentence2": "Srednja šola Slough je bila selektivna gimnazija za dekleta v kraju Slough v Buckinghamshiru, zdaj Berkshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eugene D. Engley se je rodil 5. aprila 1851 v Attleboroughu v Massachusettsu kot sin Jamesa Henryja Engleyja in njegove žene, nekdanje Mary Kaley.",
+        "sentence2": "James Henry Engley se je rodil 5. aprila 1851 v Attleboroughu v Massachusettsu kot sin Eugena D. Engleya in njegove žene, nekdanje Mary Kaley.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Maritsa Lazari se je rodila na Cipru oktobra 1943 in je z družino emigrirala pri 16 letih v London v Angliji.",
+        "sentence2": "Maritsa Lazari se je rodila v Londonu oktobra 1943 in je pri 16 letih z družino emigrirala na Ciper.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "5. marca 2011 je MTV Hive objavil povezavo za pretakanje Anni Rossi, ki izvaja Rihannino pesem Rude Boy.",
+        "sentence2": "5. marca 2011 je MTV Hive objavil povezavo za pretakanje Rihanne, ki je izvajala Anni Rossi ``Rude Boy``.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pokopališče Machpelah, črkovano tudi kot ''Pokopališče Macpelah`` ali ''Pokopališče Macphelah``, je pokopališče v okrožju Hudson, New Jersey.",
+        "sentence2": "Pokopališče Machpelah, črkovano tudi kot ``Pokopališče Macpelah`` ali ``Pokopališče Macphelah``, je pokopališče v okrožju Hudson, New Jersey.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pesem je Gala napisal in zložil Filippo Andrea Carmeni, produciral pa Maurizio Molella.",
+        "sentence2": "Pesem je napisal in produciral gala, ki sta jo zložila Filippo Andrea Carmeni in Maurizio Molella.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Po Priorju je bil Robert Goldsmith, dedek pesnika, dramatika in romanopisca Oliverja Goldsmitha, prvi iz družine, ki se je naselil v Ballyughterju.",
+        "sentence2": "Po besedah Roberta Priorja je bil Robert Goldsmith dedek pesnika, dramatika in pisatelja Oliverja Goldsmitha, prvega iz družine, ki se je naselil pri Ballyughterju.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Če bi izpustili motorje in njihovo gorivo, bi zmanjšali kompleksnost in povečali nosilnost.",
+        "sentence2": "Če bi izpustili motorje in njihovo gorivo, bi povečali zapletenost in zmanjšali tovor.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Po mnenju Tobeja in Gunnarja Hansena je bil razlog, zakaj je nosil masko, ta, da je maska resnično določala njegovo osebnost.",
+        "sentence2": "Gunnar Hansen je komentiral: `` Razlog za to, da je nosil masko, je bil po mnenju Tobeja in Kim ta, da je maska resnično določala njegovo osebnost.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Zasebna akademija Claiborne se nahaja v Haynesvillu, blizu župnije Claiborne.",
+        "sentence2": "Zasebna akademija Claiborne se nahaja v župniji Claiborne, ne blizu Haynesvilla.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "NVIDIA TITAN V je Nvidia uradno objavila 7. decembra 2017.",
+        "sentence2": "7. decembra 2017 je NVIDIA uradno objavila Nvidia TITAN V.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Medicinsko izobraževanje je opravil v bolnišnici Middlesex v Londonu in se leta 1943 kvalificiral za kliničnega zdravnika.",
+        "sentence2": "Klinično usposabljanje je opravil v bolnišnici Middlesex v Londonu in se leta 1943 kvalificiral za zdravnika.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nastopal je kot steklar in sodeloval z različnimi zasedbami na različnih glasbilih.",
+        "sentence2": "Delal je kot steklar in nastopal na različnih glasbilih z različnimi skupinami.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Komponente mehanskih sistemov hranijo elastično potencialno energijo, če se na sistem deformirajo pod delovanjem sil.",
+        "sentence2": "Komponente mehanskih sistemov shranijo elastično potencialno energijo, če se deformirajo, ko na sistem delujejo sile.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "William Llewelyn Williams znan kot Llewelyn Williams (10. marec 1867 - 22. april 1922) je bil valižanski novinar, odvetnik in politik radikalne liberalne stranke.",
+        "sentence2": "William Williams, znan kot Llewelyn Williams (10. marec 1867 - 22. april 1922), je bil valižanski novinar, odvetnik in politik radikalne liberalne stranke.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Blagoy Ivanov je 17. oktobra 2015 izzval Mehmena za naslov prvaka WSOF v težki kategoriji.",
+        "sentence2": "Blagoy Ivanov je 17. oktobra 2015 izzval Mehmena za naslov prvaka v težki kategoriji WSOF.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ustanovil ga je Richard Creed, zgradil George Edwards, oblikovala Collins in Geoffrey iz Monmoutha.",
+        "sentence2": "Zasnoval ga je Richard Creed, zgradila Collins in Geoffrey, opremil pa George Edwards iz Monmoutha.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sacramento se nahaja v (38.651254, -121.259279), med Fair Oaksom in Folsomom.",
+        "sentence2": "Fair Oaks se nahaja med Sacramentom in Folsomom (38.651254, -121.259279).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Skladba ``Astrud`` na Gilbertovem albumu ``Time and Tide`` iz leta 1987 je poklon Basii Trzetrzelewski.",
+        "sentence2": "Skladba \"Astrud\" na albumu Basie Trzetrzelewske \"Time and Tide\" iz leta 1987 je poklon Gilbertu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Clark je imel sina Rishija, rojenega 3. aprila 2007. EP Socks and Sandals pri Microcosm Music je bil poimenovan po njem, Rishi Saturn.",
+        "sentence2": "Rishi je imel sina Clarka, rojenega 3. aprila 2007. Po njem so poimenovali EP Socks and Sandals pri Microcosm Music, Rishi Saturn.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Melodie Crittenden je leta 2004 zapustila skupino in nadaljevala solo kariero, večino leta 2005 pa je Nicol pela s skupino.",
+        "sentence2": "Melodie Crittenden je leta 2004 zapustila skupino, da bi začela samostojno kariero, in večji del leta 2005 je Nicol pela s skupino.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "V polprofesionalnem nogometu škotska moštva tekmujejo na vseh ravneh pod škotskim prvenstvom, pri čemer je večina ekip pod škotskim prvenstvom polprofesionalnih.",
+        "sentence2": "V škotskem nogometu se polprofesionalne ekipe na vseh ravneh pojavljajo pod škotskim premiershipom, pri čemer je večina ekip pod škotskim prvenstvom polprofesionalnih.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Diboll in Owen iz New Orleansa sta bila arhitekta, GA Chamblin iz Mobilea pa je bil izvajalec.",
+        "sentence2": "Arhitekta sta bila Diboll in Owen iz New Orleansa, izvajalec pa GA. Chamblin iz Mobilea.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pri maligni hipertenziji te hiperplastične spremembe pogosto spremlja arterijska nekroza fibrinoidne intime in medijev.",
+        "sentence2": "Pri maligni hipertenziji te hiperplastične spremembe pogosto spremlja fibrinoidna nekroza arterijske intime in medijev.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Skupina je bila leta 1953 na turneji po Avstraliji in avgusta 1959 po Aziji.",
+        "sentence2": "Leta 1953 je skupina gostovala v Aziji in avgusta 1959 v Avstraliji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ta film govori o Rafaelu, malajalamskem pevcu v novi filmski industriji.",
+        "sentence2": "Film govori o Rafaelu, novem pevcu v malajalamski filmski industriji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Leta 1864 je Združena prezbiterijanska misijonska družba Kitajske poslala svoje predstavnike na Škotsko.",
+        "sentence2": "Združena prezbiterijanska misijonska družba Kitajske je leta 1864 poslala svoje agente na Škotsko.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Začetna formula vektorskega prostora _ 13 se imenuje ``začetni objekt`` ali ``topološka struktura`` glede na podane podatke.",
+        "sentence2": "Začetni vektorski prostor Formula 13 se imenuje začetni objekt `` ali '' topološka struktura glede na dane podatke.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Te tri dinastije po materini strani so vladale kraljestvu Waalo z družino Mbooj po očetovi strani.",
+        "sentence2": "Te tri dinastije po očetovi strani so vladale kraljestvu Waalo z materinsko družino Mbooj.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "V filmu igrajo Jembie Almazan kot Alex, Bernardo Garnica Cruz kot David in Jonathan Diaz Angulo kot Maria.",
+        "sentence2": "V filmu igrajo Jembie Almazan kot Mary, Bernardo Garnica Cruz kot David in Jonathan Diaz Angulo kot Alex.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Čeprav izključitev temnopoltih igralcev ni bilo pisno pravilo, od leta 1933 noben Afroameričan ni igral v nacionalni nogometni ligi.",
+        "sentence2": "Čeprav izključitev temnopoltih igralcev ni bilo pisno pravilo, noben Afroameričan ni igral v nacionalni nogometni ligi od leta 1933.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dale je od leta 1984 poročen s Patricio Meyer in skupaj imata dva sinova: Ryana (rojen 1988) in Blakea (rojen 1992).",
+        "sentence2": "Od leta 1984 je Blake poročen s Patricio Meyer in ima dva sinova: Ryana (rojen 1988) in Dalea (rojen 1992).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ko je Platzer leta 1993 odprl svojo drugo restavracijo v Allentownu, je spremenil ime v PJ Whelihan's v čast svojemu dedku Petru Josephu Whelihanu.",
+        "sentence2": "Leta 1993, ko je Platzer odprl svojo drugo restavracijo v Allentownu, je spremenil ime v PJ Whelihan v čast svojemu dedku Petru Josephu Whelihanu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Med misijo je bilo ubitih 65 vojakov: 34 Nigerijcev, 28 Čadcev, 2 Toga in 1 Burkinabejec.",
+        "sentence2": "Med misijo je bilo ubitih 65 vojakov: 34 Čadcev, 28 Nigerijcev, 2 Toga in 1 Burkinabejec.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Decembra 1969 je postala 49. armadna divizija 29. armadna divizija.",
+        "sentence2": "Decembra 1969 je postala 29. armadna divizija 49. armadna divizija.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Obrobe večinoma ni ali so zelo kratke.",
+        "sentence2": "Obrobe so zelo kratke ali pa jih večinoma ni.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Opazili so jo, da \"ima zelo velik potencial in velik talent ter bo v prihodnosti zrasla v edinstveno glasbeno osebnost\".",
+        "sentence2": "Opazili so jo, da ima \"zelo velik potencial in velik talent ter bo v prihodnosti zrasla v edinstveno glasbeno osebnost\". ''",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Januarja 2013 je bilo objavljeno, da je Warren Spector Disney Interactive zapustil po zaprtju Junction Point Studios.",
+        "sentence2": "Januarja 2013 je bilo objavljeno, da je Warren Spector zapustil Junction Point Studios po zaprtju Disney Interactive.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Letalski prevoz je zagotovljen lokalno z manjšimi letali v New Bedfordu, Berkleyju in regionalnem letališču v East Tauntonu.",
+        "sentence2": "Letalski prevoz je na voljo lokalno z manjšimi letali v East Tauntonu, Berkleyju in regionalnem letališču v New Bedfordu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ko uporabljamo izmenični turingov stroj, imamo vir ATIME.",
+        "sentence2": "Če imamo nadomestni Turingov stroj, uporabimo vir ATIME.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Končal je z dvema udarcema za Bubbo Watsonom in Louisom Oosthuizenom in obžaloval svojo uspešnost, ki je razlog, da ni zmagal na turnirju.",
+        "sentence2": "Končal je z dvema udarcema za Louisom Oosthuizenom in Bubbo Watsonom in obtoževal svoj udarec kot razlog, da ni zmagal na turnirju.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prejšnja mesta gostitelji vrha Sirius Decisions so Orlando (2014), Scottsdale (2013) in San Diego (2012).",
+        "sentence2": "Med nekdanjimi gostiteljskimi mesti vrha SiriusDecisions so Orlando (2014), San Diego (2013) in Scottsdale (2012).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Osvetlitev slike v Louvru je toplejša in deluje mehkeje, vendar je to lahko posledica zvoka laka na površini.",
+        "sentence2": "Osvetlitev slike v Louvru je toplejša in deluje mehkeje, vendar je to lahko posledica tona laka na površini.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Reka Molmys je reka v Permskem okraju v Rusiji, levi pritok reke Jazve.",
+        "sentence2": "Yazva je reka v Permskem okraju v Rusiji , levi pritok reke Molmys .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1. avgusta 1699 je William Blackett predal svoja zemljišča v Chirtonu siru Archibaldu Campbellu, ki je prodal Bickerstaffe, 1. vojvodi Argyll Hallu.",
+        "sentence2": "1. avgusta 1699 je William Blackett predal svoja lastniška zemljišča v Chirtonu siru Archibaldu Campbellu, ki je dvorano prodal Bickerstaffeju, prvemu vojvodi Argyllskemu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Big Band Specials je album Boba Cooperja iz leta 1962, na katerem so skladbe priredili Bill Holman, Shorty Rogers in mož June Christy.",
+        "sentence2": "Big Band Specials je album Boba Cooperja iz leta 1962, na katerem so priredili skladbe Billa Holmana, Shortyja Rogersa in moža June Christyja.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Poleg različnih kovinskih plošč so v nekaterih primerih za improvizirane rezervoarje uporabljali beton in vreče s peskom.",
+        "sentence2": "Poleg improviziranih oklepnih kovinskih plošč so v nekaterih primerih za različne vlake uporabljali beton in vreče s peskom.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Barbara Boothe Ellison se je rodila v okrožju Santa Clara v Kaliforniji kot hčerka predsednika uprave Oracle Corporation Larryja Ellisona in njegove nekdanje žene Megan Ellison.",
+        "sentence2": "Megan Ellison se je rodila v okrožju Santa Clara v Kaliforniji kot hčerka milijarderja Oracle Corporation - predsednika Larryja Ellisona in njegove nekdanje žene Barbare Boothe Ellison .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Guillermo Coria je premagal Alberta Martína s 6 -- 3 , 3 -- 6 , 6 -- 2",
+        "sentence2": "6 Alberto Martín je premagal Guillerma Coria s 6 -- 3 , 3 -- 6 , 6 -- 2",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Red Bulls so izgubili, a se uvrstili v 1. krog končnice.",
+        "sentence2": "Red Bulls so izgubili, a se uvrstili v 1. krog končnice.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "12. januar 1978: Menedžer Cambridge Uniteda Ron Atkinson je imenovan za menedžerja West Bromwich Albiona.",
+        "sentence2": "12. januar 1978: Menedžer Cambridge United Ron Atkinson je imenovan za trenerja West Bromwich Albiona.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Leta 1979 je imel svoje najboljše leto na turneji, ko se je uvrstil v četrtfinale v Atlanti, Johannesburgu in Tel Avivu.",
+        "sentence2": "Leta 1979 je imel najboljše leto na turneji, četrtfinale v Tel Avivu, Johannesburgu in Atlanti.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Naslednjo različico je leta 1986 ustvaril brat Roberta Fullerja Ron .",
+        "sentence2": "Naslednjo izdajo je leta 1986 ustvaril brat Roberta Fullerja Ron.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tempelj služi kot kulturno in versko središče za korejske hindujce in priseljence iz južnoazijskih držav.",
+        "sentence2": "Tempelj služi kot kulturno in versko središče za južnoazijske hindujce in priseljence iz korejskih držav.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Klubsko hišo je zgradil Curtis za takratno vsoto 60.000 $ in jo za visoko ceno najel klubu.",
+        "sentence2": "Klubsko hišo je zgradil Curtis za takratno nominalno vsoto 60.000 $ in jo klubu najel za visoko plačilo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mitsuhisa Ishikawa in Tomohiko Ishii iz Production IG, Danny Choo, Kaname in Tasha z Miyuko iz Koreje so bili posebni gostje dogodka.",
+        "sentence2": "Posebni gostje dogodka so bili Tasha iz produkcije IG, Danny Choo, Kaname, Mitsuhisa Ishikawa in Tomohiko Ishii z Miyuko iz Koreje.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam (15. oktober 1929 - 29. julij 2012) je bil indijski plesalec in guru plesne oblike Kuchipudi.",
+        "sentence2": "Vempati Chinna Satyam (15. oktober 1929 - 29. julij 2012) je bil Kuchipudi plesalec in guru indijskega plesa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ta incident so pozneje praznovali in se ga zdaj v Egiptu vsako leto obeležujejo 25. januarja kot dan nacionalne policije.",
+        "sentence2": "Ta incident so kasneje praznovali in se ga zdaj v Egiptu obeležuje kot dan nacionalne policije 25. januarja vsako leto.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Udaipur je mesto v indijski državi Madhya Pradesh blizu mesta Ganj Basoda.",
+        "sentence2": "Ganj Basoda je mesto v indijski zvezni državi Madhya Pradesh blizu Udaipurja.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nato ga je zamenjal Heraklij, Nicetov prvi bratranec, in bil prisiljen sprejeti meniške zaobljube.",
+        "sentence2": "Nato ga je zamenjal Nicetas, Heraklijev prvi bratranec, in ga prisilil k meniškim zaobljubam.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Najprej opišite območja z visoko vrednostjo cvetnega prahu namesto območij z nizko vsebnostjo cvetnega prahu.",
+        "sentence2": "Najprej opišite območja z nizko vrednostjo cvetnega prahu namesto območij z visoko vrednostjo cvetnega prahu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Doslej so dela Zinovjeva izvajali Simfonični orkester Finskega radia, Simfonični orkester Lahtija, Kymi Sinfonietta, Simfonični orkester Oulu in Avanti!",
+        "sentence2": "Doslej so dela Zinovjeva izvajali Simfonični orkester Oulu, Lahti Symphony Orchestra, Kymi Sinfonietta, Finski radijski simfonični orkester in Avanti!",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Zasnoval ga je Richard Creed, zgradila Collins in Geoffrey, opremil pa George Edwards iz Monmoutha.",
+        "sentence2": "Opremil ga je Richard Creed, zgradil George Edwards in oblikovala Collins in Geoffrey iz Monmoutha.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "McCall in Lesiuk sta skupino zapustila poleti 2007, McCalla je zamenjal Steven Tosh za bobni, Jamie Macleod pa je prevzel naloge bas kitare.",
+        "sentence2": "McCall in Lesiuk sta zapustila skupino poleti 2007, McCalla je zamenjal Steven Tosh za bobni, Jamie Macleod pa je prevzel dolžnosti bas kitare.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Leta 1886 je Miles zamenjal generala Georgea Crooka kot poveljnika oboroženih sil, ki so se v departmaju Arizona borile proti Geronimu, voditelju Chiricahua Apache.",
+        "sentence2": "Leta 1886 je Miles zamenjal generala Georgea Crooka kot poveljnika sil, ki so se borile proti Geronimu, voditelju Chiricahua Apache, v departmaju Arizona.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Barshi je zemeljski jez na lokalni reki blizu jezu Pathari v okrožju Solapur v zvezni državi Maharashtra v Indiji.",
+        "sentence2": "Pathari Dam je zemeljski jez na lokalni reki v bližini Barshija, okrožje Solapur v zvezni državi Maharashtra v Indiji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Poročil se je z Mary, hčerko Brooke iz Selstona v Nottinghamu, nasledil pa ga je njegov najstarejši sin Richard.",
+        "sentence2": "Brooke se je poročila z Mary, hčerko Timothyja Puseyja iz Selstona v Nottinghamu. Nasledil ga je njegov najstarejši sin Richard .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Luk ali Loke je kitajska romanizacija več (vendar ne vseh) kantonskih priimkov, ki so v mandariniji romanizirani kot Lu.",
+        "sentence2": "Luk ali Loke je kitajska romanizacija več (vendar ne vseh) kantonskih priimkov, ki so v mandarinščini romanizirani kot Lu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pravilne rotacije kocke, ki jih lahko označimo s permutacijami telesnih diagonal, so prav tako opisane s konjugacijo v ``S``.",
+        "sentence2": "Za pravilne rotacije kocke, ki jih lahko opišemo s permutacijami telesnih diagonal, je značilna tudi konjugacija v ``S''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Na primer, pri dvoživkah se Cerberus izraža v sprednjem dorzalnem endodermu, pri miših pa v sprednjem visceralnem endodermu.",
+        "sentence2": "Na primer, Cerberus se izraža v sprednjem dorzalnem endodermu pri dvoživkah in pri miših v sprednjem visceralnem endodermu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Opravljal je klinično usposabljanje v bolnišnici Middlesex v Londonu in se leta 1943 kvalificiral za zdravnika.",
+        "sentence2": "Klinično usposabljanje je opravil v bolnišnici Middlesex v Londonu in se leta 1943 kvalificiral za zdravnika.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sunny je skladbo prekinil novembra 1973 s producentom Rogerjem Greenawayem, Chris Gunning pa je poskrbel za aranžma in dirigiral.",
+        "sentence2": "Novembra 1973 je Roger Sunny prekinil skladbo z Rogerjem Greenawayem, medtem ko je Chris Gunning poskrbel za aranžma in dirigiral.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Damon Knight (citiral James Blish) je o interpretaciji Knightove zgodbe dejal:",
+        "sentence2": "James Blish (citiran po Damonu Knightu) je o Knightovi interpretaciji njegove zgodbe rekel:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Film govori o Rafaelu, novem pevcu v malajalamski filmski industriji.",
+        "sentence2": "Ta film govori o Rafaelu, novem pevcu v malajalamski filmski industriji.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "To je bila tretja sezona, predvajana več kot dve leti po družinski izdaji in več kot tri leta po prvi zvezdniški izdaji.",
+        "sentence2": "To je bila tretja sezona, ki je bila predvajana več kot dve leti po družinski izdaji in več kot tri leta po prvi izdaji za zvezdnike.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Umrl je 19. septembra 1891 v Gallatinu v Tennesseeju in v Gallatinu prejel masonstvo.",
+        "sentence2": "Bunting je umrl 19. septembra 1891 v Gallatinu. Dobil je prostozidarski pogreb v Gallatinu v Tennesseeju.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rokoborec nato skoči in zaniha naprej, da pade nazaj in pusti nasprotnikovo glavo, da pade v blazino.",
+        "sentence2": "Rokoborec nato skoči naprej in se zavihti, da pade nazaj in pusti, da nasprotnikova glava pade v blazino.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pri 3 letih se je s starši preselila iz Finske v Estonijo in trenutno živi v Helsinkih.",
+        "sentence2": "Pri 3 letih se je s starši preselila iz Estonije na Finsko in trenutno prebiva v Helsinkih.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mesto se nahaja na zahodnem koncu \"Horta de València\", na desnem bregu reke Turia.",
+        "sentence2": "Mesto se nahaja na desnem bregu Horta de València, na zahodni obali reke Turia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Številni demoni v Salomonovih srečanjih so iz grške, krščanske, judovske, egipčanske, arabske in drugih tradicij.",
+        "sentence2": "Številni demoni v Salomonovih srečanjih so grške, krščanske, judovske, egipčanske, arabske in druge tradicije.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Upravna regija Chenzhou v dinastiji Tang je pod upravo sodobnega Zhoukouja v vzhodnem Henanu:",
+        "sentence2": "Administrativna regija Chenzhou v dinastiji Tang je pod upravo sodobnega Henana v vzhodnem Zhoukouju:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Test je sledeč: ''Najprej opazite pranganglijsko vlakno in spodbudite odziv, ki se pojavi.",
+        "sentence2": "Test je naslednji: Najprej stimulirajte preganglijsko vlakno in opazite odziv, ki se pojavi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ukhrul je tudi turistična točka v zvezni državi Manipur.",
+        "sentence2": "Manipur je tudi turistična točka države Ukhrul.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Caspar Peucer (razglašen, 6. januar 1525 - 25. september 1602) je bil lužiškosrbski reformator, zdravnik in učenjak nemškega porekla.",
+        "sentence2": "Caspar Peucer (razglašen 6. januarja 1525 - 25. septembra 1602) je bil lužiškosrbski reformator, zdravnik in učenjak nemškega porekla.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cornelius Olatunji Adebayo je nekdanji senator Nigerije, ki je bil guverner in je kasneje postal vodja nigerijskega zveznega ministrstva za komunikacije.",
+        "sentence2": "Cornelius Olatunji Adebayo je nekdanji nigerijski senator, ki je postal guverner in kasneje vodja nigerijskega zveznega ministrstva za komunikacije.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Massachusetts je glasoval za Harryja S. Trumana leta 1928, za Ala Smitha štirikrat v 30. in 40. letih prejšnjega stoletja in za Franklina D. Roosevelta leta 1948.",
+        "sentence2": "V tridesetih in štiridesetih letih prejšnjega stoletja je bil leta 1928 štirikrat izvoljen za Al Smitha za Franklina D. Roosevelta in leta 1948 za Harryja S. Trumana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ibn Amira se je rodil v Alziri v provinci Valencia.",
+        "sentence2": "Ibn Amira je bil rojen v Valencii, provinca Alzira.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Če uporabimo izmenični Turingov stroj, imamo vir ATIME.",
+        "sentence2": "Ko imamo izmenični turingov stroj, uporabimo vir ATIME.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "13. novembra 2016 je Davida Machada v parku Fox Grove blizu mesta Hughson umoril Dennis Wallace.",
+        "sentence2": "13. novembra 2016 je bil namestnik Davida Machada Dennis Wallace umorjen v parku Fox Grove blizu mesta Hughson.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ob njegovi smrti leta 1946 so bili njegovi dokumenti o tem projektu še vedno v grobem stanju.",
+        "sentence2": "Po njegovi smrti leta 1946 so bili njegovi dokumenti o tem projektu še vedno v grobem stanju.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alexander Baumgartner (rojen 27. junija 1841 v Luksemburgu, Nemčija; umrl 1910 v St. Gallenu, Švica) je bil pesnik in pisatelj zgodovine literature.",
+        "sentence2": "Alexander Baumgartner (rojen v St. Gallu v Švici, 27. junij 1841; umrl v Luksemburgu, 1910) je bil pesnik in pisatelj zgodovine literature.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Raziskovalci na kanadskem Geološkem zavodu so modelirali naravne spremembe arzena v relativnem potencialu nevarnosti za provinco New Brunswick.",
+        "sentence2": "Raziskovalci na kanadskem Geološkem zavodu so modelirali naravno razlikovanje arzena v potencialu relativne nevarnosti za provinco New Brunswick.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Letalsko družbo je razvila Irska, ki je ustanovila še pet drugih letalskih družb, in sicer VivaColombia, Ryanair, Allegiant Air, VivaAerobus in Tigerair.",
+        "sentence2": "Letalsko družbo je ustanovila Irska, ki je razvila tudi drugih pet letalskih družb, in sicer VivaColombia, Ryanair, Allegiant Air, VivaAerobus in Tigerair.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Reka Geamărtălui je pritok reke Breaza v Romuniji.",
+        "sentence2": "Reka Breaza je pritok reke Geamărtălui v Romuniji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kupil ga je CR Gregory leta 1834 v samostanu Saba. Leta 1883 ga je videl Robert Curzon.",
+        "sentence2": "Leta 1834 ga je kupil CR Gregory v samostanu Saba, leta 1883 Robert Curzon.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prabhupada je bil zadovoljen, ko mu je Gopal Krishna podaril prve izvode Srimad Bhagavatama, prevedenega v hindijščino.",
+        "sentence2": "Gopal Krishna je bil zadovoljen, ko mu je Prabhupada podaril prve izvode Šrimad Bhagavatama, prevedenega v hindijščino.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "St.George Bank (in njeno hčerinsko družbo BankSA) je leta 1997 ponovno prevzela Advance Bank.",
+        "sentence2": "V zameno je banko Advance Bank (in njeno hčerinsko družbo BankSA) leta 1997 prevzela St.George Bank.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nato je poučeval v Clevelandu, OH, od leta 1856-1859 pa je bil igralkin nadzornik šol v Toledu.",
+        "sentence2": "Nato je poučeval na šoli v Clevelandu, OH in bil v letih 1856-1859 vršilec dolžnosti nadzornika šol v Toledu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pesem je ohranjena v štirih sodobnih rokopisih, od katerih je eden fragmentaren:",
+        "sentence2": "Pesem je ohranjena v štirih sodobnih rokopisih, od katerih je eden fragmentiran:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Druge težave so vključevale odločitev Jamesa Newtona Howarda, da sedem tednov pred spremembo filma zamenja skladatelje Howarda Shorea s Petrom Jacksonom.",
+        "sentence2": "Druge težave so vključevale odločitev Jamesa Newtona Howarda, da sedem tednov pred predvajanjem filma zamenja skladatelja s Howarda Shorea na Petra Jacksona.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dusty Baker je postal prvi temnopolti menedžer, ki je sodeloval na svetovnem prvenstvu po Citu Gastonu za Toronto v in .",
+        "sentence2": "Dusty Baker je postal prvi temnopolti menedžer, ki se je pridružil in sodeloval na svetovnem prvenstvu po Citu Gastonu za Toronto.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sukumarjev prijatelj Stephen (Murugan) jima pomaga v krizni uri in zaljubljenca se združita v zakon.",
+        "sentence2": "Muruganov prijatelj Stephen (Sukumar) jima pomaga v njuni krizni uri in zaljubljenca se združita v zakon.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dr. Adams je zapustil gospodično Sarah Hunt, s katero je poročil hčerko, poročen z B. Hyatt leta 1788, esq.",
+        "sentence2": "Dr. Adams se je poročil z gospodično Sarah Hunt, s katero je zapustil hčerko, poročeno leta 1788 z B. Hyattom, esq.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Včasih se uporablja kot reductio ad absurdum dobro znanega argumenta oblikovanja, ki se glasi takole:",
+        "sentence2": "Včasih se uporablja kot reductio ad absurdum dobro znanega argumenta iz oblikovanja, ki se glasi takole:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kudawa je vas in odbor za razvoj vasi v coni Narayani v okrožju Bara v jugovzhodnem Nepalu.",
+        "sentence2": "Kudawa je vas in odbor za razvoj vasi v coni Narayani v okrožju Bara v jugovzhodnem Nepalu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Po bitki pri Koralnem morju je Barnett prepeljal 1360 preživelih z USS Lexington (CV-2) iz San Diega v Nouméo.",
+        "sentence2": "Po bitki pri Koralnem morju je Barnett prepeljal 1360 preživelih z USS Lexington (CV-2) iz Noumée v San Diego.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cesta R205 je regionalna cesta na Irskem od ceste R199 v grofiji Cavan do meje s Severno Irsko v grofiji Leitrim, večinoma v grofiji Fermanagh.",
+        "sentence2": "Cesta R205 je regionalna cesta na Irskem od ceste R199 v okrožju Leitrim do meje s Severno Irsko v okrožju Fermanagh, večinoma v okrožju Cavan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Schliemann je odkril pet jaškov in jih očistil kot grobove, ki jih omenja Pausanias.",
+        "sentence2": "Schliemann je očistil pet jaškov in jih prepoznal kot grobove, ki jih omenja Pausania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Prva, Kai-sung, je bila hči Jin-Qua, mati Dirka Struana Gordona Chena.",
+        "sentence2": "Prva, Kai-sung, je bila hči Jin-Qua. Bila je mati Dirka Struana Gordona Chena.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Leta 1974 je bilo mestno okrožje združeno s podeželskim okrožjem Repton in delom podeželskega okrožja Jugovzhodni Derbyshire, da je nastalo sedanje okrožje Južni Derbyshire.",
+        "sentence2": "Leta 1974 je bilo sedanje okrožje združeno s podeželskim okrožjem Repton in delom podeželskega okrožja Jugovzhodni Derbyshire v mestno okrožje Južni Derbyshire.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Na primer, Cerberus se pri dvoživkah izraža v sprednjem visceralnem endodermu, pri miših pa v sprednjem dorzalnem endodermu.",
+        "sentence2": "Na primer, Cerberus se izraža v sprednjem dorzalnem endodermu pri dvoživkah in pri miših v sprednjem visceralnem endodermu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abraham Hart je bil predsednik, Mayer Sulzberger pa tajnik upravnega odbora.",
+        "sentence2": "Abraham Hart je bil predsednik, Mayer Sulzberger pa sekretar upravnega odbora.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sodeloval je s sodobnimi arhitekti, kot so Giovan Giacomo Di Conforto, Bartolomeo Picchiatti in Francesco Grimaldi.",
+        "sentence2": "Sodeloval je s sodobnimi arhitekti, kot so Giovan Giacomo Di Conforto, Bartolomeo Picchiatti in Francesco Grimaldi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rojena v Cochabambi v Boliviji se je v devetdesetih preselila v Mexico City in kasneje v Los Angeles.",
+        "sentence2": "Rodila se je v Cochabambi v Boliviji. V devetdesetih se je preselila v Mexico City in kasneje v Los Angeles .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De Ruiter, rojen v Leidnu, je igral za FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk in FC Emmen.",
+        "sentence2": "de Ruiter se je rodil v Leidnu in igral za RKC Waalwijk, FC Den Bosch, Excelsior, FC Utrecht in FC Emmen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vermont meji na Mitcham na severu, Nunawading in Forest Hill na zahodu, Vermont South na jugu ter Wantirna in Ringwood na vzhodu.",
+        "sentence2": "Vermont meji na severu na Mitcham, na zahodu na Nunawading in Forest Hill, na jugu na Vermont in na vzhodu na Wantirna in Ringwood.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dr. Julio Square Junqueira je bil prvi, ki je bil zgrajen v Arapongasu, dobil je ime po dr. Juliu Junqueiri, poimenovanem po prvem županu Arapongasa.",
+        "sentence2": "Julio Junqueira je bila prva zgrajena v Arapongasu in je dobila ime po trgu dr. Julia Junqueira, poimenovanem po prvem županu Araponge.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ekipi se je avgusta 2017 pridružil tudi Prakash Raj, ki naj bi odigral vlogo producenta Alurija Chakrapanija.",
+        "sentence2": "Avgusta 2017 se je ekipi pridružil tudi Aluri Chakrapani, ki je prav tako odigral vlogo producenta Prakasha Raja.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Meridian sestavljajo prebivalci Daykina, Alexandrie, Westerna, Fairburyja in Tobiasa, ki tvorijo šolsko okrožje 303 Nebraske.",
+        "sentence2": "Meridian sestavljajo prebivalci Daykina, Fairburyja, Westerna, Alexandrie in Tobiasa, ki tvorijo šolsko okrožje 303 Nebraska.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Julij je v povprečju najhladnejši mesec, najbolj vroč je januarja.",
+        "sentence2": "Julij je v povprečju najtoplejši mesec, januar pa najhladnejši.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Drugi način uravnavanja populacije jelenov je nadzor nad plodnostjo.",
+        "sentence2": "Drug način nadzora nad populacijo jelenov je regulacija stopnje plodnosti.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prvi krog je potekal konec tedna od 23. do 25. septembra 2011 na Slovaškem (Prievidza).",
+        "sentence2": "Prvi krog je potekal konec tedna od 23. do 25. septembra 2011 na Slovaškem (Prievidza).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Poročil se je z Marie Magdalene Schweigaard, hčerko Tellefa Dahlla Schweigaarda, nečakinjo vodilnega politika Antona Martina Schweigaarda in teto kasnejšega premierja Christiana Homanna Schweigaarda.",
+        "sentence2": "Poročil se je z Marie Magdalene Schweigaard, hčerko Tellefa Dahlla Schweigaarda, nečakinjo vodilnega politika Christiana Homanna Schweigaarda in teto kasnejšega premierja Antona Martina Schweigaarda.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dosežen je iz Formie z vzhoda in Maranole, ``frazione'' Spigno Saturnia, z zahoda.",
+        "sentence2": "Do njega lahko pridete iz Formie z vzhoda in Maranole, ``frazione'' Spigno Saturnia, z zahoda.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ko je Phil Spector prvič slišal ``Stubborn Kind of Fellow``, je bil tako navdušen, da je med vožnjo po Sunset Boulevardu z Jackom Nitzschejem izgubil nadzor nad svojim avtomobilom.",
+        "sentence2": "Ko je Jack Nitzsche prvič slišal ``Stubborn Kind of Fellow``, je bil tako navdušen, da je med vožnjo po Sunset Boulevardu s Philom Spectorjem izgubil nadzor nad svojim avtomobilom.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nekateri člani posadke so bili ubiti v Zlatem zalivu in ni bilo nobenega lokalnega stika z drugimi Maori.",
+        "sentence2": "Nekateri člani posadke so bili ubiti v Zlatem zalivu in ni bilo nobenega drugega stika z lokalnimi Maori.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Singl je bil najavljen 31. oktobra 2015 in izdan 13. novembra 2015.",
+        "sentence2": "Singl je bil najavljen 31. oktobra 2015 , objavljen pa je bil 13. novembra 2015 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "V novi televizijski seriji ''Dead Gorgeous'' je Hazel igrala vlogo najmlajše sestre Alexandre Coppinger.",
+        "sentence2": "Hazel je igrala vlogo Alexandre Coppinger, najmlajše sestre, v novi televizijski seriji ``Dead Gorgeous``.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nekatere od njih so opisane tukaj, nekatere pa so povezane pod ``Zunanje povezave`` spodaj.",
+        "sentence2": "Nekatere od njih so opisane spodaj, nekatere pa so tukaj povezane z ``Zunanjimi povezavami``.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "V škotskem nogometu tekmujejo polprofesionalne ekipe na vseh ravneh pod škotskim prvenstvom, pri čemer je večina ekip pod škotskim prvenstvom polprofesionalnih.",
+        "sentence2": "V škotskem nogometu so polprofesionalne ekipe na vseh ravneh nižje od škotskega prvenstva, pri čemer je večina ekip pod škotskim prvenstvom polprofesionalnih.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pesem je hook vzorec v singlu `` design in Malice '' ameriške hip-hop skupine Jedi Mind Tricks.",
+        "sentence2": "Pesem je hook vzorec v `` Design in Malice '' American ene hip-hop skupine Jedi Mind Tricks.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "kjer je formula 5 ena od Hornovih končnih funkcij z dvema spremenljivkama in konvergentna za vse sotočne hipergeometrične vrednosti formule 6 in formule 7. Podaja ga:",
+        "sentence2": "Formula 5 je ena od Hornovih sotočnih hipergeometričnih funkcij z dvema spremenljivkama in konvergentna za vse končne vrednosti Formule 6 in Formule 7. Podaja ga:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Leta 1830 je na Jamesa vplival abolicionizem nekaterih članov Ameriškega kolonizacijskega društva (ACS) in spisi Arthurja Tappana.",
+        "sentence2": "Od leta 1830 je na Jamesa vplival abolicionizem nekaterih članov Ameriškega kolonizacijskega društva (ACS) in spisi Arthurja Tappana.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Razvil jih je Namco Bandai in objavil CyberConnect2, začenši z ,,Naruto: Ultimate Ninja'' leta 2005.",
+        "sentence2": "Razvil jih je CyberConnect2 in objavil Namco Bandai, začenši z ``Naruto: Ultimate Ninja'' 2005.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Avtocesta je bila preklicana 18. oktobra 1954, ko je bila podaljšana FM 1241.",
+        "sentence2": "Avtocesta je bila preklicana 18. oktobra 1954, ko je bila podaljšana FM 1241.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Solarni pristop k tej zahtevi je uporaba sončnih kolektorjev v letalu na konvencionalni pogon.",
+        "sentence2": "Običajni pristop k tej zahtevi je uporaba sončnih kolektorjev v solarnem letalu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bila je mati Vala, Borisa in Rosalind Lorwin, njena hči pa je postala profesorica psihologije.",
+        "sentence2": "Postala je mama Valu, Borisu in Rosalind Lorwin, njena hči je bila profesorica psihologije.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Posredni dokaz o temni snovi izhaja iz njenega gravitacijskega vpliva na temno snov, saj v laboratorijih niso opazili drugih delcev snovi.",
+        "sentence2": "Posredni dokaz za temno snov izhaja iz njenega gravitacijskega vpliva na drugo snov, saj v laboratorijih niso opazili delcev temne snovi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "V zaporednih državnih udarih sta ga zamenjala Olusegun Obasanjo (1975) in Murtala Mohammed (1976).",
+        "sentence2": "V zaporednih državnih udarih sta ga zamenjala Olusegun Obasanjo (leta 1975) in Murtala Mohammed (leta 1976).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "McMillan je dve leti preživel v Royal Medical Corp. v Tidworthu – in kasneje v Didcotu, kjer je vodil MRS za vojake, ranjene v korejski vojni.",
+        "sentence2": "Dve leti je McMillan preživel v Royal Medical Corp. v Didcotu – in pozneje v Tidworthu, kjer je vodil MRS za vojake, ranjene v korejski vojni.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "``Aku Ankka'' je izdala Sanoma Media (prej Sanoma), ki je del Sanoma Magazines.",
+        "sentence2": "``Aku Ankka'' je izdala Sanoma Media (prej Sanoma Magazines), ki je del Sanome.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rakai je sedež Ugande, ki je bila v zgodnjih osemdesetih letih 20. stoletja epicenter in prva v okrožju Rakai, ki jo je prizadela epidemija aidsa.",
+        "sentence2": "Rakai je sedež okrožja Rakai, ki je bilo epicenter v začetku osemdesetih let prejšnjega stoletja in ga je epidemija aidsa najprej prizadela v Ugandi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Azijske dejavnosti so postale del družbe Ebel, medtem ko so bile evropske dejavnosti prodane hongkonškemu podjetniku Josephu Wongu in so zdaj del Stelux Holdings.",
+        "sentence2": "Azijske dejavnosti so postale del Ebela, evropske pa so bile prodane hongkonškemu podjetniku Josephu Wongu in zdaj pripadajo Stelux Holdings.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sredstva so prispevali fundacija Billa Melinde Gates, finančnik George Soros in tehnološki podjetnik Edward W. Scott.",
+        "sentence2": "Zagonska sredstva so prišla iz fundacije Bill & Melinda Gates, finančnika Georgea Sorosa in tehnološkega podjetnika Edwarda W. Scotta.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Finale je mesto v Južni Afriki v provinci občine okrožja Mopani, Limpopo.",
+        "sentence2": "Finale je mesto v občini okrožja Mopani v provinci Limpopo v Južni Afriki.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rashidi ni bil obtožen, vendar so ga pridržale maroške oblasti, ko so ga vrnili v domovino.",
+        "sentence2": "Rashidi ni bil obtožen, vendar so ga maroške oblasti vrnile v domovino, ko so ga aretirali.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Leta 1824 je bil imenovan za tožilca za okrožje Seneca, leta 1826 za okrožje Williams in leta 1827 za okrožje Sandusky.",
+        "sentence2": "Leta 1824 je bil imenovan za tožilca okrožja Williams, leta 1826 okrožja Seneca in leta 1827 okrožja Sandusky.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Jezero Georgetown je tudi vir pitne vode za Georgetown in bližnje mesto Round Rock.",
+        "sentence2": "Jezero Georgetown je tudi vir pitne vode za Georgetown in bližnje mesto Round Rock.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Na Holly je glasbeno vplival Elton John.",
+        "sentence2": "Holly je glasbeno vplivala na Eltona Johna.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "V času svoje smrti je bil kardinal David Beaton lord kancler Škotske, nadškof St Andrewsa in kardinal legat na Škotskem.",
+        "sentence2": "David kardinal Beaton je bil v času svoje smrti lord kancler Škotske, nadškof St. Andrewsa in kardinal legat Škotske.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kjeld Deichmann je leta 1963 nenadoma umrl in Erica je zaprla atelje ter opustila lončarstvo.",
+        "sentence2": "Leta 1963 je Kjeld Deichmann nenadoma umrl in Erica je zaprla studio ter opustila lončarsko umetnost.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vendar pa so na album vplivali Michael Jackson, Prince in Madonna.",
+        "sentence2": "Vendar pa so na album vplivali Madonna, Prince in Michael Jackson.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Edina tramvajska postaja je na Mirafloresu. Termini so San Antonio in Oriente.",
+        "sentence2": "Edina tramvajska postaja je v San Antoniu, Terminiji so Miraflores in Oriente.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pomagal je tudi vzpostaviti meditacijske centre po Severni, Srednji in Južni Ameriki ter v Evropi.",
+        "sentence2": "Pomagal je tudi pri ustanavljanju meditacijskih centrov po vsej Evropi ter v Severni, Srednji in Južni Ameriki.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Na Šrilanki lahko naziv pooblaščeni računovodja (CA Šrilanka) uporabljajo samo člani Inštituta pooblaščenih računovodij Šrilanke.",
+        "sentence2": "V CA lahko naziv računovodje (Šrilanka Šrilanka) uporabljajo samo člani Inštituta računovodij na Šrilanki.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Brown je ustanovil tudi Solomon Episcopal Conference Center v Robertu v Louisiani.",
+        "sentence2": "Robert je ustanovil tudi Solomon Episcopal Conference Center v Brownu v Louisiani.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus je regionalna pivovarna piva z nemškimi vplivi.",
+        "sentence2": "Lobethal Bierhaus je regionalna pivovarna z nemškimi vplivi na stil.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Finančni regulatorji včasih delijo pogled na svet svojih reguliranih subjektov prek sektorske ureditve.",
+        "sentence2": "Pri sektorski ureditvi finančni regulatorji včasih delijo pogled na svet kot njihovi regulirani subjekti.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Aprila 1942 se je Montagu Slater vrnil v Anglijo in kmalu po vrnitvi prosil Brittena, naj bo njegov libretist za \"Petra Grimesa\".",
+        "sentence2": "Aprila 1942 se je Britten vrnil v Anglijo in kmalu po vrnitvi je prosil Montaguja Slaterja, da postane njegov libretist za \"Petra Grimesa\".",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tri leta kasneje je na istem tekmovanju na evropskem prvenstvu v Hahnenkleeju za Zahodno Nemčijo osvojil srebrno kolajno.",
+        "sentence2": "Tri leta pozneje je na istem tekmovanju za Zahodno Nemčijo osvojil srebrno medaljo na evropskem prvenstvu v Hahnenkleeju.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Skupina je bila ustanovljena leta 1999 v Dunwoodyju v Georgii, potem ko sta Renegades zapustila kitarist Cole Alexander in basist Jared Swilley, Reruns pa kitarist Ben Eberbaugh.",
+        "sentence2": "Skupina je bila ustanovljena leta 1999 v Dunwoodyju v Georgii, potem ko sta Renegades zapustila kitarist Ben Eberbaugh in Jared Swilley, Reruns pa kitarist Cole Alexander.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nekatere od njih so opisane tukaj, nekatere pa so povezane pod ``Zunanje povezave`` spodaj.",
+        "sentence2": "Nekatere od njih so opisane spodaj, nekatere pa so povezane tukaj pod ``Zunanje povezave``.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Drugi urednik je Herbert Wessels (od 2009), glavni urednik Markus Ermert (od 2002).",
+        "sentence2": "Drugi urednik je Herbert Wessels (od 2009), glavni urednik Markus Ermert (od 2002).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis je vrsta listnega hrošča, ki izvira iz Severne Afrike in delov Evrope.",
+        "sentence2": "Ochrosis ventralis je domorodna vrsta listnega hrošča v Evropi in delih Severne Afrike.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nekateri člani posadke so bili ubiti v Golden Bayu in ni bilo nobenega lokalnega stika z drugimi Maori.",
+        "sentence2": "Nekateri člani posadke so bili ubiti v Golden Bayu in ni bilo nobenega lokalnega stika z drugimi Maori.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Te tri dinastije po očetovi strani so vladale kraljestvu Waalo z materinsko družino Mbooj.",
+        "sentence2": "Te tri dinastije po materini strani so vladale kraljestvu Waalo z družino Mbooj po očetovi strani.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "V zgodnjih petdesetih letih je Fiaminghi začel ustvarjati dela, ki so bila abstraktna umetnost in so vključevala elemente konstruktivne umetnosti.",
+        "sentence2": "V zgodnjih petdesetih letih je Fiaminghi začel ustvarjati dela, ki so bila abstraktna umetnost in so vključevala elemente konstruktivne umetnosti.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pennsylvania Route 268 vodi od zahodnega konca mostu proti jugu do Parkerja in proti severu do Emlentona.",
+        "sentence2": "Pennsylvania Route 268 vodi od zahodnega konca mostu severno do Parkerja in južno do Emlentona.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Njegovo ime, Afolabi, je ``Rojen v bogastvu``. Njegov vzdevek v Nigeriji pomeni Robocop zaradi njegovih togih gibov.",
+        "sentence2": "Njegovo ime, Afolabi, pomeni ''Bogastvo rojen``, njegov vzdevek v Nigeriji je Robocop zaradi njegovih togih gibov.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Aprila 1942 se je Britten vrnil v Anglijo in kmalu po vrnitvi je prosil Montaguja Slaterja, da postane njegov libretist za \"Petra Grimesa\".",
+        "sentence2": "Montagu Slater se je aprila 1942 vrnil v Anglijo. Kmalu po vrnitvi je prosil Brittena, naj bo njegov libretist za \"Petra Grimesa\".",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rodil se je posmrtni otrok sira Johna Ladea, 1. baroneta, njegova mati je bila sestra pivovarja Henryja Thraleja.",
+        "sentence2": "Rodil se je kot otrok Sir Henryja Thraleja, 1. baroneta, njegova mati je bila sestra pivovarja Johna Ladea.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Izjema je bilo med koncem 2005 in 2009, ko je igral na Švedskem za Carlstad United BK, v Srbiji za FC Terek Grozny in ruski FK Borac Čačak.",
+        "sentence2": "Izjema je bilo med koncem leta 2005 in 2009, ko je igral na Švedskem za Carlstad United BK, v Srbiji za FK Borac Čačak in ruski FC Terek Grozny.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Epizodo je napisal Chuck Tatham, režiral pa Fred Savage.",
+        "sentence2": "Epizodo je napisal Chuck Tatham, vodil pa jo je Fred Savage.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Srečanje prekine prihod različnih glasnikov iz različnih mogočnih ali vplivnih Mardukanov v mestu s številnimi vabili na večerjo za princa.",
+        "sentence2": "Srečanje prekine prihod številnih glasnikov različnih mogočnih ali vplivnih Mardukanov v mestu z različnimi povabili na večerjo za princa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beximco proizvaja tekstil, osnovne kemikalije, farmacevtske izdelke, juto in morsko hrano, podjetje pa ima tudi deleže v razvoju nepremičnin in zemljišč.",
+        "sentence2": "Beximco proizvaja tekstil, osnovne kemikalije, farmacevtske izdelke, juto in morsko hrano; družba ima tudi deleže v razvoju nepremičnin in zemljišč.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "``The Rider's Digest'' je zdaj mesečna revija, ki izhaja v dveh različicah: Retail-Version in brezplačna izdaja na 60 straneh.",
+        "sentence2": "``The Rider's Digest'' je zdaj mesečna revija z dvema objavljenima različicama: brezplačna izdaja in maloprodajna izdaja na 60 straneh.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Njegova žena je bila Klára Csabi, njun sin Ferenc Wathay pa je bil prav tako znan poveljnik in avtor Pesmarice Ferenca Wathaya.",
+        "sentence2": "Njegova žena je bila Klára Csabi, njen sin Ferenc Wathay pa je bil prav tako znan poveljnik in avtor »pesmarice Ferenca Wathaya«.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Razmerje 2,5 : 1 je zmanjšalo proliferacijo kolorektalnih celic pri bolnikih z rakom danke, medtem ko razmerje 4 : 1 ni imelo učinka.",
+        "sentence2": "Razmerje 2,5:1 je zmanjšalo proliferacijo kolorektalnih celic pri bolnikih s pravokotnim rakom, medtem ko razmerje 4:1 ni imelo učinka.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rodil se je kot Charles Wyndham Standing v Londonu v Angliji in umrl v Los Angelesu v Kaliforniji.",
+        "sentence2": "Rodil se je v Londonu v Angliji in umrl v Los Angelesu v Kaliforniji kot Charles Wyndham.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Okrožje Berks v Pensilvaniji v Združenih državah je skupnost v okrožju Robeson Township.",
+        "sentence2": "Okrožje Berks v Pensilvaniji v Združenih državah Amerike je okrožje v okrožju Robeson.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vermont meji na severu na Mitcham, na zahodu na Nunawading in Forest Hill, na jugu na Vermont in na vzhodu na Wantirna in Ringwood.",
+        "sentence2": "Vermont South meji na severu na Mitcham, na zahodu na Nunawading in Forest Hill, na jugu na Vermont in na vzhodu na Wantirna in Ringwood.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cook Pond, znan tudi kot South Watuppa Pond, se nahaja jugovzhodno od jezera Laurel in zahodno od reke Taunton.",
+        "sentence2": "Cook Pond, prej znan tudi kot Laurel Lake, se nahaja na južnem koncu reke Taunton in zahodno od ribnika South Watuppa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Samo Ronnie Fields ni odigral niti ene tekme v NCAA ali NBA.",
+        "sentence2": "Ronnie Fields ni odigral niti ene tekme v NBA ali NCAA.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duncan McIntyre se je rodil 6. oktobra 1899 v Kentu v Angliji kot sin kapitana Ivorja Ewinga McIntyra.",
+        "sentence2": "Ivor Ewing McIntyre se je rodil 6. oktobra 1899 v Kentu v Angliji kot sin kapitana Duncana McIntyra.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pri prežvekovalcih obstaja tudi bolezen dihal, živali lahko zavračajo jesti, so videti letargične in razvijejo tudi nevrološke znake.",
+        "sentence2": "Pri prežvekovalcih je prisotna tudi bolezen dihal, živali lahko zavračajo jesti, so videti letargične in razvijejo tudi nevrološke znake.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Glasbo je ustvaril skladatelj Maury Yeston, koreografijo William Whitener, umetniški vodja baleta Kansas City Ballet.",
+        "sentence2": "Glasbo je napisal skladatelj William Whitener, koreografijo Maury Yeston, umetniški vodja kansaškega 'City Balleta'.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "``Sanje`` so bile izvedene v Kraljevi operni hiši Covent Garden leta 1961 v produkciji Johna Gielguda in dirigentu Georgu Soltiju.",
+        "sentence2": "``Sanje`` so uprizorili leta 1961 v Kraljevi operni hiši v Covent Gardenu v produkciji Johna Gielguda in režiji Georga Soltija.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "22. septembra 1918 je bilo iz Avstralije poslano prvo brezžično telegrafsko sporočilo v Snowdonijo.",
+        "sentence2": "22. septembra 1918 je bila iz Avstralije v Snowdonio poslana prva brezžična telegrafska komunikacija.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cook Pond, znan tudi kot South Watuppa Pond, se nahaja jugovzhodno od jezera Laurel in zahodno od reke Taunton.",
+        "sentence2": "Na južnem koncu se nahaja Cook Pond, prej znan tudi kot South Watuppa Pond, vzhodno od jezera Laurel in zahodno od reke Taunton.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Imajo 13 analnih mehkih bodic, 11 do 13 hrbtnih mehkih žarkov, 2 hrbtna trna in 11 do 13 analnih žarkov.",
+        "sentence2": "Imajo 13 hrbtnih bodic, 11 do 13 hrbtnih mehkih žarkov, 2 analna trna in 11 do 13 analnih mehkih žarkov.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Skupna potencialna in skupna energija se imenuje kinetična energija ali \"energijski paket\".",
+        "sentence2": "Kombinirana potencialna in kinetična energija se imenuje skupna energija ali \"energijski paket\".",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bili so tam za nas, da smo molili, in bili so tam, da bi uživali v nas.",
+        "sentence2": "Bili so tam, da smo molili, in bili so tam, da smo uživali.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Premaligne lezije so očitno tipično tkivo, ki se pri mikroskopskem pregledu zdi nenormalno in pri katerem je rak bolj verjeten kot njegov morfološko normalen dvojnik.",
+        "sentence2": "Premaligne lezije so očitno tipično tkivo, ki se pod mikroskopskim pregledom zdi nenormalno in v katerem je bolj verjetno, da se bo pojavil rak kot v morfološko normalnem dvojniku.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "``R. satarae'' ima zlato rjavo dlako z dolgim, mehkim hrbtom in belo spodnjo stranjo.",
+        "sentence2": "``R. satarae'' ima zlato rjavo dlako z dolgim, mehkim hrbtom in belo spodnjo stranjo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ostajata še dve majhni neodvisni ligi z le peščico članov: Highland Alliance League in Grampian Alliance League.",
+        "sentence2": "Ostajata dve majhni neodvisni ligi z le peščico članov: Grampian Alliance League in Highland Alliance League.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "``Fall Beil`` je bil zadnjič uporabljen v Zahodni Nemčiji leta 1949, leta 1966 v Vzhodni Nemčiji.",
+        "sentence2": "Zadeva je bila zadnjič uporabljena leta 1949 v Vzhodni Nemčiji, 1966 v Zahodni Nemčiji.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Annette Amelia Crum se je 29. septembra 1874 poročila z Bryant, hčerko Samuela Cruma. Imela sta eno hčerko.",
+        "sentence2": "29. septembra 1874 se je Annette Amelia poročila s Crumom Bryantom, hčerko Samuela Cruma, in dobila sta hčerko.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Poleg tega je bila tekma s trojno grožnjo za prvenstvo Združenih držav med prvakom Jackom Swaggerjem, The Miz in Kofijem Kingstonom.",
+        "sentence2": "Sledila je tekma Triple Threat za naslov prvaka Združenih držav med prvakom Kofijem Kingstonom, The Miz in Jackom Swaggerjem.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pesem je bila predstavljena v šesti promociji za drugo sezono ``Sons of Anarchy``, televizijske serije FX network.",
+        "sentence2": "Pesem je bila predstavljena v šesti promociji druge sezone ``Sons of Anarchy``, televizijske serije FX Network.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Na začetku kariere je igral v Avstraliji, a se je preselil na Škotsko, da bi igral za Frankston City v viktorijanski državni ligi.",
+        "sentence2": "Na začetku svoje kariere je igral na Škotskem, a se je preselil v Avstralijo, da bi igral v Victorian State League za Frankston City.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Najnovejša skladba Vsako jutro je akustična kitarska različica prve skladbe Jutro.",
+        "sentence2": "Zadnja skladba Vsako jutro je akustična kitarska različica prve skladbe Jutro.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nariban puran ali puran z rjavim ovratnikom (Talegalla jobiensis) je vrsta ptic iz družine Megapodiidae.",
+        "sentence2": "Puran z ovratnico ali puran z rjavo ovratnico („Talegalla jobiensis“) je vrsta ptic iz družine Megapodiidae.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duncan McIntyre se je rodil 6. oktobra 1899 v Kentu v Angliji kot sin kapitana Ivorja Ewinga McIntyra.",
+        "sentence2": "Ivor Ewing McIntyre se je rodil 6. oktobra 1899 v Kentu v Angliji kot sin kapitana Duncana McIntyra.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Zgodovina 46. raketne divizije se začne 29. aprila 1941, ko je bilo v Kaunasu končano oblikovanje 188. strelske divizije.",
+        "sentence2": "Zgodovina 46. raketne divizije se začne 29. aprila 1941, ko je bila v Kaunasu končana formacija 188. strelske divizije.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Whitlam, ki je decembra 1975 na zveznih volitvah prepričljivo premagal Malcolma Fraserja, je Egertonu ponudil viteški naziv za služenje sindikalnemu gibanju.",
+        "sentence2": "Whitlam, ki je na zveznih volitvah decembra 1975 prepričljivo premagal Malcolma Fraserja, je Egertonu ponudil viteški naziv za služenje sindikalnemu gibanju.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis je domorodna vrsta listnega hrošča v Evropi in delih Severne Afrike.",
+        "sentence2": "Ochrosis ventralis je vrsta listnega hrošča, ki izvira iz Evrope in delov Severne Afrike",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sezona se je začela 6. januarja 1984 v Falunu na Švedskem in končala 11. marca 1984 v Lygni na Norveškem.",
+        "sentence2": "Sezona se je začela 6. januarja 1984 v Falunu na Švedskem in končala 11. marca 1984 v Lygni na Norveškem .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "de Ruiter, rojen v Leidnu, je igral za FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk in FC Emmen.",
+        "sentence2": "De Ruiter, rojen v Leidnu, je igral za FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk in FC Emmen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Farrell se zoperstavi z Gabrielovimi vdori, medtem ko McClane odpravi svoje ljudi.",
+        "sentence2": "Farrell se zoperstavi Gabrielovim vdorom, medtem ko McClane odpravi svoje ljudi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Singl je bil izdan na radiu Airplay v Italiji 12. oktobra 2012, po vsem svetu pa je bil poslan 3. decembra 2012.",
+        "sentence2": "Singl je bil izdan v radijskem predvajanju 12. oktobra 2012 v Italiji in je bil poslan po vsem svetu 3. decembra 2012.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Druga hči Octaviusa Warre Maleta, Alice Anna Catherine, se je 24. junija 1852 poročila s Thomasom na britanskem konzulatu v Kölnu.",
+        "sentence2": "Druga hči Octaviusa Warre Maleta, Alice Anna Catherine, se je poročila s Thomasom 24. junija 1852 na britanskem konzulatu v Kölnu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum je vrsta morskega polža, pravega polža iz družine morskih volkov (Buccinidae).",
+        "sentence2": "Probuccinum tenerum je vrsta morskega polža, pravega polža iz družine morskih lubadark (Buccinidae).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Davida Davida Godwina pri DGA Associates zastopa Emma Townshend.",
+        "sentence2": "Davida Godwina pri DGA Associates zastopa Emma Townshend.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Enostaven medij lahko označimo z efektivnimi preseki absorpcije in emisije pri frekvencah s formulo _ 2 in formulo _ 3 .",
+        "sentence2": "Preprost medij je mogoče označiti z učinkovitimi preseki absorpcije in emisije pri frekvencah Formula 2 in Formula 3 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "de Ruiter, rojen v Leidnu, je igral za FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk in FC Emmen.",
+        "sentence2": "De Ruiter, rojen v Leidnu, je igral za RKC Waalwijk, FC Den Bosch, Excelsior, FC Utrecht in FC Emmen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Primarnost aritmetičnih operatorjev je bila kritizirana, konceptualno in bitno logični operatorji, kot sta in +.",
+        "sentence2": "Prednost aritmetičnih operatorjev je bila kritizirana. Konceptualno sta & in bitna logična operatorja, kot sta in +.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Leta 1974 je Laoška NDR s podporo Združenih narodov, Azijske razvojne banke in Svetovne banke ustanovila Stage II Fund.",
+        "sentence2": "S podporo Svetovne banke, Združenih narodov in Azijske razvojne banke je Laoška NDR leta 1974 ustanovila sklad Stage II.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mestni svet Webster Groves so sestavljali člani sveta Debi Salberg, Kathy Hart, Greg Mueller, Ken Burns, Toni Hunt in Anne Tolan.",
+        "sentence2": "Mestni svet Webster Groves so sestavljali svetniki Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt in Anne Tolan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Holly je glasbeno vplivala na Eltona Johna.",
+        "sentence2": "Elton John je bil pod glasbenim vplivom Holly.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mnogi menijo, da je njihova glasba alternativni metal z vplivi rap metala in industrial metala. Glede na prejšnje intervjuje se imajo za \"morilski rock\".",
+        "sentence2": "Njihovo glasbo mnogi smatrajo za alternativni metal z vplivi rap metala in industrial metala, ki se po prejšnjih intervjujih imenujejo ''umorski rock''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nato prečka jezero Texoma rokav reke Washita.",
+        "sentence2": "Nato prečka jezero Texoma rokav reke Washita.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Naslednja tabela primerja zmogljivost upodabljanja, ki podpira LOD, in metode s popolnimi podrobnostmi („brute-force“).",
+        "sentence2": "Naslednja tabela primerja zmogljivost upodabljanja z zavedanjem LOD in metodo s popolnimi podrobnostmi („surova sila“).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Skupina Volare ima sedež v Thieneju v Milanu ter komercialno in čartersko upravljanje v Italiji.",
+        "sentence2": "Skupina Volare je imela sedež v Thieneju v Milanu, komercialno in čartersko upravljanje pa v Italiji.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Omeniti velja tudi, da bi naslednja koda delovala brez ADL (v vsakem primeru se uporablja zanj).",
+        "sentence2": "Omeniti velja tudi, da bi naslednja koda delovala brez ADL (v vsakem primeru bo uporabljena zanj).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Razvil jih je CyberConnect2 in objavil Namco Bandai, začenši z ,,Naruto: Ultimate Ninja'' leta 2005.",
+        "sentence2": "Razvil jih je CyberConnect2 in objavil Namco Bandai, ki se je začel leta 2005 z ,,Naruto: Ultimate Ninja''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "AleX je italijanska televizijska serija. Serijo so napisali Alfredo Castelli, Guglielmo Duccoli in Giorgio Schottler, produciral pa jo je Videotime.",
+        "sentence2": "Italijansko televizijsko serijo AleX so napisali Alfredo Castelli, Guglielmo Duccoli in Giorgio Schottler, produciral pa jo je videotime.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Enoteche se je razširil v Avstrijo severno od Alp pod nemškim imenom Vinothek in iz Nemčije v Avstrijo.",
+        "sentence2": "Enoteche se je razširil severno od Alp v Avstrijo pod nemškim imenom Vinothek in iz Nemčije v Avstrijo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Smartass je film režiserja Jena Serbuja z Joeyjem Kingom v glavni vlogi.",
+        "sentence2": "Smartass je film Jene Serbu in Joeyja Kinga.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Med misijo je bilo ubitih 65 vojakov: 34 Nigerijcev, 28 Čadcev, 2 Toga in 1 Burkinabejec.",
+        "sentence2": "Med misijo je bilo ubitih 65 vojakov: 34 Nigerijcev, 28 Čadcev, 2 Toga in 1 Burkinabejec.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Divizija je bila uničena v bitki v Normandiji, zadnji elementi pa so bili izgubljeni zaradi padca Cherbourga.",
+        "sentence2": "Divizija je bila uničena v bitki za Normandijo, njeni zadnji elementi pa so bili izgubljeni ob padcu Cherbourga.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam (15. oktober 1929 - 29. julij 2012) je bil Kuchipudi plesalec in guru indijskega plesa.",
+        "sentence2": "Vempati Chinna Satyam (15. oktober 1929 - 29. julij 2012) je bil plesalec Kuchipudija in guru indijske plesne oblike.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Umrl je v Milwaukeeju v Wisconsinu, kjer se je 5. maja 1903 upokojil.",
+        "sentence2": "Umrl je v Milwaukeeju v Wisconsinu, kjer se je 5. maja 1903 upokojil.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rodil se je v Tiburonu v Kaliforniji in umrl v Brooklynu v New Yorku.",
+        "sentence2": "Rodil se je v Tiburonu v Kaliforniji in umrl v Brooklynu v New Yorku.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Serija je bila predvajana 18. aprila 2009 v Avstraliji na Nickelodeonu (Nova Zelandija in Nova Zelandija).",
+        "sentence2": "Serija je v Avstraliji debitirala 18. aprila 2009 na Nickelodeonu (Nova Zelandija in Nova Zelandija).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "To je zenovski slog strežbe in uživanja obrokov, ki se izvaja v uradnih templjih.",
+        "sentence2": "To je zenovski stil strežbe in prehranjevanja, ki se izvaja v uradnih templjih.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Novi vodja Gerakan Tiga Daerah je bil Sarjiyo, ki je postal glavni regent Pekalongana.",
+        "sentence2": "Novi vodja Gerakan Tiga Daerah je bil Sarjiyo, ki je postal glavni regent Pekalongana.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Med svojo kampanjo je dvakrat debatiral o McCainu, enkrat v štabu in enkrat v Tucsonu.",
+        "sentence2": "Med volilno kampanjo je dvakrat debatiral o McCainu, enkrat v Tucsonu in enkrat v Flagstaffu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Skupni zmagovalci mladinske divizije 1 prejmejo pokal Jamesa Delahunta.",
+        "sentence2": "Zmagovalci Junior Division 1 prejmejo pokal Jamesa Delahunta.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Komplet je bil sestavljen iz zelenega dresa z belim ovratnikom, modrih kratkih hlač in modrih nogavic.",
+        "sentence2": "Komplet je bil sestavljen iz zelenega dresa z belim ovratnikom, modrih kratkih hlač in modrih nogavic.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dogodka sta se udeležili ambasadorka Boutique@hs, Teresa Palmer Michala Banas in avstralska igralka Kyly Clarke.",
+        "sentence2": "Dogodka sta se udeležili ambasadorka Boutique@hs, Teresa Palmer Michala Banas in avstralska igralka Kyly Clarke.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duminda Silva, znan tudi kot Arumadura Lawrence Romelo Duminda Silva in R. Dumindha Silva, je šrilanški politik in nekdanji poslanec.",
+        "sentence2": "Arumadura Lawrence Romelo Duminda Silva, znan tudi kot Duminda Silva in R. Dumindha Silva, je šrilanški politik in nekdanji predstavnik parlamenta.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Služi jugovzhodnemu predmestju Edithvale v Melbournu, odprtem 20. septembra 1919.",
+        "sentence2": "Oskrbuje jugovzhodno predmestje Edithvale v Melbournu, ki se odpre 20. septembra 1919.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Na takšnih večerjah se pogosto uživa kakovostno vino, običajno s šampanjcem ali podobnimi peninami.",
+        "sentence2": "Na takšnih večerjah se običajno pije kakovostno vino, pogosto za zaključek šampanjec ali podobne penine.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Po podatkih Urada za popis prebivalstva Združenih držav ima Kennesaw celotno površino, od katere je kopno, 1,08 % pa voda.",
+        "sentence2": "Po podatkih ameriškega urada za popis prebivalstva Kennesaw predstavlja celotno površino kopnega in 1,08 % vode.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Joe R. Campa Jr. je nekdanji mornar ameriške mornarice, ki je služil kot 11. glavni podčastnik ameriške mornarice.",
+        "sentence2": "Joe R. Campa Jr. je nekdanji mornar ameriške mornarice, ki je služil kot enajsti glavni podčastnik ameriške mornarice.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Poonam Devi iz RJD je leta 2000 kot JDU premagal Dharmendra Yadava.",
+        "sentence2": "Poonam Devi iz RJD je leta 2000 premagal Dharmendra Yadava, ki je zastopal JDU.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Naslov sta osvojila Mark Knowles in Daniel Nestor , ki sta v finalu premagala Jonathana Erlicha in Andyja Rama s 5 : 3 in 5 : 4 .",
+        "sentence2": "Naslov sta osvojila Mark Knowles in Daniel Nestor, ki sta v finalu premagala Jonathana Erlicha in Andyja Rama s 5-3, 5-4.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "S Terryjem kot Ofelijo in Portio je poživil ``Hamleta`` in produciral ``The Merchant of Venice`` (1879).",
+        "sentence2": "S Terryjem kot Ofelijo in Portio je oživil ,,Hamleta'' in produciral ,,Beneškega trgovca'' (1879).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pomagal je tudi pri ustanavljanju meditacijskih centrov po Evropi ter v Severni, Srednji in Južni Ameriki.",
+        "sentence2": "Pomagal je tudi pri ustanavljanju meditacijskih centrov po Evropi ter v severni, srednji in južni Ameriki.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Avtocesta je bila preklicana 18. oktobra 1954, ko je bila podaljšana FM 1241.",
+        "sentence2": "Avtocesta je bila ukinjena 18. oktobra 1954, ko je bila podaljšana FM 1241.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "McCarthy se je rodil v Aucklandu, a se je s starši pri štirih letih preselil v San Francisco v Kaliforniji.",
+        "sentence2": "McCarthy se je rodil v Aucklandu, a se je pri štirih letih s starši preselil v San Francisco v Kaliforniji.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Phnom Penh – Vietnamski spomenik prijateljstva v Kambodži, glavnem mestu Kambodže, je velik betonski spomenik, ki spominja na nekdanje zavezništvo med Vietnamom in Kambodžo.",
+        "sentence2": "Spomenik prijateljstva med Phnom Penhom in Vietnamom v Kambodži, glavnem mestu Kambodže, je velik betonski spomenik v spomin na nekdanje zavezništvo med Vietnamom in Kambodžo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sher Ahmed Akhundzada (znan tudi kot Sher Mohammed Akhundzada) je plemenski voditelj, ki je bil od leta 2001 do 2005 guverner Helmanda v Afganistanu.",
+        "sentence2": "Sher Ahmed Akhundzada (znan tudi kot Sher Mohammed Akhundzada) je plemenski voditelj, ki je bil od leta 2001 do 2005 guverner Helmanda v Afganistanu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rakai je sedež okrožja Rakai, ki je bilo epicenter v začetku osemdesetih let prejšnjega stoletja in ga je epidemija aidsa najprej prizadela v Ugandi.",
+        "sentence2": "Rakai je sedež okrožja Rakai, ki je bilo v zgodnjih 1980-ih epicenter in prvo izrazito v Ugandi, ki ga je prizadela epidemija aidsa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pri implicitnem dobičku se poleg ekonomskih upoštevajo tudi eksplicitni stroški.",
+        "sentence2": "Pri upoštevanju implicitnega dobička se poleg ekonomskih upoštevajo tudi eksplicitni stroški.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rami Nieminen (rojen 25. februarja 1966) je finski nogometaš.",
+        "sentence2": "Rami Nieminen (rojen 25. februarja 1966) je finski nogometaš.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prang Ku je okrožje (»Amphoe«) v zahodnem delu province Sisaket na severovzhodu Tajske.",
+        "sentence2": "Prang Ku je okrožje (»amphoe«) v zahodnem delu province Sisaket na severovzhodu Tajske.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "14., 16. in 117. linija so imele vsaka po dva bataljona v boju.",
+        "sentence2": "14., 16. in 117. linija so imele v boju po dva bataljona.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Montreal Montreal Stars je osvojil Clarksonov pokal, ko je premagal Minnesota Whitecaps (WWHL) s 3:1.",
+        "sentence2": "Montreal Stars so osvojili Clarksonov pokal, ko so premagali Minnesota Whitecaps (WWHL) s 3:1.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Omeniti velja tudi, da bi naslednja koda delovala brez ADL (v vsakem primeru bo uporabljena zanj).",
+        "sentence2": "Prav tako je vredno omeniti, da bi naslednja koda delovala brez ADL (v vsakem primeru se uporablja zanj).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Letalsko družbo je ustanovila Irska, ki je razvila tudi drugih pet letalskih družb, in sicer VivaColombia, Ryanair, Allegiant Air, VivaAerobus in Tigerair.",
+        "sentence2": "Letalsko družbo je ustanovila Irska, ki je razvila tudi drugih pet letalskih družb, in sicer VivaColombia, Ryanair, Allegiant Air, VivaAerobus in Tigerair.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rimskokatoliška škofija Bungoma je škofija v mestu Kisumu v cerkveni provinci Bungoma v Keniji.",
+        "sentence2": "Rimskokatoliška škofija Bungoma je škofija v mestu Kisumu v cerkveni provinci Bungoma v Keniji.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Martin Damm in Radek Štěpánek sta v finalu zmagala s 6-2, 6-4 proti Jonasu Björkmanu in Fabriceu Santoru.",
+        "sentence2": "Martin Damm in Radek Štěpánek sta v finalu slavila proti Jonasu Björkmanu in Fabriceu Santoru s 6 : 2 in 6 : 4 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Na začetku kariere je igral v Avstraliji, a se je preselil na Škotsko, da bi igral za Frankston City v viktorijanski državni ligi.",
+        "sentence2": "Na začetku kariere je igral v Avstraliji, a se je preselil na Škotsko, da bi igral za Frankston City v viktorijanski državni ligi.",
+        "answer": "same"
+    }
+]

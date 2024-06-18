@@ -1,0 +1,2502 @@
+[
+    {
+        "sentence1": "Undantekningin var á milli síðla árs 2005 og 2009 þegar hann lék í Svíþjóð með Carlstad United BK, Serbíu með FK Borac Čačak og rússneska FC Terek Grozny.",
+        "sentence2": "Undantekningin var á milli síðla árs 2005 og 2009 þegar hann lék í Svíþjóð með Carlstad United BK, Serbíu með FK Borac Čačak og rússneska FC Terek Grozny.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tabaci-áin er þverá Leurda-árinnar í Rúmeníu .",
+        "sentence2": "Leurda áin er þverá á Tabaci í Rúmeníu .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hann lék með A-level Kane County Cougars árið 1993 og AA Portland Sea Dogs.",
+        "sentence2": "Hann lék árið 1993 með A-Level Portland Sea Dogs og AA Kane County Cougars.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Winarsky er meðlimur í IEEE, Phi Beta Kappa, ACM og Sigma Xi.",
+        "sentence2": "Winarsky er meðlimur í ACM, IEEE, Phi Beta Kappa og Sigma Xi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Árið 1938 gerðist hann mannfræðingur ríkisstjórnarinnar í ensk-egypska Súdan og leiddi vettvangsvinnu með Nuba.",
+        "sentence2": "Árið 1938 gerðist hann mannfræðingur ríkisstjórnarinnar í Egyptian-Anglo Súdan og stundaði vettvangsvinnu með Nuba.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Billy Billy Batson kom fram í fyrstu fjórum útgáfunum af `` Black Adam '', sem kom út seint á árinu 2008 og snemma árs 2009.",
+        "sentence2": "Black Adam kom fram í fyrstu fjórum tölublöðum \"Billy Batson\" sem gefin voru út seint á árinu 2008 og snemma árs 2009.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sólaraðferðin við þessa kröfu er að nota sólarrafhlöður í hefðbundnum flugvélum.",
+        "sentence2": "Sólaraðferðin við þessa kröfu er að nota sólarrafhlöður í hefðbundnum flugvélum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lögreglan yfirheyrði einnig söngvarann Rimi Tomy og leikarann Kavya Madhavan, báðir nánir vinir Siddique og eiginkonu hans Dileep, sem hluta af yfirstandandi rannsókn.",
+        "sentence2": "Lögreglan yfirheyrði einnig söngvarann Rimi Tomy og leikarann Kavya Madhavan, báðir nánir vinir Siddique og eiginkonu hans Dileep, sem hluta af yfirstandandi rannsókn.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þeir eru yfirlagðir dreifðri lifandi hljómsveitartónlist og samanstanda af óljósum, nánast vísvitandi litlausum hljóðum.",
+        "sentence2": "Þær eru lagðar yfir með litlausri, lifandi leikinni tónlist og samanstanda af óljósum, næstum vísvitandi dreifðum hljómsveitarhljóðum.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Holly var undir áhrifum frá Elton John.",
+        "sentence2": "Holly Holly var undir tónlistarlegum áhrifum frá Elton John.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Liðið brást við breytingunum í næsta leik sama kvöld 19. febrúar .",
+        "sentence2": "Liðið brást við breytingunum í sama leik og næsta 19. febrúar kvöldið .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nashua Silver Knights, hluti af núverandi sumardeild, er háskólalið borgarinnar.",
+        "sentence2": "Nashua Silver Knights, hluti af háskóladeild sumarsins, er núverandi lið borgarinnar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Fallbeil '' var notað í síðasta sinn í Vestur-Þýskalandi árið 1949, í Austur-Þýskalandi árið 1966.",
+        "sentence2": "`` Fall Beil '' var notað í síðasta sinn í Vestur-Þýskalandi árið 1949, árið 1966 í Austur-Þýskalandi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Skurðurinn er einn elsti siglingaskurður í Evrópu og í Belgíu .",
+        "sentence2": "Skurðurinn er einn elsti siglingaskurður í Belgíu og raunar í Evrópu .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Árið 2009 flutti hann aftur til Fíladelfíu og býr í New York borg í dag.",
+        "sentence2": "Hann flutti aftur til Fíladelfíu árið 2009 og býr nú í New York borg.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann lést úr magakrabbameini í Claremore , Oklahoma , New York borg , þar sem Lynn Riggs Memorial er staðsett 30. júní 1954 .",
+        "sentence2": "Hann lést 30. júní 1954 úr magakrabbameini í New York borg. Claremore, Oklahoma er heimili Lynn Riggs Memorial.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stipsits fæddist í Korneuburg í Þýskalandi og eyddi æsku sinni í Stammersdorf í Vínarborg.",
+        "sentence2": "Stipsits fæddist í Korneuburg og eyddi æsku sinni í Stammersdorf í Vínarborg.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Keita-ættin réð yfir Malí fyrir keisaraveldið og keisaraveldið frá 12. öld fram í byrjun 17. aldar.",
+        "sentence2": "Keita-ættin réð ríkjum í Malí frá 12. til snemma á 17. öld, fyrir keisaraveldið og keisaraveldið.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` Angel Eyes '' er vinsælt lag frá 1946 samið af Matt Dennis, við texta eftir Earl Brent.",
+        "sentence2": "`` Angel Eyes '' er vinsælt lag samið af Earl Brent árið 1946, með textum eftir Matt Dennis.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tónlistin var samin af Shyam og textinn var saminn af Sreekumaran Thampi og Sathyan Anthikkad.",
+        "sentence2": "Tónlistina samdi Shyam og textana af Sreekumaran Thampi og Sathyan Anthikkad.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Myndin sló í gegn í auglýsingum og ein af farsælli myndum Sergio Sollima og minna pólitískt en vestra spagettíleikstjórans fyrrverandi.",
+        "sentence2": "Myndin sló í gegn í auglýsingum og var ein af pólitískari myndum Sergio Sollima og árangursminni en vestra spagettíleikstjórans fyrrverandi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kabir biður Sarika að opinbera áætlun sína um að binda enda á leik Ranvirs.",
+        "sentence2": "Kabir biður Sarika að sýna honum áætlun sína um að binda enda á leik Ranvirs.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Liðið brást við breytingunum í næsta leik sama kvöld 19. febrúar .",
+        "sentence2": "Liðið brást við breytingum í sama leik sem fram fór næsta febrúarkvöld .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "John Gedge liðsforingi skipaði þá fyrir Norðursjó í maí 1805 og Robert Ramsey liðsforingi tók við af honum árið 1806 .",
+        "sentence2": "Robert Ramsey undirforingi skipaði henni í Norðursjó í maí 1805 og John Gedge liðsforingi tók við af honum árið 1806 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Emma Townshend er fulltrúi David Godwin hjá DGA Associates.",
+        "sentence2": "David David Godwin er fulltrúi hjá DGA Associates af Emma Townshend.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nashua Silver Knights, hluti af háskóladeild sumarsins, er núverandi lið borgarinnar.",
+        "sentence2": "Nashua Silver Knights, hluti af núverandi sumardeild, eru háskólalið borgarinnar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Frá vesturenda brúarinnar liggur leið 268 í Pennsylvania suður til Parker og norður til Emlenton .",
+        "sentence2": "Pennsylvaníuleið 268 liggur frá vesturenda brúarinnar suður til Parker og í norður til Emlenton .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þetta var algengt í Bretlandi, en í Evrópu, að minnsta kosti fyrir stórar eimreiðar, er það tiltölulega sjaldgæft.",
+        "sentence2": "Þetta var sjaldgæft í Bretlandi en í Evrópu, að minnsta kosti fyrir stórar eimreiðar, eru þær tiltölulega algengar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alston fæddist 21. desember 1965 í Oxon Hill í Maryland . Hann gekk í Oxon Hill High School í New Haven, Connecticut.",
+        "sentence2": "Hann fæddist 21. desember 1965 í Oxon Hill , Maryland , og gekk í menntaskóla í New Haven , Connecticut .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Heildarfall Bandaríkjanna var 28, en Viet Cong tjónið var 345 drepnir og 192 til viðbótar áætlaðir.",
+        "sentence2": "Alls voru 28 bandarísk fórnarlömb drepin, en tjón í Viet Cong voru drepin 345 og 192 til viðbótar áætlaðir drepnir.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Í CA er titill löggiltur endurskoðandi (Sri Lanka Sri Lanka) aðeins hægt að nota af meðlimum Institute of Sri Lanka endurskoðenda.",
+        "sentence2": "Í CA er titillinn löggiltur endurskoðandi (Sri Lanka Sri Lanka) aðeins hægt að nota af meðlimum Institute of Chartered Accountants of Sri Lanka.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Simyo tilheyrir hollensku fjarskiptafyrirtækinu KPN eftir kaup á afgangnum af E-Plus 14. mars.",
+        "sentence2": "Eftir kaupin á afgangnum af E-Plus 14. mars tilheyrir Simyo hollenska fjarskiptahópnum KPN.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Auk Kuykendall störfuðu Robert White og Joshua Soule Zimmerman sem kanslari Hampshire County.",
+        "sentence2": "Robert White og Joshua Soule Zimmerman störfuðu við hlið Kuykendall sem ráðuneytisstjóri í Hampshire-sýslu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þessar skoðanir komu oft fram þegar mótmælenda-, púrítan- og evangelískar hreyfingar komu fram.",
+        "sentence2": "Þessar skoðanir komu oft fram í tilkomu evangelískra, púrítanískra og mótmælendahreyfinga.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "UEFA-bikarinn 1973 - 74 vann Feyenoord Rotterdam á Tottenham Hotspur 4:2.",
+        "sentence2": "UEFA-bikarinn 1973-74 vann Feyenoord Rotterdam á Tottenham Hotspur samanlagt 4-2.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Talfourd Ely var barnabarn John Towill Rutt, sem var snemma vinur Crabb Robinson.",
+        "sentence2": "Talfourd Ely var barnabarn Crabb Robinson, sem var snemma vinur John Towill Rutt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Faðir hans dó í æsku og móðir hans, Samuel Adams, giftist Catherine A. Fagan árið 1842, sem tveimur árum síðar varð ríkisstjóri Arkansas.",
+        "sentence2": "Faðir hans dó á æskuárum sínum og móðir hans, Catherine A. Fagan, giftist árið 1842 Samuel Adams, sem varð ríkisstjóri Arkansas tveimur árum síðar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þeir gáfu einnig út annað lag plötunnar, `` Vices'', sem fimmta smáskífan af plötunni þann 13. júní.",
+        "sentence2": "Þeir gáfu einnig út annað lag plötunnar, `` Vices'', þann 13. júní sem fimmta smáskífan af plötunni.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vatnsráð Sydney hafði tekið við vatnsveitu Sydney af borgarstjórn árið 1888 .",
+        "sentence2": "Árið 1888 tók vatnsráð Sydney við vatnsveitu Sydney af borgarstjórn .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Einnig átti Cai Feng son, Cai Mao.",
+        "sentence2": "Cai Mao átti einnig son, Cai Feng.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Blöðin hans eru mótuð til skiptis meðfram greinunum og hafa lansskipt, egglaga eða næstum hringlaga og stöngul löng.",
+        "sentence2": "Blöðin raðast til skiptis meðfram greinunum og eru lanslaga, egglaga eða næstum hringlaga og með langan stilk.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þetta stækkaði átakasvæðið milli Massachusetts og Rhode Island héraðsins.",
+        "sentence2": "Þetta stækkaði átakasvæðið milli Rhode Island og Massachusetts-héraðs.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School var sértækur stúlknaskóli í Berkshire, nú Slough, Buckinghamshire.",
+        "sentence2": "Slough High School var sértækur stúlknaskóli í Slough, Buckinghamshire, nú Berkshire.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Það er nálægt Lough Corrib, á N59 veginum til Oughterard og Clifden, í Connemara.",
+        "sentence2": "Það er nálægt Oughterard og Clifden, á N59 veginum til Lough Corrib, í Connemara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þó að útilokun svartra leikmanna hafi ekki verið skrifleg regla, hafði enginn Afríku-Ameríkumaður leikið í National Football League síðan 1933.",
+        "sentence2": "Þó að útilokun afrískra leikmanna væri ekki skrifleg regla, hafði enginn svartur bandarískur leikmaður í National Football League spilað síðan 1933.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Muawiyah komst til valda eftir dauða Ali og stofnaði konungsætt.",
+        "sentence2": "Eftir dauða Muawiyah komst Ali til valda og stofnaði konungsætt .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Árið 1994 yfirgaf Rodrigo Leão hljómsveitina til að hefja sólóferil, Carlos Maria Trindade (hljómborðsgervill) tók við af honum.",
+        "sentence2": "Árið 1994 yfirgaf Rodrigo Leão hljómsveitina til að hefja sólóferil, Carlos Maria Trindade (hljómborðsgervill) kom í hans stað.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Árið 1933 skrifaði Cattell að af öllum norrænum kynþáttum væri „evrópski kynstofninn sá þróaðasti hvað varðar greind og stöðugleika í skapgerð“.",
+        "sentence2": "Árið 1933 skrifaði Cattell að af öllum norrænum kynþáttum væri \"evrópski kynstofninn hvað greind og stöðugleika í skapgerð\" þróaðastur \".",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Abies lasiocarpa, í daglegu tali kallaður vestur-Norður-Ameríkugreni eða Rocky Mountain fir, er subalpine fir tré.",
+        "sentence2": "Abies lasiocarpa, almennt þekktur sem vestur Norður-Ameríku greni eða Rocky Mountain fir, er subalpine fir tré.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "American Motors veitti aðeins tæknilega aðstoð í formi takmarkaðrar aðstoðar.",
+        "sentence2": "American Motors veitti aðeins tæknilega aðstoð í formi takmarkaðrar aðstoðar.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Aðalbygging Houston (HMB) áður var Prudential Building skýjakljúfur við Texas Medical Center í Houston, Texas.",
+        "sentence2": "Houston Main Building (HMB) áður Prudential Building, var skýjakljúfur í Texas Medical Center, Houston, Texas.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eftir að hann sneri aftur til Paramaribo árið 1954 settist hann að sem lögfræðingur í Súrínam .",
+        "sentence2": "Eftir að hann sneri aftur til Súrínam árið 1954 settist hann að í Paramaribo sem lögfræðingur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slysið á Aerosucre flugi 4544 var fyrsta flugatvikið þar sem Aerosucre kom við sögu, hið síðara var slys á annarri Boeing 727 18. nóvember 2006.",
+        "sentence2": "Slysið á Aerosucre flugi 4544 var annað flugatvikið þar sem Aerosucre kom við sögu, það fyrsta var slys á annarri Boeing 727 18. nóvember 2006.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "The Cabot Trail - Episode var tekinn upp á staðnum í Cape Breton , þar á meðal Peggys Cove og hálendinu í Nova Scotia , meðfram austurströndinni .",
+        "sentence2": "Austurstrandarþátturinn var tekinn upp á stað í Nova Scotia, þar á meðal Peggys Cove og hálendinu Cape Breton, meðfram Cabot Trail.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Önnur leið til að stjórna stofni dádýra er að stjórna fæðingartíðni.",
+        "sentence2": "Önnur leið til að stjórna dádýrastofni er að stjórna fæðingartíðni.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ljóðið er varðveitt í fjórum brotakenndum handritum, þar af eitt samtímarit.",
+        "sentence2": "Ljóðið er geymt í fjórum samtímahandritum, þar af eitt brotabrot:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Manu Chao, hóparnir `` Air '', Cassius, Mars IV, Les Négresses Vertes og FFF, og Howie B tóku einnig þátt í plötunni.",
+        "sentence2": "Hóparnir '' Air ``, Howie B, Mars IV, Les Négresses Vertes og FFF og Manu Chao tóku einnig þátt í plötunni.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hudeasa áin er þverá Bradu árinnar í Rúmeníu .",
+        "sentence2": "Hudeasa áin er þverá Bradu árinnar í Rúmeníu .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þó að útilokun afrískra leikmanna væri ekki skrifleg regla, hafði enginn svartur bandarískur leikmaður í National Football League spilað síðan 1933.",
+        "sentence2": "Þó að útilokun svartra leikmanna hafi ekki verið skrifleg regla, síðan 1933 hafði enginn Afró-Ameríkani leikið í National Football League.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Faðir hans Patrick Byrne var þingmaður, TD, öldungadeildarþingmaður og borgarstjóri Dublin. Annar bróðir Alfie Byrne var einnig TD.",
+        "sentence2": "Faðir hans, Patrick Byrne, var fulltrúi, öldungadeildarþingmaður og borgarstjóri Dublin, annar bróðir Alfie Byrne var einnig TD.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fyrsta serían fékk betri viðtökur gagnrýnenda en sú seinni.",
+        "sentence2": "Önnur þáttaröð var vel tekið af gagnrýnendum betur en sú fyrri.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fanwood er staðsett í 12. þingumdæmi og er hluti af 22. löggjafarhverfi New Jersey.",
+        "sentence2": "Fanwood er staðsett í 22. þingumdæmi og er hluti af 12. löggjafarhverfi New Jersey .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Santa Cruz er staðsett á bökkum Santa Cruz árinnar sem rennur í austurhluta Laguna de Bay.",
+        "sentence2": "Laguna de Bay er staðsett á bökkum árinnar Santa Cruz sem rennur í austurhluta Santa Cruz .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Porte de Vincennes er staðsett þar sem suðausturhorn 20. hverfis mætir norðausturhorni 12. hverfis Parísar .",
+        "sentence2": "Porte de Vincennes er staðsett þar sem norðausturhorn 12. hverfis mætir suðausturhorni 20. hverfis Parísar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þann 5. mars 2011 birti MTV Hive streymistengli á Anni Rossi þar sem hún flutti Rihannas '' Rude Boy ''.",
+        "sentence2": "Þann 5. mars 2011 birti MTV Hive straumspilun á Rihönnu þar sem hún flutti Anni Rossi `` Rude Boy ''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Qi konungur hitti Zhao konung af Qin í vesturhluta Zhou árið 284 f.Kr. til að mynda bandalag gegn Xi.",
+        "sentence2": "Árið 284 f.Kr. hitti Qi konungur Zhao konung af Qin í Vestur-Zhou til að mynda bandalag gegn Xi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Chenzhou-stjórnsýslusvæðið í Tang-ættinni er undir stjórn nútíma Henan í austurhluta Zhoukou:",
+        "sentence2": "Stjórnsýslusvæði Chenzhou í Tang ættinni er undir stjórn nútíma Henan í austurhluta Zhoukou:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` Hreint '' þýðir mjög einfaldlega og `` Belter '' eða `` Belta '' þýðir frábært eða gott.",
+        "sentence2": "`` Hreint '' þýðir einfaldlega mjög og `` Belter '' eða `` Belta '' þýðir gott eða stórt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stephen Stephen var giftur 29. ágúst 1806 af Benjamin Hough, friðardómara, í Jefferson-sýslu, Elizabeth Core.",
+        "sentence2": "`` 2 '' Benjamin Hough var giftur 29. ágúst 1806 af Stephen Ford, friðardómara, í Jefferson-sýslu með Elizabeth Core.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tegundinni var fyrst lýst formlega af grasafræðingnum Stephan Endlicher árið 1846 sem hluta af verki Johann Georg Christian Lehmann \"Irideae\". Plantae Preissianae ''.",
+        "sentence2": "Tegundinni var fyrst lýst formlega árið 1846 af grasafræðingnum Stephan Endlicher sem hluta af verkinu `` Irideae Plantae Preissianae '' eftir Johann Georg Christian Lehmann.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Árið 1912 hélt indverska þjóðarþingið sitt 27. þing í Bankipore undir forsæti Rao Bahadur Raghunath Narasinha Mudholkar frá Amravati , miðhéruðum og Berar .",
+        "sentence2": "Árið 1912 hélt indverska þjóðarþingið sitt 27. þing í Bankipore, undir forsæti Rao Bahadur Raghunath Narasinha Mudholkar frá miðhéruðum Amravati og Berar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Algengustu dýratrefjarnar eru ull unnin úr sauðfé. Fyrir handprjón og tómstundaprjón er oft spunnið þykkt, ullar- og akrýlgarn.",
+        "sentence2": "Algengast er að spunnið sé ull úr sauðfé. Fyrir handprjón og tómstundaprjón er oft notað þykkt ullar- og akrýlgarn.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tipico Co. Ltd og Tipico Casino Ltd voru stofnuð árið 2004 sem alþjóðleg viðskiptafyrirtæki í viðskiptaskrá fjármálaeftirlitsins á Möltu.",
+        "sentence2": "Tipico Co Ltd og Tipico Casino Ltd voru stofnuð árið 2004 sem alþjóðleg viðskiptafyrirtæki í viðskiptaskrá fjármálaeftirlitsins á Möltu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Það er nálægt Lough Corrib, á N59 veginum til Oughterard og Clifden, í Connemara.",
+        "sentence2": "Það er staðsett nálægt Oughterard og Clifden, á N59 veginum til Lough Corrib, í Connemara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þann 14. september 2006 var Lang undirritaður af Washington Wizards og gefinn út af Wizards í júlí 2017 .",
+        "sentence2": "Þann 14. september 2006 var Lang undirritaður af Washington Wizards . Í júlí 2017 kom Lang út af Wizards .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Smáskífan kom út á Radio Airplay á Ítalíu 12. október 2012 og var send um allan heim 3. desember 2012 .",
+        "sentence2": "Smáskífan var send í útvarpssýningu 12. október 2012 á Ítalíu og kom út um allan heim 3. desember 2012 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Eftir þjónustu sína bjó Lockhart í Texas en flutti nýlega til Flórída.",
+        "sentence2": "Eftir þjónustu sína bjó Lockhart í Flórída en flutti nýlega til Texas.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hann finnst í Norður-Ameríku þar sem hann var skráður frá Nýfundnalandi og Labrador vestur til Bresku Kólumbíu , norður til Alaska og Yukon .",
+        "sentence2": "Hann finnst í Norður-Ameríku þar sem hann hefur verið skráður frá Nýfundnalandi og Labrador vestur til Bresku Kólumbíu , norður til Alaska og Yukon .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þetta vesturhluta Randallstown hverfi inniheldur Woodlawn, Milford Mill og Baltimore County.",
+        "sentence2": "Þetta vesturhluta Randallstown hverfi samanstendur af Woodlawn, Milford Mill og Baltimore County.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann var þjálfaður af John Velazquez og hjólaður af Jockey Dale Romans í sínu mikilvægasta móti.",
+        "sentence2": "Hann var þjálfaður af Dale Romans og hjólaður af Jockey John Velazquez á mikilvægustu keppnum sínum.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þegar hann var í Savannah frétti Charles Celestine í dagblaði að sonur hans, Sherman, hefði dáið í Savannah herferðinni, hershöfðinginn hefði aldrei séð barnið.",
+        "sentence2": "Þegar hann var í Savannah, frétti Charles Celestine í dagblaði að ungbarnasonur hans Sherman hefði dáið í Savannah-herferðinni; hershöfðinginn hafði aldrei séð barnið.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Umslagið var hannað af skjaldarmerkjalistamanninum John Pasche og smáskífan `` Steel Monkey '' hefur hannað forsíðu myndlistarstjórans Andrew Stewart Jamieson.",
+        "sentence2": "Umslagið var hannað af skjaldarmerkjalistamanninum Andrew Stewart Jamieson, smáskífan `` Steel Monkey'' hefur hannað umslag Art Director John Pasche.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "MacCormack aðferðin er mikið notað kerfisgreiningarkerfi fyrir tölulegar lausnir á hluta ofbólískum diffurjöfnum.",
+        "sentence2": "Í vökvavirkni reiknifræðinnar er MacCormack aðferðin mikið notaður kerfisgreiningarkerfi fyrir hýdrætti hlutamismunadrifslausn talnajafna.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wright flutti frá Chapel Hill, NC til New York.",
+        "sentence2": "Wright flutti til New York frá Chapel Hill, NC.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "The Consonant-Ejective er eins konar velar hljóð sem er notað í sumum töluðum tungumálum Táknið í alþjóðlega hljóðstafrófinu sem táknar þetta hljóð.",
+        "sentence2": "Velar - Ejective er eins konar samhljóð sem er notað í sumum töluðum tungumálum Táknið í alþjóðlega hljóðstafrófinu sem er þetta hljóð .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Evrópsk starfsemi varð hluti af Ebel en starfsemin í Asíu var seld til Hong Kong frumkvöðuls Joseph Wong og tilheyrir nú Stelux Holdings.",
+        "sentence2": "Evrópska starfsemin varð hluti af Ebel á meðan starfsemin í Asíu var seld til Hong Kong frumkvöðuls Joseph Wong og eru nú hluti af Stelux Holdings.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fyrstu ráðgjafarstjórnarmenn voru Alistair Cooke, Saul Bellow, Walter Cronkite, Norman Cousins, Gore Vidal, Norman Podhoretz.",
+        "sentence2": "Fyrstu ráðgjafarmeðlimir voru Walter Cronkite, Norman Vetter, Gore Vidal, Norman Podhoretz, Saul Bellow og Alistair Cooke.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Petkeljärvi þjóðgarðurinn er þjóðgarður í Ilomantsi í Norður Karelia héraði í Finnlandi .",
+        "sentence2": "Petkeljärvi þjóðgarðurinn er þjóðgarður í Finnlandi á svæðinu Ilomantsi í Norður Karelíu .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þeir gáfu einnig út 5. lag plötunnar, `` Vices '', sem önnur smáskífan af plötunni þann 13. júní.",
+        "sentence2": "Þeir gáfu einnig út 5. lag plötunnar, `` Vices , '' þann 13. júní sem önnur smáskífan af plötunni.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Stoke vann Sheffield Wednesday og Huddersfield Town áður en liðið tapaði fyrir Peterborough United í fjórðu umferð.",
+        "sentence2": "Stoke vann Peterborough United og Huddersfield Town áður en liðið tapaði í fjórðu umferð gegn Sheffield Wednesday .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Spurður hvernig hann ætti að segja nafnið sitt sagði hann `` The Literary Digest '' Nafnið mitt er borið fram eins og \"eyra\"; en-house '' stafsett .",
+        "sentence2": "Spurður hvernig hann ætti að segja nafnið sitt sagði hann `` The Literary Digest '' Nafnið mitt er skrifað eins og það sé borið fram, eyra 'apos; hýsa ``.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ræktunin var kynnt árið 1880 af Fernando Heydrich í Matanzas á Kúbu .",
+        "sentence2": "Í Matanzas var ræktun þess kynnt árið 1880, af Fernando Heydrich á Kúbu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ef það eru nokkrir málfræðilegir flokkar í setningu ber aðeins sá fyrsti fleirtölumerkið.",
+        "sentence2": "Ef það eru nokkrir málfræðilegir flokkar í setningu, ber aðeins fleirtölu fyrsta merkið.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stjórnin fór frá Fíladelfíu í október 1777 til að ganga til liðs við aðalher George Washington hershöfðingja fyrir utan Boston .",
+        "sentence2": "Hersveitin fór frá Philadelphia í október 1777 til að ganga til liðs við aðalher George Washington hershöfðingja fyrir utan Boston .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Árið 1974 stofnaði Lao PDR Stage II sjóðinn með aðstoð Alþjóðabankans, Sameinuðu þjóðanna og Asíuþróunarbankans.",
+        "sentence2": "Með stuðningi Alþjóðabankans, Sameinuðu þjóðanna og Asíuþróunarbankans stofnaði Lao PDR Stage II sjóðinn árið 1974.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann notaði það síðar sem tákn fyrir nasistaflokkinn og setti það á hvítan hring og rauðan bakgrunn til að nota það sem fána .",
+        "sentence2": "Hann notaði það síðar sem tákn fyrir nasistaflokkinn og setti það á rauðan hring og hvítan bakgrunn til að nota það sem fána .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Til að þróa kortið fyrir Hoth hafa hönnuðirnir fengið eins mikið af upprunaefni og hægt er frá `` The Empire Strikes Back '' til að búa til ekta endurgerð.",
+        "sentence2": "Til að búa til kortið fyrir Hoth fengu hönnuðirnir eins mikið af upprunaefni frá `` The Empire Strikes Back '' og hægt var til að þróa ekta endurgerð.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hann er kvæntur Elizabeth `` Betsy '' Katz. Hann er faðir Adam, Nathaniel og Söru Hundt.",
+        "sentence2": "Hann er kvæntur Elizabeth `` Betsy '' Katz, föður Adam, Nathaniel og Sara Hundt.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hús er hlaðið reiðiorku og mótar necromantic anda innra með sér.",
+        "sentence2": "Hús verður hlaðið necromantic orku og mótar reiði andann innra með sér.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Á meðan Oros vann undir Walker við hönnun Ford bíla og vörubíla, einbeitti Engel sér að Lincoln og Mercury farartækjum.",
+        "sentence2": "Á meðan Oros vann að bíla- og vörubílahönnun Ford undir stjórn Walker, einbeitti Engel sér að Lincoln og Mercury farartækjum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hirasea goniobasis er tegund landsnigls sem andar loft í lungum, lítill sníkjudýr í fjölskyldunni Endodontidae.",
+        "sentence2": "Hirasea goniobasis er tegund smásnigils sem andar í loftið, landlægt lindýr í lungum í ættinni Endodontidae.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fyrirburaskemmdir eru greinilega dæmigerður vefur sem virðist óeðlilegur við smásjárskoðun og þar sem líklegra er að krabbamein komi fram en í formfræðilega eðlilegu hliðstæðu þess.",
+        "sentence2": "Fyrirburaskemmdir eru greinilega dæmigerður vefur sem virðist óeðlilegur í smásjárrannsóknum og þar sem krabbamein er líklegra en formfræðilega eðlilegur hliðstæða hans.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Abu Halifa eða Abu Hulayfah eða Abu Huleifa eða Abu Haleifah er lítill bær í Kúveit í Al Ahmadi héraðinu í suðurhluta Abu Halifa héraðsins.",
+        "sentence2": "Abu Halifa eða Abu Hulayfah eða Abu Huleifa eða Abu Haleifah er lítill bær í Kúveit í Al Ahmadi héraðinu í suðurhluta Abu Halifa héraðsins.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Israel er plata eftir bandarísku djassbásúnuleikarana Kai Winding og JJ Johnson með flutningi sem gefin var út árið 1968 og hljóðrituð á C.",
+        "sentence2": "Israel er plata eftir bandarísku djassbásúnuleikarana Kai Winding og JJ Johnson með flutningi sem gefin var út árið 1968 og hljóðrituð á C .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Árið 2014 skrifaði Adam gotneskan þríleik endurskoðun klassískra sagna Frankenstein, The Corruption of Dorian Gray og Jekyll Hyde Corpus Delicti",
+        "sentence2": "Árið 2014 skrifaði Adam gotneskan þríleik endurvinnslu á klassískum sögum Frankenstein, The Corruption Of Dorian Gray og Jekyll & Hyde Corpus Delicti",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Frú Glad hafði starfað í Ovambolandi árin 1901 – 1919 og 1926 – árið 1936 og var þar fyrsti eftirlitsmaður skóla.",
+        "sentence2": "Frú Glad hafði starfað í Ovambolandi á árunum 1901 – 1919 og 1926 – 1936 og hafði starfað þar sem fyrsti eftirlitsmaður skóla.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann lýsir þessu sem nýrri uppgötvun skáldsagnaritunar og telur hana vera goðsagnaraunsæi í kínverskum bókmenntum.",
+        "sentence2": "Hann lítur á þetta sem \"nýja uppgötvun\" í skáldskaparskrifum og nefnir það sem \"goðsagnaraunsæi\" í kínverskum bókmenntum.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Árið 1953 ferðaðist liðið einnig í Ástralíu og í Asíu í ágúst 1959 .",
+        "sentence2": "Liðið ferðaðist einnig í Ástralíu 1953 og Asíu í ágúst 1959 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ronnie Fields lék ekki einn einasta leik í NBA eða NCAA .",
+        "sentence2": "Ronnie Fields lék ekki einn einasta leik í NCAA eða NBA .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nýi leikvöllurinn er búinn nútímalegum líkamsræktartækjum fyrir börn.",
+        "sentence2": "Leikvöllurinn er nútímalegur með nýjum líkamsræktartækjum fyrir börnin.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Probuccinum tenerum er tegund sjávarsnigils, sannkallað sníkjudýr í Buccinidae fjölskyldunni, sjóhnoðra.",
+        "sentence2": "Probuccinum tenerum er tegund sjávarsnigils, sjávarsníkjudýra í fjölskyldunni Buccinidae, hinir sönnu hnísur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abraham Hart var forseti og Mayer Sulzberger ritari trúnaðarmanna.",
+        "sentence2": "Forseti var Mayer Sulzberger og Abraham Hart var ritari trúnaðarmanna.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Juhi Chawla á tvö börn með eiginkonu Jahnavi Mehta, stúlku, Mehta (fædd 2001) og strák, Arjun Mehta (fæddur 2003).",
+        "sentence2": "Mehta á tvö börn með eiginkonu Juhi Chawla, stúlku, Jahnavi Mehta (fæddur 2001) og strák, Arjun Mehta (fæddur 2003).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hversu mikill greinarmunur er á tilhneigingum mótmælenda og kaþólskra innan hinnar sértæku anglíkönsku hefðar er jafnan ágreiningsefni bæði innan anglíkanska kirkna og um allt anglíkanska samfélag.",
+        "sentence2": "Hversu mikill greinarmunur er á tilhneigingum mótmælenda og kaþólskra innan anglíkönskrar hefðar er jafnan ágreiningsefni bæði innan tiltekinna anglíkanska kirkna og um allt anglíkanska samfélagið.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School var sértækur skóli fyrir stúlkur í Slough, Buckinghamshire, nú Berkshire.",
+        "sentence2": "Slough High School var sértækur stúlknaskóli í Slough, Buckinghamshire, nú Berkshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus er svæðisbundið brugghús með áhrifum frá þýskum stíl.",
+        "sentence2": "Lobethal Bierhaus er svæðisbundið bjórbrugghús með þýskum áhrifum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Long fæddist í Ísrael, fluttist ungur til Ástralíu og settist þar að árið 1961.",
+        "sentence2": "Lang fæddist í Ástralíu, fluttist ungur til Ísraels og settist þar að árið 1961.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hann lét af störfum í Milwaukee , Wisconsin , þar sem hann lést 5. maí 1903 .",
+        "sentence2": "Hann lést í Wisconsin , Milwaukee , þar sem hann lét af störfum 5. maí 1903 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Litur hettunnar er breytilegur frá brúnum til brúns, oft með gulum bletti á hettunni við þroska.",
+        "sentence2": "Liturinn á hettunni er breytilegur frá brúnum til gulum, oft með brúnum bletti á hettunni við þroska.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Áin Valea lui Lambă eða `` unk '' imon áin er þverá Lom-árinnar í Rúmeníu.",
+        "sentence2": "Áin Valea lui Lambă eða Șimon áin er þverá Lom-árinnar í Rúmeníu .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hin fullgerða girðing er aðallega staðsett í Texas, með byggingu í Nýju Mexíkó, Arizona og Kaliforníu.",
+        "sentence2": "Lokað girðing er aðallega í Texas, en framkvæmdir eru í gangi í New Mexico, Arizona og Kaliforníu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Buccinum pulchellum er tegund sjávarsnigils, sjávarsníkjudýra af Buccinidae fjölskyldunni, hinar sönnu hvellhornsrollur.",
+        "sentence2": "Buccinum pulchellum er tegund sjávarsnigils, sannkallað sníkjudýr í fjölskyldunni Buccinidae, sjávarhvelfingum.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þann 30. apríl 1983 hrapaði C-311 sem var úthlutað til NAS Guantanamo Bay, Kúbu, við NAS Jacksonville með 13 mannslífum.",
+        "sentence2": "Þann 30. apríl 1983 hrapaði C-311 sem var úthlutað til NAS Jacksonville á Kúbu við NAS Guantanamo Bay með þeim afleiðingum að 13 létust.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sem verðlaun fyrir tryggð sína við Henry eignaðist hann ábatasamar jarðir og margar skrifstofur í suðurhluta Wales .",
+        "sentence2": "Sem verðlaun fyrir tryggð sína við Henry eignaðist hann margar jarðir og ábatasamar skrifstofur í Suður Wales .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Árið 2010 sigraði háskólinn í New York Harvard háskólann 3-1-1 til að vinna fyrsta landsmótið.",
+        "sentence2": "Árið 2010 sigraði háskólinn í New York Harvard háskólann 3-1-1 og vann fyrsta landsmótið.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Áin Neajlovel er kvísl árinnar Neajlov í Rúmeníu .",
+        "sentence2": "Neajlovfljót er þverá Neajlovelfljóts í Rúmeníu .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stofnunin er með höfuðstöðvar í Arlington, Virginíu, og erlenda skrifstofu í París, Frakklandi.",
+        "sentence2": "Stofnunin er með höfuðstöðvar sínar í Arlington, Virginíu, og erlend rekstrarskrifstofa í París, Frakklandi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Neajlov-áin er þverá Neajlovel-árinnar í Rúmeníu .",
+        "sentence2": "Áin Neajlovel er kvísl árinnar Neajlov í Rúmeníu .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ahmad Yar Khan fæddist í Tiwana fjölskyldu Shahpur, sonar Sahib Khan.",
+        "sentence2": "Sahib Khan fæddist í Tiwana fjölskyldu Shahpur, sonur Ahmad Yar Khan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hann fæddist í Brooklyn í New York og lést í Tiburon í Kaliforníu.",
+        "sentence2": "Það fæddist í Tiburon, Kaliforníu, og dó í Brooklyn, New York.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tillögur frá Met um að ná frá Paddington til South Kensington og suður frá Moorgate til Tower Hill í suðri voru samþykktar og fengu konunglegt samþykki 29. júlí 1864 .",
+        "sentence2": "Tillögur frá Met um að ná frá Paddington til South Kensington og austur frá Moorgate til Tower Hill í suðri voru samþykktar og fengu konunglegt samþykki 29. júlí 1864 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ljóðið er varðveitt í fjórum brotakenndum handritum, þar af einu samtímariti.",
+        "sentence2": "Ljóðið er varðveitt í fjórum samtímahandritum, þar af eitt í sundur:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Borgarráð Webster Grove samanstóð af meðlimum ráðsins Greg Mueller , Ken Burns , Kathy Hart , Debi Salberg , Toni Hunt og Anne Tolan .",
+        "sentence2": "Borgarráð Webster Groves samanstóð af ráðsmönnum Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt og Anne Tolan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þess vegna benda lækkandi bræðslu- og suðumark alkalímálma til þess að styrkur málmtengja alkalímálma minnki niður í hópinn.",
+        "sentence2": "Þess vegna benda lækkandi bræðslu- og suðumark alkalímálma til þess að styrkur málmtengja alkalímálma í hópnum minnki.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Scrivener tímasetur handritið til 13. aldar, CR Gregory til 12. aldar, sem stendur er handritið dagsett til 12. aldar af INTF.",
+        "sentence2": "Scrivener tímasetti handritið á 12. öld, CR Gregory á 13. öld. Eins og er er handritið dagsett af INTF til 12. aldar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "County Road 540 er nokkrum kílómetrum vestur af State Road 540 í Highland City og liggur suður frá US 98 til County Road 37B.",
+        "sentence2": "County Road 540 er nokkrum kílómetrum suður af State Road 540 í Highland City og liggur vestur frá US 98 til County Road 37B.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "SPB hefur stöðuga hæðarstærð (fjarlægð frá innri veggskjöld til ytri veggskjöldur) í um 150 nm, en þvermál hans breytist í frumuhringnum, z.",
+        "sentence2": "SPB hefur innri hæðarstærð (ytri veggskjöldur að stöðugri veggskjöldfjarlægð) í um 150 nm, en þvermál hans breytist í frumuhringnum, td.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rami Nieminen (fæddur 25. febrúar 1966 ) er finnskur fyrrum knattspyrnumaður .",
+        "sentence2": "Rami Nieminen ( fæddur 25. febrúar 1966 ) er finnskur knattspyrnumaður .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann var frændi tékkneska landsliðsmannsins Miroslavs Hlinka og sonur fyrrum leikmannsins Jaroslavs Hlinka sr.",
+        "sentence2": "Hann var frændi tékkneska landsliðsmannsins Miroslavs Hlinka og sonur fyrrum leikmannsins Jaroslavs Hlinka sr.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þeir voru þarna til að biðja fyrir okkur og þeir voru þarna til að njóta okkar.",
+        "sentence2": "Þeir voru þarna fyrir okkur til að biðja og þeir voru þarna fyrir okkur til að njóta.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "William Llewelyn Williams , betur þekktur sem Llewelyn Williams ( 10. mars 1867 - 22. apríl 1922 ) var róttækur blaðamaður , lögfræðingur og velskur frjálslyndur flokkspólitískur .",
+        "sentence2": "William Williams , þekktur sem Llewelyn Williams ( 10. mars 1867 -- 22. apríl 1922 ) var velskur blaðamaður , lögfræðingur og róttækur frjálslyndur flokkspólitískur .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Risaflugvélin er þriðja stærsta og elsta tré Póllands og þykkasta London flugvél landsins .",
+        "sentence2": "Risaflugvélin er þriðja stærsta og elsta tré Póllands og þykkasta Lundúnaflugvél landsins.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Molmysfljót er á í Perm Krai í Rússlandi , þverá Yazva árinnar til vinstri .",
+        "sentence2": "Yazva er fljót í Perm Krai í Rússlandi, vinstri þverá Molmys árinnar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sarika biður Kabir að hætta áætlun sinni til að sýna honum leik Ranvirs.",
+        "sentence2": "Kabir biður Sarika að opinbera áætlun sína um að binda enda á leik Ranvirs.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fram að tilkomu rafrænnar og stafrænnar myndbandstækni var fjöldaframleiðsla klámmynda tengd beint við almenna kvikmyndaiðnaðinn.",
+        "sentence2": "Fjöldaframleiðsla rafrænna og stafrænna kvikmynda var beintengd hinum rótgróna kvikmyndaiðnaði þar til klámmyndatæknin kom til sögunnar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Á meðan 33d Fighter Group var óvirkur var hann sameinaður 33d Tactical Group sem 33d Tactical Fighter Group.",
+        "sentence2": "Á meðan 33d Tactical Group var óvirkur var hann sameinaður sem 33d Tactical Fighter Group með 33d Fighter Group.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Það þjónar suðausturhluta Edithvale úthverfi Melbourne opnun 20. september 1919.",
+        "sentence2": "Það þjónar suðausturhluta Melbourne úthverfi Edithvale sem opnaði 20. september 1919.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Massé fæddist í Westchester County, New York, ólst upp í Hollandi, Michigan, og bjó í Evrópu á unglingsárum sínum.",
+        "sentence2": "Massé fæddist í Westchester County, New York, ólst upp í Hollandi, Michigan, og bjó í Evrópu á unglingsárunum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fishman er með BS gráðu frá Columbia háskóla og meistaragráðu í hagfræði frá Brown háskóla .",
+        "sentence2": "Fishman er með BA gráðu frá Brown University og meistaragráðu í Columbia háskóla hagfræði.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Í kjölfar velgengni sinnar réði Jane Campion Jones fyrir sjónvarpsþáttaröð sem breyttist í kvikmyndina Angel at my Table , aðlögun á sjálfsævisögu Janet Frame .",
+        "sentence2": "Í kjölfar velgengni hennar var Jane Campion Jones aðlögun á sjálfsævisögu Janet Frame fyrir sjónvarpsþáttaröð sem breyttist í kvikmyndina Angel at my Table .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stipsits fæddist í Vínarborg og eyddi æsku sinni í Stammersdorf í Korneuburg.",
+        "sentence2": "Stipsits fæddist í Vínarborg og eyddi æsku sinni í Stammersdorf í Korneuburg.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Navarro er partido í norðausturhluta Buenos Aires héraði í Argentínu.",
+        "sentence2": "Navarro er partido í norðausturhluta Argentínu í héraðinu Buenos Aires .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Andstreymis er aflögð Michigan Central Railway Bridge, sem ásamt forvera sínum, Niagara Cantilever Bridge, keppti við Rapids Bridge hringiðuna um járnbrautarflutninga.",
+        "sentence2": "Andstreymis er hin óvirkjaða Michigan Central Railway Bridge, sem keppti við forvera sína, Rapids Bridge nuddpottinn, við Niagara Cantilever Bridge um járnbrautarumferð.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lagið var samið og framleitt af galahátíðinni sem var samið af Filippo Andrea Carmeni og Maurizio Molella .",
+        "sentence2": "Lagið var samið og samið af Gala framleitt af Filippo Andrea Carmeni og Maurizio Molella.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Retzius fæddist í Stokkhólmi, sonur líffærafræðingsins Anders Jahan Retzius (og barnabarn náttúrufræðingsins og efnafræðingsins Anders Retzius).",
+        "sentence2": "Retzius fæddist í Stokkhólmi, sonur líffærafræðingsins Anders Retzius (og barnabarn náttúrufræðingsins og efnafræðingsins Anders Jahan Retzius).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Við manntalið 2011 voru 78,8% íbúa Rúmenar, 17% Rómverjar, 2,7% Ungverjar og 1,4% Þjóðverjar.",
+        "sentence2": "Í manntalinu 2011 voru 78,8% íbúa Róma-fólks, 17% Ungverjar, 2,7% Rúmenar og 1,4% Þjóðverjar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Safnið er staðsett miðsvæðis í Jiangbeizui CBD, nálægt ármótum Jialing River og Yangtze River.",
+        "sentence2": "Safnið er staðsett miðsvæðis í Jiangbeizui CBD , nálægt ármótum Jialing árinnar og árinnar Yangtze .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Robbins fæddist í Coventry 21. september 1933 með tvíburanum David, áttunda og níunda barni af tólf af Charles og Jessamine Robbins.",
+        "sentence2": "David fæddist 21. september 1933 í Coventry með tvíburaföður sínum Charles og Jessamine Robbins, áttunda og níunda barn af tólf Robbins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Herfylkingunni er viðhaldið af Queen's York Rangers (1st American Regiment) (RCAC).",
+        "sentence2": "Herfylkingin er viðhaldið af The Queen's York Rangers (RCAC) (1. American Regiment).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Katz fæddist árið 1947 í Svíþjóð og flutti til New York eins árs að aldri.",
+        "sentence2": "Katz fæddist í New York borg árið 1947 og flutti til Svíþjóðar 1 árs að aldri.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Myndin á síðunni er tvívídd mynd öfugt við forútgefna þrívíddarmynd.",
+        "sentence2": "Myndin á hliðinni er tvívídd mynd öfugt við forútgefna þrívíddarmynd.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` Stöðvað '' ljós, í samhengi við EIT miðil, vísar til `` skammtafræði '' flutning ljóseinda yfir í samhangandi kerfið og aftur til baka.",
+        "sentence2": "`` Stöðvað '' Ljós vísar í samhengi EIT miðils til `` skammtafræði '' flutning ljóseinda til samhangandi kerfis og aftur.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fyrra meðaltalið er mikilvægara fyrir há gildi formúlunnar _ 2 .",
+        "sentence2": "Fyrir há gildi Formúlu 2 er núverandi meðaltal mikilvægara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Meðal áberandi kvenna í Súrínam eru Jennifer Simons, Marijke Djwalapersad, Elisabeth Samson, Cynthia McLeod og Ruth Wijdenbosch.",
+        "sentence2": "Meðal áberandi kvenna í Súrínam eru Jennifer Simons, Marijke Djwalapersad, Elisabeth Samson, Cynthia McLeod og Ruth Wijdenbosch.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Árið 1924 var hann boðinn talsmaður ICM í Toronto , í Ósló 1932 og 1936 í Zürich .",
+        "sentence2": "Árið 1924 var hann boðinn talsmaður ICM í Toronto , 1932 í Zürich og í Osló 1936 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "BBC World Service sendi einnig út útgáfu sem heitir `` Animal , Vegetable and Mineral '', undir forsæti Michael Flanders með pallborði þar á meðal Terry Wogan .",
+        "sentence2": "BBC World Service sýndi einnig útgáfu sem heitir `` Animal , Vegetable and Mineral '', undir forsæti Michael Flanders , með pallborði með Terry Wogan .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Yngri bróðir Thompson, Julia, fæddist árið 1863 í Charles Martin Hall, Geauga-sýslu, Ohio.",
+        "sentence2": "Yngri bróðir Juliu , Charles Martin Hall , fæddist í Thompson , Geauga sýslu , Ohio , árið 1863 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Horezu áin er þverá Ponoru árinnar í Rúmeníu .",
+        "sentence2": "Ponoru áin er þverá Horezu í Rúmeníu .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Árið 2002 var lagið gefið út af breska framleiðandanum Vincent Stormfield og coverað af Independiente sem „Sweet Harmony 02“.",
+        "sentence2": "Árið 2002 var lagið coverað af breska framleiðandanum Vincent Stormfield og gefið út sem `` Sweet Harmony '02'' af Independiente.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "David fæddist 21. september 1933 í Coventry með tvíburaföður sínum Charles og Jessamine Robbins, áttunda og níunda barn af tólf Robbins.",
+        "sentence2": "Robbins fæddist 21. september 1933 í Coventry, með tvíbura sínum David, áttunda og níunda barn af tólf Charles og Jessamine Robbins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hersveitin fór frá Boston í október 1777 til að ganga til liðs við aðalher George Washington hershöfðingja fyrir utan Fíladelfíu .",
+        "sentence2": "Stjórnin fór frá Fíladelfíu í október 1777 til að ganga til liðs við aðalher George Washington hershöfðingja fyrir utan Boston .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Efnasambandið var þróað af Dr. Patrick Page og teymi hans og fékk einkaleyfi af Genkyotex árið 2007.",
+        "sentence2": "Efnasambandið var með einkaleyfi af Dr. Patrick Page og teymi hans og var fundið upp af Genkyotex árið 2007.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "„Tilfellið“ var notað í síðasta sinn árið 1949 í Austur-Þýskalandi, 1966 í Vestur-Þýskalandi.",
+        "sentence2": "`` Fallbeil '' var síðast notað í Vestur-Þýskalandi árið 1949, árið 1966 í Austur-Þýskalandi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ringo Sheena er leiðtogi Saito Neko kvartettsins og er þekktur fyrir mörg samstarf sitt við tónlistarmanninn Saito.",
+        "sentence2": "Saito er yfirmaður Saito Neko kvartettsins og er vel þekktur fyrir margvíslegt samstarf við tónlistarmanninn Ringo Sheena .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abu Halifa eða Abu Hulayfah eða Abu Huleifa eða Abu Haleifah er lítill bær í Abu Halifa-hverfinu í Al Ahmadi-héraði í suðurhluta Kúveit .",
+        "sentence2": "Abu Halifa eða Abu Hulayfah eða Abu Huleifa eða Abu Haleifah er lítill bær í Kúveit í Al Ahmadi héraðinu í suðurhluta Abu Halifa héraðsins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Faðir hans var launsonur Anne Tothby , þingmanns fyrir Lincolnshire , og William Skipwith .",
+        "sentence2": "Faðir hans var launsonur Anne Tothby , þingmanns í Lincolnshire þinginu , og William Skipwith .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þar á meðal eru Marie Teresa Rios, tónskáld bolero, Julita Ross, rithöfundur, og Sylvia Rexach, söngkona.",
+        "sentence2": "Þar á meðal eru Sylvia Rexach, tónskáld Boleros, Marie Teresa Rios, rithöfundur, og Julita Ross, söngkona.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hann lét eftir sig eiginkonu Carol Ober, dóttur Viola og fjögur barnabörn.",
+        "sentence2": "Hann lét eftir sig eiginkonu sína Carol Ober, dóttur sína Viola og fjögur barnabörn.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann myndi snúa aftur á stöðina fyrir vestan Tecumseh um nóttina og hjóla síðan með öðrum hesti til Violet Springs áður en nágrannar hans gætu grunað.",
+        "sentence2": "Hann myndi ferðast til stöðvarinnar um nóttina, sem staðsett er vestur af Tecumseh, og snúa svo aftur til Violet Springs með annan hest áður en nágrannar hans gætu verið grunsamlegir.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stofnunin er með höfuðstöðvar í París í Frakklandi og erlenda skrifstofu - Operations - Office í Arlington , Virginia .",
+        "sentence2": "Stofnunin er með höfuðstöðvar sínar í Arlington, Virginíu, og erlend rekstrarskrifstofa í París, Frakklandi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Árið 1964 var biskupsdæmið að nafninu til endurreist sem titlaður borgari af lægsta (biskups) stigi.",
+        "sentence2": "Árið 1964 var biskupsdæmið að nafninu til endurreist sem biskupsstóll af lægstu ( titli ) stöðu .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Síðari starf hans í landbúnaði var aðallega í Lincolnskíri en hann lagði einnig til umfangsmiklar fyllingar í Norfolk sem tókst vel.",
+        "sentence2": "Framtíðarstarf hans í landbúnaði var aðallega í Norfolk en hann lagði einnig til umfangsmiklar fyllingar í Lincolnshire sem tókst með góðum árangri.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þegar Jack Nitzsche heyrði fyrst „Stubborn Kind of Fellow“ var hann svo spenntur að hann missti stjórn á bílnum sínum þegar hann ók niður Sunset Boulevard með Phil Spector.",
+        "sentence2": "Þegar Phil Spector heyrði `` Stubborn Kind of Fellow '' í fyrsta skipti var hann svo spenntur að hann missti stjórn á bíl sínum þegar hann ók niður Sunset Boulevard með Jack Nitzsche.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kommúnistar trúðu því staðfastlega að Central Intelligence Agency styddi þessi mótmæli af hyggindum bæði fjárhagslega og á annan hátt.",
+        "sentence2": "Kommúnistar töldu næðislega að Central Intelligence Agency styddi þessi mótmæli bæði fjárhagslega og á annan hátt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tegundirnar eru meðlimir í mismunandi vistfræðilegum hópum, þar á meðal runnar, lianas og tré, hitabeltisplöntur, mycoheterotrophy, auk ýmissa jurtafulltrúa.",
+        "sentence2": "Tegundirnar tilheyra mismunandi vistfræðilegum hópum, þar á meðal suðrænum runnum, lianas og trjám, plöntur sem eru ræktaðar, sveppasýkingar, auk ýmissa jurtafulltrúa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Khaninn fór út með fylgdarliði, Tsitsianov reið ásamt tveimur öðrum mönnum og var skotinn til bana.",
+        "sentence2": "Khan fór fram með fylgdarliði, Tsitsianov reið ásamt tveimur öðrum mönnum og var skotinn til bana.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Í Sculcoates er bókasafn, pósthús, sundlaug sem heitir Beverley Road Baths, menntaskóli og tveir grunnskólar.",
+        "sentence2": "Sculcoates er með bókasafn, pósthús, sundlaug sem heitir Beverley Road Baths, menntaskóli og tveir grunnskólar.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann fæddist í Melbourne og flutti til Nýja Sjálands með fjölskyldu sinni þegar hann var 10 ára gamall.",
+        "sentence2": "Hann fæddist á Nýja Sjálandi og flutti með fjölskyldu sinni til Melbourne þegar hann var 10 ára.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Í sögu slíkra tækja kom það á undan „Tyrknum“ og tók við „Mephisto“.",
+        "sentence2": "Í sögu slíkra tækja hefur Tyrki `` tekist og Mephisto `` á undan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Agranat fæddist í Louisville, Kentucky, árið 1906, í gyðinga-síonistafjölskyldu.",
+        "sentence2": "Agranat fæddist í síonista-gyðingafjölskyldu í Louisville, Kentucky árið 1906.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Massé fæddist í Westchester County, New York, ólst upp í Hollandi, Michigan, og bjó í Evrópu á unglingsárunum.",
+        "sentence2": "Massé fæddist í Hollandi í Michigan, ólst upp í Westchester-sýslu í New York og bjó í Evrópu á unglingsárum sínum.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þessar þrjár móðurættir réðu ríkinu Waalo ásamt föðurfjölskyldu Mbooj .",
+        "sentence2": "Þessar þrjár móðurættir réðu ríkinu Waalo með Mbooj föðurættinni .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "BAC kynnir þrjár árlegar sýningar með Minnesota-hljómsveitinni og hefur nýlega pantað verk eftir Diavolo og Merce Cunningham Dance Company.",
+        "sentence2": "BAC hefur þrjár sýningar árlega af Minnesota-hljómsveitinni og kynnir nýlega pöntuð verk eftir Diavolo og Merce Cunningham Dance Company.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Monroe Meadows , í Yosemite dalnum nálægt Bridalveil Falls , er einnig nefnt eftir George Monroe .",
+        "sentence2": "Monroe Meadows, í Bridalveil tilfelli nálægt Yosemite Valley, er einnig nefnt eftir George Monroe.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Andesít var ríkjandi hraungerð með nokkrum sýnum nógu mafískt til að flokkast sem basaltandesít.",
+        "sentence2": "Andesít var ríkjandi hraungerð með nokkrum sýnum sem dugðu til að flokkast sem basaltandesít .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Snemma árs 2016 var Bob Hackett öldungadeildarþingmaður skipaður í öldungadeild Ohio til að taka við af öldungadeildarþingmanninum Chris Widener sem sagði af sér .",
+        "sentence2": "Snemma árs 2016 var öldungadeildarþingmaðurinn Chris Widener skipaður í öldungadeild Ohio til að taka við af öldungadeildarþingmanninum Bob Hackett sem sagði af sér.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Í reynd eru mesquite `` einingar '' Java-flokkar, venjulega abstrakt undirflokkar af áþreifanlegum flokkaskilgreiningum.",
+        "sentence2": "Í reynd eru Mesquite `` einingar '' Java-flokkar venjulega áþreifanlegir undirflokkar óhlutbundinna flokkaskilgreininga.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Páfi lagði til lausn árið 1980 sem var hafnað af Chile og samþykkt af Argentínu.",
+        "sentence2": "Páfi lagði til lausn sem Chile samþykkti árið 1980 og hafnaði af Argentínu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Á þriðja og fjórða áratugnum var hann fjórum sinnum kjörinn fyrir Al Smith árið 1928 fyrir Franklin D. Roosevelt og fyrir Harry S. Truman árið 1948 .",
+        "sentence2": "Massachusetts kaus Al Smith árið 1928 , Franklin D. Roosevelt fjórum sinnum á þriðja og fjórða áratugnum og Harry S. Truman árið 1948 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tónlistin sem flutt er þegar Bob dregur fram „Blackadder“ er Vaughan Williams „Fantasia on Greensleeves“.",
+        "sentence2": "Tónlistin sem er flutt sem Blackadder courts '' Bob '' er '' Fantasia on greensleeves '' eftir Vaughan Williams.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Það er líka athyglisvert að eftirfarandi kóði myndi virka án ADL (það verður samt notað á hann).",
+        "sentence2": "Það er líka athyglisvert að eftirfarandi kóði myndi virka án ADL (það verður samt notað á hann).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Það mætir síðan Snoqualmie ánni til að mynda Snohomish ána í Monroe.",
+        "sentence2": "Það mætir síðan Snoqualmie ánni til að mynda Snohomish ána í Monroe.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Í kosningabaráttu sinni ræddi hann tvisvar um McCain, einu sinni í Tucson og einu sinni í Flagstaff.",
+        "sentence2": "Í kosningabaráttu sinni ræddi hann tvisvar um McCain, einu sinni í Flagstaff og einu sinni í Tucson.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Konan hans, Stella Gemmell, kláraði hana eftir dauða hans 28. júlí 2006 og var gefin út undir sameiginlegu höfundarrétti Davids og Stellu Gemmell.",
+        "sentence2": "Hún var gefin út af eiginkonu hans Stellu Gemmell eftir andlát hans 28. júlí 2006 og lauk undir sameiginlegri höfundarstjórn Davids og Stellu Gemmell.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Central Baptist Association er samtök kirkna frá Suður-Karólínu til Indiana, með flestar kirkjur í austurhluta Tennessee og suðvesturhluta Virginíu.",
+        "sentence2": "Central Baptist Association er samtök kirkna frá Suður-Karólínu til Virginíu, þar sem flestar kirkjurnar eru í austurhluta Tennessee og suðvesturhluta Indiana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Karen Phillips hóf samband við Steve af Suranne Jones lék.",
+        "sentence2": "Steve hóf samband við Karen Phillips leikin af Suranne Jones.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "vidas distintas er mexíkósk telenovela frá 1969 send af Televisa og upphaflega framleidd af Telesistema Mexicano.",
+        "sentence2": "Tres vidas distintas, er mexíkósk telenovela frá 1969, send af Televisa og upphaflega framleidd af Telesistema Mexicano.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Chandler leit á tölvuna sem tæki til að læra, en hann hafnaði ríkjandi hluthyggju sem viðurkenndi gögn sem upplýsingar og upplýsingar sem þekkingu.",
+        "sentence2": "Chandler viðurkenndi tölvuna sem tæki til að læra, en hann hafnaði ríkjandi hluthyggju, sem leit á gögn sem upplýsingar og upplýsingar sem þekkingu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fasaskipti frá ferrósegul yfir í paramagnet er annað og er í samfelldri röð.",
+        "sentence2": "Fasaskipti frá ferrósegul yfir í paramagnet eru samfelld og hafa aðra röð.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Albanskar fjölskyldur yfirgáfu þorpið áður en serbneskir flóttamenn sneru aftur árið 1999.",
+        "sentence2": "Áður en serbneskir flóttamenn sneru aftur árið 1999 yfirgáfu albanskar fjölskyldur þorpið.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hins vegar var sleppt upprunalegu útgáfunni í þágu mildu útgáfunnar .",
+        "sentence2": "Mildu útgáfunni var þó sleppt í þágu upprunalegu útgáfunnar .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Árið 1864 sendi United Presbyterian Missionary Society of Scotland umboðsmenn sína til Kína .",
+        "sentence2": "The United Presbyterian Missionary Society of China sendi umboðsmenn sína til Skotlands árið 1864 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Eftir tíu ára dvöl í París sneri Houdon aftur til Ítalíu .",
+        "sentence2": "Eftir tíu ár í París sneri Houdon aftur til Ítalíu .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Henni var sökkt af Þjóðverjum og eytt af sprengjuflugvélum bandamanna tvisvar á árunum 1943 - 1944 og loks alin upp 1946 - 1947.",
+        "sentence2": "Það var reist af Þjóðverjum á árunum 1943 - 1944 og sökkt tvisvar af sprengjuflugvélum bandamanna og loks eytt 1946 - 1947.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Árið 1864 sendi United Presbyterian Missionary Society of China umboðsmenn sína til Skotlands .",
+        "sentence2": "The United Presbyterian Missionary Society of China sendi umboðsmenn sína til Skotlands árið 1864 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Með aðalhlutverkin fara Lily Rabe, Timothée Chalamet, Lili Reinhart, Anthony Quintal, Oscar Nunez og Rob Huebel.",
+        "sentence2": "Aðalhlutverkin leika Lilie Rabe , Timothée Chalamet , Lili Reinhart , Anthony Quintal , Oscar Nunez og Rob Huebel .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dakota City er hluti af stórborgarsvæðinu Sioux City, IA - NE - SD.",
+        "sentence2": "Dakota City er hluti af Sioux City, IA - NE - SD Metropolitan Statistical Area.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Grant Connell og Glenn Michibata unnu titilinn og unnu Wayne Ferreira og Jim Grabb 6:4, 6:3 í úrslitum.",
+        "sentence2": "Wayne Ferreira og Jim Grabb unnu titilinn og unnu Grant Connell og Glenn Michibata 6-4, 6-3 í úrslitaleiknum.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þingkosningarnar í Zagreb árið 1927 voru haldnar 4. september 7 dögum fyrir sveitarstjórnarkosningar .",
+        "sentence2": "Þingkosningarnar 1927 í Zagreb voru haldnar 4. september, 7 dögum fyrir sveitarstjórnarkosningar.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum er tegund sjávarsnigils, sannkallað lindýralind í fjölskyldunni Buccinidae, sjávarhvelfingum.",
+        "sentence2": "Probuccinum tenerum er tegund sjávarsnigils, sannkallað lindýra lindýr af Buccinidae fjölskyldunni, sjóhnoðra.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Áin Valea lui Lambă eða Lom-áin er þverá Șimon-árinnar í Rúmeníu .",
+        "sentence2": "Áin Valea lui Lambă eða Lom River er þverá \"unk\" imon áin í Rúmeníu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þessi ættkvísl er nú flokkuð í fjölskyldu eðla, þekkt sem Iguanidae, undirætt Polychrotinae, og er ekki lengur flokkuð í núverandi öryrkjaætt, polychrotidae.",
+        "sentence2": "Þessi ættkvísl er nú í fjölskyldu eðlna sem kallast Iguanidae, undirættin Polychrotinae, og er ekki lengur flokkuð í núgilda fjölskylduna, Polychrotidae.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Árið 2012 snérist borgin við og barack Obama, sitjandi demókrati, bar sigur úr býtum, sem fékk 51% atkvæða til Repúblikanans Mitt Romney með 48%.",
+        "sentence2": "Árið 2012 snérist hverfið við og barack Obama, sitjandi demókrati, bar sigur úr býtum, sem fékk 51% atkvæða á móti 48% Repúblikanans Mitt Romney.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Með henni hef ég getað uppfyllt nokkra af tónlistardraumum mínum með snemma stílum og þessi nýi stíll er virkilega stór, ferskur og náttúrulega reiprennandi.",
+        "sentence2": "Með henni hef ég getað uppfyllt nokkra af fyrstu draumum mínum með tónlistarstílum og þessi nýi stíll er virkilega stór, ferskur og náttúrulega flæðandi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Grady Howard var kjörinn fyrsti borgarstjóri á þessum degi og var formlega útnefndur bráðabirgðaborgarstjóri Spring Lake 5. júní 1951 .",
+        "sentence2": "Grady Howard var kjörinn fyrsti borgarstjórinn á þessum degi og formlega skipaður borgarstjóri Spring Lake 5. júní 1951 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ballouhey er aðallega til í Isère í París sem og í Frakklandi og Suður-Afríku.",
+        "sentence2": "Ballouhey er aðallega til í Frakklandi í Isère og í París, auk Suður-Afríku.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Það verður hátt með langan vegg og afkastagetu.",
+        "sentence2": "Það verður hátt, með langan vegg og rúmtak.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Menntun í Alabama samanstendur af framhalds- og grunnskólum í Alabama, þar á meðal háskólanum í Alabama, einkareknum háskólum og opinberum og einkaskólum.",
+        "sentence2": "Menntun í Alabama samanstendur af opinberum og einkaskólum í Alabama, þar á meðal háskólanum í Alabama, einkareknum háskólum og framhalds- og grunnskólum.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þættirnir voru frumsýndir 18. apríl 2009 í Ástralíu á Nickelodeon (Nýja Sjálandi og Nýja Sjálandi).",
+        "sentence2": "Þann 18. apríl 2009 var þáttaröðin frumsýnd á Nýja Sjálandi á Nickelodeon (Ástralíu og Nýja Sjálandi).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Það var leikstýrt af George Fitzmaurice og er byggt á leikriti frá 1917, \"Tiger Rose\", eftir Willard Mack.",
+        "sentence2": "Leikstjóri er George Fitzmaurice og er hann byggður á leikriti \"Tiger Rose\" frá 1917 eftir Willard Mack.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Útgáfan af Mahabharata skrifuð af Odia-skáldinu Sarala Dasa segir frá goðsögninni um Navagunjara, enginn annar hefur söguna.",
+        "sentence2": "Útgáfan af Mahabharata, skrifuð af Odia skáldinu Sarala Dasa, hefur goðsögnina um Navagunjara. Engin önnur útgáfa segir söguna.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam ( 15. október 1929 -- 29. júlí 2012 ) var indverskur dansari og sérfræðingur í Kuchipudi dansforminu .",
+        "sentence2": "Vempati Chinna Satyam ( 15. október 1929 - 29. júlí 2012 ) var indverskur dansari og sérfræðingur í Kuchipudi dansforminu .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lee Hi er suður-kóreskur söngvari undir stjórn YG Entertainment.",
+        "sentence2": "Kóreski söngvarinn Lee Hi er suður-kóreskur söngvari undir stjórn YG Entertainment.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Afbrigði þessarar aðferðar gefa góðar tölulegar nálganir fyrir marga veldisvísina þegar mikilvæg hugtök eru tekin með, bæði í tvívídd og þrívídd.",
+        "sentence2": "Afbrigði af þessari aðferð gefa góðar tölulegar nálganir fyrir mikilvægu veldisvísana þegar mörg hugtök eru innifalin í bæði tvívídd og þrívídd.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lokið var aðeins fjarlægt af forréttindaáhorfendum, svo þessar senur gætu hafa verið innilegri.",
+        "sentence2": "Lokið var aðeins fjarlægt af forréttindaáhorfendum, svo þessar senur gætu hafa verið innilegri.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Það þjónar Chandimandir Cantonment svæði Panchkula borgar.",
+        "sentence2": "Það þjónar Panchkula svæði í borginni Chandimandir Cantonment.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School var sértækur stúlknaskóli í Slough, Buckinghamshire, nú Berkshire.",
+        "sentence2": "Slough High School var sértækur stúlknaskóli í Slough, Buckinghamshire, nú Berkshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eugene D. Engley fæddist 5. apríl 1851 í Attleborough , Massachusetts , sem sonur James Henry Engley og eiginkonu hans , fyrrverandi Mary Kaley .",
+        "sentence2": "James Henry Engley fæddist 5. apríl 1851 í Attleborough , Massachusetts , sonur Eugene D. Engley og eiginkonu hans , fyrrverandi Mary Kaley .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Maritsa Lazari fæddist á Kýpur í október 1943 og flutti með fjölskyldu sinni 16 ára gömul til London á Englandi.",
+        "sentence2": "Maritsa Lazari fæddist í London í október 1943 og hefur flutt til Kýpur með fjölskyldu sinni 16 ára að aldri.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þann 5. mars 2011 birti MTV Hive straumspilun á Anni Rossi sem flytur \" Rude Boy \"' eftir Rihönnu.",
+        "sentence2": "Þann 5. mars 2011 birti MTV Hive straumspilun á Rihönnu þar sem hún flutti Anni Rossi `` Rude Boy ''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Machpelah Cemetery, einnig skrifað sem '' Macpelah Cemetery `` eða '' Macphelah Cemetery ``, er kirkjugarður í Hudson County, New Jersey.",
+        "sentence2": "Machpelah kirkjugarðurinn, einnig stafsettur sem `` Macpelah kirkjugarður '', eða `` Macphelah kirkjugarður '', er kirkjugarður í Hudson County, New Jersey.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lagið var samið og samið af Gala af Filippo Andrea Carmeni og Maurizio Molella framleiddi.",
+        "sentence2": "Lagið var samið og framleitt af galahátíðinni sem var samið af Filippo Andrea Carmeni og Maurizio Molella .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Að sögn Prior var Robert Goldsmith, afi skáldsins, leikskáldsins og skáldsagnahöfundarins Oliver Goldsmith, fyrstur fjölskyldunnar til að setjast að í Ballyoughter.",
+        "sentence2": "Samkvæmt Robert Prior var Robert Goldsmith afi skáldsins , leikskáldsins og rithöfundarins Oliver Goldsmith , sá fyrsti í fjölskyldunni til að setjast að Ballyoughter .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Að sleppa vélunum og eldsneyti þeirra myndi draga úr flækjustiginu og auka hleðslu.",
+        "sentence2": "Að sleppa vélunum og eldsneyti þeirra myndi auka flækjustig og draga úr hleðslu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Að sögn Tobe og Gunnars Hansen var ástæðan fyrir því að hann var með grímu sú að gríman réði í raun persónuleika hans .",
+        "sentence2": "Gunnar Hansen sagði: `` Ástæðan fyrir því að hann var með grímu, að sögn Tobe og Kim, var sú að gríman réði raunverulega persónuleika hans.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Einka Claiborne Academy er staðsett í Haynesville, nálægt Parish Claiborne.",
+        "sentence2": "Einka Claiborne Academy er staðsett í Claiborne Parish, ekki nálægt Haynesville.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "NVIDIA TITAN V var opinberlega tilkynnt af Nvidia þann 7. desember 2017.",
+        "sentence2": "Þann 7. desember 2017 tilkynnti NVIDIA opinberlega Nvidia TITAN V.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann stundaði læknisþjálfun á Middlesex sjúkrahúsinu í London og hlaut réttindi sem klínískur læknir árið 1943.",
+        "sentence2": "Hann stundaði klíníska þjálfun á Middlesex sjúkrahúsinu í London og hlaut réttindi sem læknir árið 1943.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hann kom fram sem glersmiður og starfaði með mörgum mismunandi hljómsveitum á mismunandi hljóðfæri.",
+        "sentence2": "Hann starfaði sem glersmiður og lék á ýmis hljóðfæri með mörgum mismunandi hljómsveitum.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Íhlutir vélrænna kerfa geyma teygjanlega hugsanlega orku ef þeir aflagast á kerfinu þegar kraftar eru beittir.",
+        "sentence2": "Íhlutir vélrænna kerfa geyma teygjanlega hugsanlega orku ef þeir aflagast þegar kröftum er beitt á kerfið.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "William Llewelyn Williams þekktur sem Llewelyn Williams (10. mars 1867 – 22. apríl 1922), var velskur blaðamaður, lögfræðingur og róttækur stjórnmálamaður Frjálslynda flokksins.",
+        "sentence2": "William Williams , þekktur sem Llewelyn Williams ( 10. mars 1867 - 22. apríl 1922 ) , var velskur blaðamaður , lögfræðingur og róttækur frjálslyndur flokkspólitískur .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Blagoy Ivanov skoraði á Mehmen fyrir WSOF þungavigtarmeistaramótið þann 17. október 2015 .",
+        "sentence2": "Blagoy Ivanov skoraði á Mehmen fyrir WSOF þungavigtarmeistaramótið 17. október 2015 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Það var stofnað af Richard Creed, smíðað af George Edwards, hannað af Collins og Geoffrey frá Monmouth.",
+        "sentence2": "Það var hannað af Richard Creed, smíðað af Collins og Geoffrey og útbúið af George Edwards frá Monmouth.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sacramento er staðsett í (38.651254, -121.259279), á milli Fair Oaks og Folsom.",
+        "sentence2": "Fair Oaks er staðsett á milli Sacramento og Folsom (38.651254, -121.259279).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lagið \" Astrud \" á plötu Gilberto frá 1987 , \" Time and Tide \" , er virðing til Basia Trzetrzelewska .",
+        "sentence2": "`` Astrud '' lagið á plötu Basia Trzetrzelewska '' Time and Tide '' frá 1987 er virðing til Gilberto.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Clark átti son, Rishi, fæddan 3. apríl 2007. Socks and Sandals EP á Microcosm Music var nefnd eftir honum, Rishi Saturn.",
+        "sentence2": "Rishi átti son, Clark, fæddan 3. apríl 2007. Socks and Sandals EP um Microcosm Music var nefnd eftir honum, Rishi Saturn.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Melodie Crittenden yfirgaf hópinn árið 2004 til að stunda sólóferil og mestan hluta ársins 2005 söng Nicol með hópnum.",
+        "sentence2": "Melodie Crittenden yfirgaf hópinn árið 2004 til að horfa á sólóferil og lengst af 2005 söng Nicol með hópnum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Í hálf-atvinnumannafótbolta keppa skosk lið á öllum stigum fyrir neðan skoska úrvalsdeildina, þar sem flest lið fyrir neðan skoska meistaramótið eru hálf-atvinnumenn.",
+        "sentence2": "Í skoska boltanum birtast hálf-atvinnumannaliðin á öllum stigum fyrir neðan skoska úrvalsdeildina, þar sem flest lið fyrir neðan skoska meistaratitilinn eru hálf-atvinnumenn.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Diboll og Owen frá New Orleans voru arkitektar og GA Chamblin frá Mobile var verktaki.",
+        "sentence2": "Arkitektar voru Diboll og Owen frá New Orleans og verktaki var GA. Chamberlin of Mobile.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Í illkynja háþrýstingi fylgja þessum ofmyndunarbreytingum oft slagæðadrep á fibrinoid intima og media.",
+        "sentence2": "Í illkynja háþrýstingi fylgja þessum ofmyndunarbreytingum oft fíbrínóíðdrepi á slagæðum og miðlum.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Liðið fór í tónleikaferð um Ástralíu 1953 og Asíu í ágúst 1959 .",
+        "sentence2": "Árið 1953 ferðaðist liðið um Asíu og í Ástralíu í ágúst 1959 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þessi mynd fjallar um Rafael, söngvara frá Malajalam í nýja kvikmyndaiðnaðinum.",
+        "sentence2": "Myndin fjallar um Rafael, nýjan söngvara í Malayalam kvikmyndaiðnaðinum.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Árið 1864 sendi United Presbyterian Missionary Society of China fulltrúa sína til Skotlands .",
+        "sentence2": "The United Presbyterian Missionary Society of China sendi umboðsmenn sína til Skotlands árið 1864 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Upphafsvigurrýmisformúlan _ 13 er kölluð `` upphafshlutur '' eða `` staðfræðileg uppbygging '' með tilliti til tiltekinna gagna.",
+        "sentence2": "Upphafsvigurrýmið Formúla 13 er kölluð upphafshlutur `` eða '' staðfræðileg uppbygging með tilliti til tiltekinna gagna.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þessar þrjár móðurættir réðu ríkinu Waalo ásamt föðurfjölskyldu Mbooj .",
+        "sentence2": "Þessar þrjár föðurættir stjórnuðu konungsríkinu Waalo með móðurfjölskyldunni Mbooj.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Í myndinni eru Jembie Almazan sem Alex, Bernardo Garnica Cruz sem David og Jonathan Diaz Angulo sem Maria.",
+        "sentence2": "Í myndinni eru Jembie Almazan í hlutverki Mary, Bernardo Garnica Cruz sem David og Jonathan Diaz Angulo sem Alex.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þó að útilokun svartra leikmanna hafi ekki verið skrifleg regla, síðan 1933 hafði enginn Afró-Ameríkani leikið í National Football League.",
+        "sentence2": "Þó að útilokun svartra leikmanna hafi ekki verið skrifleg regla, hafði enginn Afríku-Ameríkumaður leikið í National Football League síðan 1933.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dale hefur verið kvæntur Patricia Meyer síðan 1984 og saman eiga þau tvo syni: Ryan (fæddur 1988) og Blake (fæddur 1992).",
+        "sentence2": "Síðan 1984 hefur Blake verið kvæntur Patricia Meyer og á tvo syni: Ryan (fæddur 1988) og Dale (fæddur 1992).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þegar Platzer opnaði annan veitingastað sinn í Allentown árið 1993, breytti hann nafninu í PJ Whelihan's til að heiðra afa sinn, Peter Joseph Whelihan.",
+        "sentence2": "Árið 1993 , þegar Platzer opnaði annan veitingastað sinn í Allentown , breytti hann nafninu í PJ Whelihan til að heiðra afa sinn Peter Joseph Whelihan .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Í leiðangrinum voru 65 hermenn drepnir: 34 Nígeríumenn, 28 Tsjadíumenn, 2 Tógóbúar og 1 Búrkínabúar.",
+        "sentence2": "Í leiðangrinum voru 65 hermenn drepnir: 34 Tsjadíumenn, 28 Nígeríumenn, 2 Tógóbúar og 1 Búrkínabúar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Í desember 1969 varð 49. herdeild 29. herdeild.",
+        "sentence2": "Í desember 1969 varð 29. herdeild 49. herdeild.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Scaps eru að mestu fjarverandi eða mjög stutt.",
+        "sentence2": "Skálarnar eru mjög stuttar eða eru að mestu fjarverandi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Það var litið á hana sem „“ hefur mjög mikla möguleika og mikla hæfileika og mun vaxa í framtíðinni til einstaks tónlistarmanns.",
+        "sentence2": "Lítt var á hana þar sem hún „hafi mjög mikla möguleika og mikla hæfileika og mun vaxa upp í einstaka tónlistarpersónu í framtíðinni. ''",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Í janúar 2013 var tilkynnt að Warren Spector Disney Interactive væri farinn eftir lokun Junction Point Studios .",
+        "sentence2": "Í janúar 2013 var tilkynnt að Warren Spector hefði yfirgefið Junction Point Studios eftir lokun Disney Interactive .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Flugsamgöngur eru veittar á staðnum með smærri flugvélum í New Bedford, Berkley, og svæðisflugvellinum í East Taunton.",
+        "sentence2": "Flugsamgöngur eru veittar á staðnum með smærri flugvélum í East Taunton, Berkley, og svæðisflugvellinum í New Bedford.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þegar við notum snúningsvél til skiptis höfum við ATIME auðlindina.",
+        "sentence2": "Ef við erum með Turing vél til skiptis notum við auðlindina ATIME.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hann endaði tveimur höggum á eftir Bubba Watson og Louis Oosthuizen og harmaði púttframmistöðu sína sem ástæðu þess að hann vann ekki mótið.",
+        "sentence2": "Hann endaði tveimur höggum á eftir Louis Oosthuizen og Bubba Watson og harmaði púttframmistöðu sína sem ástæðu þess að hann vann ekki mótið.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fyrri gistiborgir Sirius-ákvarðanaráðstefnunnar eru Orlando (2014), Scottsdale (2013) og San Diego (2012).",
+        "sentence2": "Fyrrum gistiborgir SiriusDecisions Summit eru Orlando (2014), San Diego (2013) og Scottsdale (2012).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lýsingin í Louvre-málverkinu er hlýrri og virðist mýkri, en það getur stafað af hljóði lakksins á yfirborðinu.",
+        "sentence2": "Lýsingin í Louvre-málverkinu er hlýrri og virðist mýkri, en það kann að stafa af tóni lakksins á yfirborðinu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Molmys River er fljót í Perm Krai í Rússlandi, vinstri þverá Yazva árinnar.",
+        "sentence2": "Yazva er fljót í Perm Krai í Rússlandi, vinstri þverá Molmys árinnar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þann 1. ágúst 1699 afhenti William Blackett landaeign sína í Chirton til Sir Archibald Campbell sem seldi Bickerstaffe , 1. hertoga af Argyll Hall .",
+        "sentence2": "Þann 1. ágúst 1699 afhenti William Blackett eignarréttarlönd sín í Chirton til Sir Archibald Campbell , sem seldi salinn til Bickerstaffe , 1. hertoga af Argyll .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Big Band Specials er plata frá 1962 eftir Bob Cooper, með lögum útsett af Bill Holman, Shorty Rogers og eiginmanni June Christy.",
+        "sentence2": "Big Band Specials er plata frá 1962 eftir Bob Cooper, með lögum eftir Bill Holman, Shorty Rogers og eiginmanninn June Christy útsett.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fyrir utan ýmsar málmplötur voru í sumum tilfellum notaðir steypu og sandpokar fyrir spunatanka.",
+        "sentence2": "Fyrir utan spuna brynvarðar málmplötur voru í sumum tilfellum notaðir steypu og sandpokar í ýmsar lestir.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Barbara Boothe Ellison fæddist í Santa Clara County, Kaliforníu, dóttir milljarðamæringsins Oracle Corporation stjórnarformanns Larry Ellison og fyrrverandi eiginkonu hans, Megan Ellison.",
+        "sentence2": "Megan Ellison fæddist í Santa Clara sýslu í Kaliforníu sem dóttir milljarðamæringsins Oracle Corporation - stjórnarformanns Larry Ellison og fyrrverandi eiginkonu hans Barbara Boothe Ellison .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Guillermo Coria sigraði Alberto Martin 6 - 3, 3 - 6, 6 - 2",
+        "sentence2": "6 Alberto Martin sigraði Guillermo Coria 6 - 3, 3 - 6, 6 - 2",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Red Bulls töpuðu en komust í 1. umferð úrslitakeppninnar .",
+        "sentence2": "Red Bulls töpuðu en komust í 1. umferð úrslitakeppninnar.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "12. janúar 1978: Ron Atkinson, knattspyrnustjóri Cambridge United, er ráðinn knattspyrnustjóri West Bromwich Albion.",
+        "sentence2": "12. janúar 1978: Ron Atkinson, knattspyrnustjóri Cambridge United, er ráðinn stjóri West Bromwich Albion.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Árið 1979 átti hann sitt besta ár á tónleikaferðalagi og komst í átta liða úrslit í Atlanta, Jóhannesarborg og Tel Aviv.",
+        "sentence2": "Árið 1979 átti hann sitt besta ár á tónleikaferðalagi, 8-liða úrslit í Tel Aviv, Jóhannesarborg og Atlanta.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Næsta útgáfa var búin til af bróður Robert Fuller, Ron, árið 1986.",
+        "sentence2": "Næsta útgáfa var búin til árið 1986 af bróður Robert Fuller, Ron.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Musterið þjónar sem menningar- og trúarmiðstöð fyrir kóreska hindúa og innflytjendur frá Suður-Asíu löndunum.",
+        "sentence2": "Musterið þjónar sem menningar- og trúarmiðstöð suður-asískra hindúa og innflytjenda frá kóreskum löndum.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Klúbbhúsið var byggt af Curtis, fyrir þá upphæð $60.000, og leigði það fyrir háa kostnað til klúbbsins.",
+        "sentence2": "Klúbbhúsið var byggt af Curtis, fyrir þá nafnvirði $60.000, og leigði það klúbbnum gegn háu gjaldi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mitsuhisa Ishikawa og Tomohiko Ishii frá Production IG, Danny Choo, Kaname og Tasha með Miyuko frá Kóreu voru sérstakir gestir viðburðarins.",
+        "sentence2": "Tasha frá framleiðslu IG, Danny Choo, Kaname, Mitsuhisa Ishikawa og Tomohiko Ishii með Miyuko frá Kóreu voru sérstakir gestir viðburðarins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam ( 15. október 1929 - 29. júlí 2012 ) var indverskur dansari og sérfræðingur í Kuchipudi dansforminu .",
+        "sentence2": "Vempati Chinna Satyam ( 15. október 1929 - 29. júlí 2012 ) var Kuchipudi dansari og sérfræðingur í indverskum dansi .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þessu atviki var síðar fagnað og er nú minnst í Egyptalandi 25. janúar ár hvert sem þjóðlögregludegi.",
+        "sentence2": "Þessu atviki var síðar fagnað og er nú minnst í Egyptalandi sem þjóðlögregludegi 25. janúar ár hvert.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Udaipur er bær í indverska fylkinu Madhya Pradesh nálægt Ganj Basoda.",
+        "sentence2": "Ganj Basoda er borg í indverska fylkinu Madhya Pradesh nálægt Udaipur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hann var síðan leystur af hólmi fyrir Heraclius , sem var fyrsti frændi Nicetasar , og neyddist til að taka munkaheit .",
+        "sentence2": "Í stað hans var síðan skipt út fyrir Nicetas, sem var fyrsti frændi Heraklíusar, og neyddur til að binda munkaheit.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fyrst skaltu lýsa þeim svæðum sem eru með hátt frjómagn í stað svæða með lágt frjókorn.",
+        "sentence2": "Lýstu fyrst svæðunum með lágt frjómagn í stað svæða með mikið frjókorn.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hingað til hafa verk Zinovjevs verið flutt af Sinfóníuhljómsveit finnska útvarpsins, Sinfóníuhljómsveitinni í Lahti, Kymi Sinfonietta, Oulu sinfóníuhljómsveitinni og Avanti!",
+        "sentence2": "Hingað til hafa verk Zinovjev verið flutt af Sinfóníuhljómsveit Oulu, Sinfóníuhljómsveit Lahti, Kymi Sinfonietta, Sinfóníuhljómsveit finnska útvarpsins og Avanti!",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Það var hannað af Richard Creed, smíðað af Collins og Geoffrey og útbúið af George Edwards frá Monmouth.",
+        "sentence2": "Það var útbúið af Richard Creed, smíðað af George Edwards og hannað af Collins og Geoffrey frá Monmouth.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "McCall og Lesiuk hættu í sveitinni sumarið 2007, í stað McCall kom Steven Tosh á trommur og Jamie Macleod tók við bassaverkefnum.",
+        "sentence2": "McCall og Lesiuk yfirgáfu hljómsveitina sumarið 2007 og McCall var skipt út fyrir Steven Tosh á trommur og Jamie Macleod tók við bassastarfinu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Árið 1886 kom Miles í stað George Crook hershöfðingja sem yfirmaður herafla sem barðist við Geronimo , Chiricahua Apache leiðtoga , í Arizona deild .",
+        "sentence2": "Árið 1886 tók Miles af hólmi George Crook hershöfðingja sem yfirmaður herafla sem berjast gegn Geronimo , leiðtoga Chiricahua Apache , í ráðuneyti Arizona .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Barshi, er jarðstífla á staðbundinni ánni nálægt Pathari stíflunni, Solapur hverfi í Maharashtra fylki á Indlandi.",
+        "sentence2": "Pathari stíflan, er jarðfyllingarstífla á staðbundinni á nálægt Barshi, Solapur hverfi í Maharashtra fylki á Indlandi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hann kvæntist Mary , dóttur Brooke frá Selston , Nottingham , og tók við af elsti sonur hans , Richard .",
+        "sentence2": "Brooke giftist Mary, dóttur Timothy Pusey frá Selston, Nottingham. Elsti sonur hans, Richard, tók við af honum.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Luk eða Loke er kínversk rómanisering á nokkrum (en ekki öllum) kantónskum eftirnöfnum sem eru rómanísk sem Lu á mandarínsku.",
+        "sentence2": "Luk eða Loke er kínversk rómanisering á nokkrum (en ekki öllum) kantónskum eftirnöfnum, sem eru rómanísk sem Lu á mandarínsku.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Réttum snúningum teningsins, sem einkennist af umbreytingum á skáum líkamans, er einnig lýst með samtengingu í `` S ''.",
+        "sentence2": "Réttir snúningar teningsins, sem hægt er að lýsa með umbreytingum á skáum líkamans, einkennast einnig af samtengingu í `` S ''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sem dæmi má nefna að í froskdýrum er Cerberus tjáður í fremri dorsal endoderm og í músum er hann tjáður í anterior visceral endoderm .",
+        "sentence2": "Sem dæmi má nefna að Cerberus er tjáður í fremri dorsal endoderm í froskdýrum og í músum í anterior interior endoderm .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann stundaði klíníska þjálfun á Middlesex sjúkrahúsinu í London og hlaut réttindi sem læknir árið 1943.",
+        "sentence2": "Hann stundaði klíníska þjálfun á Middlesex sjúkrahúsinu í London og hlaut réttindi sem læknir árið 1943.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sunny klippti lagið í nóvember 1973 með Roger Greenaway sem framleiddi á meðan Chris Gunning sá um útsetninguna og stjórnaði.",
+        "sentence2": "Í nóvember 1973 hætti Roger Sunny brautinni með Roger Greenaway á meðan Chris Gunning sá um og stjórnaði útsetningunni.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Damon Knight (vitnað í James Blish) sagði um túlkun á sögu Knight:",
+        "sentence2": "James Blish (vitnað í Damon Knight) sagði um túlkun Knight á sögu sinni:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Myndin fjallar um Rafael, nýjan söngvara í Malayalam kvikmyndaiðnaðinum.",
+        "sentence2": "Þessi mynd fjallar um Rafael, nýjan söngvara í Malayalam kvikmyndaiðnaðinum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þetta var þriðja þáttaröðin sem send var út meira en tveimur árum eftir fjölskylduútgáfuna og meira en þremur árum eftir fyrstu fræguútgáfuna.",
+        "sentence2": "Þetta var þriðja þáttaröðin sem sýnd var meira en tveimur árum eftir fjölskylduútgáfuna og meira en þremur árum eftir fyrstu fræguútgáfuna.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann lést 19. september 1891 í Gallatin í Tennessee og hlaut frímúrara í Gallatin .",
+        "sentence2": "Bunting dó 19. september 1891 í Gallatin . Hann hlaut frímúrarajarðarför í Gallatin, Tennessee.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Glímumaðurinn hoppar síðan um og sveiflast fram til að falla til baka og láta höfuð andstæðingsins falla í mottuna.",
+        "sentence2": "Glímumaðurinn hoppar síðan áfram og sveiflast til að falla aftur á bak og láta höfuð andstæðingsins falla í mottunni.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hún flutti með foreldrum sínum frá Finnlandi til Eistlands 3 ára gömul og býr nú í Helsinki.",
+        "sentence2": "Hún flutti frá Eistlandi til Finnlands með foreldrum sínum 3 ára og er nú búsett í Helsinki.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bærinn er staðsettur í vesturenda `` Horta de València '', á hægri bakka árinnar Turia.",
+        "sentence2": "Bærinn er staðsettur á hægri bakka `` Horta de València '', á vesturströnd árinnar Turia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Margir af djöflunum í fundum Salómons eru af grískum, kristnum, gyðingum, egypskum, arabískum og öðrum hefðum.",
+        "sentence2": "Margir af djöflunum í fundum Salómons eru grískar, kristnar, gyðingar, egypskar, arabískar og aðrar hefðir.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Stjórnsýslusvæði Chenzhou í Tang ættinni er undir stjórn nútíma Zhoukou í austurhluta Henan:",
+        "sentence2": "Chenzhou-stjórnsýslusvæðið í Tang-ættinni er undir stjórn nútíma Henan í austurhluta Zhoukou:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Prófið er eftirfarandi: `` Fyrst tekur þú eftir pranganglionic trefjum og örvar svörun sem birtist.",
+        "sentence2": "Prófið er eftirfarandi: Örvaðu fyrst preganglion trefjar og taktu eftir svöruninni sem kemur fram.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ukhrul er einnig ferðamannastaður í Manipur fylki.",
+        "sentence2": "Manipur er einnig ferðamannastaður Ukhrul fylkisins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Caspar Peucer ( borið fram 6. janúar 1525 -- 25. september 1602 ) var sorbneskur umbótasinni , læknir og fræðimaður af þýskum uppruna .",
+        "sentence2": "Caspar Peucer ( borið fram 6. janúar 1525 - 25. september 1602 ) var sorbneskur umbótasinni , læknir og fræðimaður af þýskum uppruna .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cornelius Olatunji Adebayo er fyrrverandi öldungadeildarþingmaður Nígeríu, sem var ríkisstjóri og varð síðar yfirmaður nígeríska alríkissamskiptaráðuneytisins.",
+        "sentence2": "Cornelius Olatunji Adebayo er fyrrverandi öldungadeildarþingmaður Nígeríu, sem varð ríkisstjóri og var síðar yfirmaður nígeríska alríkissamskiptaráðuneytisins.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Massachusetts kaus Harry S. Truman árið 1928 , Al Smith fjórum sinnum á þriðja og fjórða áratugnum og Franklin D. Roosevelt árið 1948 .",
+        "sentence2": "Á þriðja og fjórða áratugnum var hann fjórum sinnum kjörinn fyrir Al Smith árið 1928 fyrir Franklin D. Roosevelt og fyrir Harry S. Truman árið 1948 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ibn Amira fæddist í Alzira í Valencia-héraði.",
+        "sentence2": "Ibn Amira fæddist í Valencia, Alzira-héraði.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ef við notum Turing vél til skiptis höfum við auðlindina ATIME.",
+        "sentence2": "Þegar við erum með snúningsvél til skiptis notum við auðlindina ATIME.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þann 13. nóvember 2016 var David Machado myrtur í Fox Grove Park nálægt borginni Hughson af Dennis Wallace .",
+        "sentence2": "Þann 13. nóvember 2016 var Dennis Wallace, staðgengill David Machado, myrtur í Fox Grove Park nálægt borginni Hughson.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þegar hann lést árið 1946 voru pappírar hans um þetta verkefni á sama tíma í enn grófu ástandi.",
+        "sentence2": "Eftir dauða hans árið 1946 voru pappírar hans um þetta verkefni á sama tíma í enn grófu ástandi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alexander Baumgartner ( fæddur 27. júní 1841 í Lúxemborg í Þýskalandi ; dó 1910 í St. Gallen í Sviss ) var ljóðskáld og rithöfundur um bókmenntasögu .",
+        "sentence2": "Alexander Baumgartner (fæddur í St. Gall í Sviss 27. júní 1841 ; dáinn Lúxemborg 1910 ) var ljóðskáld og rithöfundur um bókmenntasögu .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vísindamenn við Geological Survey of Canada hafa gert fyrirmyndir af náttúrulegum arsenbreytileika í hlutfallslegum hættumöguleikum fyrir héraðið New Brunswick.",
+        "sentence2": "Vísindamenn við Geological Survey of Canada hafa gert fyrirmyndir af náttúrulegum arsenbreyti í hlutfallslegum hættumöguleikum fyrir héraðið New Brunswick.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Flugfélagið var þróað af Irelandia sem einnig myndaði önnur fimm flugfélög, nefnilega VivaColombia, Ryanair, Allegiant Air, VivaAerobus og Tigerair.",
+        "sentence2": "Flugfélagið var stofnað af Irelandia sem hefur einnig þróað önnur fimm flugfélög, nefnilega VivaColombia, Ryanair, Allegiant Air, VivaAerobus og Tigerair.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Áin Geamărtălui er þverá ánni Breaza í Rúmeníu .",
+        "sentence2": "Áin Breaza er þverár árinnar Geamărtălui í Rúmeníu .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Það var keypt af CR Gregory árið 1834 í Saba klaustrinu. Robert Curzon sá það árið 1883.",
+        "sentence2": "Það var keypt árið 1834 af CR Gregory í klaustrinu í Saba , árið 1883 af Robert Curzon .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prabhupada var ánægður þegar Gopal Krishna afhenti honum fyrstu eintökin af Srimad Bhagavatam, þýdd á hindí.",
+        "sentence2": "Gopal Krishna var ánægður þegar Prabhupada afhenti honum fyrstu eintökin af Srimad Bhagavatam þýdd á hindí.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "St.George Bank (og dótturfyrirtæki hans BankSA) var aftur tekið yfir af Advance Bank árið 1997.",
+        "sentence2": "Á móti var Advance Bank (og dótturfélag hans BankSA) yfirtekið af St.George Bank árið 1997.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Síðan kenndi hann skóla í Cleveland, OH, og frá 1856-1859 var yfirmaður leikkonunnar í skólum í Toledo.",
+        "sentence2": "Síðan kenndi hann skóla í Cleveland, OH og var starfandi yfirmaður skóla í Toledo frá 1856-1859.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ljóðið er varðveitt í fjórum samtímahandritum, þar af eitt brotabrot:",
+        "sentence2": "Ljóðið er varðveitt í fjórum samtímahandritum, þar af eitt í sundur:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Aðrir erfiðleikar voru meðal annars ákvörðun James Newton Howard að skipta yfir tónskáldum Howard Shore yfir í Peter Jackson sjö vikum fyrir kvikmyndaskiptin.",
+        "sentence2": "Aðrir erfiðleikar voru meðal annars ákvörðun James Newton Howard að skipta um tónskáld úr Howard Shore í Peter Jackson sjö vikum áður en myndin var opnuð.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dusty Baker varð fyrsti svarti stjórinn til að taka þátt í heimsmótaröðinni síðan Cito Gaston fyrir Toronto í og .",
+        "sentence2": "Dusty Baker varð fyrsti svarti stjórinn til að taka þátt og taka þátt í heimsmótaröðinni síðan Cito Gaston fyrir Toronto.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vinur Sukumars Stephen (Murugan) hjálpar þeim á ögurstundu og elskendur sameinast í hjónabandi.",
+        "sentence2": "Vinur Murugan Stephen (Sukumar) hjálpar þeim á krepputímunni og elskendurnir sameinast í hjónabandi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dr. Adams yfirgaf Miss Sarah Hunt, sem hann giftist dóttur með, giftist B. Hyatt árið 1788, esq.",
+        "sentence2": "Dr. Adams kvæntist ungfrú Söru Hunt, sem hann skildi eftir dóttur, giftur, árið 1788, B. Hyatt, esq.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Það er stundum notað sem reductio ad absurdum á vel þekktum rökum um hönnun, sem er sem hér segir:",
+        "sentence2": "Það er stundum notað sem reductio ad absurdum á hinni þekktu röksemdafærslu frá hönnun, sem er sem hér segir:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kudawa er þorps- og þorpsþróunarnefnd á Narayani svæðinu í Bara-héraði í suðausturhluta Nepal.",
+        "sentence2": "Kudawa er þorps- og þorpsþróunarnefnd á Narayani svæðinu í Bara-héraði í suðausturhluta Nepal.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eftir orrustuna við Coral Sea flutti \" Barnett 1.360 eftirlifendur frá USS Lexington ( CV-2 ) frá San Diego til Nouméa .",
+        "sentence2": "Eftir orrustuna við Coral Sea flutti \" Barnett 1.360 eftirlifendur frá USS Lexington ( CV-2 ) frá Nouméa til San Diego .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vegur R205 er svæðisvegur á Írlandi frá vegi R199 í Cavan-sýslu að landamærum Norður-Írlands í sýslunni Leitrim, aðallega í Fermanagh-sýslu.",
+        "sentence2": "R205 vegurinn er svæðisvegur á Írlandi frá R199 veginum í Leitrim-sýslu að landamærum Norður-Írlands við Fermanagh-sýslu, aðallega í Cavan-sýslu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Schliemann fann fimm stokka og hreinsaði þá sem grafirnar sem Pausanias nefndi.",
+        "sentence2": "Schliemann hreinsaði fimm stokka og þekkti þá sem grafirnar sem Pausania nefndi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sú fyrsta, Kai-sung, var dóttir Jin-Qua, móðir Dirk Struan eftir Gordon Chen.",
+        "sentence2": "Sú fyrsta, Kai-sung, var dóttir Jin-Qua. Hún var móðir Dirk Struan frá Gordon Chen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Árið 1974 var þéttbýlishverfið sameinað Repton Rural District og hluti af South East Derbyshire Rural District til að mynda núverandi South Derbyshire District.",
+        "sentence2": "Árið 1974 var núverandi hverfi sameinað Repton Rural District og hluti af South East Derbyshire Rural District til að mynda þéttbýli South Derbyshire District.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sem dæmi má nefna að Cerberus er tjáður í froskdýrum í fremri innyflum en í músum er hann tjáður í fremri dorsal endoderm .",
+        "sentence2": "Sem dæmi má nefna að Cerberus er tjáður í fremri dorsal endoderm í froskdýrum og í músum í anterior interior endoderm .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abraham Hart var forseti og Mayer Sulzberger ritari stjórnar sjóðsins.",
+        "sentence2": "Abraham Hart var forseti og Mayer Sulzberger ritari, stjórnarráðið.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann var í samstarfi við samtímaarkitekta eins og Giovan Giacomo Di Conforto , Bartolomeo Picchiatti og Francesco Grimaldi .",
+        "sentence2": "Hann hefur verið í samstarfi við samtímaarkitekta eins og Giovan Giacomo Di Conforto , Bartolomeo Picchiatti og Francesco Grimaldi .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hún fæddist í Cochabamba í Bólivíu og flutti til Mexíkóborgar á tíunda áratugnum og síðar til Los Angeles.",
+        "sentence2": "Hún fæddist í Cochabamba í Bólivíu. Á tíunda áratugnum flutti hún til Mexíkóborgar og síðar til Los Angeles .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De Ruiter er fæddur í Leiden og hefur leikið með FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk og FC Emmen.",
+        "sentence2": "de Ruiter fæddist í Leiden og lék með RKC Waalwijk , FC Den Bosch , Excelsior , FC Utrecht og FC Emmen .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vermont á landamæri að Mitcham í norðri, Nunawading og Forest Hill í vestri, Vermont suður í suðri og Wantirna og Ringwood í austri.",
+        "sentence2": "Vermont afmarkast í norðri af Mitcham , vestan við Nunawading og Forest Hill , í suðri af Vermont og í austri af Wantirna og Ringwood .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dr. Julio Square Junqueira var það fyrsta sem var byggt í Arapongas, var nefnt eftir Dr. Julio Junqueira nefndur eftir fyrsta borgarstjóra Arapongas.",
+        "sentence2": "Julio Junqueira var sá fyrsti sem byggður var í Arapongas og var nefndur eftir Dr. Julio Square Junqueira, nefndur eftir fyrsta borgarstjóranum í Araponga.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Prakash Raj gekk einnig til liðs við liðið í ágúst 2017 til að leika hlutverk framleiðandans Aluri Chakrapani.",
+        "sentence2": "Í ágúst 2017 gekk Aluri Chakrapani einnig til liðs við liðið til að leika hlutverk framleiðandans Prakash Raj líka.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Meridian samanstendur af íbúum Daykin, Alexandria, Western, Fairbury og Tobias, sem skapar 303 Nebraska skólahverfið.",
+        "sentence2": "Meridian samanstendur af íbúum Daykin, Fairbury, Western, Alexandríu og Tobias, sem skapar 303 Nebraska skólahverfið.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Júlí er að meðaltali kaldasti mánuðurinn, heitastur í janúar.",
+        "sentence2": "Júlí er heitasti mánuðurinn að meðaltali og janúar er sá kaldasti .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Önnur leið til að stjórna stofni dádýra er að stjórna frjósemi.",
+        "sentence2": "Önnur leið til að stjórna stofni dádýra er að stjórna frjósemi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fyrsta umferð fór fram helgina 23. - 25. september 2011 í Slóvakíu ( Prievidza )",
+        "sentence2": "Fyrsta umferð fór fram helgina 23. - 25. september 2011 í Slóvakíu ( Prievidza ) .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann kvæntist Marie Magdalene Schweigaard , dóttur Tellef Dahll Schweigaard , frænku helsta stjórnmálamannsins Antons Martin Schweigaard og frænku síðar Christian Homann Schweigaard forsætisráðherra .",
+        "sentence2": "Hann kvæntist Marie Magdalene Schweigaard , dóttur Tellef Dahll Schweigaard , frænku leiðtoga stjórnmálamannsins Christian Homann Schweigaard og frænku síðar Antons Martin Schweigaard forsætisráðherra .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Það er hægt að komast frá Formia úr austri og Maranola, sem er „frazione“ í Spigno Saturnia, úr vestri.",
+        "sentence2": "Það er hægt að komast frá Formia úr austri og Maranola, sem er „frazione“ í Spigno Saturnia, úr vestri.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þegar Phil Spector heyrði `` Stubborn Kind of Fellow '' í fyrsta skipti var hann svo spenntur að hann missti stjórn á bíl sínum þegar hann ók niður Sunset Boulevard með Jack Nitzsche.",
+        "sentence2": "Þegar Jack Nitzsche heyrði fyrst „Stubborn Kind of Fellow“ var hann svo spenntur að hann missti stjórn á bílnum sínum þegar hann ók Sunset Boulevard með Phil Spector.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sumir áhafnarmeðlimir voru drepnir í Golden Bay og engin staðbundin snerting við aðra Māori.",
+        "sentence2": "Sumir áhafnarmeðlima voru drepnir í Golden Bay og engin önnur samskipti voru við staðbundna Māori.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Smáskífan var tilkynnt 31. október 2015 og kom út 13. nóvember 2015.",
+        "sentence2": "Smáskífan var tilkynnt 31. október 2015 og kom út 13. nóvember 2015 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Í nýju sjónvarpsþáttunum ''Dead Gorgeous'' lék Hazel hlutverk yngstu systurarinnar Alexandra Coppinger.",
+        "sentence2": "Hazel lék hlutverk Alexandru Coppinger, yngstu systurarinnar, í nýju sjónvarpsþáttunum `` Dead Gorgeous ''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sumum þeirra er lýst hér og sumum þeirra er tengt undir `` Ytri tenglar '' hér að neðan.",
+        "sentence2": "Sumum þeirra er lýst hér að neðan og sum þeirra eru tengd við `` Ytri hlekki '' hér .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Í skoska fótboltanum keppa hálf-atvinnumannalið á öllum stigum fyrir neðan skoska úrvalsdeildina, þar sem flest lið fyrir neðan skoska meistaramótið eru hálf-atvinnumenn.",
+        "sentence2": "Í skoska boltanum eru hálf-atvinnumannalið að standa sig undir skoska úrvalsdeildinni á öllum stigum, þar sem flest lið undir skoska meistaratitlinum eru hálf-atvinnumenn.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lagið er krókasýnishorn í smáskífu „hönnun í Malice“ af bandarísku hip-hop hópnum Jedi Mind Tricks.",
+        "sentence2": "Lagið er krókasýnishorn í `` Design in Malice '' amerískum af einum hip-hop hópnum Jedi Mind Tricks.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "þar sem formúla 5 er ein af endanlegum föllum Horns með tveimur breytum og rennur saman fyrir öll samrennandi hágeometrisk gildi formúlu 6 og formúlu 7. Það er gefið af:",
+        "sentence2": "Formúla 5 er ein af samrennandi hágeómetrískum föllum Horns með tveimur breytum og rennur saman fyrir öll endanleg gildi Formúlu 6 og Formúlu 7. Það er gefið af:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Árið 1830 varð James fyrir áhrifum af afnámsstefnu sumra meðlima American Colonization Society ( ACS ) og ritum Arthur Tappan .",
+        "sentence2": "Frá og með 1830 varð James fyrir áhrifum af afnámsstefnu sumra meðlima American Colonization Society (ACS) og ritum Arthur Tappan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þau voru þróuð af Namco Bandai og gefin út af CyberConnect2 og byrjaði með `` Naruto : Ultimate Ninja '' árið 2005.",
+        "sentence2": "Þau voru þróuð af CyberConnect2 og gefin út af Namco Bandai og byrjaði á `` Naruto : Ultimate Ninja '' 2005.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hraðbrautinni var aflýst 18. október 1954 þegar FM 1241 var framlengt .",
+        "sentence2": "Hraðbrautinni var aflýst 18. október 1954 þegar FM 1241 var framlengt .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sólaraðferðin við þessa kröfu er að nota sólarrafhlöður í hefðbundnum flugvélum.",
+        "sentence2": "Hefðbundin nálgun við þessa kröfu er notkun sólarplötur í sólarflugvélum.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hún var móðir Val, Boris og Rosalind Lorwin og dóttir hennar varð sálfræðiprófessor.",
+        "sentence2": "Hún varð móðir Val, Boris og Rosalind Lorwin, dóttir hennar var prófessor í sálfræði.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Óbeinar vísbendingar um hulduefni koma frá þyngdarafl þess á hulduefni, þar sem engar aðrar agnir efnis hafa sést á rannsóknarstofum.",
+        "sentence2": "Óbeinar vísbendingar um hulduefni koma frá þyngdarafl þess á annað efni þar sem engar hulduefnisagnir hafa sést á rannsóknarstofum.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Olusegun Obasanjo (1975) og Murtala Mohammed (1976) kom í stað hans eftir valdarán.",
+        "sentence2": "Í stað hans komu Olusegun Obasanjo (árið 1975) og Murtala Mohammed (árið 1976) eftir valdarán í röð.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "McMillan var í tvö ár í Royal Medical Corp. í Tidworth - og síðar í Didcot, þar sem hann rak MRS fyrir hermenn sem særðust í Kóreustríðinu.",
+        "sentence2": "Í tvö ár eyddi McMillan hjá Royal Medical Corp. í Didcot - og síðar í Tidworth, þar sem hann rak MRS fyrir hermenn sem særðust í Kóreustríðinu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Aku Ankka '' er gefið út af Sanoma Media (áður Sanoma), sem er hluti af Sanoma Magazines.",
+        "sentence2": "`` Aku Ankka '' er gefið út af Sanoma Media (áður Sanoma Magazines), sem er hluti af Sanoma.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rakai er höfuðstöðvar Úganda, sem snemma á níunda áratugnum var skjálftamiðja og fyrsti greini í Rakai-héraði sem varð fyrir áhrifum af alnæmisfaraldrinum.",
+        "sentence2": "Rakai er höfuðstöðvar Rakai hverfisins sem var skjálftamiðjan snemma á níunda áratugnum og varð fyrst fyrir áhrifum af alnæmisfaraldrinum í Úganda .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Asíustarfsemin varð hluti af Ebel á meðan evrópska starfsemin var seld til Hong Kong frumkvöðuls Joseph Wong og eru nú hluti af Stelux Holdings.",
+        "sentence2": "Asísk starfsemi varð hluti af Ebel en evrópska starfsemin var seld til Hong Kong frumkvöðuls Joseph Wong og tilheyrir nú Stelux Holdings.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fjármagnið kom frá Bill Melinda Gates Foundation, fjármálamanninum George Soros og tæknifrumkvöðlinum Edward W. Scott.",
+        "sentence2": "Stofnfjársjóðir komu frá Bill & Melinda Gates Foundation, fjármálamanninum George Soros og tæknifrumkvöðlinum Edward W. Scott.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Finale er borg í Suður-Afríku í héraðinu Mopani District Municipality, Limpopo.",
+        "sentence2": "Finale er bær í Mopani héraðssveitarfélaginu í Limpopo héraði í Suður-Afríku.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rashidi var ekki ákærður en hann var í haldi marokkóskra yfirvalda þegar hann var fluttur heim.",
+        "sentence2": "Rashidi var ekki ákærður en hann var fluttur heim af yfirvöldum í Marokkó þegar hann var handtekinn.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hann var skipaður saksóknari fyrir Seneca-sýslu árið 1824, fyrir Williams-sýslu árið 1826 og fyrir Sandusky-sýslu árið 1827.",
+        "sentence2": "Hann var skipaður saksóknari fyrir Williams-sýslu árið 1824, fyrir Seneca-sýslu árið 1826 og Sandusky-sýslu árið 1827.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lake Georgetown er einnig uppspretta drykkjarvatns fyrir Georgetown og nærliggjandi bæ Round Rock.",
+        "sentence2": "Lake Georgetown er einnig uppspretta drykkjarvatns fyrir Georgetown og nærliggjandi borg Round Rock.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Holly var undir áhrifum frá Elton John.",
+        "sentence2": "Elton John var undir áhrifum frá Holly tónlistarlega séð.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þegar hann lést var David Beaton kardínáli kanslari Skotlands lávarður , erkibiskup af St Andrews og Cardinal Legate í Skotlandi .",
+        "sentence2": "David Beaton kardínáli var lávarður kanslari Skotlands þegar hann lést, erkibiskup af St. Andrews og Cardinal Legate of Scotland.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kjeld Deichmann lést skyndilega árið 1963 og Erica lokaði vinnustofunni og hætti við leirmuni.",
+        "sentence2": "Árið 1963 lést Kjeld Deichmann skyndilega og Erica lokaði vinnustofunni og hætti við leirlistina.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hins vegar voru Michael Jackson, Prince og Madonna áhrifavaldar á plötunni.",
+        "sentence2": "Madonna, Prince og Michael Jackson voru hins vegar áhrifavaldar á plötunni.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eina sporvagnastöðin er í Miraflores. Termini eru San Antonio og Oriente.",
+        "sentence2": "Eina sporvagnastöðin er í San Antonio, Termini eru Miraflores og Oriente.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hann aðstoðaði einnig við að koma á fót hugleiðslumiðstöðvum um Norður-, Mið- og Suður-Ameríku sem og í Evrópu.",
+        "sentence2": "Hann aðstoðaði einnig við að koma á fót hugleiðslumiðstöðvum um alla Evrópu sem og í Norður-, Mið- og Suður-Ameríku.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Á Sri Lanka er titillinn löggiltur endurskoðandi (CA Sri Lanka) aðeins hægt að nota af meðlimum Institute of Chartered Accountants of Sri Lanka.",
+        "sentence2": "Í CA er titill endurskoðanda (Sri Lanka Sri Lanka) aðeins hægt að nota af meðlimum Institute of Accountants á Sri Lanka.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Brown stofnaði einnig Salomon biskuparáðstefnumiðstöðina í Robert, Louisiana.",
+        "sentence2": "Robert stofnaði einnig Salomon biskuparáðstefnumiðstöðina í Brown, Louisiana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus er svæðisbundið bjórbrugghús með þýskum áhrifum.",
+        "sentence2": "Lobethal Bierhaus er svæðisbundið brugghús með þýsk áhrif á stíl.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fjármálaeftirlitsaðilar deila stundum heimsmynd eftirlitsskyldra aðila sinna í gegnum eftirlitssvið.",
+        "sentence2": "Með eftirlitsskyldum sviðum deila fjármálaeftirlitsstofnanir stundum heimsmynd eftirlitsskyldra aðila sinna.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Í apríl 1942 sneri Montagu Slater aftur til Englands og, skömmu eftir heimkomuna, bað Britten að vera rithöfundur hans fyrir \"Peter Grimes\".",
+        "sentence2": "Í apríl 1942 sneri Britten aftur til Englands og fljótlega eftir heimkomuna bað hann Montagu Slater um að verða rithöfundur hans fyrir \"Peter Grimes\".",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þremur árum síðar vann hann til silfurverðlauna í sömu keppni á EM í Hahnenklee fyrir Vestur-Þýskaland .",
+        "sentence2": "Þremur árum síðar vann hann til silfurverðlauna á sama móti fyrir Vestur-Þýskaland á Evrópumeistaramótinu í Hahnenklee.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hljómsveitin var stofnuð í Dunwoody í Georgíu árið 1999 eftir að gítarleikarinn Cole Alexander og bassaleikarinn Jared Swilley yfirgáfu Renegades og gítarleikarinn Ben Eberbaugh hætti í Reruns.",
+        "sentence2": "Hljómsveitin var stofnuð árið 1999 í Dunwoody í Georgíu eftir að Ben Eberbaugh gítarleikari og Jared Swilley bassaleikari yfirgáfu Renegades og gítarleikarinn Cole Alexander hætti í Reruns.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sumum þeirra er lýst hér og sumum þeirra er tengt undir `` Ytri tenglar '' hér að neðan.",
+        "sentence2": "Sumum þeirra er lýst hér að neðan og sum þeirra eru tengd hér undir `` Ytri hlekkir ''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Annar ritstjóri er Herbert Wessels (frá 2009), aðalritstjóri er Markus Ermert (frá 2002).",
+        "sentence2": "Annar ritstjóri er Herbert Wessels (frá 2009), aðalritstjóri er Markus Ermert (frá 2002).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis er tegund blaðbjöllu sem er upprunnin í Norður-Afríku og hluta Evrópu.",
+        "sentence2": "Ochrosis ventralis er innfædd tegund laufbjalla í Evrópu og hluta Norður-Afríku .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sumir úr áhöfninni voru drepnir í Golden Bay og engin staðbundin snerting var við aðra Maóra.",
+        "sentence2": "Nokkrir af áhöfninni voru drepnir í Golden Bay og engin staðbundin samskipti voru við aðra Maóra.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þessar þrjár föðurættir stjórnuðu konungsríkinu Waalo með móðurfjölskyldunni Mbooj.",
+        "sentence2": "Þessar þrjár móðurættir stjórnuðu ríki Waalo með föðurættinni Mbooj .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Snemma á fimmta áratugnum byrjaði Fiaminghi að búa til verk sem voru abstrakt list og innihéldu þætti uppbyggjandi listar.",
+        "sentence2": "Snemma á fimmta áratugnum byrjaði Fiaminghi að búa til verk sem voru óhlutbundin list, sem innihéldu þætti uppbyggjandi listar.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pennsylvaníuleið 268 liggur frá vesturenda brúarinnar suður til Parker og í norður til Emlenton .",
+        "sentence2": "Pennsylvaníuleið 268 liggur frá vesturenda brúarinnar norður til Parker og suður til Emlenton .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nafn hans, Afolabi, er `` Born into wealth ``. Gælunafn hans í Nígeríu þýðir Robocop vegna stífar hreyfingar hans.",
+        "sentence2": "Nafn hans, Afolabi, þýðir \"Auður fæddur\", gælunafn hans í Nígeríu er Robocop vegna stífar hreyfingar hans.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Í apríl 1942 sneri Britten aftur til Englands og fljótlega eftir heimkomuna bað hann Montagu Slater um að verða rithöfundur hans fyrir \"Peter Grimes\".",
+        "sentence2": "Montagu Slater sneri aftur til Englands í apríl 1942. Fljótlega eftir heimkomuna bað hann Britten að vera rithöfundur hans fyrir \"Peter Grimes\".",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hann fæddist eftir móðurlífið barn Sir John Lade, 1. Baronet, móðir hans var systir bruggarans Henry Thrale.",
+        "sentence2": "Hann fæddist sem barn Sir Henry Thrale , 1. Baronet , móðir hans var systir bruggarans John Lade .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Undantekningin var á milli síðla árs 2005 og 2009 þegar hann lék í Svíþjóð með Carlstad United BK , Serbíu með FC Terek Grozny og rússneska FK Borac Čačak .",
+        "sentence2": "Undantekningin var á milli síðla árs 2005 og 2009 þegar hann lék í Svíþjóð með Carlstad United BK, Serbíu með FK Borac Čačak og rússneska FC Terek Grozny.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þáttinn var skrifaður af Chuck Tatham og leikstýrt af Fred Savage.",
+        "sentence2": "Þáttinn var skrifaður af Chuck Tatham og stýrt af Fred Savage.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fundurinn er rofinn vegna komu ýmissa sendiboða frá ýmsum öflugum eða áhrifamiklum Mardukans í borginni með mörgum kvöldverðarboðum fyrir prinsinn.",
+        "sentence2": "Fundurinn er rofinn vegna komu margra sendiboða frá ýmsum öflugum eða áhrifamiklum Mardukans í borginni með ýmis boð í kvöldverð fyrir Prinsinn .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beximco framleiðir vefnaðarvöru, grunnefnavöru, lyf, jútu og sjávarfæði, auk þess sem fyrirtækið á fasteigna- og landþróunarhagsmuni.",
+        "sentence2": "Beximco framleiðir vefnaðarvöru, undirstöðuefni, lyf, jútu og sjávarmat; félagið á einnig fasteigna- og landþróunarhagsmuni.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` The Rider's Digest '' er nú mánaðarlegt tímarit gefið út með tveimur útgáfum: Smásöluútgáfunni og 60 blaðsíðna ókeypis útgáfunni.",
+        "sentence2": "`` The Rider's Digest '' er nú mánaðarlegt tímarit með tveimur útgáfum gefnar út: ókeypis útgáfan og 60 blaðsíðna smásöluútgáfan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Eiginkona hans var Klára Csabi og sonur þeirra Ferenc Wathay var einnig frægur yfirmaður og höfundur \"Söngbókar Ferenc Wathay\".",
+        "sentence2": "Eiginkona hans var Klára Csabi og sonur hennar Ferenc Wathay var einnig frægur yfirmaður og höfundur \"söngbókar Ferenc Wathay\".",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hlutfallið 2,5:1 dró úr fjölgun ristilfrumna hjá sjúklingum með endaþarmskrabbamein, en hlutfallið 4:1 hafði engin áhrif.",
+        "sentence2": "Hlutfall 2,5:1 dró úr fjölgun ristilfrumna hjá sjúklingum með ferhyrnt krabbamein, en 4:1 hlutfall hafði engin áhrif.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hann fæddist Charles Wyndham Standing í London á Englandi og lést í Los Angeles í Kaliforníu.",
+        "sentence2": "Hann fæddist í London á Englandi og lést í Los Angeles í Kaliforníu í Charles Wyndham.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Berks County, Pennsylvania, Bandaríkin er samfélag í Robeson Township.",
+        "sentence2": "Berks County, Pennsylvania, Bandaríkin er sveitarfélag í Robeson Township.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vermont afmarkast í norðri af Mitcham , vestan við Nunawading og Forest Hill , í suðri af Vermont og í austri af Wantirna og Ringwood .",
+        "sentence2": "Vermont South afmarkast í norðri af Mitcham , í vestri af Nunawading og Forest Hill , í suður af Vermont og í austri af Wantirna og Ringwood .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cook Pond, einnig þekkt sem South Watuppa Pond, er staðsett suðaustur af Laurel Lake og vestan Taunton River.",
+        "sentence2": "Cook Pond, einnig áður þekkt sem Laurel Lake, er staðsett við suðurenda Taunton-árinnar og vestan við South Watuppa-tjörnina.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Aðeins Ronnie Fields lék ekki einn leik í NCAA eða NBA deildinni.",
+        "sentence2": "Ronnie Fields lék ekki einn einasta leik í NBA eða NCAA .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duncan McIntyre fæddist 6. október 1899 í Kent á Englandi, sonur Ivor Ewing McIntyre skipstjóra.",
+        "sentence2": "Ivor Ewing McIntyre fæddist 6. október 1899 í Kent á Englandi sem sonur Duncan McIntyre skipstjóra.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Það er líka öndunarfærasjúkdómur í jórturdýrum og dýr geta neitað að borða, virðast sljó og einnig fá taugafræðileg einkenni.",
+        "sentence2": "Hjá jórturdýrum eru öndunarfærasjúkdómar einnig til staðar og dýr geta neitað að borða, virst sljó og einnig fengið taugafræðileg einkenni.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tónskáldið Maury Yeston gerði tónskáldið en danshöfundur var eftir William Whitener, listrænan stjórnanda Kansas City Ballet.",
+        "sentence2": "Tónlistin var eftir tónskáldið William Whitener, með danshöfundi eftir Maury Yeston, listrænan stjórnanda Kansas 'City Ballet'.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Dream '' var flutt í Konunglega óperuhúsinu, Covent Garden, árið 1961, framleitt af John Gielgud og stjórnað af Georg Solti.",
+        "sentence2": "`` Draumur '' var fluttur árið 1961 í Konunglega óperuhúsinu í Covent Garden, framleiddur af John Gielgud og leikstjóri Georg Solti.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þann 22. september 1918 voru fyrstu þráðlausu símskeyti skilaboðin til Snowdonia send frá Ástralíu .",
+        "sentence2": "Þann 22. september 1918 var fyrsta þráðlausa fjarskiptasambandið sent til Snowdonia frá Ástralíu .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cook Pond, einnig þekkt sem South Watuppa Pond, er staðsett suðaustur af Laurel Lake og vestan Taunton River.",
+        "sentence2": "Í suðurendanum er Cook Pond , einnig áður þekkt sem South Watuppa Pond , staðsett austan við Laurel vatnið og vestan við Taunton ána .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þeir hafa 13 mjúka endaþarmshrygg, 11 til 13 mjúka bakgeisla, 2 bakhrygg og 11 til 13 endaþarmsgeisla.",
+        "sentence2": "Þeir hafa 13 bakhrygg, 11 til 13 mjúka bakgeisla, 2 endaþarmshrygg og 11 til 13 mjúka endaþarmsgeisla.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sameinuð möguleiki og heildarorka er kölluð hreyfiorka eða \"orkupakki\".",
+        "sentence2": "Sameinuð möguleg orka og hreyfiorka er kölluð heildarorkan, eða \"orkupakki\".",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Þeir voru þarna fyrir okkur að biðja og þeir voru þarna til að njóta okkar.",
+        "sentence2": "Þeir voru þarna fyrir okkur til að biðja og þeir voru þarna fyrir okkur til að njóta.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Forstigsskemmdir eru greinilega dæmigerður vefur sem virðist óeðlilegur við smásjárskoðun og þar sem krabbamein er líklegra en formfræðilega eðlilegt hliðstæða þess.",
+        "sentence2": "Fyrirburaskemmdir eru greinilega dæmigerður vefur sem virðist óeðlilegur við smásjárskoðun og þar sem líklegra er að krabbamein komi fram en í formfræðilega eðlilegu hliðstæðu þess.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` R. satarae '' er með gullbrúnan feld með löngu, mjúku baki og hvítri undirhlið.",
+        "sentence2": "`` R. satarae '' er með gullbrúnan feld með löngu, mjúku baki og hvítri undirhlið.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eftir eru tvær litlar sjálfstæðar deildir með aðeins örfáum meðlimum: Highland Alliance League og Grampian Alliance League.",
+        "sentence2": "Tvær litlar sjálfstæðar deildir eru eftir, með aðeins örfáum meðlimum: Grampian Alliance League og Highland Alliance League.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` Fall Beil '' var notað í síðasta sinn í Vestur-Þýskalandi árið 1949, árið 1966 í Austur-Þýskalandi.",
+        "sentence2": "„Tilfellið“ var notað í síðasta sinn árið 1949 í Austur-Þýskalandi, 1966 í Vestur-Þýskalandi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Annette Amelia Crum giftist Bryant , dóttur Samuel Crum , 29. september 1874 . Þau eignuðust eina dóttur.",
+        "sentence2": "Þann 29. september 1874 giftist Annette Amelia Crum Bryant dóttur Samuel Crum og eignuðust þau dóttur .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ennfremur var þrefaldur ógnunarleikur fyrir bandaríska meistaramótið milli meistarans Jack Swagger , The Miz og Kofi Kingston .",
+        "sentence2": "Næst var þrefaldur ógnunarleikur um Bandaríkin á milli meistarans Kofi Kingston , The Miz og Jack Swagger .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lagið var kynnt í sjöttu kynningu á annarri þáttaröðinni af `` Sons of Anarchy '', sjónvarpsþáttaröðinni FX net.",
+        "sentence2": "Lagið kom fyrir í sjöttu kynningu á annarri þáttaröðinni af `` Sons of Anarchy '', sjónvarpsþáttaröð FX netsins.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann lék í Ástralíu snemma á ferlinum en flutti til Skotlands til að spila fyrir Frankston City í Victorian State League .",
+        "sentence2": "Hann lék í Skotlandi snemma á ferlinum en flutti til Ástralíu til að spila í Victorian State League fyrir Frankston City .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nýjasta lagið `` Every Morning '' er kassagítarútgáfan af fyrsta laginu `` Morning ''.",
+        "sentence2": "Síðasta lagið, `` Every Morning '' er kassagítarútgáfan af fyrsta laginu '' Morning ''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rifinn burstakalkúnn eða brúnkraga burstakalkúnn (`` Talegalla jobiensis '') er fuglategund í fjölskyldunni Megapodiidae.",
+        "sentence2": "Kragaburstakalkúnn eða brúnkragaburstikalkúnn (`` Talegalla jobiensis '') er fuglategund í fjölskyldunni Megapodiidae.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duncan McIntyre fæddist 6. október 1899 í Kent á Englandi, sonur Ivor Ewing McIntyre skipstjóra.",
+        "sentence2": "Ivor Ewing McIntyre fæddist 6. október 1899 í Kent á Englandi, sonur skipstjórans Duncan McIntyre .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Saga 46. eldflaugadeildarinnar hefst frá 29. apríl 1941 þegar myndun 188. riffladeildar var lokið í Kaunas .",
+        "sentence2": "Saga 46. eldflaugadeildarinnar hefst 29. apríl 1941 þegar myndun 188. riffladeildar var lokið í Kaunas .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Whitlam , sem hafði sigrað Malcolm Fraser í stórsigri í alríkiskosningunum í desember 1975 , bauð Egerton riddara til þjónustu við verkalýðshreyfinguna .",
+        "sentence2": "Whitlam , sem hafði sigrað Malcolm Fraser með miklum yfirburðum í alríkiskosningunum í desember 1975 , bauð Egerton riddara fyrir að þjóna verkalýðshreyfingunni .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis er innfædd tegund laufbjalla í Evrópu og hluta Norður-Afríku .",
+        "sentence2": "Ochrosis ventralis er tegund af laufbjöllu upprunnin í Evrópu og hluta Norður-Afríku",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vertíðin hófst 6. janúar 1984 í Falun í Svíþjóð og lauk 11. mars 1984 í Lygna í Noregi.",
+        "sentence2": "Vertíðin hófst 6. janúar 1984 í Falun í Svíþjóð og lauk 11. mars 1984 í Lygna í Noregi .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "de Ruiter , sem fæddist í Leiden , lék með FC Utrecht , FC Den Bosch , Excelsior , RKC Waalwijk og FC Emmen .",
+        "sentence2": "De Ruiter er fæddur í Leiden og hefur leikið með FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk og FC Emmen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Farrell vinnur gegn árásum Gabriels á meðan McClane útrýmir mönnum sínum.",
+        "sentence2": "Farrell vinnur gegn árásum Gabriels á meðan McClane útrýmir mönnum sínum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Smáskífan kom út á Radio Airplay á Ítalíu 12. október 2012 og var send um allan heim 3. desember 2012 .",
+        "sentence2": "Smáskífan var gefin út í útvarpi 12. október 2012 á Ítalíu og var send um allan heim 3. desember 2012 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Önnur dóttir Octavius Warre Malet , Alice Anna Catherine , giftist Thomas á bresku ræðismannsskrifstofunni í Köln 24. júní 1852 .",
+        "sentence2": "Önnur dóttir Octavius Warre Malet, Alice Anna Catherine, giftist Thomas 24. júní 1852 á bresku ræðismannsskrifstofunni í Köln.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum er tegund sjávarsnigils, sannkallað sníkjudýr í Buccinidae fjölskyldunni, sjóhnoðra.",
+        "sentence2": "Probuccinum tenerum er tegund sjávarsnigils, sannkallað lindýralind í fjölskyldunni Buccinidae, sjávarhvelfingum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "David David Godwin er fulltrúi Emma Townshend hjá DGA Associates.",
+        "sentence2": "David Godwin er fulltrúi Emma Townshend hjá DGA Associates.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Einfalda miðilinn má einkenna með áhrifaríkum þversniðum frásogs og losunar á tíðnum formúlu _ 2 og formúlu _ 3 .",
+        "sentence2": "Einfalda miðilinn má einkennast af áhrifaríkum þversniðum frásogs og losunar á tíðnunum Formula 2 og Formula 3 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "de Ruiter , sem fæddist í Leiden , lék með FC Utrecht , FC Den Bosch , Excelsior , RKC Waalwijk og FC Emmen .",
+        "sentence2": "De Ruiter er fæddur í Leiden og hefur leikið með RKC Waalwijk, FC Den Bosch, Excelsior, FC Utrecht og FC Emmen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Forgangur reikniaðgerðanna hefur verið gagnrýndur, huglægt og 'eru bitalega rökrænir rekstraraðilar eins og og +.",
+        "sentence2": "Forgangur reikniþátta hefur verið gagnrýndur. Huglægt, & og eru bitalega rökrænir rekstraraðilar eins og og +.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Árið 1974, með stuðningi Sameinuðu þjóðanna, Þróunarbanka Asíu og Alþjóðabankans, stofnaði Lao PDR Stage II Fund.",
+        "sentence2": "Með stuðningi Alþjóðabankans, Sameinuðu þjóðanna og Asíuþróunarbankans stofnaði Lao PDR Stage II sjóðinn árið 1974.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Borgarráð Webster Groves samanstóð af ráðsmönnum Debi Salberg, Kathy Hart, Greg Mueller, Ken Burns, Toni Hunt og Anne Tolan.",
+        "sentence2": "Bæjarráð Webster Groves samanstóð af ráðherrunum Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt og Anne Tolan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Elton John var undir áhrifum frá Holly tónlistarlega séð.",
+        "sentence2": "Elton John var undir áhrifum frá Holly.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tónlist þeirra er af mörgum álitin alternative metal með rapp metal og industrial metal áhrifum. Samkvæmt fyrri viðtölum telja þeir sig vera „morðrokk“.",
+        "sentence2": "Tónlist þeirra er af mörgum álitin valmálm með rapp- og iðnaðar-metal áhrifum, sem samkvæmt fyrri viðtölum kalla sig '' morð-rokk ''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Það fer síðan yfir Texoma-vatn arm Washita River.",
+        "sentence2": "Síðan fer það yfir Texoma-vatnsarm Washita-árinnar.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eftirfarandi tafla ber saman frammistöðu LOD-hæfrar flutnings og aðferð með fullri smáatriðum (`` brute-force '').",
+        "sentence2": "Eftirfarandi tafla ber saman frammistöðu LOD meðvitaðrar flutnings og fullrar smáatriði (`` brute force '') aðferð.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Volare Group hefur aðalskrifstofu sína í Thiene, Mílanó og viðskiptastjórnun og skipulagsstjórnun á Ítalíu.",
+        "sentence2": "Volare Group var með aðalskrifstofu sína í Thiene í Mílanó og viðskiptastjórnun og skipulagsstjórnun á Ítalíu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Það er líka athyglisvert að eftirfarandi kóði myndi virka án ADL (hann er samt notaður á hann).",
+        "sentence2": "Það er líka athyglisvert að eftirfarandi kóði myndi virka án ADL (það verður samt notað á hann).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þau voru þróuð af CyberConnect2 og gefin út af Namco Bandai og byrjaði með `` Naruto : Ultimate Ninja '' árið 2005.",
+        "sentence2": "Þau voru þróuð af CyberConnect2 og gefin út af Namco Bandai frá og með 2005 með `` Naruto : Ultimate Ninja ''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "AleX er ítalsk sjónvarpsþáttaröð. Serían var skrifuð af Alfredo Castelli, Guglielmo Duccoli og Giorgio Schottler og framleidd af Videotime.",
+        "sentence2": "Ítalska sjónvarpsþáttaröðin AleX var skrifuð af Alfredo Castelli , Guglielmo Duccoli og Giorgio Schottler og framleidd af videotime .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Enoteche náði til Austurríkis norður af Ölpunum undir þýska nafninu \"Vinothek\" og frá Þýskalandi til Austurríkis.",
+        "sentence2": "Enoteche hafa breiðst út norður af Ölpunum til Austurríkis undir þýska nafninu `` Vinothek '' og frá Þýskalandi til Austurríkis.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Smartass er kvikmynd leikstýrt af Jena Serbu og með Joey King í aðalhlutverki.",
+        "sentence2": "Smartass er kvikmynd eftir Jena Serbu og Joey King.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "65 hermenn hafa verið drepnir í verkefninu: 34 Nígeríumenn, 28 Tsjadíumenn, 2 Tógóbúar og 1 Búrkína.",
+        "sentence2": "Í leiðangrinum voru 65 hermenn drepnir: 34 Nígeríumenn, 28 Tsjadíumenn, 2 Tógóbúar og 1 Búrkínabúar.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Deildin var eyðilögð í orrustunni í Normandí þar sem síðustu þættirnir töpuðust vegna falls Cherbourg .",
+        "sentence2": "Deildin var eyðilögð í orrustunni við Normandí en síðustu þættir hennar töpuðust í falli Cherbourg .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam ( 15. október 1929 - 29. júlí 2012 ) var Kuchipudi dansari og sérfræðingur í indverskum dansi .",
+        "sentence2": "Vempati Chinna Satyam ( 15. október 1929 -- 29. júlí 2012 ) var Kuchipudi dansari og sérfræðingur í indverska dansforminu .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann lést í Milwaukee , Wisconsin , þar sem hann lét af störfum 5. maí 1903 .",
+        "sentence2": "Hann lést í Milwaukee , Wisconsin , þar sem hann lét af störfum 5. maí 1903 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann fæddist í Tiburon í Kaliforníu og lést í Brooklyn í New York.",
+        "sentence2": "Það fæddist í Tiburon, Kaliforníu, og dó í Brooklyn, New York.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þættirnir voru frumsýndir 18. apríl 2009 í Ástralíu á Nickelodeon (Nýja Sjálandi og Nýja Sjálandi).",
+        "sentence2": "Þættirnir voru frumsýndir í Ástralíu 18. apríl 2009 á Nickelodeon (Nýja Sjálandi og Nýja Sjálandi).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Þetta er Zen stíll að þjóna og borða máltíðir sem stunduð er í formlegum musterum.",
+        "sentence2": "Þetta er Zen-stíll framreiðslu og matar sem stundaður er í formlegum musterum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nýr leiðtogi Gerakan Tiga Daerah var Sarjiyo, sem varð aðalforingi Pekalongan.",
+        "sentence2": "Nýr leiðtogi Gerakan Tiga Daerah var Sarjiyo, sem varð aðalforingi Pekalongan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Í kosningabaráttu sinni ræddi hann McCain tvisvar, einu sinni í flaggstönginni og einu sinni í Tucson.",
+        "sentence2": "Í kosningabaráttu sinni ræddi hann tvisvar um McCain , einu sinni í Tucson og einu sinni í Flagstaff .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Samanlagt sigurvegarar yngri deildar 1 fá James Delahunt bikarinn.",
+        "sentence2": "Sigurvegarar í yngri flokki 1 fá James Delahunt bikarinn .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Settið samanstóð af grænni jersey með hvítum kraga, bláum stuttbuxum og bláum sokkum.",
+        "sentence2": "Settið samanstóð af grænni treyju með hvítum kraga, bláum stuttbuxum og bláum sokkum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Viðburðinn var sóttur af Boutique @ hs Ambassador , Teresa Palmer Michala Banas og ástralska leikkonan Kyly Clarke .",
+        "sentence2": "Viðburðinn sóttu Boutique @ hs Ambassador , Teresa Palmer Michala Banas og ástralska leikkonan Kyly Clarke .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duminda Silva , einnig þekkt sem Arumadura Lawrence Romelo Duminda Silva og R. Dumindha Silva , er Sri Lanka stjórnmálamaður og fyrrverandi þingmaður .",
+        "sentence2": "Arumadura Lawrence Romelo Duminda Silva , einnig þekktur sem Duminda Silva og R. Dumindha Silva , er Sri Lanka stjórnmálamaður og fyrrverandi fulltrúi þingsins .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Það þjónar suðausturhluta Edithvale úthverfi Melbourne opnun 20. september 1919.",
+        "sentence2": "Það þjónar suðausturhluta Edithvale úthverfi Melbourne sem opnaði 20. september 1919.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Á slíkum kvöldverði er oft neytt gæðavíns, oftast með kampavíni eða álíka freyðivíni.",
+        "sentence2": "Venjulega er neytt gæðavíns í slíkum kvöldverði, gjarnan með kampavíni eða álíka freyðivíni til afraksturs.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Samkvæmt bandarísku manntalsskrifstofunni hefur Kennesaw heildaryfirborð þar af land og, eða 1,08%, er vatn.",
+        "sentence2": "Samkvæmt bandarísku manntalsskrifstofunni er Kennesaw heildarsvæði sem er land og 1,08% hefur vatn.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Joe R. Campa Jr. er fyrrum sjómaður í bandaríska sjóhernum, sem starfaði sem 11. aðal yfirmaður bandaríska sjóhersins.",
+        "sentence2": "Joe R. Campa Jr. er fyrrum sjómaður í bandaríska sjóhernum, sem starfaði sem ellefti aðalforingi bandaríska sjóhersins.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Poonam Devi frá RJD sigraði Dharmendra Yadav árið 2000 sem JDU.",
+        "sentence2": "Poonam Devi frá RJD sigraði Dharmendra Yadav sem fulltrúi JDU árið 2000.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mark Knowles og Daniel Nestor unnu titilinn og sigruðu Jonathan Erlich og Andy Ram í úrslitaleiknum með 5:3, 5:4.",
+        "sentence2": "Mark Knowles og Daniel Nestor unnu titilinn og sigruðu Jonathan Erlich og Andy Ram 5 - 3, 5 - 4 í úrslitaleiknum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Með Terry sem Ophelia og Portia lífgaði hann upp á \"Hamlet\" og framleiddi \"The Merchant of Feneyjar\" (1879).",
+        "sentence2": "Með Terry sem Ophelia og Portia endurlífgaði hann \"Hamlet\" og framleiddi \"The Merchant of Feneyjar\" (1879).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann hjálpaði einnig að koma á fót hugleiðslumiðstöðvum um alla Evrópu sem og í Norður-, Mið- og Suður-Ameríku.",
+        "sentence2": "Hann aðstoðaði einnig við að koma á fót hugleiðslumiðstöðvum um alla Evrópu sem og í Norður-, Mið- og Suður-Ameríku.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hraðbrautinni var aflýst 18. október 1954 þegar FM 1241 var framlengt .",
+        "sentence2": "Hraðbrautinni var aflýst 18. október 1954 þegar FM 1241 var framlengt .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "McCarthy fæddist í Auckland en flutti með foreldrum sínum til San Francisco í Kaliforníu fjögurra ára gamall.",
+        "sentence2": "McCarthy fæddist í Auckland en flutti til San Francisco í Kaliforníu með foreldrum sínum fjögurra ára gamall.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Phnom Penh - Vináttu minnisvarði Víetnams í Kambódíu, höfuðborg Kambódíu, er stór steinsteyptur minnisvarði sem minnir á fyrrum bandalag Víetnams og Kambódíu.",
+        "sentence2": "Vináttuminnismerkið Phnom Penh – Víetnam í Kambódíu, höfuðborg Kambódíu, er stórt steinsteypt minnismerki til minningar um fyrrum bandalag Víetnams og Kambódíu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sher Ahmed Akhundzada ( einnig þekktur sem Sher Mohammed Akhundzada ) er ættbálkaleiðtogi sem var ríkisstjóri Helmand í Afganistan frá 2001 til 2005 .",
+        "sentence2": "Sher Ahmed Akhundzada (einnig þekktur sem Sher Mohammed Akhundzada) er ættbálkaleiðtogi sem frá 2001 til 2005 var ríkisstjóri Helmand í Afganistan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rakai er höfuðstöðvar Rakai hverfisins sem var skjálftamiðjan snemma á níunda áratugnum og varð fyrst fyrir áhrifum af alnæmisfaraldrinum í Úganda .",
+        "sentence2": "Rakai er höfuðstöðvar Rakai héraðsins, sem snemma á níunda áratugnum var skjálftamiðja og fyrsti greini í Úganda sem varð fyrir áhrifum af alnæmisfaraldrinum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tekið er tillit til skýrs kostnaðar ásamt efnahagslegum kostnaði þegar óbeinn hagnaður er skoðaður.",
+        "sentence2": "Þegar hugað er að óbeinum hagnaði er tekið tillit til skýrs kostnaðar ásamt hagrænum kostnaði.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rami Nieminen ( fæddur 25. febrúar 1966 ) er finnskur knattspyrnumaður .",
+        "sentence2": "Rami Nieminen ( fæddur 25. febrúar 1966 ) er finnskur knattspyrnumaður .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prang Ku er hverfi (`` Amphoe '') í vesturhluta Sisaket-héraðs, í norðausturhluta Taílands.",
+        "sentence2": "Prang Ku er hverfi (\"amphoe\") í vesturhluta Sisaket-héraðs, norðausturhluta Taílands.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "14. , 16. og 117. lína hafði hvor um sig tvær fylkingar í bardaganum .",
+        "sentence2": "14. , 16. og 117. lína áttu tvær fylkingar í baráttunni hver .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Montreal Montreal Stars vann Clarkson Cup með því að sigra 3-1 á Minnesota Whitecaps (WWHL).",
+        "sentence2": "Montreal Stars vann Clarkson bikarinn með því að sigra 3-1 Minnesota Whitecaps (WWHL)",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Það er líka athyglisvert að eftirfarandi kóði myndi virka án ADL (það verður samt notað á hann).",
+        "sentence2": "Það er líka athyglisvert að eftirfarandi kóði myndi virka án ADL (það er samt notað á hann).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Flugfélagið var stofnað af Irelandia sem hefur einnig þróað önnur fimm flugfélög, nefnilega VivaColombia, Ryanair, Allegiant Air, VivaAerobus og Tigerair.",
+        "sentence2": "Flugfélagið var stofnað af Irelandia sem hefur einnig þróað önnur fimm flugfélög, nefnilega VivaColombia, Ryanair, Allegiant Air, VivaAerobus og Tigerair.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rómversk-kaþólska biskupsdæmið í Bungoma er biskupsdæmi sem staðsett er í borginni Kisumu í kirkjuhéraðinu Bungoma í Kenýa.",
+        "sentence2": "Rómversk-kaþólska biskupsdæmið Bungoma er biskupsdæmi í borginni Kisumu í kirkjuhéraðinu Bungoma í Kenýa .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Martin Damm og Radek Štěpánek unnu í úrslitaleiknum 6 - 2, 6 - 4, gegn Jonas Björkman og Fabrice Santoro.",
+        "sentence2": "Martin Damm og Radek Štěpánek unnu Jonas Björkman og Fabrice Santoro í úrslitum 6:2, 6:4.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hann lék í Ástralíu snemma á ferlinum en flutti til Skotlands til að spila fyrir Frankston City í Victorian State League .",
+        "sentence2": "Hann lék snemma á ferlinum í Ástralíu en flutti til Skotlands til að spila með Frankston City í Victorian State League .",
+        "answer": "same"
+    }
+]

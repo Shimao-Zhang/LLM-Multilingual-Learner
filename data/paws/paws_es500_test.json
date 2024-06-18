@@ -1,0 +1,2502 @@
+[
+    {
+        "sentence1": "La excepción fue entre finales de 2005 y 2009 cuando jugó en Suecia con el Carlstad United BK, en Serbia con el FK Borac Čačak y con el FC Terek Grozny ruso.",
+        "sentence2": "La excepción fue entre finales de 2005 y 2009, cuando jugó en Suecia con el Carlstad United BK, en Serbia con el FK Borac Čačak y con el FC Terek Grozny ruso.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El río Tabaci es un afluente del río Leurda en Rumania.",
+        "sentence2": "El río Leurda es un afluente del río Tabaci en Rumania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Jugó con los Kane County Cougars de nivel A en 1993 y con los AA Portland Sea Dogs.",
+        "sentence2": "Jugó en 1993 con los A-Level Portland Sea Dogs y los AA Kane County Cougars.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Winarsky es miembro del IEEE, Phi Beta Kappa, ACM y Sigma Xi.",
+        "sentence2": "Winarsky es miembro de ACM, IEEE, Phi Beta Kappa y Sigma Xi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En 1938 se convirtió en antropólogo del gobierno del Sudán angloegipcio y dirigió el trabajo de campo con los nuba.",
+        "sentence2": "En 1938 se convirtió en antropólogo del gobierno del Sudán egipcio-anglo y realizó trabajos de campo con los Nuba.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Billy Billy Batson apareció en los primeros cuatro números de \" Black Adam \" , publicados entre finales de 2008 y principios de 2009 .",
+        "sentence2": "Black Adam apareció en los primeros cuatro números de \" Billy Batson \" , publicados entre finales de 2008 y principios de 2009 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La solución solar a este requisito es el uso de paneles solares en un avión de propulsión convencional.",
+        "sentence2": "La solución solar para este requisito es el uso de paneles solares en un avión de propulsión convencional.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La policía también interrogó a la cantante Rimi Tomy y al actor Kavya Madhavan, ambos amigos cercanos de Siddique y su esposa Dileep, como parte de la investigación en curso.",
+        "sentence2": "La policía también interrogó a la cantante Rimi Tomy y al actor Kavya Madhavan, ambos amigos cercanos de Siddique y su esposa Dileep, como parte de la investigación en curso.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Están superpuestos con escasa música orquestal en vivo y consisten en sonidos vagos, casi deliberadamente incoloros.",
+        "sentence2": "Están superpuestos con música tocada en vivo y sin color y consisten en sonidos orquestales vagos, casi deliberadamente escasos.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Holly fue influenciada musicalmente por Elton John.",
+        "sentence2": "Holly Holly fue influenciada musicalmente por Elton John.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El equipo reaccionó a los cambios en el siguiente partido la misma tarde del 19 de febrero.",
+        "sentence2": "El equipo respondió a los cambios en el mismo partido de la tarde del próximo 19 de febrero.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Los Nashua Silver Knights, parte de una actual liga de verano, es el equipo colegiado de la ciudad.",
+        "sentence2": "Los Nashua Silver Knights, parte de una liga universitaria de verano, es el equipo actual de la ciudad.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El `` Fallbeil '' se utilizó por última vez en Alemania Occidental en 1949 y en Alemania Oriental en 1966 .",
+        "sentence2": "El ``Fall Beil'' se utilizó por última vez en Alemania Occidental en 1949, en 1966 en Alemania Oriental.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El canal es uno de los canales navegables más antiguos de Europa y Bélgica.",
+        "sentence2": "El canal es uno de los canales navegables más antiguos de Bélgica y, de hecho, de Europa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En 2009 regresó a Filadelfia y hoy vive en la ciudad de Nueva York.",
+        "sentence2": "Regresó a Filadelfia en 2009 y ahora vive en la ciudad de Nueva York.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Murió de cáncer de estómago en Claremore, Oklahoma, Nueva York, donde se encuentra el Lynn Riggs Memorial el 30 de junio de 1954.",
+        "sentence2": "Murió el 30 de junio de 1954 de cáncer de estómago en la ciudad de Nueva York. Claremore, Oklahoma es el hogar del Lynn Riggs Memorial.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stipsits nació en Korneuburg, Alemania y pasó su infancia en Stammersdorf, Viena.",
+        "sentence2": "Stipsits nació en Korneuburg y pasó su infancia en Stammersdorf, Viena.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La dinastía Keita gobernó el Malí preimperial e imperial desde el siglo XII hasta principios del siglo XVII.",
+        "sentence2": "La dinastía Keita gobernó Malí desde el siglo XII hasta principios del XVII, de forma preimperial e imperial.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "``Angel Eyes'' es una canción popular de 1946 compuesta por Matt Dennis, con letra de Earl Brent.",
+        "sentence2": "``Angel Eyes'' es una canción popular compuesta por Earl Brent en 1946, con textos de Matt Dennis.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La música fue escrita por Shyam y la letra compuesta por Sreekumaran Thampi y Sathyan Anthikkad.",
+        "sentence2": "La música fue escrita por Shyam y la letra compuesta por Sreekumaran Thampi y Sathyan Anthikkad.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La película fue un éxito comercial y una de las más exitosas de Sergio Sollima y menos política que los westerns del ex director de spaghetti.",
+        "sentence2": "La película fue un éxito comercial y una de las más políticas de Sergio Sollima, y menos exitosa que los westerns del ex director de spaghetti.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kabir le pide a Sarika que le revele su plan para poner fin al juego de Ranvir.",
+        "sentence2": "Kabir le pide a Sarika que le revele su plan para poner fin al juego de Ranvir.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El equipo reaccionó a los cambios en el siguiente partido la misma tarde del 19 de febrero.",
+        "sentence2": "El equipo respondió a los cambios en el mismo partido que se disputó la tarde del próximo mes de febrero.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El teniente John Gedge los encargó para el Mar del Norte en mayo de 1805 y el teniente Robert Ramsey lo reemplazó en 1806.",
+        "sentence2": "El teniente Robert Ramsey lo encargó al Mar del Norte en mayo de 1805, y el teniente John Gedge lo reemplazó en 1806.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Emma Townshend está representada por David Godwin en DGA Associates.",
+        "sentence2": "David David Godwin está representado en DGA Associates por Emma Townshend.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Los Nashua Silver Knights, parte de una liga universitaria de verano, es el equipo actual de la ciudad.",
+        "sentence2": "Los Nashua Silver Knights, parte de una actual liga de verano, son el equipo colegiado de la ciudad.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Desde el extremo oeste del puente, la ruta 268 de Pensilvania conduce al sur hasta Parker y al norte hasta Emlenton.",
+        "sentence2": "La ruta 268 de Pensilvania conduce desde el extremo oeste del puente hacia el sur hasta Parker y hacia el norte hasta Emlenton.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eran comunes en el Reino Unido, pero en Europa, al menos en el caso de las locomotoras grandes, es relativamente raro.",
+        "sentence2": "Eran poco comunes en el Reino Unido, pero en Europa, al menos en el caso de las locomotoras grandes, son relativamente comunes.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alston nació el 21 de diciembre de 1965 en Oxon Hill, Maryland. Asistió a la escuela secundaria Oxon Hill en New Haven, Connecticut.",
+        "sentence2": "Nació el 21 de diciembre de 1965 en Oxon Hill, Maryland, y asistió a la escuela secundaria en New Haven, Connecticut.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Las bajas estadounidenses totales fueron 28, mientras que las pérdidas del Viet Cong fueron 345 y se estima que otros 192 murieron.",
+        "sentence2": "En total, 28 víctimas estadounidenses murieron, mientras que las bajas del Viet Cong fueron de 345 y se estima que otras 192 murieron.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En CA, el título de contador público (Sri Lanka Sri Lanka) sólo puede ser utilizado por miembros del Instituto de Contadores de Sri Lanka.",
+        "sentence2": "En CA, el título de Contador Público (Sri Lanka Sri Lanka) sólo puede ser utilizado por miembros del Instituto de Contadores Públicos de Sri Lanka.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Simyo pertenece al grupo holandés de telecomunicaciones KPN, tras adquirir el resto de E-Plus el 14 de marzo.",
+        "sentence2": "Tras la adquisición del resto de E-Plus el 14 de marzo, Simyo pertenece al grupo de telecomunicaciones holandés KPN.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Además de Kuykendall, Robert White y Joshua Soule Zimmerman se desempeñaron como comisionados de la Cancillería del condado de Hampshire.",
+        "sentence2": "Robert White y Joshua Soule Zimmerman sirvieron junto a Kuykendall como comisionado de la Cancillería del condado de Hampshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Estas opiniones se expresaron a menudo durante el surgimiento de los movimientos protestantes, puritanos y evangélicos.",
+        "sentence2": "Estas opiniones se expresaron a menudo durante el surgimiento de movimientos evangélicos, puritanos y protestantes.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La Copa de la UEFA 1973-74 la ganó el Feyenoord Rotterdam frente al Tottenham Hotspur por 4:2.",
+        "sentence2": "La Copa de la UEFA 1973-74 la ganó el Feyenoord Rotterdam sobre el Tottenham Hotspur por un global de 4-2.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Talfourd Ely era nieto de John Towill Rutt, uno de los primeros amigos de Crabb Robinson.",
+        "sentence2": "Talfourd Ely era nieto de Crabb Robinson, quien fue uno de los primeros amigos de John Towill Rutt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Su padre murió en su juventud y su madre, Samuel Adams, se casó con Catherine A. Fagan en 1842, quien dos años más tarde se convirtió en gobernadora de Arkansas.",
+        "sentence2": "Su padre murió durante su juventud y su madre, Catherine A. Fagan, se casó en 1842 con Samuel Adams, quien se convirtió en gobernador de Arkansas dos años después.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "También lanzaron la segunda canción del álbum, \"Vices\", como quinto sencillo del álbum el 13 de junio.",
+        "sentence2": "También lanzaron el segundo tema del álbum, \"Vices\", el 13 de junio como quinto sencillo del álbum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En 1888, la Junta de Agua de Sídney se hizo cargo del suministro de agua de Sídney del Ayuntamiento.",
+        "sentence2": "En 1888, la Junta de Agua de Sydney asumió el suministro de agua de Sydney del ayuntamiento.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "También Cai Feng tuvo un hijo, Cai Mao.",
+        "sentence2": "Cai Mao también tuvo un hijo, Cai Feng.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sus hojas tienen forma alternada a lo largo de las ramas y tienen forma de lanza, ovadas o casi circulares y tienen un tallo de largo.",
+        "sentence2": "Sus hojas están dispuestas de forma alterna a lo largo de las ramas y tienen forma de lanza, de huevo o casi circulares y tienen un tallo largo.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Esto amplió el área de conflicto entre Massachusetts y la provincia de Rhode Island.",
+        "sentence2": "Esto amplió el área de conflicto entre Rhode Island y la provincia de Massachusetts.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School era una escuela primaria selectiva para niñas en Berkshire, ahora Slough, Buckinghamshire.",
+        "sentence2": "Slough High School era una escuela primaria selectiva para niñas en Slough, Buckinghamshire, ahora Berkshire.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Está cerca de Lough Corrib, en la carretera N59 hacia Oughterard y Clifden, en Connemara.",
+        "sentence2": "Está cerca de Oughterard y Clifden, en la carretera N59 hacia Lough Corrib, en Connemara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Si bien la exclusión de jugadores negros no era una regla escrita, ningún afroamericano había jugado en la Liga Nacional de Fútbol desde 1933.",
+        "sentence2": "Si bien la exclusión de jugadores africanos no era una regla escrita, ningún jugador negro estadounidense había jugado en la Liga Nacional de Fútbol desde 1933.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Muawiyah llegó al poder tras la muerte de Ali y estableció una dinastía.",
+        "sentence2": "Después de la muerte de Muawiyah, Ali llegó al poder y fundó una dinastía.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En 1994, Rodrigo Leão dejó la banda para iniciar una carrera solista, siendo reemplazado por Carlos Maria Trindade (teclado sintetizador).",
+        "sentence2": "En 1994, Rodrigo Leão dejó la banda para iniciar una carrera solista, reemplazado por Carlos Maria Trindade (teclado sintetizador).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En 1933, Cattell escribió que, de todas las razas nórdicas, \"la raza europea era la más evolucionada en inteligencia y estabilidad de temperamento\".",
+        "sentence2": "En 1933, Cattell escribió que de todas las razas nórdicas, \"la raza europea era la más desarrollada en inteligencia y estabilidad de temperamento\".",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Abies lasiocarpa, comúnmente llamado abeto occidental de América del Norte o abeto de las Montañas Rocosas, es un abeto subalpino.",
+        "sentence2": "Abies lasiocarpa, comúnmente conocido como abeto occidental de América del Norte o abeto de las Montañas Rocosas, es un abeto subalpino.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "American Motors sólo proporcionó apoyo técnico en forma de ayuda limitada.",
+        "sentence2": "American Motors sólo proporcionó soporte técnico en forma de ayuda limitada.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El Houston Main Building (HMB), anteriormente Prudential Building, era un rascacielos en el Texas Medical Center en Houston, Texas.",
+        "sentence2": "El Edificio Principal de Houston (HMB), anteriormente Prudential Building, era un rascacielos en el Centro Médico de Texas, Houston, Texas.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tras regresar a Paramaribo en 1954, se instaló como abogado en Surinam.",
+        "sentence2": "Tras regresar a Surinam en 1954, se instaló en Paramaribo como abogado.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El accidente del vuelo 4544 de Aerosucre fue el primer incidente de aviación que involucró a Aerosucre, siendo el segundo el accidente de otro Boeing 727 el 18 de noviembre de 2006.",
+        "sentence2": "El accidente del vuelo 4544 de Aerosucre fue el segundo incidente de vuelo que involucra a Aerosucre, siendo el primero el accidente de otro Boeing 727 el 18 de noviembre de 2006.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El episodio de Cabot Trail se filmó en Cape Breton, incluyendo Peggys Cove y las tierras altas de Nueva Escocia, a lo largo de la costa este.",
+        "sentence2": "El episodio de la costa este se filmó en locaciones de Nueva Escocia, incluidas Peggys Cove y las tierras altas de Cape Breton, a lo largo de Cabot Trail.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Otra forma de regular la población de ciervos es controlar la tasa de natalidad.",
+        "sentence2": "Otra forma de regular la población de ciervos es controlar la tasa de natalidad.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El poema se conserva en cuatro manuscritos fragmentarios, uno de los cuales es contemporáneo.",
+        "sentence2": "El poema está almacenado en cuatro manuscritos contemporáneos, uno de los cuales es fragmentario:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En el disco también participaron Manu Chao, los grupos ``Air'', Cassius, Mars IV, Les Négresses Vertes, y FFF, y Howie B.",
+        "sentence2": "En el disco también participaron los grupos ''Air``, Howie B, Mars IV, Les Négresses Vertes y FFF y Manu Chao.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El río Hudeasa es un afluente del río Bradu en Rumania.",
+        "sentence2": "El río Hudeasa es el afluente del río Bradu en Rumania.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Si bien la exclusión de jugadores africanos no era una regla escrita, ningún jugador negro estadounidense había jugado en la Liga Nacional de Fútbol desde 1933.",
+        "sentence2": "Si bien la exclusión de los jugadores negros no era una regla escrita, desde 1933 ningún afroamericano había jugado en la Liga Nacional de Fútbol.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Su padre Patrick Byrne era diputado, TD, senador y alcalde de Dublín. Otro hermano, Alfie Byrne, también fue TD.",
+        "sentence2": "Su padre, Patrick Byrne, fue delegado, senador y alcalde de Dublín; otro hermano, Alfie Byrne, también fue TD.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La primera serie fue mejor recibida por la crítica que la segunda.",
+        "sentence2": "La segunda serie fue bien recibida por la crítica mejor que la primera.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fanwood está ubicado en el distrito 12 del Congreso y es parte del distrito legislativo 22 de Nueva Jersey.",
+        "sentence2": "Fanwood está ubicado en el distrito 22 del Congreso y es parte del distrito legislativo estatal 12 de Nueva Jersey.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Santa Cruz está situada a orillas del río Santa Cruz que desemboca en la parte oriental de la Laguna de Bahía.",
+        "sentence2": "La Laguna de Bahía se encuentra a orillas del río Santa Cruz, que desemboca en la parte oriental de Santa Cruz.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La Porte de Vincennes está ubicada donde la esquina sureste del distrito 20 se encuentra con la esquina noreste del distrito 12 de París.",
+        "sentence2": "La Porte de Vincennes está ubicada donde la esquina noreste del distrito 12 se encuentra con la esquina sureste del distrito 20 de París.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El 5 de marzo de 2011, MTV Hive publicó un enlace de transmisión de Anni Rossi, interpretando \"Rude Boy\" de Rihanna.",
+        "sentence2": "El 5 de marzo de 2011, MTV Hive publicó un enlace de streaming de Rihanna, interpretando \"Rude Boy\" de Anni Rossi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El rey Qi se reunió con el rey Zhao de Qin en el oeste de Zhou en 284 a. C. para formar una alianza contra Xi.",
+        "sentence2": "En 284 a. C., el rey Qi se reunió con el rey Zhao de Qin en Zhou occidental para formar una alianza contra Xi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La Región Administrativa de Chenzhou en la dinastía Tang está bajo la administración de la moderna Henan en el este de Zhoukou:",
+        "sentence2": "La región administrativa de Chenzhou en la dinastía Tang está bajo la administración de la moderna Henan en el este de Zhoukou:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "``Puro'' significa muy simple, y ``Belter'' o ``Beta'' significa grande o bueno.",
+        "sentence2": "``Puro'' significa simplemente muy y ``Belter'' o ``Beta'' significa bueno o grande.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stephen Stephen se casó el 29 de agosto de 1806 con Benjamin Hough, juez de paz, en el condado de Jefferson, Elizabeth Core.",
+        "sentence2": "`` 2 '' Benjamin Hough se casó el 29 de agosto de 1806 por Stephen Ford, juez de paz, en el condado de Jefferson con Elizabeth Core.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La especie fue descrita formalmente por primera vez por el botánico Stephan Endlicher en 1846 como parte de la obra \"Irideae\" de Johann Georg Christian Lehmann. Plantae Preissianae''.",
+        "sentence2": "La especie fue descrita formalmente por primera vez en 1846 por el botánico Stephan Endlicher como parte de la obra ``Irideae Plantae Preissianae'' de Johann Georg Christian Lehmann.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En 1912, el Congreso Nacional Indio celebró su 27ª sesión en Bankipore bajo la presidencia de Rao Bahadur Raghunath Narasinha Mudholkar de Amravati, Provincias Centrales y Berar.",
+        "sentence2": "En 1912, el Congreso Nacional Indio celebró su 27ª sesión en Bankipore, bajo la presidencia de Rao Bahadur Raghunath Narasinha Mudholkar de las provincias centrales de Amravati y Berar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La fibra animal más utilizada es la lana extraída de ovejas. Para tejer a mano y como hobby, con frecuencia se hilan hilos gruesos, de lana y acrílicos.",
+        "sentence2": "La fibra animal que se hila con más frecuencia es la lana extraída de ovejas. Para tejer a mano y por afición, a menudo se utilizan hilos gruesos de lana y acrílicos.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tipico Co. Ltd y Tipico Casino Ltd se fundaron en 2004 como empresas comerciales internacionales inscritas en el registro comercial de la Autoridad de Servicios Financieros de Malta.",
+        "sentence2": "Tipico Co. Ltd y Tipico Casino Ltd se establecieron en 2004 como empresas comerciales internacionales en el Registro Comercial de la Autoridad de Servicios Financieros de Malta.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Está cerca de Lough Corrib, en la carretera N59 hacia Oughterard y Clifden, en Connemara.",
+        "sentence2": "Se encuentra cerca de Oughterard y Clifden, en la carretera N59 hacia Lough Corrib, en Connemara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El 14 de septiembre de 2006, Lang fue firmado por los Washington Wizards y liberado por los Wizards en julio de 2017.",
+        "sentence2": "El 14 de septiembre de 2006, Lang fue contratado por los Washington Wizards. En julio de 2017, Lang fue liberado por los Wizards.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El sencillo fue lanzado en Radio Airplay en Italia el 12 de octubre de 2012 y se envió a todo el mundo el 3 de diciembre de 2012.",
+        "sentence2": "El sencillo fue transmitido por radio el 12 de octubre de 2012 en Italia y fue lanzado en todo el mundo el 3 de diciembre de 2012.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Después de su servicio Lockhart vivió en Texas pero recientemente se mudó a Florida.",
+        "sentence2": "Después de su servicio, Lockhart vivió en Florida, pero recientemente se mudó a Texas.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Se encuentra en América del Norte, donde se registró desde Terranova y Labrador al oeste hasta Columbia Británica, al norte hasta Alaska y el Yukón.",
+        "sentence2": "Se encuentra en América del Norte, donde se ha registrado desde Terranova y Labrador al oeste hasta Columbia Británica, al norte hasta Alaska y el Yukón.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Este distrito occidental de Randallstown incluye Woodlawn, Milford Mill y el condado de Baltimore.",
+        "sentence2": "Este distrito occidental de Randallstown comprende Woodlawn, Milford Mill y el condado de Baltimore.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fue entrenado por John Velázquez y montado por Jockey Dale Romans en su carrera más importante.",
+        "sentence2": "Fue entrenado por Dale Romans y montado por el Jockey John Velázquez durante sus carreras más importantes.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Durante su estancia en Savannah, Charles Celestine se enteró por un periódico de que su hijo, Sherman, había muerto durante la campaña de Savannah; el general nunca había visto al niño.",
+        "sentence2": "Mientras estaba en Savannah, Charles Celestine se enteró por un periódico de que su hijo pequeño Sherman había muerto durante la campaña de Savannah; el general nunca había visto al niño.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La portada fue diseñada por el artista heráldico John Pasche y el sencillo ``Steel Monkey'' ha sido diseñada por el director de arte Andrew Stewart Jamieson.",
+        "sentence2": "La portada fue diseñada por el artista heráldico Andrew Stewart Jamieson, el sencillo ``Steel Monkey'' ha sido diseñada por el director de arte John Pasche.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El método MacCormack es un esquema de discretización ampliamente utilizado para la solución numérica de ecuaciones diferenciales hiperbólicas parciales.",
+        "sentence2": "En dinámica de fluidos computacional, el método MacCormack es un esquema de discretización ampliamente utilizado para la solución diferencial parcial hiperbólica de ecuaciones numéricas.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wright se mudó de Chapel Hill, Carolina del Norte, a Nueva York.",
+        "sentence2": "Wright se mudó a Nueva York desde Chapel Hill, Carolina del Norte.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La Consonante-Eyectiva es un tipo de sonido velar que se utiliza en algunas lenguas habladas. El símbolo en el Alfabeto Fonético Internacional, que representa este sonido.",
+        "sentence2": "El Velar-Eyectivo es un tipo de sonido consonántico que se utiliza en algunas lenguas habladas. El símbolo en el Alfabeto Fonético Internacional, que es este sonido.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Las actividades europeas pasaron a formar parte de Ebel, mientras que las actividades asiáticas fueron vendidas al empresario de Hong Kong Joseph Wong y ahora pertenecen a Stelux Holdings.",
+        "sentence2": "Las actividades europeas pasaron a formar parte de Ebel, mientras que las actividades asiáticas se vendieron al empresario de Hong Kong Joseph Wong y ahora forman parte de Stelux Holdings.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Los primeros miembros del consejo asesor incluyeron a Alistair Cooke, Saul Bellow, Walter Cronkite, Norman Cousins, Gore Vidal y Norman Podhoretz.",
+        "sentence2": "Los primeros miembros asesores incluyeron a Walter Cronkite, Norman Vetter, Gore Vidal, Norman Podhoretz, Saul Bellow y Alistair Cooke.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El Parque Nacional Petkeljärvi es un parque nacional en Ilomantsi, en la región de Karelia del Norte de Finlandia.",
+        "sentence2": "El Parque Nacional Petkeljärvi es un parque nacional de Finlandia en la región de Ilomantsi en Karelia del Norte.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "También publicaron la quinta canción del álbum, \"Vices\", como segundo sencillo del álbum el 13 de junio.",
+        "sentence2": "También lanzaron la quinta canción del álbum, \"Vices\", el 13 de junio como segundo sencillo del álbum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Stoke venció a Sheffield Wednesday y Huddersfield Town antes de perder ante Peterborough United en la cuarta ronda.",
+        "sentence2": "Stoke venció a Peterborough United y Huddersfield Town antes de perder en cuarta ronda contra Sheffield Wednesday.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cuando se le preguntó cómo decir su nombre, respondió a \"The Literary Digest\". Mi nombre se pronuncia como si fuera \"oído\"; en casa '' escrito .",
+        "sentence2": "Cuando se le preguntó cómo decir su nombre, respondió a ``The Literary Digest''. Mi nombre se escribe como si se pronunciara, oreja 'apos; en casa `` .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El cultivo fue introducido en 1880 por Fernando Heydrich en Matanzas en Cuba.",
+        "sentence2": "En Matanzas su cultivo fue introducido en 1880, por Fernando Heydrich en Cuba.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Si hay varias categorías gramaticales en una oración, sólo la primera lleva el marcador de plural.",
+        "sentence2": "Si hay varias categorías gramaticales en una oración, sólo el plural lleva el primer marcador.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El régimen abandonó Filadelfia en octubre de 1777 para unirse al ejército principal del general George Washington en las afueras de Boston.",
+        "sentence2": "El regimiento abandonó Filadelfia en octubre de 1777 para unirse al ejército principal del general George Washington en las afueras de Boston.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En 1974, la República Democrática Popular Lao estableció el fondo de la Etapa II con la ayuda del Banco Mundial, las Naciones Unidas y el Banco Asiático de Desarrollo.",
+        "sentence2": "Con el apoyo del Banco Mundial , las Naciones Unidas y el Banco Asiático de Desarrollo , la República Democrática Popular Lao fundó el fondo de la Etapa II en 1974 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Posteriormente lo usó como símbolo del partido nazi y lo colocó sobre un círculo blanco y un fondo rojo para usarlo como bandera.",
+        "sentence2": "Posteriormente lo utilizó como símbolo del partido nazi y lo colocó sobre un círculo rojo y un fondo blanco para usarlo como bandera.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Para desarrollar el mapa de Hoth, los diseñadores recibieron todo el material fuente posible de \"El Imperio Contraataca\" para crear una reproducción auténtica.",
+        "sentence2": "Para crear el mapa de Hoth, los diseñadores obtuvieron la mayor cantidad posible de material fuente de \"El Imperio Contraataca\" para desarrollar una reproducción auténtica.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Está casado con Elizabeth ``Betsy'' Katz. Es el padre de Adam, Nathaniel y Sara Hundt.",
+        "sentence2": "Está casado con Elizabeth ``Betsy'' Katz, padre de Adam, Nathaniel y Sara Hundt.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Una casa está cargada de energía furiosa y da forma al espíritu nigromántico de su interior.",
+        "sentence2": "Una casa se carga de energía nigromántica y da forma al espíritu enojado que hay en su interior.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mientras Oros trabajaba con Walker en diseños de automóviles y camionetas Ford, Engel se concentraba en los vehículos Lincoln y Mercury.",
+        "sentence2": "Mientras Oros trabajaba en los diseños de automóviles y camionetas de Ford bajo la dirección de Walker, Engel se centraba en los vehículos Lincoln y Mercury.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hirasea goniobasis es una especie de caracol terrestre pulmonado que respira aire, un pequeño molusco gasterópodo de la familia Endodontidae.",
+        "sentence2": "Hirasea goniobasis es una especie de pequeño caracol respirable por el aire, un molusco gasterópodo pulmonado terrestre de la familia Endodontidae.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Las lesiones premalignas son aparentemente un tejido típico que parece anormal al examen microscópico y en el que es más probable que se produzca cáncer que en su contraparte morfológicamente normal.",
+        "sentence2": "Las lesiones premalignas son aparentemente un tejido típico, que parece anormal en los exámenes microscópicos y en el que el cáncer es más probable que su contraparte morfológicamente normal.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Abu Halifa o Abu Hulayfah o Abu Huleifa o Abu Haleifah es una pequeña ciudad en la gobernación de Kuwait de Al Ahmadi en el distrito sur de Abu Halifa.",
+        "sentence2": "Abu Halifa o Abu Hulayfah o Abu Huleifa o Abu Haleifah es una pequeña ciudad en Kuwait de la gobernación de Al Ahmadi en el sur del distrito de Abu Halifa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Israel es un álbum de los trombonistas de jazz estadounidenses Kai Winding y JJ Johnson con actuaciones lanzadas en 1968 y grabadas en el C.",
+        "sentence2": "Israel es un álbum de los trombonistas de jazz estadounidenses Kai Winding y JJ Johnson con interpretaciones publicadas en 1968 y grabadas en C.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En 2014, Adam escribió una trilogía gótica con revisiones de los cuentos clásicos Frankenstein, La corrupción de Dorian Gray y Jekyll Hyde Corpus Delicti.",
+        "sentence2": "En 2014, Adam escribió una trilogía gótica, reelaboraciones de historias clásicas como Frankenstein, La corrupción de Dorian Gray y Jekyll & Hyde Corpus Delicti.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La señora Glad había trabajado en Ovamboland en 1901 - 1919 y 1926 - en 1936 y estuvo allí como la primera inspectora de escuelas.",
+        "sentence2": "La señora Glad había trabajado en Ovamboland en 1901-1919 y 1926-1936, y había actuado allí como la primera inspectora de escuelas.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Describe esto como un nuevo descubrimiento de la escritura de ficción y lo considera un mito-realismo de la literatura china.",
+        "sentence2": "Considera que esto es un \"nuevo descubrimiento\" de la escritura de ficción y lo denomina \"mitorrealismo\" de la literatura china.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En 1953, el equipo también realizó una gira por Australia y Asia en agosto de 1959.",
+        "sentence2": "El equipo también realizó una gira por Australia en 1953 y Asia en agosto de 1959.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ronnie Fields no jugó ni un solo partido en la NBA ni en la NCAA.",
+        "sentence2": "Ronnie Fields no jugó ni un solo partido en la NCAA ni en la NBA.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El nuevo parque infantil está equipado con modernos aparatos de gimnasia para niños.",
+        "sentence2": "El parque infantil es moderno con nuevos equipos de fitness para los niños.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Probuccinum tenerum es un tipo de caracol de mar, un verdadero molusco gasterópodo de la familia Buccinidae, los buccinos marinos.",
+        "sentence2": "Probuccinum tenerum es una especie de caracol de mar, un molusco gasterópodo marino de la familia Buccinidae, los verdaderos caracoles.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abraham Hart fue presidente y Mayer Sulzberger secretario del patronato.",
+        "sentence2": "El presidente era Mayer Sulzberger y Abraham Hart era el secretario de los fideicomisarios.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Juhi Chawla tiene dos hijos con su esposa Jahnavi Mehta, una niña, Mehta (nacida en 2001) y un niño, Arjun Mehta (nacido en 2003).",
+        "sentence2": "Mehta tiene dos hijos con su esposa Juhi Chawla, una niña, Jahnavi Mehta (nacida en 2001) y un niño, Arjun Mehta (nacido en 2003).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El grado de distinción entre las tendencias protestantes y católicas dentro de la tradición anglicana específica es habitualmente un tema de debate tanto dentro de las iglesias anglicanas como en toda la Comunión Anglicana.",
+        "sentence2": "El grado de distinción entre las tendencias protestantes y católicas dentro de la tradición anglicana es habitualmente un tema de debate tanto dentro de iglesias anglicanas específicas como en toda la comunidad anglicana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School era una escuela selectiva para niñas en Slough, Buckinghamshire, ahora Berkshire.",
+        "sentence2": "Slough High School era una escuela primaria selectiva para niñas en Slough, Buckinghamshire, ahora Berkshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus es una cervecería regional con influencias del estilo alemán.",
+        "sentence2": "Lobethal Bierhaus es una cervecería regional con influencias de estilo alemán.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Long nació en Israel, emigró de joven a Australia y se estableció allí en 1961.",
+        "sentence2": "Lang nació en Australia, emigró a Israel cuando era joven y se estableció allí en 1961.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Se jubiló en Milwaukee, Wisconsin, donde murió el 5 de mayo de 1903.",
+        "sentence2": "Murió en Wisconsin, Milwaukee, donde se jubiló el 5 de mayo de 1903.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El color del sombrero varía de marrón a marrón, a menudo con una mancha amarilla en el sombrero en la madurez.",
+        "sentence2": "El color del sombrero varía de marrón a amarillo, a menudo con una mancha marrón en el sombrero en la madurez.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El río Valea lui Lambă o río ``unk'' imon es un afluente del río Lom en Rumania.",
+        "sentence2": "El río Valea lui Lambă o río Șimon es un afluente del río Lom en Rumania.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La cerca terminada se ubica principalmente en Texas, y la construcción en Nuevo México, Arizona y California.",
+        "sentence2": "La valla terminada se encuentra principalmente en Texas, y la construcción está en marcha en Nuevo México, Arizona y California.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Buccinum pulchellum es una especie de caracol marino, un molusco gasterópodo marino de la familia Buccinidae, los verdaderos rollos de cuerno de rueda.",
+        "sentence2": "Buccinum pulchellum es una especie de caracol de mar, un verdadero molusco gasterópodo de la familia Buccinidae, los buccinos marinos.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El 30 de abril de 1983, un C-311 asignado a la NAS Bahía de Guantánamo, Cuba, se estrelló en la NAS Jacksonville con la pérdida de 13 vidas humanas.",
+        "sentence2": "El 30 de abril de 1983, un C-311 asignado a la NAS Jacksonville, Cuba, en la NAS Bahía de Guantánamo se estrelló con la pérdida de 13 vidas.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Como recompensa por su lealtad a Enrique, adquirió lucrativas tierras y muchas oficinas en el sur de Gales.",
+        "sentence2": "Como recompensa por su lealtad a Henry, adquirió muchas tierras y oficinas lucrativas en el sur de Gales.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En 2010, la Universidad de Nueva York derrotó a la Universidad de Harvard 3-1-1 para ganar su primer Campeonato Nacional.",
+        "sentence2": "En 2010, la Universidad de Nueva York derrotó a la Universidad de Harvard 3-1-1 para ganar su primer Campeonato Nacional.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El río Neajlovel es un afluente del río Neajlov en Rumania.",
+        "sentence2": "El río Neajlov es un afluente del río Neajlovel en Rumania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La agencia tiene su sede en Arlington, Virginia, y su oficina en el extranjero en París, Francia.",
+        "sentence2": "La agencia tiene su sede en Arlington, Virginia, y su Oficina de Operaciones en el Extranjero en París, Francia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El río Neajlov es un afluente del río Neajlovel en Rumania.",
+        "sentence2": "El río Neajlovel es un afluente del río Neajlov en Rumania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ahmad Yar Khan nació en la familia Tiwana de Shahpur, hijo de Sahib Khan.",
+        "sentence2": "Sahib Khan nació en la familia Tiwana de Shahpur, hijo de Ahmad Yar Khan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nacido en Brooklyn, Nueva York, murió en Tiburón, California.",
+        "sentence2": "Nació en Tiburón, California, y murió en Brooklyn, Nueva York.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Las propuestas del Met para extenderse desde Paddington hasta South Kensington y hacia el sur desde Moorgate hasta Tower Hill fueron aceptadas y recibieron el consentimiento real el 29 de julio de 1864.",
+        "sentence2": "Las sugerencias del Met para extenderse desde Paddington hasta South Kensington y al este desde Moorgate hasta Tower Hill hacia el sur fueron aceptadas y recibieron el consentimiento real el 29 de julio de 1864.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El poema se conserva en cuatro manuscritos fragmentarios, de los cuales uno contemporáneo.",
+        "sentence2": "El poema se conserva en cuatro manuscritos contemporáneos, uno de los cuales está fragmentado:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El concejo municipal de Webster Grove estaba formado por los miembros del concejo Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt y Anne Tolan.",
+        "sentence2": "El Concejo Municipal de Webster Groves estaba formado por los concejales Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt y Anne Tolan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Por lo tanto, la caída de los puntos de fusión y ebullición de los metales alcalinos indica que la fuerza de los enlaces metálicos de los metales alcalinos disminuye a lo largo del grupo.",
+        "sentence2": "Por lo tanto, la caída de los puntos de fusión y ebullición de los metales alcalinos indica que la fuerza de los enlaces metálicos de los metales alcalinos del grupo disminuye.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Scrivener fecha el manuscrito en el siglo XIII, CR Gregory en el siglo XII, actualmente el manuscrito está fechado en el siglo XII por INTF.",
+        "sentence2": "Scrivener fechó el manuscrito en el siglo XII y CR Gregory en el siglo XIII. Actualmente el manuscrito está fechado por el INTF en el siglo XII.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "County Road 540 está a unas pocas millas al oeste de State Road 540 en Highland City y corre hacia el sur desde la US 98 hasta County Road 37B.",
+        "sentence2": "County Road 540 está a unas pocas millas al sur de State Road 540 en Highland City y corre hacia el oeste desde la US 98 hasta County Road 37B.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El SPB tiene un tamaño de altura constante (distancia desde la placa interna a la placa externa) durante aproximadamente 150 nm, pero su diámetro cambia durante el ciclo celular, z.",
+        "sentence2": "El SPB tiene un tamaño de altura interior (la distancia entre la placa exterior y la placa constante) de aproximadamente 150 nm, pero su diámetro cambia durante el ciclo celular, p.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rami Nieminen (nacido el 25 de febrero de 1966) es un exfutbolista finlandés.",
+        "sentence2": "Rami Nieminen (nacido el 25 de febrero de 1966) es un futbolista finlandés.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Era primo del jugador nacional checo Miroslav Hlinka e hijo del exjugador Jaroslav Hlinka sr.",
+        "sentence2": "Era primo del jugador de la selección checa Miroslav Hlinka e hijo del exjugador Jaroslav Hlinka sr.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Estaban allí para orar por nosotros y estaban allí para disfrutarnos.",
+        "sentence2": "Estaban allí para que oráramos y para que disfrutáramos.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "William Llewelyn Williams, más conocido como Llewelyn Williams (10 de marzo de 1867 - 22 de abril de 1922), fue un periodista radical, abogado y político del partido liberal galés.",
+        "sentence2": "William Williams, conocido como Llewelyn Williams (10 de marzo de 1867 - 22 de abril de 1922), fue un periodista, abogado y político radical del Partido Liberal galés.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El Plátano Gigante es el tercer árbol más grande y más antiguo de Polonia y el plátano de Londres más grueso del país.",
+        "sentence2": "El Plátano Gigante es el tercer árbol más grande y más antiguo de Polonia, y el plátano de Londres más grueso del país.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El río Molmys es un río del Krai de Perm, Rusia, afluente del río Yazva por la izquierda.",
+        "sentence2": "Yazva es un río en el Krai de Perm, Rusia, un afluente izquierdo del río Molmys.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sarika le pide a Kabir que ponga fin a su plan de revelarle el juego de Ranvir.",
+        "sentence2": "Kabir le pide a Sarika que le revele su plan para poner fin al juego de Ranvir.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hasta la llegada de la tecnología del vídeo electrónico y digital, la producción masiva de películas pornográficas estaba directamente vinculada a la industria cinematográfica convencional.",
+        "sentence2": "La producción en masa de películas electrónicas y digitales estuvo directamente vinculada a la industria cinematográfica establecida hasta la llegada de la tecnología del vídeo pornográfico.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mientras el 33.º Grupo de Cazas estuvo inactivo, se consolidó con el 33.º Grupo Táctico como el 33.º Grupo de Cazas Tácticos.",
+        "sentence2": "Mientras el 33.º Grupo Táctico estuvo inactivo, se consolidó como 33.º Grupo de Cazas Tácticos con el 33.º Grupo de Cazas.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sirve al suburbio Edithvale del sureste de Melbourne y se inauguró el 20 de septiembre de 1919.",
+        "sentence2": "Sirve al suburbio de Edithvale, en el sureste de Melbourne, y se inauguró el 20 de septiembre de 1919.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Massé nació en el condado de Westchester, Nueva York, creció en Holland, Michigan y vivió en Europa durante su adolescencia.",
+        "sentence2": "Massé nació en el condado de Westchester, Nueva York, creció en Holland, Michigan y vivió en Europa durante su adolescencia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fishman tiene una licenciatura de la Universidad de Columbia y una maestría en economía de la Universidad de Brown.",
+        "sentence2": "Fishman tiene una licenciatura de la Universidad de Brown y una maestría en Economía de la Universidad de Columbia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tras su éxito, Jane Campion contrató a Jones para una miniserie de televisión que se convirtió en la película Angel at my Table, una adaptación de la autobiografía de Janet Frame.",
+        "sentence2": "Tras su éxito, Jane Campion Jones fue una adaptación de la autobiografía de Janet Frame para una miniserie de televisión que se convirtió en la película Angel at my Table.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stipsits nació en Viena y pasó su infancia en Stammersdorf, Korneuburg.",
+        "sentence2": "Stipsits nació en Viena y pasó su infancia en Stammersdorf, Korneuburg.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Navarro es un partido del noreste de la provincia de Buenos Aires en Argentina.",
+        "sentence2": "Navarro es un partido del noreste de Argentina en la provincia de Buenos Aires.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Aguas arriba se encuentra el puente ferroviario central de Michigan, fuera de servicio, que con su predecesor, el puente voladizo del Niágara, competía con el remolino del puente Rapids en el transporte ferroviario.",
+        "sentence2": "Aguas arriba se encuentra el puente ferroviario central de Michigan, fuera de servicio, que competía con su predecesor, el remolino Rapids Bridge, con el puente Niagara Cantilever por el tráfico ferroviario.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La canción fue escrita y producida por la gala, que fue compuesta por Filippo Andrea Carmeni y Maurizio Molella.",
+        "sentence2": "La canción fue escrita y compuesta por Gala producida por Filippo Andrea Carmeni y Maurizio Molella.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Retzius nació en Estocolmo, hijo del anatomista Anders Jahan Retzius (y nieto del naturalista y químico Anders Retzius).",
+        "sentence2": "Retzius nació en Estocolmo, hijo del anatomista Anders Retzius (y nieto del naturalista y químico Anders Jahan Retzius).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Según el censo de 2011, el 78,8% de los habitantes eran rumanos, el 17% romaníes, el 2,7% húngaros y el 1,4% alemanes.",
+        "sentence2": "En el censo de 2011, el 78,8% de los habitantes eran romaníes, el 17% húngaros, el 2,7% rumanos y el 1,4% alemanes.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El museo está ubicado centralmente en el distrito financiero de Jiangbeizui, cerca de la confluencia del río Jialing y el río Yangtze.",
+        "sentence2": "El museo está ubicado en el centro del distrito financiero de Jiangbeizui, cerca de la confluencia del río Jialing y el río Yangtze.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Robbins nació en Coventry el 21 de septiembre de 1933, con su gemelo David, el octavo y noveno hijo de doce de Charles y Jessamine Robbins.",
+        "sentence2": "David nació el 21 de septiembre de 1933 en Coventry con su padre gemelo Charles y Jessamine Robbins, el octavo y noveno hijo de doce de Robbins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El batallón es mantenido por los Queen's York Rangers (1er Regimiento Americano) (RCAC).",
+        "sentence2": "El batallón está perpetuado por los Queen's York Rangers (RCAC) (1er regimiento americano).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Katz nació en 1947 en Suecia y se mudó a Nueva York cuando tenía un año.",
+        "sentence2": "Katz nació en la ciudad de Nueva York en 1947 y se mudó a Suecia a la edad de 1 año.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La imagen de la página es bidimensional, a diferencia del 3D prerenderizado.",
+        "sentence2": "La imagen del lateral es una imagen bidimensional en lugar de 3D prerenderizada.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La luz \"detenida\", en el contexto de un medio EIT, se refiere a la transferencia \"cuántica\" de fotones al sistema coherente y viceversa.",
+        "sentence2": "La luz \"detenida\" se refiere en el contexto de un medio EIT a la transferencia \"cuántica\" de fotones al sistema coherente y su retorno.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La media anterior es más importante para valores altos de fórmula _2.",
+        "sentence2": "Para valores altos de la Fórmula 2 es más importante la media actual.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Entre las mujeres destacadas de Surinam se encuentran Jennifer Simons, Marijke Djwalapersad, Elisabeth Samson, Cynthia McLeod y Ruth Wijdenbosch.",
+        "sentence2": "Entre las mujeres más destacadas de Surinam se encuentran Jennifer Simons, Marijke Djwalapersad, Elisabeth Samson, Cynthia McLeod y Ruth Wijdenbosch.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En 1924 fue portavoz invitado del ICM en Toronto, en Oslo en 1932 y en 1936 en Zurich.",
+        "sentence2": "En 1924 fue portavoz invitado del ICM en Toronto, en 1932 en Zurich y en 1936 en Oslo.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El Servicio Mundial de la BBC también transmitió una versión llamada ``Animal, Vegetal y Mineral'', presidida por Michael Flanders con un panel que incluía a Terry Wogan.",
+        "sentence2": "El Servicio Mundial de la BBC también exhibió una versión denominada ``Animal, Vegetal y Mineral'', presidida por Michael Flanders, con un panel con Terry Wogan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El hermano menor de Thompson, Julia, nació en 1863 en Charles Martin Hall, condado de Geauga, Ohio.",
+        "sentence2": "El hermano menor de Julia, Charles Martin Hall, nació en Thompson, condado de Geauga, Ohio, en 1863.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El río Horezu es un afluente del río Ponoru en Rumania.",
+        "sentence2": "El río Ponoru es un afluente del Horezu en Rumania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En 2002, la canción fue publicada por el productor británico Vincent Stormfield y versionada por Independiente como ''Sweet Harmony 02``.",
+        "sentence2": "En 2002, la canción fue versionada por el productor británico Vincent Stormfield y lanzada como ``Sweet Harmony '02'' por Independiente.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "David nació el 21 de septiembre de 1933 en Coventry con su padre gemelo Charles y Jessamine Robbins, el octavo y noveno hijo de doce de Robbins.",
+        "sentence2": "Robbins nació el 21 de septiembre de 1933 en Coventry, con su gemelo David, el octavo y noveno hijo de los doce de Charles y Jessamine Robbins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El regimiento abandonó Boston en octubre de 1777 para unirse al ejército principal del general George Washington en las afueras de Filadelfia.",
+        "sentence2": "El régimen abandonó Filadelfia en octubre de 1777 para unirse al ejército principal del general George Washington en las afueras de Boston.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El compuesto fue desarrollado por el Dr. Patrick Page y su equipo y patentado por Genkyotex en 2007.",
+        "sentence2": "El compuesto fue patentado por el Dr. Patrick Page y su equipo e inventado por Genkyotex en 2007.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El \"caso\" se utilizó por última vez en 1949 en Alemania Oriental y en 1966 en Alemania Occidental.",
+        "sentence2": "El ``Fallbeil'' se utilizó por última vez en Alemania Occidental en 1949, y en 1966 en Alemania Oriental.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ringo Sheena es el líder del Saito Neko Quartet y es conocido por sus numerosas colaboraciones con el músico Saito.",
+        "sentence2": "Saito es el líder del Saito Neko Quartet y es bien conocido por sus numerosas colaboraciones con el músico Ringo Sheena.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abu Halifa o Abu Hulayfah o Abu Huleifa o Abu Haleifah es una pequeña ciudad en el distrito de Abu Halifa de la gobernación de Al Ahmadi en el sur de Kuwait.",
+        "sentence2": "Abu Halifa o Abu Hulayfah o Abu Huleifa o Abu Haleifah es una pequeña ciudad en la gobernación de Kuwait de Al Ahmadi en el distrito sur de Abu Halifa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Su padre era hijo ilegítimo de Anne Tothby, miembro del Parlamento de Lincolnshire, y de William Skipwith.",
+        "sentence2": "Su padre era hijo ilegítimo de Anne Tothby, miembro del Parlamento de Lincolnshire, y de William Skipwith.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Entre ellos se encuentran Marie Teresa Ríos, compositora de boleros, Julita Ross, autora, y Sylvia Rexach, cantante.",
+        "sentence2": "Entre ellos se encuentran Sylvia Rexach, compositora de Boleros, Marie Teresa Ríos, autora, y Julita Ross, cantante.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Le sobrevivieron su esposa Carol Ober, su hija Viola y cuatro nietos.",
+        "sentence2": "Le sobrevivieron su esposa Carol Ober, su hija Viola y cuatro nietos.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Regresaría a la estación al oeste de Tecumseh esa noche y luego viajaría con otro caballo a Violet Springs antes de que sus vecinos sospecharan.",
+        "sentence2": "Viajaría a la estación esa noche, ubicada al oeste de Tecumseh, y luego regresaría a Violet Springs con otro caballo antes de que sus vecinos sospecharan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La agencia tiene su sede en París, Francia, y su oficina en el extranjero -Oficina de Operaciones- en Arlington, Virginia.",
+        "sentence2": "La agencia tiene su sede en Arlington, Virginia, y su Oficina de Operaciones en el Extranjero en París, Francia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En 1964, la diócesis fue restaurada nominalmente como ciudadano titular del rango más bajo (episcopal).",
+        "sentence2": "En 1964, la diócesis fue restaurada nominalmente como sede episcopal del rango más bajo (titular).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Su trabajo posterior en agricultura se desarrolló principalmente en Lincolnshire, pero también propuso extensos terraplenes en Norfolk, que se llevaron a cabo con éxito.",
+        "sentence2": "Su futuro trabajo en agricultura se desarrolló principalmente en Norfolk, pero también propuso extensos terraplenes en Lincolnshire, que se llevaron a cabo con éxito.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cuando Jack Nitzsche escuchó por primera vez \"Stubborn Kind of Fellow\" estaba tan emocionado que perdió el control de su automóvil mientras conducía por Sunset Boulevard con Phil Spector.",
+        "sentence2": "Cuando Phil Spector escuchó ``Stubborn Kind of Fellow'' por primera vez, estaba tan emocionado que perdió el control de su automóvil mientras conducía por Sunset Boulevard con Jack Nitzsche.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Los comunistas creían firmemente que la Agencia Central de Inteligencia apoyaba estas protestas discretamente financieramente y de otro modo.",
+        "sentence2": "Los comunistas creyeron discretamente que la Agencia Central de Inteligencia apoyaba firmemente, financieramente y de otro modo, estas protestas.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Las especies son miembros de diferentes grupos ecológicos, incluidos arbustos, lianas y árboles xerófitos, plantas tropicales, micoheterotrofias y varios representantes herbáceos.",
+        "sentence2": "Las especies son miembros de diferentes grupos ecológicos, incluidos arbustos, lianas y árboles tropicales, plantas xerófitas, micoheterotróficas y diversos representantes herbáceos.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El khan avanzó con una escolta, Tsitsianov cabalgó con otros dos hombres y fue asesinado a tiros.",
+        "sentence2": "El Khan avanzó con una escolta, Tsitsianov cabalgó con otros dos hombres y fue asesinado a tiros.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sculcoates tiene una biblioteca, una oficina de correos, una piscina llamada Beverley Road Baths, una escuela secundaria y dos escuelas primarias.",
+        "sentence2": "Sculcoates tiene una biblioteca, una oficina de correos, una piscina llamada Beverly Road Baths, una escuela secundaria y dos escuelas primarias.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nació en Melbourne y emigró a Nueva Zelanda con su familia cuando tenía 10 años.",
+        "sentence2": "Nació en Nueva Zelanda y emigró con su familia a Melbourne cuando tenía 10 años.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En la historia de tales dispositivos, precedió a \"El Turco\" y sucedió a \"Mephisto\".",
+        "sentence2": "En la historia de tales dispositivos ''El Turco`` ha tenido éxito y ''Mephisto`` precedió.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Agranat nació en Louisville, Kentucky, en 1906, en una familia judía-sionista.",
+        "sentence2": "Agranat nació en una familia judía sionista en Louisville, Kentucky, en 1906.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Massé nació en el condado de Westchester, Nueva York, creció en Holland, Michigan y vivió en Europa durante su adolescencia.",
+        "sentence2": "Massé nació en Holland, Michigan, creció en el condado de Westchester, Nueva York, y vivió en Europa durante su adolescencia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Estas tres dinastías maternas gobernaron el reino de Waalo con la familia paterna de los Mbooj.",
+        "sentence2": "Estas tres dinastías maternas gobernaron el reino de Waalo con la familia paterna Mbooj.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El BAC presenta tres presentaciones anuales de la Orquesta de Minnesota y recientemente ha encargado obras a Diavolo y Merce Cunningham Dance Company.",
+        "sentence2": "El BAC cuenta con tres presentaciones anuales de la Orquesta de Minnesota y presenta obras recientemente encargadas por Diavolo y Merce Cunningham Dance Company.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Monroe Meadows, en el valle de Yosemite cerca de Bridalveil Falls, también lleva el nombre de George Monroe.",
+        "sentence2": "Monroe Meadows, en el caso de Bridalveil cerca del valle de Yosemite, también lleva el nombre de George Monroe.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La andesita fue el tipo de lava dominante con algunas muestras lo suficientemente máficas como para ser clasificadas como andesita basáltica.",
+        "sentence2": "La andesita fue el tipo de lava dominante con algunas muestras que fueron suficientes para ser clasificada como andesita basáltica.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "A principios de 2016, el senador Bob Hackett fue designado miembro del Senado de Ohio para suceder al senador Chris Widener, quien renunció.",
+        "sentence2": "A principios de 2016, el senador Chris Widener fue designado miembro del Senado de Ohio para suceder al senador Bob Hackett, quien renunció.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En la práctica, los ``módulos'' de mezquite son clases Java, generalmente subclases abstractas de definiciones de clases concretas.",
+        "sentence2": "En la práctica, las clases Java de los ``módulos'' de Mesquite suelen ser subclases concretas de definiciones de clases abstractas.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El Papa propuso una solución en 1980 que fue rechazada por Chile y aprobada por Argentina.",
+        "sentence2": "El Papa propuso una solución aceptada por Chile en 1980 y rechazada por Argentina.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En las décadas de 1930 y 1940 , fue elegido cuatro veces por Al Smith , en 1928 por Franklin D. Roosevelt y por Harry S. Truman en 1948 .",
+        "sentence2": "Massachusetts votó por Al Smith en 1928, por Franklin D. Roosevelt cuatro veces en las décadas de 1930 y 1940, y por Harry S. Truman en 1948.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La música interpretada mientras Bob corteja a \"Blackadder\" es \"Fantasia on Greensleeves\" de Vaughan Williams.",
+        "sentence2": "La música que se interpreta mientras Blackadder corteja a ''Bob'' es ''Fantasía en mangas verdes'' de Vaughan Williams.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "También vale la pena señalar que el siguiente código funcionaría sin ADL (se le aplicará de todos modos).",
+        "sentence2": "También vale la pena señalar que el siguiente código funcionaría sin ADL (se le aplicará de todos modos).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Luego se encuentra con el río Snoqualmie para formar el río Snohomish en Monroe.",
+        "sentence2": "Luego se encuentra con el río Snoqualmie para formar el río Snohomish en Monroe.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Durante su campaña, debatió con McCain dos veces, una en Tucson y otra en Flagstaff.",
+        "sentence2": "Durante su campaña, debatió dos veces sobre McCain, una en Flagstaff y otra en Tucson.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fue terminado por su esposa, Stella Gemmell, tras su muerte el 28 de julio de 2006 y publicado bajo la autoría conjunta de David y Stella Gemmell.",
+        "sentence2": "Fue publicado por su esposa Stella Gemmell tras su muerte el 28 de julio de 2006 y finalizado bajo la autoría conjunta de David y Stella Gemmell.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La Asociación Bautista Central es una asociación de iglesias desde Carolina del Sur hasta Indiana, con la mayor cantidad de iglesias en el este de Tennessee y el suroeste de Virginia.",
+        "sentence2": "La Asociación Bautista Central es una asociación de iglesias ubicadas desde Carolina del Sur hasta Virginia, estando la mayoría de las iglesias en el este de Tennessee y el suroeste de Indiana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Karen Phillips comenzó una relación con Steve de Suranne Jones.",
+        "sentence2": "Steve comenzó una relación con Karen Phillips interpretada por Suranne Jones.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "vidas distintas es una telenovela mexicana de 1969 transmitida por Televisa y producida originalmente por Telesistema Mexicano.",
+        "sentence2": "Tres vidas distintas, es una telenovela mexicana de 1969 transmitida por Televisa y producida originalmente por Telesistema Mexicano.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Chandler consideraba la computadora como una herramienta para el aprendizaje, pero rechazaba el objetivismo predominante que reconocía los datos como información y la información como conocimiento.",
+        "sentence2": "Chandler reconoció la computadora como una herramienta para el aprendizaje, pero rechazó el objetivismo predominante, que veía los datos como información y la información como conocimiento.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Una transición de fase de un ferromagneto a un paramagnet es de segunda y es de orden continuo.",
+        "sentence2": "La transición de fase de un ferroimán a un paraimán es continua y de segundo orden.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Las familias albanesas abandonaron la aldea antes del regreso de los refugiados serbios en 1999.",
+        "sentence2": "Antes del regreso de los refugiados serbios en 1999, las familias albanesas abandonaron el pueblo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sin embargo, se omitió la versión original en favor de la edición suave.",
+        "sentence2": "Sin embargo, se omitió la versión suave en favor de la versión original.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En 1864, la Sociedad Misionera Presbiteriana Unida de Escocia envió sus agentes a China.",
+        "sentence2": "La Sociedad Misionera Presbiteriana Unida de China envió sus agentes a Escocia en 1864.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Después de diez años de estancia en París, Houdon regresó a Italia.",
+        "sentence2": "Después de diez años en París, Houdon regresó a Italia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fue hundido por los alemanes y desguazado por los bombarderos aliados dos veces en 1943 - 1944 y finalmente levantado en 1946 - 1947 .",
+        "sentence2": "Fue levantado por los alemanes en 1943-1944 y hundido dos veces por bombarderos aliados y finalmente desguazado en 1946-1947.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En 1864, la Sociedad Misionera Presbiteriana Unida de China envió sus agentes a Escocia.",
+        "sentence2": "La Sociedad Misionera Presbiteriana Unida de China envió sus agentes a Escocia en 1864.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La película está protagonizada por Lily Rabe, Timothée Chalamet, Lili Reinhart, Anthony Quintal, Oscar Nunez y Rob Huebel.",
+        "sentence2": "Las estrellas Lilie Rabe, Timothée Chalamet, Lili Reinhart, Anthony Quintal, Oscar Nunez y Rob Huebel.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dakota City es parte de la región metropolitana de Sioux City, IA - NE - SD.",
+        "sentence2": "Dakota City es parte del área estadística metropolitana de Sioux City, IA - NE - SD.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Grant Connell y Glenn Michibata ganaron el título, derrotando a Wayne Ferreira y Jim Grabb 6:4, 6:3 en la final.",
+        "sentence2": "Wayne Ferreira y Jim Grabb ganaron el título, derrotando a Grant Connell y Glenn Michibata 6-4, 6-3 en la final.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Las elecciones parlamentarias en Zagreb de 1927 se celebraron el 4 de septiembre, 7 días antes de las elecciones locales.",
+        "sentence2": "Las elecciones parlamentarias de 1927 en Zagreb se celebraron el 4 de septiembre, siete días antes de las elecciones locales.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum es una especie de caracol de mar, un verdadero molusco gasterópodo de la familia Buccinidae, los buccinos marinos.",
+        "sentence2": "Probuccinum tenerum es una especie de caracol de mar, un verdadero molusco gasterópodo de la familia Buccinidae, los buccinos marinos.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El río Valea lui Lambă o río Lom es un afluente del río Șimon en Rumania.",
+        "sentence2": "El río Valea lui Lambă o río Lom es un afluente del río imon ``unk'' en Rumania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Este género ahora está clasificado en la familia de lagartos, conocidos como Iguanidae, subfamilia Polychrotinae, y ya no está clasificado en la actual familia inválida, Polychrotidae.",
+        "sentence2": "Este género ahora pertenece a la familia de lagartos conocidos como Iguanidae, subfamilia Polychrotinae, y ya no está clasificado en la familia actualmente inválida, Polychrotidae.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En 2012, la ciudad dio un vuelco y fue ganada por el actual demócrata Barack Obama, quien obtuvo el 51% de los votos frente al republicano Mitt Romney, que obtuvo el 48%.",
+        "sentence2": "En 2012, el distrito cambió y fue ganado por el actual demócrata Barack Obama, quien obtuvo el 51% de los votos frente al 48% del republicano Mitt Romney.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Con ella he podido cumplir algunos de mis sueños musicales con los primeros estilos y este nuevo estilo es realmente grande, fresco y naturalmente fluido.",
+        "sentence2": "Con ella he podido cumplir algunos de mis primeros sueños con estilos musicales y este nuevo estilo es realmente grande, fresco y fluido.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Grady Howard fue elegido primer alcalde en esta fecha y fue nombrado oficialmente alcalde interino de Spring Lake el 5 de junio de 1951.",
+        "sentence2": "Grady Howard fue elegido primer alcalde en esta fecha y nombrado oficialmente alcalde de Spring Lake el 5 de junio de 1951.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ballouhey existe principalmente en Isère en París, así como en Francia y Sudáfrica.",
+        "sentence2": "Ballouhey existe principalmente en Francia, en Isère y en París, así como en Sudáfrica.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Será alto con pared larga y capacidad.",
+        "sentence2": "Será alto, con una pared larga y capacidad.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La educación en Alabama se compone de escuelas secundarias y primarias, incluida la Universidad de Alabama, colegios privados y escuelas públicas y privadas.",
+        "sentence2": "La educación en Alabama se compone de escuelas públicas y privadas de Alabama, incluida la Universidad de Alabama, universidades privadas y escuelas secundarias y primarias.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La serie debutó el 18 de abril de 2009 en Australia por Nickelodeon (Nueva Zelanda y Nueva Zelanda).",
+        "sentence2": "El 18 de abril de 2009, la serie debutó en Nueva Zelanda en Nickelodeon (Australia y Nueva Zelanda).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fue dirigida por George Fitzmaurice y está basada en una obra de 1917, \"Tiger Rose\", de Willard Mack.",
+        "sentence2": "Dirigida por George Fitzmaurice, está basada en una obra de 1917 \"Tiger Rose\" de Willard Mack.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La versión del Mahabharata escrita por el poeta Odia Sarala Dasa cuenta la leyenda de Navagunjara, ninguna otra cuenta la historia.",
+        "sentence2": "La versión del Mahabharata, escrita por la poeta Odia Sarala Dasa, tiene la leyenda de Navagunjara. Ninguna otra versión narra la historia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam (15 de octubre de 1929 - 29 de julio de 2012) fue una bailarina india y gurú de la forma de danza Kuchipudi.",
+        "sentence2": "Vempati Chinna Satyam (15 de octubre de 1929 - 29 de julio de 2012) fue un bailarín indio y gurú de la forma de danza Kuchipudi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lee Hi es una cantante surcoreana de YG Entertainment.",
+        "sentence2": "La cantante coreana Lee Hi es una cantante surcoreana de YG Entertainment.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Las variantes de este método producen buenas aproximaciones numéricas para los numerosos exponentes cuando se incluyen términos críticos, tanto en dos como en tres dimensiones.",
+        "sentence2": "Las variantes de este procedimiento producen buenas aproximaciones numéricas para los exponentes críticos cuando se incluyen muchos términos en dos y tres dimensiones.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sólo los espectadores privilegiados quitaban la tapa, por lo que estas escenas podrían haber sido más íntimas.",
+        "sentence2": "Sólo los espectadores privilegiados quitaban la tapa, por lo que estas escenas podrían haber sido más íntimas.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sirve al área del acantonamiento de Chandimandir de la ciudad de Panchkula.",
+        "sentence2": "Sirve al área de Panchkula del acantonamiento de Chandimandir de la ciudad.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School era una escuela primaria selectiva para niñas en Slough, Buckinghamshire, ahora Berkshire.",
+        "sentence2": "Slough High School era una escuela primaria selectiva para niñas en Slough, Buckinghamshire, ahora Berkshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eugene D. Engley nació el 5 de abril de 1851 en Attleborough, Massachusetts, como hijo de James Henry Engley y su esposa, la ex Mary Kaley.",
+        "sentence2": "James Henry Engley nació el 5 de abril de 1851 en Attleborough, Massachusetts, hijo de Eugene D. Engley y su esposa, la ex Mary Kaley.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Maritsa Lazari nació en Chipre en octubre de 1943 y emigró con su familia a los 16 años a Londres, Inglaterra.",
+        "sentence2": "Maritsa Lazari nació en Londres en octubre de 1943 y emigró a Chipre con su familia a la edad de 16 años.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El 5 de marzo de 2011, MTV Hive publicó un enlace de transmisión de Anni Rossi interpretando \"Rude Boy\" de Rihanna.",
+        "sentence2": "El 5 de marzo de 2011, MTV Hive publicó un enlace de streaming de Rihanna, interpretando \"Rude Boy\" de Anni Rossi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El cementerio de Machpelah, también escrito como \"cementerio de Macpelah\" o \"cementerio de Macphelah\", es un cementerio en el condado de Hudson, Nueva Jersey.",
+        "sentence2": "El cementerio de Machpelah, también escrito como \"cementerio de Macpelah\" o \"cementerio de Macphelah\", es un cementerio en el condado de Hudson, Nueva Jersey.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La canción fue escrita y compuesta por Gala por Filippo Andrea Carmeni y producida por Maurizio Molella.",
+        "sentence2": "La canción fue escrita y producida por la gala, que fue compuesta por Filippo Andrea Carmeni y Maurizio Molella.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Según Prior, Robert Goldsmith, el abuelo del poeta, dramaturgo y novelista Oliver Goldsmith, fue el primero de la familia en establecerse en Ballyoughter.",
+        "sentence2": "Según Robert Prior, Robert Goldsmith era el abuelo del poeta, dramaturgo y escritor Oliver Goldsmith, el primero de la familia en establecerse con Ballyoughter.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Omitir los motores y su combustible reduciría la complejidad y aumentaría la carga útil.",
+        "sentence2": "Omitir los motores y su combustible aumentaría la complejidad y reduciría la carga útil.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Según Tobe y Gunnar Hansen, la razón por la que usaba una máscara era que ésta realmente determinaba su personalidad.",
+        "sentence2": "Gunnar Hansen comentó: \"La razón por la que usaba una máscara, según Tobe y Kim, era que la máscara realmente determinaba su personalidad\".",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La Academia privada Claiborne está ubicada en Haynesville, cerca de la Parroquia Claiborne.",
+        "sentence2": "La Academia privada Claiborne está ubicada en Claiborne Parish, no cerca de Haynesville.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La NVIDIA TITAN V fue anunciada oficialmente por Nvidia el 7 de diciembre de 2017.",
+        "sentence2": "El 7 de diciembre de 2017, NVIDIA anunció oficialmente la Nvidia TITAN V.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Realizó su formación médica en el Hospital Middlesex de Londres y obtuvo el título de médico clínico en 1943.",
+        "sentence2": "Realizó su formación clínica en el Hospital Middlesex de Londres y obtuvo el título de médico en 1943.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Actuó como vidriero y trabajó con muchas bandas diferentes en diferentes instrumentos musicales.",
+        "sentence2": "Trabajó como vidriero y tocó varios instrumentos musicales con muchas bandas diferentes.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Los componentes de los sistemas mecánicos almacenan energía potencial elástica si se deforman en el sistema cuando se les aplican fuerzas.",
+        "sentence2": "Los componentes de los sistemas mecánicos almacenan energía potencial elástica si se deforman cuando se aplican fuerzas al sistema.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "William Llewelyn Williams, conocido como Llewelyn Williams (10 de marzo de 1867 - 22 de abril de 1922), fue un periodista, abogado y político radical del Partido Liberal galés.",
+        "sentence2": "William Williams, conocido como Llewelyn Williams (10 de marzo de 1867 - 22 de abril de 1922), fue un periodista, abogado y político del partido liberal radical galés.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Blagoy Ivanov desafió a Mehmen por el campeonato de peso pesado de la WSOF el 17 de octubre de 2015.",
+        "sentence2": "Blagoy Ivanov desafió a Mehmen por el campeonato de peso pesado de la WSOF el 17 de octubre de 2015.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fue establecido por Richard Creed, construido por George Edwards, diseñado por Collins y Geoffrey de Monmouth.",
+        "sentence2": "Fue diseñado por Richard Creed, construido por Collins y Geoffrey y equipado por George Edwards de Monmouth.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sacramento está ubicado en (38.651254, -121.259279), entre Fair Oaks y Folsom.",
+        "sentence2": "Fair Oaks está ubicado entre Sacramento y Folsom (38.651254, -121.259279).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La canción ``Astrud'' del álbum de Gilberto de 1987, ``Time and Tide'', es un tributo a Basia Trzetrzelewska.",
+        "sentence2": "El tema ``Astrud'' del álbum ``Time and Tide'' de Basia Trzetrzelewska de 1987 es un homenaje a Gilberto.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Clark tuvo un hijo, Rishi, nacido el 3 de abril de 2007. Un EP de Socks and Sandals en Microcosm Music recibió su nombre, Rishi Saturn.",
+        "sentence2": "Rishi tuvo un hijo, Clark, nacido el 3 de abril de 2007. Un EP de Socks and Sandals en Microcosm Music lleva su nombre, Rishi Saturn.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Melodie Crittenden dejó el grupo en 2004 para seguir una carrera en solitario, y durante la mayor parte de 2005 Nicol cantó con el grupo.",
+        "sentence2": "Melodie Crittenden dejó el grupo en 2004 para seguir una carrera en solitario, y durante la mayor parte de 2005 Nicol cantó con el grupo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En el fútbol semiprofesional, los equipos escoceses compiten en todos los niveles por debajo de la Premiership escocesa, siendo la mayoría de los equipos por debajo del Campeonato de Escocia semiprofesionales.",
+        "sentence2": "En el fútbol escocés, los equipos semiprofesionales de todos los niveles aparecen por debajo de la primera división escocesa, siendo la mayoría de los equipos por debajo del campeonato escocés semiprofesionales.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Diboll y Owen de Nueva Orleans fueron los arquitectos y GA Chamblin de Mobile fue el contratista.",
+        "sentence2": "Los arquitectos fueron Diboll y Owen de Nueva Orleans y el contratista fue GA. Chamblin de Móvil.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En la hipertensión maligna, estos cambios hiperplásicos suelen ir acompañados de necrosis arterial de la íntima y media fibrinoide.",
+        "sentence2": "En la hipertensión maligna, estos cambios hiperplásicos suelen ir acompañados de una necrosis fibrinoide de la íntima y media arterial.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El equipo realizó una gira por Australia en 1953 y Asia en agosto de 1959.",
+        "sentence2": "En 1953, el equipo realizó una gira por Asia y Australia en agosto de 1959.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Esta película trata sobre Rafael, un cantante malayalam de la nueva industria cinematográfica.",
+        "sentence2": "La película trata sobre Rafael, un nuevo cantante en la industria cinematográfica malayalam.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En 1864, la Sociedad Misionera Presbiteriana Unida de China envió a sus representantes a Escocia.",
+        "sentence2": "La Sociedad Misionera Presbiteriana Unida de China envió sus agentes a Escocia en 1864.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La fórmula del espacio vectorial inicial _13 se denomina ``objeto inicial'' o ``estructura topológica'' con respecto a los datos dados.",
+        "sentence2": "El espacio vectorial inicial Fórmula 13 se denomina objeto inicial `` o '' estructura topológica con respecto a los datos dados.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Estas tres dinastías maternas gobernaron el reino de Waalo con la familia paterna de los Mbooj.",
+        "sentence2": "Estas tres dinastías paternas gobernaron el Reino de Waalo con la familia materna Mbooj.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La película interpreta a Jembie Almazán como Alex, Bernardo Garnica Cruz como David y Jonathan Díaz Angulo como María.",
+        "sentence2": "La película está protagonizada por Jembie Almazán como María, Bernardo Garnica Cruz como David y Jonathan Díaz Angulo como Alex.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Si bien la exclusión de los jugadores negros no era una regla escrita, desde 1933 ningún afroamericano había jugado en la Liga Nacional de Fútbol.",
+        "sentence2": "Si bien la exclusión de jugadores negros no era una regla escrita, ningún afroamericano había jugado en la Liga Nacional de Fútbol desde 1933.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dale ha estado casado con Patricia Meyer desde 1984 y juntos tienen dos hijos: Ryan (nacido en 1988) y Blake (nacido en 1992).",
+        "sentence2": "Desde 1984, Blake está casado con Patricia Meyer y tiene dos hijos: Ryan (nacido en 1988) y Dale (nacido en 1992).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cuando Platzer abrió su segundo restaurante en Allentown en 1993, cambió el nombre a PJ Whelihan's en honor a su abuelo, Peter Joseph Whelihan.",
+        "sentence2": "En 1993, cuando Platzer abrió su segundo restaurante en Allentown, cambió el nombre a PJ Whelihan en honor a su abuelo Peter Joseph Whelihan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Durante la misión, murieron 65 soldados: 34 nigerianos, 28 chadianos, 2 togoleses y 1 burkinabé.",
+        "sentence2": "Durante la misión, murieron 65 soldados: 34 chadianos, 28 nigerianos, 2 togoleses y 1 burkinabé.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En diciembre de 1969 se convirtió en la 49.ª División del Ejército.",
+        "sentence2": "En diciembre de 1969 se convirtió en la 29.ª División del Ejército. 49.ª División del Ejército.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Los paisajes están en su mayoría ausentes o son muy cortos.",
+        "sentence2": "Los paisajes son muy cortos o en su mayoría están ausentes.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ella fue observada como \"tiene un gran potencial y un gran talento, y en el futuro crecerá hasta convertirse en una personalidad musical única\".",
+        "sentence2": "Ella fue observada como \"tiene un enorme potencial y un gran talento, y crecerá hasta convertirse en una personalidad musical única en el futuro\". ''",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En enero de 2013, se anunció que Warren Spector Disney Interactive se había ido tras el cierre de Junction Point Studios.",
+        "sentence2": "En enero de 2013, se anunció que Warren Spector había dejado Junction Point Studios tras el cierre de Disney Interactive.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El transporte aéreo se realiza localmente mediante aviones más pequeños en New Bedford, Berkley y el aeropuerto regional de East Taunton.",
+        "sentence2": "El transporte aéreo se proporciona localmente a través de aviones más pequeños en East Taunton, Berkley y el aeropuerto regional de New Bedford.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cuando utilizamos una máquina de Turing alterna, tenemos el recurso ATIME.",
+        "sentence2": "Si tenemos una máquina de Turing alterna, utilizamos el recurso ATIME.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Terminó dos golpes detrás de Bubba Watson y Louis Oosthuizen y lamentó su actuación en el putt como la razón por la que no ganó el torneo.",
+        "sentence2": "Terminó dos golpes detrás de Louis Oosthuizen y Bubba Watson y lamentó su actuación en el putt como la razón por la que no ganó el torneo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Las ciudades anfitrionas anteriores de la Cumbre de Decisiones Sirius incluyen Orlando (2014), Scottsdale (2013) y San Diego (2012).",
+        "sentence2": "Las antiguas ciudades anfitrionas de la Cumbre SiriusDecisions incluyen Orlando (2014), San Diego (2013) y Scottsdale (2012).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La iluminación en el cuadro del Louvre es más cálida y parece más suave, pero esto puede deberse al sonido del barniz en la superficie.",
+        "sentence2": "La iluminación en el cuadro del Louvre es más cálida y parece más suave, pero esto puede ser el resultado del tono del barniz en la superficie.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El río Molmys es un río del Krai de Perm, Rusia, un afluente izquierdo del río Yazva.",
+        "sentence2": "Yazva es un río en el Krai de Perm, Rusia, un afluente izquierdo del río Molmys.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El 1 de agosto de 1699, William Blackett entregó sus tierras en Chirton a Sir Archibald Campbell, quien vendió Bickerstaffe, primer duque de Argyll Hall.",
+        "sentence2": "El 1 de agosto de 1699, William Blackett entregó sus tierras en Chirton a Sir Archibald Campbell, quien vendió la sala a Bickerstaffe, primer duque de Argyll.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Big Band Specials es un álbum de 1962 de Bob Cooper, con temas arreglados por Bill Holman, Shorty Rogers y su esposo June Christy.",
+        "sentence2": "Big Band Specials es un álbum de 1962 de Bob Cooper, con temas arreglados por Bill Holman, Shorty Rogers y su esposo June Christy.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Para los tanques improvisados, además de diversas placas de metal, en algunos casos se utilizó hormigón y sacos de arena.",
+        "sentence2": "Además de placas de metal blindadas improvisadas, en algunos casos se utilizó hormigón y sacos de arena para varios trenes.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Barbara Boothe Ellison nació en el condado de Santa Clara, California, hija del multimillonario presidente de Oracle Corporation, Larry Ellison, y su ex esposa, Megan Ellison.",
+        "sentence2": "Megan Ellison nació en el condado de Santa Clara, California, como hija del multimillonario presidente de Oracle Corporation, Larry Ellison, y su ex esposa Barbara Boothe Ellison.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Guillermo Coria derrotó a Alberto Martín 6 -- 3 , 3 -- 6 , 6 -- 2",
+        "sentence2": "6 Alberto Martín derrotó a Guillermo Coria 6 -- 3 , 3 -- 6 , 6 -- 2",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Los Red Bulls perdieron pero llegaron a la primera ronda de los playoffs.",
+        "sentence2": "Los Red Bulls perdieron, pero llegaron a la primera ronda de los playoffs.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "12 de enero de 1978: Ron Atkinson, entrenador del Cambridge United, es nombrado entrenador del West Bromwich Albion.",
+        "sentence2": "12 de enero de 1978: El entrenador del Cambridge United, Ron Atkinson, es nombrado entrenador del West Bromwich Albion.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En 1979 tuvo su mejor año en la gira, llegando a cuartos de final en Atlanta, Johannesburgo y Tel Aviv.",
+        "sentence2": "En 1979 tuvo su mejor año en la gira, cuartos de final en Tel Aviv, Johannesburgo y Atlanta.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La siguiente versión fue creada por Ron, el hermano de Robert Fuller, en 1986.",
+        "sentence2": "La siguiente versión fue creada en 1986 por el hermano de Robert Fuller, Ron.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El templo sirve como centro cultural y religioso para los hindúes coreanos y los inmigrantes de los países del sur de Asia.",
+        "sentence2": "El templo sirve como centro cultural y religioso para los hindúes del sur de Asia y los inmigrantes de los países coreanos.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La casa club fue construida por Curtis, por la entonces suma de 60.000 dólares, y la alquiló por un alto cargo al club.",
+        "sentence2": "La casa club fue construida por Curtis, por la entonces suma nominal de 60.000 dólares, y se la alquiló al club por una tarifa elevada.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mitsuhisa Ishikawa y Tomohiko Ishii de Production IG, Danny Choo, Kaname y Tasha con Miyuko de Corea fueron invitados especiales al evento.",
+        "sentence2": "Tasha de Production IG, Danny Choo, Kaname, Mitsuhisa Ishikawa y Tomohiko Ishii con Miyuko de Corea fueron invitados especiales al evento.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam (15 de octubre de 1929 - 29 de julio de 2012) fue un bailarín indio y gurú de la forma de danza Kuchipudi.",
+        "sentence2": "Vempati Chinna Satyam (15 de octubre de 1929 - 29 de julio de 2012) fue una bailarina de Kuchipudi y gurú de la danza india.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Este incidente se celebró posteriormente y ahora se conmemora en Egipto el 25 de enero de cada año como Día Nacional de la Policía.",
+        "sentence2": "Este incidente se celebró posteriormente y ahora se conmemora en Egipto como el Día Nacional de la Policía el 25 de enero de cada año.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Udaipur es una ciudad en el estado indio de Madhya Pradesh, cerca de Ganj Basoda.",
+        "sentence2": "Ganj Basoda es una ciudad en el estado indio de Madhya Pradesh, cerca de Udaipur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Luego fue reemplazado por Heraclio, un primo hermano de Nicetas, y fue obligado a tomar votos monásticos.",
+        "sentence2": "Luego fue reemplazado por Nicetas, un primo hermano de Heraclio, y obligado a tomar votos monásticos.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Primero, describa las áreas con altos valores de polen en lugar de las áreas con bajos niveles de polen.",
+        "sentence2": "Primero, describa las áreas con bajo valor de polen en lugar de las áreas con alto contenido de polen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hasta ahora las obras de Zinovjev han sido interpretadas por la Orquesta Sinfónica de la Radio Finlandesa, la Orquesta Sinfónica de Lahti, la Kymi Sinfonietta, la Orquesta Sinfónica de Oulu y la Avanti!",
+        "sentence2": "Hasta ahora las obras de Zinovjev han sido interpretadas por la Orquesta Sinfónica de Oulu, la Orquesta Sinfónica de Lahti, la Kymi Sinfonietta, la Orquesta Sinfónica de la Radio Finlandesa y Avanti!",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fue diseñado por Richard Creed, construido por Collins y Geoffrey y equipado por George Edwards de Monmouth.",
+        "sentence2": "Fue amueblado por Richard Creed, construido por George Edwards y diseñado por Collins y Geoffrey de Monmouth.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "McCall y Lesiuk dejaron la banda en el verano de 2007, siendo McCall reemplazado por Steven Tosh en la batería y Jamie Macleod se hizo cargo del bajo.",
+        "sentence2": "McCall y Lesiuk dejaron la banda en el verano de 2007, siendo McCall reemplazado por Steven Tosh en la batería y Jamie Macleod asumiendo el bajo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En 1886, Miles reemplazó al general George Crook como comandante de las fuerzas armadas que luchaban contra Gerónimo, un líder apache chiricahua, en el Departamento de Arizona.",
+        "sentence2": "En 1886, Miles reemplazó al general George Crook como comandante de las fuerzas que luchaban contra Gerónimo, un líder apache chiricahua, en el Departamento de Arizona.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Barshi, es una presa de tierra en el río local cerca de la presa Pathari, distrito de Solapur en el estado de Maharashtra en India.",
+        "sentence2": "La presa Pathari es una presa de relleno de tierra en un río local cerca de Barshi, distrito de Solapur en el estado de Maharashtra en India.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Se casó con Mary, la hija de Brooke de Selston, Nottingham, y fue sucedido por su hijo mayor, Richard.",
+        "sentence2": "Brooke se casó con Mary, la hija de Timothy Pusey de Selston, Nottingham. Su hijo mayor, Richard, lo sucedió.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Luk o Loke es la romanización china de varios (pero no todos) apellidos cantoneses que están romanizados como Lu en mandarín.",
+        "sentence2": "Luk o Loke es la romanización china de varios (pero no todos) apellidos cantoneses, que están romanizados como Lu en mandarín.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Las rotaciones correctas del cubo, que pueden caracterizarse por permutaciones de las diagonales del cuerpo, también se describen mediante conjugación en ``S''.",
+        "sentence2": "Las rotaciones propias del cubo, que pueden describirse mediante permutaciones de las diagonales del cuerpo, también se caracterizan por la conjugación en ``S''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Por ejemplo, en anfibios Cerberus se expresa en el endodermo dorsal anterior y en ratones se expresa en el endodermo visceral anterior.",
+        "sentence2": "Por ejemplo, Cerberus se expresa en el endodermo dorsal anterior de los anfibios y en ratones en el endodermo visceral anterior.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Realizó formación clínica en el Hospital Middlesex de Londres y obtuvo el título de médico en 1943.",
+        "sentence2": "Realizó su formación clínica en el Hospital Middlesex de Londres y obtuvo el título de médico en 1943.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sunny cortó la canción en noviembre de 1973 con Roger Greenaway como productor mientras Chris Gunning hacía los arreglos y dirigía.",
+        "sentence2": "En noviembre de 1973, Roger Sunny cortó la pista con Roger Greenaway, mientras Chris Gunning proporcionaba y dirigía los arreglos.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Damon Knight (citado por James Blish) dijo sobre la interpretación de la historia de Knight:",
+        "sentence2": "James Blish (citado por Damon Knight) dijo sobre la interpretación de Knight de su historia:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La película trata sobre Rafael, un nuevo cantante en la industria cinematográfica malayalam.",
+        "sentence2": "Esta película trata sobre Rafael, un nuevo cantante en la industria cinematográfica malayalam.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fue la tercera temporada transmitida más de dos años después de la edición familiar y más de tres años después de la primera edición de celebridades.",
+        "sentence2": "Fue la tercera temporada que se emitió más de dos años después de la edición familiar y más de tres años después de la primera edición de celebridades.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Murió el 19 de septiembre de 1891 en Gallatin, Tennessee, y recibió el título masónico en Gallatin.",
+        "sentence2": "Bunting murió el 19 de septiembre de 1891 en Gallatin. Recibió un funeral masónico en Gallatin, Tennessee.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Luego, el luchador salta y se balancea hacia adelante para caer hacia atrás y dejar que la cabeza del oponente caiga sobre la colchoneta.",
+        "sentence2": "Luego, el luchador salta hacia adelante y gira para caer hacia atrás y dejar caer la cabeza del oponente en la colchoneta.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Se mudó con sus padres de Finlandia a Estonia cuando tenía 3 años y actualmente vive en Helsinki.",
+        "sentence2": "Se mudó de Estonia a Finlandia con sus padres cuando tenía 3 años y actualmente reside en Helsinki.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La localidad está situada en el extremo occidental de la ``Horta de València'', en la margen derecha del río Turia.",
+        "sentence2": "La localidad está situada en la margen derecha de la ``Horta de València'', en la orilla occidental del río Turia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Muchos de los demonios en los encuentros de Salomón son de tradiciones griegas, cristianas, judías, egipcias, árabes y de otras tradiciones.",
+        "sentence2": "Muchos de los demonios en los encuentros de Salomón son de tradiciones griegas, cristianas, judías, egipcias, árabes y de otras tradiciones.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La región administrativa de Chenzhou en la dinastía Tang está bajo la administración de la moderna Zhoukou en el este de Henan:",
+        "sentence2": "La Región Administrativa de Chenzhou en la dinastía Tang está bajo la administración de la moderna Henan en el este de Zhoukou:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La prueba es la siguiente: ``Primero se nota la fibra pranganglionar y se estimula la respuesta que aparece.",
+        "sentence2": "La prueba es la siguiente: Primero estimula la fibra preganglionar y observa la respuesta que aparece.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ukhrul es también un punto turístico en el estado de Manipur.",
+        "sentence2": "Manipur es también un punto turístico del estado de Ukhrul.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Caspar Peucer (pronunciado el 6 de enero de 1525 - el 25 de septiembre de 1602) fue un reformador, médico y erudito sorabo de origen alemán.",
+        "sentence2": "Caspar Peucer (pronunciado 6 de enero de 1525 - 25 de septiembre de 1602) fue un reformador, médico y erudito sorabo de origen alemán.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cornelius Olatunji Adebayo es un exsenador de Nigeria, que fue gobernador y luego jefe del Ministerio Federal de Comunicaciones de Nigeria.",
+        "sentence2": "Cornelius Olatunji Adebayo es un ex senador de Nigeria, que llegó a ser gobernador y más tarde fue jefe del Ministerio Federal de Comunicaciones de Nigeria.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Massachusetts votó por Harry S. Truman en 1928 , por Al Smith cuatro veces en las décadas de 1930 y 1940 , y por Franklin D. Roosevelt en 1948 .",
+        "sentence2": "En las décadas de 1930 y 1940 , fue elegido cuatro veces por Al Smith , en 1928 por Franklin D. Roosevelt y por Harry S. Truman en 1948 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ibn Amira nació en Alzira en la provincia de Valencia.",
+        "sentence2": "Ibn Amira nació en Valencia, provincia de Alzira.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Si utilizamos una máquina de Turing alterna, tenemos el recurso ATIME.",
+        "sentence2": "Cuando tenemos una máquina de Turing alterna, utilizamos el recurso ATIME.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El 13 de noviembre de 2016, David Machado fue asesinado en Fox Grove Park cerca de la ciudad de Hughson por Dennis Wallace.",
+        "sentence2": "El 13 de noviembre de 2016, el ayudante de David Machado, Dennis Wallace, fue asesinado en Fox Grove Park, cerca de la ciudad de Hughson.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "A su muerte en 1946, sus documentos sobre este proyecto todavía estaban en un estado irregular.",
+        "sentence2": "Después de su muerte en 1946, sus documentos sobre este proyecto todavía se encontraban en un estado todavía aproximado.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alexander Baumgartner (nacido el 27 de junio de 1841 en Luxemburgo, Alemania; fallecido en 1910 en St. Gallen, Suiza) fue un poeta y escritor de historia de la literatura.",
+        "sentence2": "Alexander Baumgartner (nacido en St. Gall, Suiza, el 27 de junio de 1841; fallecido en Luxemburgo, 1910) fue un poeta y escritor de historia de la literatura.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Investigadores del Servicio Geológico de Canadá han modelado la variación natural del arsénico en el potencial de peligro relativo para la provincia de Nuevo Brunswick.",
+        "sentence2": "Investigadores del Servicio Geológico de Canadá han modelado la variación natural del arsénico en el potencial de peligro relativo para la provincia de Nuevo Brunswick.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La aerolínea fue desarrollada por Irelandia, que también formó otras cinco aerolíneas, a saber, VivaColombia, Ryanair, Allegiant Air, VivaAerobus y Tigerair.",
+        "sentence2": "La aerolínea fue formada por Irelandia, que también ha desarrollado otras cinco aerolíneas, a saber, VivaColombia, Ryanair, Allegiant Air, VivaAerobus y Tigerair.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El río Geamărtălui es un afluente del río Breaza en Rumania.",
+        "sentence2": "El río Breaza es un afluente del río Geamărtălui en Rumania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fue comprado por CR Gregory en 1834 en el monasterio de Saba. Robert Curzon lo vio en 1883.",
+        "sentence2": "Fue comprado en 1834 por CR Gregory en el monasterio de Saba, en 1883 por Robert Curzon.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prabhupada se alegró cuando Gopal Krishna le presentó las primeras copias del Srimad Bhagavatam, traducidas al hindi.",
+        "sentence2": "Gopal Krishna se alegró cuando Prabhupada le presentó las primeras copias del Srimad Bhagavatam traducidas al hindi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "St.George Bank (y su filial BankSA) fue nuevamente absorbido por Advance Bank en 1997.",
+        "sentence2": "A cambio , en 1997 el Advance Bank ( y su filial BankSA ) pasó a manos del St.George Bank .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Luego enseñó en la escuela en Cleveland, Ohio, y de 1856 a 1859 fue superintendente de escuelas de actriz en Toledo.",
+        "sentence2": "Luego enseñó en la escuela en Cleveland, OH y fue superintendente interino de escuelas en Toledo de 1856 a 1859.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El poema se conserva en cuatro manuscritos contemporáneos, uno de los cuales es fragmentario:",
+        "sentence2": "El poema se conserva en cuatro manuscritos contemporáneos, uno de los cuales está fragmentado:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Otras dificultades incluyeron la decisión de James Newton Howard de cambiar a los compositores de Howard Shore por Peter Jackson siete semanas antes del cambio de película.",
+        "sentence2": "Otras dificultades incluyeron la decisión de James Newton Howard de cambiar compositores de Howard Shore a Peter Jackson siete semanas antes del estreno de la película.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dusty Baker se convirtió en el primer manager negro en participar en una Serie Mundial desde Cito Gaston con Toronto en y.",
+        "sentence2": "Dusty Baker se convirtió en el primer manager negro en unirse y participar en una Serie Mundial desde Cito Gaston para Toronto.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El amigo de Sukumar, Stephen (Murugan), los ayuda en la hora de crisis y los amantes se unen en matrimonio.",
+        "sentence2": "El amigo de Murugan, Stephen (Sukumar), los ayuda en su hora de crisis y los amantes se unen en matrimonio.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El Dr. Adams dejó a la señorita Sarah Hunt, con quien se casó con una hija, se casó con B. Hyatt en 1788, esq.",
+        "sentence2": "El Dr. Adams se casó con la señorita Sarah Hunt, con quien dejó una hija, casada, en 1788, con B. Hyatt, esq.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "A veces se utiliza como reductio ad absurdum del conocido argumento del diseño, que dice lo siguiente:",
+        "sentence2": "A veces se utiliza como reducción al absurdo del conocido argumento del diseño, que dice lo siguiente:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kudawa es un comité de desarrollo de aldea y aldea en la zona de Narayani en el distrito de Bara en el sureste de Nepal.",
+        "sentence2": "Kudawa es una aldea y un comité de desarrollo de aldeas en la zona de Narayani en el distrito de Bara en el sureste de Nepal.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Después de la Batalla del Mar del Coral, ``Barnett transportó a 1.360 supervivientes del USS Lexington (CV-2) desde San Diego a Nouméa.",
+        "sentence2": "Después de la Batalla del Mar del Coral, ``Barnett transportó a 1.360 supervivientes del USS Lexington (CV-2) desde Nouméa a San Diego.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La carretera R205 es una carretera regional en Irlanda desde la carretera R199 en el condado de Cavan hasta la frontera de Irlanda del Norte en el condado de Leitrim, principalmente en el condado de Fermanagh.",
+        "sentence2": "La carretera R205 es una carretera regional en Irlanda desde la carretera R199 en el condado de Leitrim hasta la frontera de Irlanda del Norte en el condado de Fermanagh, principalmente en el condado de Cavan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Schliemann detectó cinco pozos y los limpió como las tumbas mencionadas por Pausanias.",
+        "sentence2": "Schliemann limpió cinco pozos y los reconoció como las tumbas mencionadas por Pausania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La primera, Kai-sung, era la hija de Jin-Qua, la madre de Dirk Struan y Gordon Chen.",
+        "sentence2": "La primera, Kai-sung, era la hija de Jin-Qua. Fue la madre de Dirk Struan de Gordon Chen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En 1974, el distrito urbano se fusionó con el distrito rural de Repton y parte del distrito rural del sureste de Derbyshire para formar el actual distrito de South Derbyshire.",
+        "sentence2": "En 1974, el distrito actual se fusionó con el distrito rural de Repton y parte del distrito rural del sudeste de Derbyshire para formar el distrito urbano de Derbyshire del sur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Por ejemplo, Cerberus se expresa en los anfibios en el endodermo visceral anterior y en ratones se expresa en el endodermo dorsal anterior.",
+        "sentence2": "Por ejemplo, Cerberus se expresa en el endodermo dorsal anterior de los anfibios y en ratones en el endodermo visceral anterior.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abraham Hart fue presidente del consejo de administración y Mayer Sulzberger secretario.",
+        "sentence2": "Abraham Hart fue presidente y Mayer Sulzberger secretario del consejo de administración.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Colaboró con arquitectos contemporáneos como Giovan Giacomo Di Conforto, Bartolomeo Picchiatti y Francesco Grimaldi.",
+        "sentence2": "Ha colaborado con arquitectos contemporáneos como Giovan Giacomo Di Conforto, Bartolomeo Picchiatti y Francesco Grimaldi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nacida en Cochabamba, Bolivia, se mudó a la Ciudad de México en los años 1990 y luego a Los Ángeles.",
+        "sentence2": "Nació en Cochabamba, Bolivia. En la década de 1990 se mudó a la Ciudad de México y luego a Los Ángeles.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nacido en Leiden, de Ruiter ha jugado en el FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk y FC Emmen.",
+        "sentence2": "de Ruiter nació en Leiden y jugó en el RKC Waalwijk, FC Den Bosch, Excelsior, FC Utrecht y FC Emmen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vermont limita con Mitcham al norte, Nunawading y Forest Hill al oeste, Vermont South al sur y Wantirna y Ringwood al este.",
+        "sentence2": "Vermont limita al norte con Mitcham, al oeste con Nunawading y Forest Hill, al sur con Vermont y al este con Wantirna y Ringwood.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La Plaza Dr. Julio Junqueira fue la primera que se construyó en Arapongas, lleva el nombre del Dr. Julio Junqueira y lleva el nombre del primer alcalde de Arapongas.",
+        "sentence2": "Julio Junqueira fue el primero que se construyó en Arapongas, y lleva el nombre de la Plaza Dr. Julio Junqueira, que lleva el nombre del primer alcalde de Araponga.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Prakash Raj también se unió al equipo en agosto de 2017 para supuestamente desempeñar el papel del productor Aluri Chakrapani.",
+        "sentence2": "En agosto de 2017, Aluri Chakrapani también se unió al equipo para desempeñar el papel del productor Prakash Raj.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Meridian está formado por los residentes de Daykin, Alexandria, Western, Fairbury y Tobias, creando el distrito escolar 303 de Nebraska.",
+        "sentence2": "Meridian está formado por los residentes de Daykin, Fairbury, Western, Alexandria y Tobias, creando el distrito escolar 303 de Nebraska.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Julio es, en promedio, el mes más frío, mientras que enero es el más caluroso.",
+        "sentence2": "Julio es el mes más caluroso en promedio y enero es el más frío.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Otra forma de regular la población de ciervos es controlar la tasa de fertilidad.",
+        "sentence2": "Otra forma de controlar la población de ciervos es regular la tasa de fertilidad.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La primera ronda tuvo lugar el fin de semana del 23 al 25 de septiembre de 2011 en Eslovaquia (Prievidza).",
+        "sentence2": "La primera ronda tuvo lugar el fin de semana del 23 al 25 de septiembre de 2011 en Eslovaquia (Prievidza).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Se casó con Marie Magdalene Schweigaard, hija de Tellef Dahll Schweigaard, sobrina del destacado político Anton Martin Schweigaard y tía del posterior primer ministro Christian Homann Schweigaard.",
+        "sentence2": "Se casó con Marie Magdalene Schweigaard, hija de Tellef Dahll Schweigaard, sobrina del destacado político Christian Homann Schweigaard y tía del posterior primer ministro Anton Martin Schweigaard.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Se puede llegar desde Formia por el este y desde Maranola, una ``frazione'' de Spigno Saturnia, por el oeste.",
+        "sentence2": "Se puede llegar desde Formia desde el este, y desde Maranola, una ``frazione'' de Spigno Saturnia, desde el oeste.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cuando Phil Spector escuchó ``Stubborn Kind of Fellow'' por primera vez, estaba tan emocionado que perdió el control de su automóvil mientras conducía por Sunset Boulevard con Jack Nitzsche.",
+        "sentence2": "Cuando Jack Nitzsche escuchó por primera vez \"Stubborn Kind of Fellow\", estaba tan emocionado que perdió el control de su automóvil mientras conducía por Sunset Boulevard con Phil Spector.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Algunos miembros de la tripulación murieron en el Golden Bay y no hubo contacto local con otros maoríes.",
+        "sentence2": "Algunos miembros de la tripulación murieron en Golden Bay y no hubo ningún otro contacto con los maoríes locales.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El sencillo fue anunciado el 31 de octubre de 2015 y lanzado el 13 de noviembre de 2015.",
+        "sentence2": "El sencillo fue anunciado el 31 de octubre de 2015 y publicado el 13 de noviembre de 2015.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En la nueva serie de televisión \"Dead Gorgeous\", Hazel interpretó el papel de la hermana menor, Alexandra Coppinger.",
+        "sentence2": "Hazel interpretó el papel de Alexandra Coppinger, la hermana menor, en la nueva serie de televisión \"Dead Gorgeous\".",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Algunos de ellos se describen aquí y otros están vinculados en \"Enlaces externos\" a continuación.",
+        "sentence2": "Algunos de ellos se describen a continuación y otros están vinculados a \"Enlaces externos\" aquí.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En el fútbol escocés, los equipos semiprofesionales compiten en todos los niveles por debajo de la Premiership escocesa, siendo la mayoría de los equipos por debajo del campeonato escocés semiprofesionales.",
+        "sentence2": "En el fútbol escocés, los equipos semiprofesionales se desempeñan por debajo de la primera división escocesa en todos los niveles, y la mayoría de los equipos por debajo del campeonato escocés son semiprofesionales.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La canción es una muestra de gancho en el sencillo ``design in Malice'' del grupo estadounidense de hip-hop Jedi Mind Tricks.",
+        "sentence2": "La canción es una muestra de gancho en ``Design in Malice'' estadounidense del grupo de hip-hop Jedi Mind Tricks.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "donde , la fórmula 5 es una de las funciones finitas de Horn con dos variables y convergente para todos los valores hipergeométricos confluentes de la fórmula 6 y la fórmula 7 . Está dado por:",
+        "sentence2": "La Fórmula 5 es una de las funciones hipergeométricas confluentes de Horn con dos variables y convergente para todos los valores finitos de la Fórmula 6 y la Fórmula 7. Está dado por:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En 1830, James fue influenciado por el abolicionismo de algunos miembros de la Sociedad Americana de Colonización (ACS) y los escritos de Arthur Tappan.",
+        "sentence2": "A partir de 1830, James fue influenciado por el abolicionismo de algunos miembros de la Sociedad Americana de Colonización (ACS) y los escritos de Arthur Tappan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fueron desarrollados por Namco Bandai y publicados por CyberConnect2, comenzando con ``Naruto: Ultimate Ninja'' en 2005.",
+        "sentence2": "Fueron desarrollados por CyberConnect2 y publicados por Namco Bandai, comenzando con ``Naruto: Ultimate Ninja'' de 2005.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La carretera fue cancelada el 18 de octubre de 1954, cuando se amplió la FM 1241.",
+        "sentence2": "La carretera fue cancelada el 18 de octubre de 1954, al ampliarse la FM 1241.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La solución solar a este requisito es el uso de paneles solares en un avión de propulsión convencional.",
+        "sentence2": "El enfoque convencional para este requisito es el uso de paneles solares en un avión solar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Era madre de Val, Boris y Rosalind Lorwin, y su hija se convirtió en profesora de psicología.",
+        "sentence2": "Se convirtió en madre de Val, Boris y Rosalind Lorwin; su hija era profesora de psicología.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La evidencia indirecta de la materia oscura proviene de su influencia gravitacional sobre la materia oscura, ya que no se han observado otras partículas de materia en los laboratorios.",
+        "sentence2": "La evidencia indirecta de la materia oscura proviene de su influencia gravitacional sobre otra materia, ya que no se han observado partículas de materia oscura en los laboratorios.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fue reemplazado en golpes sucesivos por Olusegun Obasanjo (1975) y Murtala Mohammed (1976).",
+        "sentence2": "Fue reemplazado por Olusegun Obasanjo (en 1975) y Murtala Mohammed (en 1976) en sucesivos golpes de Estado.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "McMillan pasó dos años en la Royal Medical Corp. en Tidworth y más tarde en Didcot, donde dirigió un MRS para soldados heridos en la Guerra de Corea.",
+        "sentence2": "Durante dos años, McMillan pasó en el Royal Medical Corp. en Didcot, y más tarde en Tidworth, donde dirigió un MRS para soldados heridos en la Guerra de Corea.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "``Aku Ankka'' es una publicación de Sanoma Media (anteriormente Sanoma), que forma parte de Sanoma Magazines.",
+        "sentence2": "``Aku Ankka'' es una publicación de Sanoma Media (anteriormente Sanoma Magazines), que forma parte de Sanoma.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rakai es la sede de Uganda, que a principios de la década de 1980 fue el epicentro y el primer distrito distinto de Rakai afectado por la epidemia de SIDA.",
+        "sentence2": "Rakai es la sede del distrito de Rakai, que fue el epicentro a principios de los años 1980 y fue el primero en verse afectado por la epidemia de SIDA en Uganda.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Las actividades asiáticas pasaron a formar parte de Ebel, mientras que las actividades europeas se vendieron al empresario de Hong Kong Joseph Wong y ahora forman parte de Stelux Holdings.",
+        "sentence2": "Las actividades asiáticas pasaron a formar parte de Ebel, mientras que las actividades europeas fueron vendidas al empresario de Hong Kong Joseph Wong y ahora pertenecen a Stelux Holdings.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Los fondos provinieron de la Fundación Bill Melinda Gates, el financiero George Soros y el empresario tecnológico Edward W. Scott.",
+        "sentence2": "Los fondos iniciales provinieron de la Fundación Bill y Melinda Gates, el financiero George Soros y el empresario tecnológico Edward W. Scott.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Finale es una ciudad de Sudáfrica en la provincia del municipio del distrito de Mopani, Limpopo.",
+        "sentence2": "Finale es una ciudad del municipio del distrito de Mopani en la provincia de Limpopo en Sudáfrica.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rashidi no fue acusado, pero fue detenido por las autoridades marroquíes cuando fue repatriado.",
+        "sentence2": "Rashidi no fue acusado, pero las autoridades marroquíes lo repatriaron cuando fue arrestado.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fue nombrado fiscal del condado de Seneca en 1824 , del condado de Williams en 1826 y del condado de Sandusky en 1827 .",
+        "sentence2": "Fue nombrado fiscal del condado de Williams en 1824, del condado de Seneca en 1826 y del condado de Sandusky en 1827.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El lago Georgetown es también una fuente de agua potable para Georgetown y la cercana ciudad de Round Rock.",
+        "sentence2": "El lago Georgetown es también una fuente de agua potable para Georgetown y la cercana ciudad de Round Rock.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Holly fue influenciada musicalmente por Elton John.",
+        "sentence2": "Elton John fue influenciado musicalmente por Holly.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En el momento de su muerte, el cardenal David Beaton era Lord Canciller de Escocia, arzobispo de St Andrews y cardenal legado en Escocia.",
+        "sentence2": "El Cardenal David Beaton era Lord Canciller de Escocia en el momento de su muerte, Arzobispo de St. Andrews y Cardenal Legado de Escocia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kjeld Deichmann murió repentinamente en 1963 y Erica cerró el estudio y abandonó la cerámica.",
+        "sentence2": "En 1963, Kjeld Deichmann murió repentinamente y Erica cerró el estudio y abandonó el arte de la cerámica.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sin embargo, Michael Jackson, Prince y Madonna fueron influencias en el álbum.",
+        "sentence2": "Madonna, Prince y Michael Jackson fueron, sin embargo, influencias en el álbum.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La única estación de tranvía está en Miraflores. Termini son San Antonio y Oriente.",
+        "sentence2": "La única estación de tranvía está en San Antonio, Termini son Miraflores y Oriente.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "También ayudó a establecer centros de meditación en América del Norte, Central y del Sur, así como en Europa.",
+        "sentence2": "También ayudó a establecer centros de meditación en toda Europa, así como en América del Norte, Central y del Sur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En Sri Lanka, el título de Contador Público (CA Sri Lanka) sólo puede ser utilizado por miembros del Instituto de Contadores Públicos de Sri Lanka.",
+        "sentence2": "En CA, el título de contador (Sri Lanka Sri Lanka) sólo puede ser utilizado por miembros del Instituto de Contadores de Sri Lanka.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Brown también formó el Centro de Conferencias Episcopales Salomón en Robert, Luisiana.",
+        "sentence2": "Robert también fundó el Centro de Conferencias Episcopales Salomón en Brown, Luisiana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus es una cervecería regional con influencias de estilo alemán.",
+        "sentence2": "Lobethal Bierhaus es una cervecería regional con influencias alemanas en su estilo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Los reguladores financieros a veces comparten la visión del mundo de sus entidades reguladas a través de la regulación sectorial.",
+        "sentence2": "Con la regulación sectorial, los reguladores financieros a veces comparten la visión del mundo de sus entidades reguladas.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En abril de 1942, Montagu Slater regresó a Inglaterra y, poco después de su regreso, le pidió a Britten que fuera su libretista de \"Peter Grimes\".",
+        "sentence2": "En abril de 1942, Britten regresó a Inglaterra y poco después de su regreso le pidió a Montagu Slater que fuera su libretista de \"Peter Grimes\".",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tres años más tarde ganó una medalla de plata en la misma competición en el Campeonato de Europa de Alemania Occidental en Hahnenklee.",
+        "sentence2": "Tres años más tarde ganó la medalla de plata en el mismo evento para Alemania Occidental en el campeonato europeo de Hahnenklee.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La banda fue fundada en Dunwoody, Georgia en 1999, después de que el guitarrista Cole Alexander y el bajista Jared Swilley dejaran los Renegades, y el guitarrista Ben Eberbaugh dejara los Reruns.",
+        "sentence2": "La banda, fundada en 1999 en Dunwoody, Georgia, después de que el guitarrista Ben Eberbaugh y el bajista Jared Swilley dejaran los Renegades, y el guitarrista Cole Alexander dejara los Reruns.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Algunos de ellos se describen aquí y otros están vinculados en \"Enlaces externos\" a continuación.",
+        "sentence2": "Algunos de ellos se describen a continuación y otros están vinculados aquí en ``Enlaces externos''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El segundo editor es Herbert Wessels (desde 2009), el editor jefe es Markus Ermert (desde 2002).",
+        "sentence2": "El segundo editor es Herbert Wessels (desde 2009), el editor jefe es Markus Ermert (desde 2002).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis es una especie de escarabajo de las hojas originaria del norte de África y partes de Europa.",
+        "sentence2": "Ochrosis ventralis es una especie nativa de escarabajo de las hojas en Europa y partes del norte de África.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Algunos miembros de la tripulación murieron en Golden Bay y no hubo contacto local con otros maoríes.",
+        "sentence2": "Algunos miembros de la tripulación murieron en Golden Bay y no hubo contacto local con otros maoríes.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Estas tres dinastías paternas gobernaron el Reino de Waalo con la familia materna Mbooj.",
+        "sentence2": "Estas tres dinastías maternas gobernaron el reino de Waalo con la familia paterna Mbooj.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "A principios de la década de 1950, Fiaminghi comenzó a crear obras de arte abstracto que incorporaban elementos de arte constructivo.",
+        "sentence2": "A principios de la década de 1950, Fiaminghi comenzó a crear obras de arte abstracto, incorporando elementos del arte constructivo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La ruta 268 de Pensilvania conduce desde el extremo oeste del puente hacia el sur hasta Parker y hacia el norte hasta Emlenton.",
+        "sentence2": "La ruta 268 de Pensilvania conduce desde el extremo occidental del puente hacia el norte hasta Parker y hacia el sur hasta Emlenton.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Su nombre, Afolabi, es \"Nacido en la riqueza\". Su apodo en Nigeria significa Robocop debido a sus movimientos rígidos.",
+        "sentence2": "Su nombre, Afolabi, significa \"nacido en riqueza\", su apodo en Nigeria es Robocop debido a sus movimientos rígidos.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En abril de 1942, Britten regresó a Inglaterra y poco después de su regreso le pidió a Montagu Slater que fuera su libretista de \"Peter Grimes\".",
+        "sentence2": "Montagu Slater regresó a Inglaterra en abril de 1942. Poco después de su regreso, le pidió a Britten que fuera su libretista de \"Peter Grimes\".",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nació como hijo póstumo de Sir John Lade, primer baronet, su madre era hermana del cervecero Henry Thrale.",
+        "sentence2": "Nació como hijo de Sir Henry Thrale, primer baronet, su madre era hermana del cervecero John Lade.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La excepción fue entre finales de 2005 y 2009, cuando jugó en Suecia con el Carlstad United BK, en Serbia con el FC Terek Grozny y con el FK ruso Borac Čačak.",
+        "sentence2": "La excepción fue entre finales de 2005 y 2009 cuando jugó en Suecia con el Carlstad United BK, en Serbia con el FK Borac Čačak y con el FC Terek Grozny ruso.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El episodio fue escrito por Chuck Tatham y dirigido por Fred Savage.",
+        "sentence2": "El episodio fue escrito por Chuck Tatham y dirigido por Fred Savage.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La reunión es interrumpida por la llegada de varios mensajeros de varios Mardukans poderosos o influyentes a la ciudad con muchas invitaciones a cenar para el Príncipe.",
+        "sentence2": "La reunión es interrumpida por la llegada de muchos mensajeros de varios Mardukans poderosos o influyentes a la ciudad con varias invitaciones a cenar para el Príncipe.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beximco produce textiles, productos químicos básicos, productos farmacéuticos, yute y alimentos marinos, y la empresa también tiene intereses inmobiliarios y de desarrollo territorial.",
+        "sentence2": "Beximco produce textiles, productos químicos básicos, productos farmacéuticos, yute y alimentos marinos; la empresa también tiene intereses inmobiliarios y de desarrollo inmobiliario.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "``The Rider's Digest'' es ahora una revista mensual que se publica en dos versiones: la versión comercial y la edición gratuita de 60 páginas.",
+        "sentence2": "``The Rider's Digest'' es ahora una revista mensual con dos versiones publicadas: la edición gratuita y la edición comercial de 60 páginas.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Su esposa era Klára Csabi, y su hijo Ferenc Wathay también fue un famoso comandante y autor del \"Cancionero de Ferenc Wathay\".",
+        "sentence2": "Su esposa era Klára Csabi, y su hijo Ferenc Wathay también fue un famoso comandante y autor del \"cancionero de Ferenc Wathay\".",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Una proporción de 2,5:1 redujo la proliferación de células colorrectales en pacientes con cáncer de recto, mientras que una proporción de 4:1 no tuvo ningún efecto.",
+        "sentence2": "Una proporción de 2,5:1 redujo la proliferación de células colorrectales en pacientes con cáncer rectangular, mientras que una proporción de 4:1 no tuvo ningún efecto.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nació como Charles Wyndham Standing en Londres, Inglaterra y murió en Los Ángeles, California.",
+        "sentence2": "Nació en Londres, Inglaterra, y murió en Los Ángeles, California, Charles Wyndham.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El condado de Berks, Pensilvania, Estados Unidos, es una comunidad en el municipio de Robeson.",
+        "sentence2": "El condado de Berks, Pensilvania, Estados Unidos es un municipio del municipio de Robeson.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vermont limita al norte con Mitcham, al oeste con Nunawading y Forest Hill, al sur con Vermont y al este con Wantirna y Ringwood.",
+        "sentence2": "El sur de Vermont limita al norte con Mitcham, al oeste con Nunawading y Forest Hill, al sur con Vermont y al este con Wantirna y Ringwood.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cook Pond, también conocido como South Watuppa Pond, está ubicado al sureste del lago Laurel y al oeste del río Taunton.",
+        "sentence2": "Cook Pond, también conocido anteriormente como Laurel Lake, está ubicado en el extremo sur del río Taunton y al oeste de South Watuppa Pond.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sólo Ronnie Fields no jugó un solo partido en la NCAA ni en la NBA.",
+        "sentence2": "Ronnie Fields no jugó ni un solo partido en la NBA ni en la NCAA.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duncan McIntyre nació el 6 de octubre de 1899 en Kent, Inglaterra, hijo del capitán Ivor Ewing McIntyre.",
+        "sentence2": "Ivor Ewing McIntyre nació el 6 de octubre de 1899 en Kent, Inglaterra, como hijo del capitán Duncan McIntyre.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "También existe una enfermedad respiratoria en los rumiantes, y los animales pueden negarse a comer, parecer letárgicos y también desarrollar signos neurológicos.",
+        "sentence2": "En los rumiantes, las enfermedades respiratorias también están presentes y los animales pueden negarse a comer, parecer letárgicos y también desarrollar signos neurológicos.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La partitura fue realizada por el compositor Maury Yeston, con coreografía de William Whitener, director artístico del Kansas City Ballet.",
+        "sentence2": "La partitura fue del compositor William Whitener, con coreografía de Maury Yeston, director artístico del 'City Ballet' de Kansas.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "``Dream'' se representó en la Royal Opera House, Covent Garden, en 1961, producida por John Gielgud y dirigida por Georg Solti.",
+        "sentence2": "``Dream'' se representó en 1961 en la Royal Opera House de Covent Garden, producida por John Gielgud y dirigida por Georg Solti.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El 22 de septiembre de 1918 se envió desde Australia el primer mensaje telegráfico inalámbrico a Snowdonia.",
+        "sentence2": "El 22 de septiembre de 1918 se envió la primera comunicación telegráfica inalámbrica a Snowdonia desde Australia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cook Pond, también conocido como South Watuppa Pond, está ubicado al sureste del lago Laurel y al oeste del río Taunton.",
+        "sentence2": "En el extremo sur, Cook Pond, también conocido anteriormente como South Watuppa Pond, está ubicado al este del lago Laurel y al oeste del río Taunton.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tienen 13 espinas blandas anales, de 11 a 13 radios blandos dorsales, 2 espinas dorsales y de 11 a 13 radios anales.",
+        "sentence2": "Tienen 13 espinas dorsales, 11 a 13 radios blandos dorsales, 2 espinas anales y 11 a 13 radios blandos anales.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La energía potencial y total combinadas se denomina energía cinética o ``paquete energético''.",
+        "sentence2": "La energía potencial y cinética combinadas se denomina energía total o \"paquete de energía\".",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Estaban allí para que oráramos y estaban allí para disfrutarnos.",
+        "sentence2": "Estaban allí para que oráramos y para que disfrutáramos.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Las lesiones premalignas son aparentemente un tejido típico que parece anormal en el examen microscópico y en el que el cáncer es más probable que su contraparte morfológicamente normal.",
+        "sentence2": "Las lesiones premalignas son aparentemente un tejido típico que parece anormal al examen microscópico y en el que es más probable que se produzca cáncer que en su contraparte morfológicamente normal.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "``R. satarae'' tiene un pelaje marrón dorado con un dorso largo y suave y una parte inferior blanca.",
+        "sentence2": "``R. satarae'' tiene un pelaje marrón dorado con un dorso largo y suave y una parte inferior blanca.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Quedan dos pequeñas ligas independientes con sólo un puñado de miembros: la Highland Alliance League y la Grampian Alliance League.",
+        "sentence2": "Quedan dos pequeñas ligas independientes, con sólo un puñado de miembros: la Liga de la Alianza Grampian y la Liga de la Alianza de las Tierras Altas.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El ``Fall Beil'' se utilizó por última vez en Alemania Occidental en 1949, en 1966 en Alemania Oriental.",
+        "sentence2": "El \"caso\" se utilizó por última vez en 1949 en Alemania Oriental y en 1966 en Alemania Occidental.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Annette Amelia Crum se casó con Bryant, la hija de Samuel Crum, el 29 de septiembre de 1874. Tuvieron una hija.",
+        "sentence2": "El 29 de septiembre de 1874, Annette Amelia se casó con Crum Bryant, la hija de Samuel Crum, y tuvieron una hija.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Además, se realizó una lucha de triple amenaza por el Campeonato de los Estados Unidos entre el Campeón Jack Swagger, The Miz y Kofi Kingston.",
+        "sentence2": "Lo siguiente fue un combate de Triple Amenaza por el Campeonato de los Estados Unidos entre el campeón Kofi Kingston, The Miz y Jack Swagger.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La canción fue presentada en la sexta promo de la segunda temporada de ``Sons of Anarchy'', una serie de televisión de la cadena FX.",
+        "sentence2": "La canción apareció en la sexta promoción de la segunda temporada de \"Sons of Anarchy\", una serie de televisión de la cadena FX.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Jugó en Australia al principio de su carrera, pero se mudó a Escocia para jugar en el Frankston City de la Victorian State League.",
+        "sentence2": "Jugó en Escocia al principio de su carrera, pero se mudó a Australia para jugar en la Liga Estatal Victoriana para Frankston City.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "El último tema \"Every Morning\" es la versión en guitarra acústica del primer tema \"Morning\".",
+        "sentence2": "El último tema, ``Every Morning'', es la versión en guitarra acústica del primer tema, ``Morning''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El pavo cepillo rallado o pavo cepillo de cuello marrón (``Talegalla jobiensis'') es una especie de ave de la familia Megapodiidae.",
+        "sentence2": "El pavo de collar o pavo de cuello marrón (``Talegalla jobiensis'') es una especie de ave de la familia Megapodiidae.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duncan McIntyre nació el 6 de octubre de 1899 en Kent, Inglaterra, hijo del capitán Ivor Ewing McIntyre.",
+        "sentence2": "Ivor Ewing McIntyre nació el 6 de octubre de 1899 en Kent, Inglaterra, hijo del capitán Duncan McIntyre.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "La historia de la 46.ª División de Cohetes comienza el 29 de abril de 1941, cuando se completó la formación de la 188.ª División de Fusileros en Kaunas.",
+        "sentence2": "La historia de la 46.ª división de cohetes comienza el 29 de abril de 1941, cuando se completó la formación de la 188.ª División de Fusileros en Kaunas.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Whitlam, que había derrotado a Malcolm Fraser de manera aplastante en las elecciones federales de diciembre de 1975, ofreció el título de caballero a Egerton por sus servicios al movimiento sindical.",
+        "sentence2": "Whitlam, que había derrotado a Malcolm Fraser de manera aplastante en las elecciones federales de diciembre de 1975, ofreció a Egerton el título de caballero por servir al movimiento sindical.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis es una especie nativa de escarabajo de las hojas en Europa y partes del norte de África.",
+        "sentence2": "Ochrosis ventralis es una especie de escarabajo de hoja originaria de Europa y partes del norte de África.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La temporada comenzó el 6 de enero de 1984 en Falun, Suecia, y finalizó el 11 de marzo de 1984 en Lygna, Noruega.",
+        "sentence2": "La temporada comenzó el 6 de enero de 1984 en Falun, Suecia, y finalizó el 11 de marzo de 1984 en Lygna, Noruega.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De Ruiter, nacido en Leiden, jugó en el FC Utrecht, el FC Den Bosch, el Excelsior, el RKC Waalwijk y el FC Emmen.",
+        "sentence2": "Nacido en Leiden, de Ruiter ha jugado en el FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk y FC Emmen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Farrell contraataca con los ataques de Gabriel, mientras McClane elimina a sus hombres.",
+        "sentence2": "Farrell contrarresta los ataques de Gabriel, mientras McClane elimina a sus hombres.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El sencillo fue lanzado en Radio Airplay en Italia el 12 de octubre de 2012 y se envió a todo el mundo el 3 de diciembre de 2012.",
+        "sentence2": "El sencillo fue lanzado a la radio el 12 de octubre de 2012 en Italia y fue enviado a todo el mundo el 3 de diciembre de 2012.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La segunda hija de Octavius Warre Malet, Alice Anna Catherine, se casó con Thomas en el consulado británico en Colonia el 24 de junio de 1852.",
+        "sentence2": "La segunda hija de Octavius Warre Malet, Alice Anna Catherine, se casó con Thomas el 24 de junio de 1852 en el consulado británico de Colonia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum es un tipo de caracol de mar, un verdadero molusco gasterópodo de la familia Buccinidae, los buccinos marinos.",
+        "sentence2": "Probuccinum tenerum es una especie de caracol de mar, un verdadero molusco gasterópodo de la familia Buccinidae, los buccinos marinos.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "David David Godwin está representado por Emma Townshend en DGA Associates.",
+        "sentence2": "David Godwin está representado por Emma Townshend en DGA Associates.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El medio simple se puede caracterizar con secciones eficaces de absorción y emisión en las frecuencias fórmula _ 2 y fórmula _ 3.",
+        "sentence2": "El medio simple se puede caracterizar por secciones transversales efectivas de absorción y emisión en las frecuencias Fórmula 2 y Fórmula 3.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De Ruiter, nacido en Leiden, jugó en el FC Utrecht, el FC Den Bosch, el Excelsior, el RKC Waalwijk y el FC Emmen.",
+        "sentence2": "Nacido en Leiden, de Ruiter ha jugado en el RKC Waalwijk, FC Den Bosch, Excelsior, FC Utrecht y FC Emmen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Se ha criticado la primacía de los operadores aritméticos, conceptualmente y 'son operadores lógicos bit a bit como y +'.",
+        "sentence2": "Se ha criticado la precedencia de los operadores aritméticos. Conceptualmente, & y son operadores lógicos bit a bit como y +.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En 1974, con el apoyo de las Naciones Unidas, el Banco Asiático de Desarrollo y el Banco Mundial, la República Democrática Popular Lao fundó el Fondo de la Etapa II.",
+        "sentence2": "Con el apoyo del Banco Mundial , las Naciones Unidas y el Banco Asiático de Desarrollo , la República Democrática Popular Lao fundó el fondo de la Etapa II en 1974 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El Concejo Municipal de Webster Groves estaba formado por los miembros del concejo Debi Salberg, Kathy Hart, Greg Mueller, Ken Burns, Toni Hunt y Anne Tolan.",
+        "sentence2": "El Ayuntamiento de Webster Groves estaba formado por los concejales Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt y Anne Tolan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Elton John fue influenciado musicalmente por Holly.",
+        "sentence2": "Elton John fue influenciado musicalmente por Holly.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Su música es considerada por muchos como metal alternativo con influencias de rap metal y metal industrial. Según entrevistas anteriores, se consideran \"roca asesina\".",
+        "sentence2": "Su música es considerada por muchos como un metal alternativo con influencias de rap metal y metal industrial, que según entrevistas anteriores se autodenominan ''kill-rock``.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Luego cruza el brazo del lago Texoma del río Washita.",
+        "sentence2": "Luego cruza el brazo del río Washita en el lago Texoma.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La siguiente tabla compara el rendimiento del renderizado con capacidad LOD y un método de detalle completo (\"fuerza bruta\").",
+        "sentence2": "La siguiente tabla compara el rendimiento de la representación con reconocimiento de LOD y un método de detalle completo (``fuerza bruta'').",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El Grupo Volare tiene su sede en Thiene, Milán y su dirección comercial y gestión de vuelos chárter en Italia.",
+        "sentence2": "El Grupo Volare tenía su sede en Thiene, Milán y su dirección comercial y gestión de vuelos chárter en Italia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "También vale la pena señalar que el siguiente código funcionaría sin ADL (se aplica de todos modos).",
+        "sentence2": "También vale la pena señalar que el siguiente código funcionaría sin ADL (se le aplicará de todos modos).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fueron desarrollados por CyberConnect2 y publicados por Namco Bandai a partir de ``Naruto: Ultimate Ninja'' en 2005.",
+        "sentence2": "Fueron desarrollados por CyberConnect2 y publicados por Namco Bandai a partir de 2005 con ``Naruto: Ultimate Ninja''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "AleX es una serie de televisión italiana. La serie fue escrita por Alfredo Castelli, Guglielmo Duccoli y Giorgio Schottler y producida por Videotime.",
+        "sentence2": "La serie de televisión italiana AleX fue escrita por Alfredo Castelli, Guglielmo Duccoli y Giorgio Schottler y producida por videotime.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Enoteche se extendió hasta Austria al norte de los Alpes con el nombre alemán ``Vinothek'' y desde Alemania hasta Austria.",
+        "sentence2": "Las enotecas se han extendido al norte de los Alpes hasta Austria bajo el nombre alemán de \"Vinothek\" y desde Alemania hasta Austria.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Smartass es una película dirigida por Jena Serbu y protagonizada por Joey King.",
+        "sentence2": "Smartass es una película de Jena Serbu y Joey King.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Durante la misión murieron 65 soldados: 34 nigerianos, 28 chadianos, 2 togoleses y 1 burkinabé.",
+        "sentence2": "Durante la misión, murieron 65 soldados: 34 nigerianos, 28 chadianos, 2 togoleses y 1 burkinabé.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La división fue destruida en la batalla de Normandía, perdiéndose los últimos elementos a causa de la caída de Cherburgo.",
+        "sentence2": "La división fue destruida en la Batalla de Normandía, perdiéndose sus últimos elementos en la caída de Cherburgo.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam (15 de octubre de 1929 - 29 de julio de 2012) fue una bailarina de Kuchipudi y gurú de la danza india.",
+        "sentence2": "Vempati Chinna Satyam (15 de octubre de 1929 - 29 de julio de 2012) fue una bailarina de Kuchipudi y gurú de la forma de danza india.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Murió en Milwaukee, Wisconsin, donde se jubiló el 5 de mayo de 1903.",
+        "sentence2": "Murió en Milwaukee, Wisconsin, donde se jubiló el 5 de mayo de 1903.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nació en Tiburón, California, y murió en Brooklyn, Nueva York.",
+        "sentence2": "Nació en Tiburón, California, y murió en Brooklyn, Nueva York.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La serie debutó el 18 de abril de 2009 en Australia por Nickelodeon (Nueva Zelanda y Nueva Zelanda).",
+        "sentence2": "La serie debutó en Australia el 18 de abril de 2009 en Nickelodeon (Nueva Zelanda y Nueva Zelanda).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Este es el estilo Zen de servir y comer comidas que se practica en los templos formales.",
+        "sentence2": "Éste es el estilo Zen de servir y comer que se practica en los templos formales.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "El nuevo líder de Gerakan Tiga Daerah fue Sarjiyo, quien se convirtió en el principal regente de Pekalongan.",
+        "sentence2": "El nuevo líder de Gerakan Tiga Daerah fue Sarjiyo, quien se convirtió en el regente principal de Pekalongan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Durante su campaña, debatió con McCain dos veces, una en el asta de la bandera y otra en Tucson.",
+        "sentence2": "Durante su campaña electoral, debatió con McCain dos veces, una en Tucson y otra en Flagstaff.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Los ganadores globales de la división junior 1 reciben la Copa James Delahunt.",
+        "sentence2": "Los ganadores de la División Junior 1 reciben la Copa James Delahunt.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La equipación estaba compuesta por camiseta verde con cuello blanco, pantalón azul y medias azules.",
+        "sentence2": "La equipación estaba compuesta por una camiseta verde con cuello blanco, pantalón azul y medias azules.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Al evento asistieron la embajadora de Boutique@hs, Teresa Palmer, Michala Banas y la actriz australiana Kyly Clarke.",
+        "sentence2": "Al evento asistieron la embajadora de Boutique@hs, Teresa Palmer, Michala Banas y la actriz australiana Kyly Clarke.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duminda Silva, también conocida como Arumadura Lawrence Romelo Duminda Silva y R. Dumindha Silva, es una política de Sri Lanka y ex miembro del Parlamento.",
+        "sentence2": "Arumadura Lawrence Romelo Duminda Silva, también conocido como Duminda Silva y R. Dumindha Silva, es un político de Sri Lanka y ex representante del Parlamento.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sirve al suburbio Edithvale del sureste de Melbourne y se inauguró el 20 de septiembre de 1919.",
+        "sentence2": "Sirve al suburbio Edithvale del sureste de Melbourne y se inauguró el 20 de septiembre de 1919.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "En estas cenas se suele consumir vino de calidad, normalmente acompañado de champán o vinos espumosos similares.",
+        "sentence2": "En estas cenas se suele consumir vino de calidad, a menudo acompañado de champán o vinos espumosos similares como conclusión.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Según la Oficina del Censo de Estados Unidos, Kennesaw tiene una superficie total de la cual es tierra y, o 1,08%, es agua.",
+        "sentence2": "Según la Oficina del Censo de Estados Unidos, Kennesaw es una superficie total de la cual es tierra y el 1,08% tiene agua.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Joe R. Campa Jr. es un ex marinero de la Armada de los Estados Unidos, que se desempeñó como el undécimo suboficial mayor de la Armada de los Estados Unidos.",
+        "sentence2": "Joe R. Campa Jr. es un ex marinero de la Armada de los Estados Unidos, que sirvió como el undécimo suboficial principal de la Armada de los Estados Unidos.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Poonam Devi de RJD derrotó a Dharmendra Yadav en 2000 como JDU.",
+        "sentence2": "Poonam Devi de RJD derrotó a Dharmendra Yadav en representación de JDU en 2000.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mark Knowles y Daniel Nestor ganaron el título, derrotando a Jonathan Erlich y Andy Ram en la final por 5:3, 5:4.",
+        "sentence2": "Mark Knowles y Daniel Nestor ganaron el título, derrotando a Jonathan Erlich y Andy Ram 5-3, 5-4 en la final.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Con Terry como Ofelia y Porcia animó \"Hamlet\" y produjo \"El mercader de Venecia\" (1879).",
+        "sentence2": "Con Terry como Ofelia y Porcia, revivió \"Hamlet\" y produjo \"El mercader de Venecia\" (1879).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "También ayudó a establecer centros de meditación en toda Europa, así como en América del Norte, Central y del Sur.",
+        "sentence2": "También ayudó a establecer centros de meditación en toda Europa, así como en el norte, centro y sur de América.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La carretera fue cancelada el 18 de octubre de 1954, cuando se amplió la FM 1241.",
+        "sentence2": "La autopista fue cancelada el 18 de octubre de 1954, cuando se amplió la FM 1241.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "McCarthy nació en Auckland, pero se mudó con sus padres a San Francisco, California, a la edad de cuatro años.",
+        "sentence2": "McCarthy nació en Auckland, pero se mudó a San Francisco, California con sus padres a la edad de cuatro años.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Phnom Penh - Monumento a la amistad de Vietnam en Camboya, la capital de Camboya, es un gran monumento de hormigón que recuerda la antigua alianza entre Vietnam y Camboya.",
+        "sentence2": "El Monumento a la Amistad Phnom Penh - Vietnam en Camboya, capital de Camboya, es un gran monumento de hormigón que conmemora la antigua alianza entre Vietnam y Camboya.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sher Ahmed Akhundzada (también conocido como Sher Mohammed Akhundzada) es un líder tribal que fue gobernador de Helmand en Afganistán de 2001 a 2005.",
+        "sentence2": "Sher Ahmed Akhundzada (también conocido como Sher Mohammed Akhundzada) es un líder tribal que de 2001 a 2005 fue gobernador de Helmand en Afganistán.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rakai es la sede del distrito de Rakai, que fue el epicentro a principios de los años 1980 y fue el primero en verse afectado por la epidemia de SIDA en Uganda.",
+        "sentence2": "Rakai es la sede del distrito de Rakai, que a principios de los años 1980 fue el epicentro y el primero en Uganda afectado por la epidemia de SIDA.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Los costos explícitos se tienen en cuenta junto con los económicos al considerar las ganancias implícitas.",
+        "sentence2": "Al considerar el beneficio implícito, se tienen en cuenta los costes explícitos junto con los económicos.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rami Nieminen (nacido el 25 de febrero de 1966) es un futbolista finlandés.",
+        "sentence2": "Rami Nieminen (nacido el 25 de febrero de 1966) es un futbolista finlandés.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prang Ku es un distrito (\"Amphoe\") en la parte occidental de la provincia de Sisaket, en el noreste de Tailandia.",
+        "sentence2": "Prang Ku es un distrito (\"amphoe\") en la parte occidental de la provincia de Sisaket, al noreste de Tailandia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Las líneas 14, 16 y 117 tenían cada una dos batallones en la lucha.",
+        "sentence2": "Las líneas 14, 16 y 117 tenían dos batallones en la lucha cada una.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Los Montreal Montreal Stars ganaron la Copa Clarkson al derrotar 3 a 1 a los Minnesota Whitecaps (WWHL).",
+        "sentence2": "Montreal Stars ganó la Copa Clarkson al derrotar 3 - 1 a los Minnesota Whitecaps (WWHL)",
+        "answer": "same"
+    },
+    {
+        "sentence1": "También vale la pena señalar que el siguiente código funcionaría sin ADL (se le aplicará de todos modos).",
+        "sentence2": "También vale la pena señalar que el siguiente código funcionaría sin ADL (se aplica de todos modos).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La aerolínea fue formada por Irelandia, que también ha desarrollado otras cinco aerolíneas, a saber, VivaColombia, Ryanair, Allegiant Air, VivaAerobus y Tigerair.",
+        "sentence2": "La aerolínea fue fundada por Irelandia, que también ha desarrollado otras cinco aerolíneas, a saber, VivaColombia, Ryanair, Allegiant Air, VivaAerobus y Tigerair.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "La Diócesis Católica Romana de Bungoma es una diócesis ubicada en la ciudad de Kisumu en la provincia eclesiástica de Bungoma en Kenia.",
+        "sentence2": "La diócesis católica romana de Bungoma es una diócesis en la ciudad de Kisumu en la provincia eclesiástica de Bungoma, Kenia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Martin Damm y Radek Štěpánek vencieron en la final por 6 - 2, 6 - 4 a Jonas Björkman y Fabrice Santoro.",
+        "sentence2": "Martin Damm y Radek Štěpánek ganaron en la final a Jonas Björkman y Fabrice Santoro por 6:2, 6:4.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Jugó en Australia al principio de su carrera, pero se mudó a Escocia para jugar en el Frankston City de la Victorian State League.",
+        "sentence2": "Jugó al principio de su carrera en Australia, pero se mudó a Escocia para jugar en el Frankston City de la Victorian State League.",
+        "answer": "same"
+    }
+]

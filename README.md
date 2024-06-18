@@ -1,4 +1,4 @@
-# Large Language Models are Good Spontaneous Multilingual Learners:  Is the Multilingual Annotated Data Necessary?
+# Getting More from Less: Large Language Models are Good Spontaneous Multilingual Learners
 
 <p align="center">
   <a href="https://arxiv.org/abs/2405.13816"> 📃 Paper</a> |  
@@ -8,7 +8,7 @@
 
 ### :mountain: Overview
 
-This repository shares the code and models of our latest work "Large Language Models are Good Spontaneous Multilingual Learners: Is the Multilingual Annotated Data Necessary?". In this work, we find that only tuning on questions (without annotated answers) in a small number of languages can bring significant multilingual improvements even across a wide range of languages unseen during the instruction-tuning process. Additionally, we utilize different settings and mechanistic interpretability methods to comprehensively analyze the LLM's performance in the multilingual scenario.
+This repository shares the code and models of our latest work "Getting More from Less: Large Language Models are Good Spontaneous Multilingual Learners". In this work, we discover and comprehensively investigate the spontaneous multilingual alignment improvement of LLMs. We find that LLMs instruction-tuned on the question translation data (i.e. without annotated answers) are able to encourage the alignment between English and a wide range of languages, even including those unseen during instruction-tuning. Additionally, we utilize different settings and mechanistic interpretability methods to analyze the LLM's performance in the multilingual scenario comprehensively. Our work suggests LLMs' enormous potential for improving multilingual alignment efficiently with great language and task generalization.
 
 ### :chart_with_upwards_trend: Benchmarks & Datasets
 
@@ -18,8 +18,10 @@ We provide the benchmarks and datasets we utilize in our experiments in the `./d
 | :----------------------------------------------------------: | :----------------------------: | :----------------------------------------------------------: | :---------------: |
 | [Amazon Reviews Polarity](https://huggingface.co/datasets/amazon_polarity/viewer/amazon_polarity/train) | Question Translation Alignment |                              \                               | ./data/ap_emotion |
 | [SNLI](https://huggingface.co/datasets/stanfordnlp/snli/viewer/plain_text/train) | Question Translation Alignment |                              \                               |    ./data/snli    |
+| [PAWS](https://huggingface.co/datasets/google-research-datasets/paws/viewer/labeled_final/train) | Question Translation Alignment |                              \                               |    ./data/paws    |
 | [Amazon Reviews Polarity](https://huggingface.co/datasets/amazon_polarity/viewer/amazon_polarity/test) |           Evaluation           | en, zh, de, fr, es, it, nl, ja, ru, sv, sl, pl, bg, no, ms, is, hi, th, sw, bn | ./data/ap_emotion |
 | [SNLI](https://huggingface.co/datasets/stanfordnlp/snli/viewer/plain_text/test) |           Evaluation           | en, zh, de, fr, es, it, nl, ja, ru, sv, sl, pl, bg, no, ms, is, hi, th, sw, bn |    ./data/snli    |
+| [PAWS](https://huggingface.co/datasets/google-research-datasets/paws/viewer/labeled_final/test) |           Evaluation           | en, zh, de, fr, es, it, nl, ja, ru, sv, sl, pl, bg, no, ms, is, hi, th, sw, bn |    ./data/paws    |
 
 ### :jigsaw: Installation
 
@@ -67,6 +69,13 @@ cd ./scripts
 bash run_snli_eval.bash
 ```
 
+* evaluating with PAWS
+
+```bash
+cd ./scripts
+bash run_paws_eval.bash
+```
+
 * logit lens
 
 ```bash
@@ -84,7 +93,7 @@ If you find this repository helpful, feel free to cite our paper. The following 
 
 ```
 @article{zhang2024large,
-  title={Large Language Models are Good Spontaneous Multilingual Learners: Is the Multilingual Annotated Data Necessary?},
+  title={Getting More from Less: Large Language Models are Good Spontaneous Multilingual Learners},
   author={Zhang, Shimao and Gao, Changjiang and Zhu, Wenhao and Chen, Jiajun and Huang, Xin and Han, Xue and Feng, Junlan and Deng, Chao and Huang, Shujian},
   journal={arXiv preprint arXiv:2405.13816},
   year={2024}

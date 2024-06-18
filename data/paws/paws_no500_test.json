@@ -1,0 +1,2502 @@
+[
+    {
+        "sentence1": "Unntaket var mellom slutten av 2005 og 2009 da han spilte i Sverige med Carlstad United BK , Serbia med FK Borac Čačak og russiske FC Terek Grozny .",
+        "sentence2": "Unntaket var mellom slutten av 2005 og 2009, da han spilte i Sverige med Carlstad United BK, Serbia med FK Borac Čačak og russiske FC Terek Grozny.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tabaci-elven er en sideelv til elven Leurda i Romania.",
+        "sentence2": "Leurda-elven er en sideelv til elven Tabaci i Romania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han spilte med Kane County Cougars på A-nivå i 1993 og AA Portland Sea Dogs.",
+        "sentence2": "Han spilte i 1993 med A-Level Portland Sea Dogs og AA Kane County Cougars.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Winarsky er medlem av IEEE, Phi Beta Kappa, ACM og Sigma Xi.",
+        "sentence2": "Winarsky er medlem av ACM, IEEE, Phi Beta Kappa og Sigma Xi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I 1938 ble han regjeringsantropolog i det anglo-egyptiske Sudan og ledet feltarbeid med Nuba .",
+        "sentence2": "I 1938 ble han regjeringsantropolog i det egyptisk-anglo-Sudan og utførte feltarbeid med Nuba .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Billy Billy Batson dukket opp i de fire første utgavene av `` Black Adam '', utgitt mellom slutten av 2008 og begynnelsen av 2009.",
+        "sentence2": "Black Adam dukket opp i de fire første utgavene av `` Billy Batson '', utgitt mellom slutten av 2008 og begynnelsen av 2009.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Solenergitilnærmingen til dette kravet er bruken av solcellepaneler i et konvensjonelt drevet fly.",
+        "sentence2": "Solenergitilnærmingen til dette kravet er bruken av solcellepaneler i et konvensjonelt drevet fly.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Politiet avhørte også sangeren Rimi Tomy og skuespilleren Kavya Madhavan , begge nære venner av Siddique og kona Dileep , som en del av den pågående etterforskningen .",
+        "sentence2": "Politiet avhørte også sangeren Rimi Tomy og skuespilleren Kavya Madhavan , begge nære venner av Siddique og kona Dileep , som en del av den pågående etterforskningen .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De er belagt med sparsom levende orkestermusikk og består av vage, nesten bevisst fargeløse lyder.",
+        "sentence2": "De er overlagt med fargefri, livespilt musikk og består av vage, nesten bevisst sparsomme orkesterlyder.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Holly ble musikalsk påvirket av Elton John.",
+        "sentence2": "Holly Holly ble påvirket musikalsk av Elton John.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Laget svarte på endringene i neste kamp samme kveld 19. februar.",
+        "sentence2": "Laget svarte på endringene i samme kamp neste 19. februar kveld.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nashua Silver Knights, en del av en nåværende sommerliga, er byens kollegiale lag.",
+        "sentence2": "Nashua Silver Knights, en del av en sommerkollega-liga, er det nåværende laget i byen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Fallbeil '' ble brukt for siste gang i Vest-Tyskland i 1949, i Øst-Tyskland i 1966.",
+        "sentence2": "`` Fall Beil '' ble brukt for siste gang i Vest-Tyskland i 1949, i 1966 i Øst-Tyskland.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kanalen er en av de eldste seilbare kanalene i Europa og i Belgia .",
+        "sentence2": "Kanalen er en av de eldste seilbare kanalene i Belgia og faktisk i Europa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I 2009 flyttet han tilbake til Philadelphia og bor i New York City i dag.",
+        "sentence2": "Han flyttet tilbake til Philadelphia i 2009 og bor nå i New York City.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han døde av magekreft i Claremore , Oklahoma , New York City , hvor Lynn Riggs Memorial ligger 30. juni 1954 .",
+        "sentence2": "Han døde 30. juni 1954 av magekreft i New York City. Claremore, Oklahoma er hjemmet til Lynn Riggs Memorial.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stipsits ble født i Korneuburg, Tyskland og tilbrakte sin barndom i Stammersdorf, Wien.",
+        "sentence2": "Stipsits ble født i Korneuburg , og tilbrakte sin barndom i Stammersdorf , Wien .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Keita-dynastiet styrte før-keiserlige og keiserlige Mali fra 1100-tallet til begynnelsen av 1600-tallet.",
+        "sentence2": "Keita-dynastiet styrte Mali fra det 12. til tidlig på 1600-tallet, pre-imperial og imperialistisk.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` Angel Eyes '' er en populær sang fra 1946 komponert av Matt Dennis, med tekst av Earl Brent.",
+        "sentence2": "`` Angel Eyes '' er en populær sang komponert av Earl Brent i 1946, med tekster av Matt Dennis.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Musikken ble skrevet av Shyam og tekstene ble komponert av Sreekumaran Thampi og Sathyan Anthikkad.",
+        "sentence2": "Musikken ble skrevet av Shyam og tekstene av Sreekumaran Thampi og Sathyan Anthikkad komponert.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Filmen var en kommersiell hit, og en av Sergio Sollimas mer suksessrike filmer og mindre politisk enn den tidligere spaghettiregissørens westernfilmer.",
+        "sentence2": "Filmen var en kommersiell hit, og en av Sergio Sollimas mer politiske filmer, og mindre vellykket enn den tidligere spaghettiregissørens westernfilmer.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kabir ber Sarika avsløre planen hans for å avslutte Ranvirs spill.",
+        "sentence2": "Kabir ber Sarika avsløre planen hans for å avslutte Ranvirs spill for ham.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Laget svarte på endringene i neste kamp samme kveld 19. februar.",
+        "sentence2": "Laget reagerte på endringene i det samme spillet som fant sted neste februarkveld.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Løytnant John Gedge bestilte dem for Nordsjøen i mai 1805 , og løytnant Robert Ramsey erstattet ham i 1806 .",
+        "sentence2": "Løytnant Robert Ramsey ga henne i oppdrag til Nordsjøen i mai 1805 , og løytnant John Gedge erstattet ham i 1806 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Emma Townshend er representert av David Godwin i DGA Associates.",
+        "sentence2": "David David Godwin er representert på DGA Associates av Emma Townshend.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nashua Silver Knights, en del av en sommerkollega-liga, er det nåværende laget i byen.",
+        "sentence2": "Nashua Silver Knights, en del av en nåværende sommerliga, er byens kollegiale lag.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fra vestenden av broen fører Pennsylvania Route 268 sørover til Parker og nordover til Emlenton.",
+        "sentence2": "Pennsylvania Route 268 fører fra vestenden av broen sørover til Parker og nordover til Emlenton.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Disse var vanlige i Storbritannia, men i Europa, i det minste for store lokomotiver, er det relativt sjeldent.",
+        "sentence2": "Disse var sjeldne i Storbritannia, men i Europa, i det minste for store lokomotiver, er de relativt vanlige.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alston ble født 21. desember 1965 i Oxon Hill, Maryland. Han gikk på Oxon Hill High School i New Haven, Connecticut.",
+        "sentence2": "Han ble født 21. desember 1965 i Oxon Hill , Maryland , og gikk på High School i New Haven , Connecticut .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Totale amerikanske tap var 28 drepte, mens tapene i Viet Cong var 345 drepte og ytterligere 192 anslått drept.",
+        "sentence2": "Totalt ble 28 amerikanske ofre drept, mens tap i Viet Cong ble drept 345 og ytterligere 192 anslått drept.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I CA kan tittelen på en autorisert regnskapsfører (Sri Lanka Sri Lanka) bare brukes av medlemmer av Institute of Sri Lankan Accountants.",
+        "sentence2": "I CA kan tittelen Chartered Accountant (Sri Lanka Sri Lanka) bare brukes av medlemmer av Institute of Chartered Accountants på Sri Lanka.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Simyo tilhører det nederlandske telekommunikasjonskonsernet KPN, etter oppkjøpet av resten av E-Plus 14. mars.",
+        "sentence2": "Etter oppkjøpet av resten av E-Plus 14. mars, tilhører Simyo det nederlandske telekommunikasjonskonsernet KPN.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Foruten Kuykendall fungerte Robert White og Joshua Soule Zimmerman som kansellikommissær for Hampshire County.",
+        "sentence2": "Robert White og Joshua Soule Zimmerman tjente sammen med Kuykendall som kansellikommissær for Hampshire County.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Disse synspunktene ble ofte uttrykt under fremveksten av protestantiske, puritanske og evangeliske bevegelser.",
+        "sentence2": "Disse synspunktene ble ofte uttrykt under fremveksten av evangeliske, puritanske og protestantiske bevegelser.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "UEFA - cupen 1973 -- 74 ble vunnet av Feyenoord Rotterdam på Tottenham Hotspur 4 : 2 .",
+        "sentence2": "UEFA-cupen 1973–74 ble vunnet av Feyenoord Rotterdam over Tottenham Hotspur 4–2 sammenlagt.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Talfourd Ely var barnebarnet til John Towill Rutt, som var en tidlig venn av Crabb Robinson.",
+        "sentence2": "Talfourd Ely var et barnebarn av Crabb Robinson, som var en tidlig venn av John Towill Rutt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Faren døde i ungdommen, og moren, Samuel Adams, giftet seg med Catherine A. Fagan i 1842, som to år senere ble guvernør i Arkansas.",
+        "sentence2": "Faren døde under ungdommen og moren Catherine A. Fagan giftet seg i 1842 med Samuel Adams, som ble guvernør i Arkansas to år senere.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De ga også ut det andre sporet på albumet, `` Vices'', som den 5. singelen fra albumet 13. juni.",
+        "sentence2": "De ga også ut det andre sporet på albumet, `` Vices'', 13. juni som den 5. singelen fra albumet.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sydney Water Board hadde overtatt vannforsyningen til Sydney fra bystyret i 1888 .",
+        "sentence2": "I 1888 overtok Sydney Water Board vannforsyningen til Sydney fra bystyret .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Også Cai Feng hadde en sønn, Cai Mao.",
+        "sentence2": "Cai Mao hadde også en sønn, Cai Feng.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bladene er formet vekselvis langs grenene og har lansearrangerte , eggformede eller nesten sirkulære og er en stilk lang .",
+        "sentence2": "Bladene er ordnet vekselvis langs grenene og er lanseformede, eggformede eller nesten sirkulære og har en lang stilk.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dette utvidet konfliktområdet mellom Massachusetts og provinsen Rhode Island .",
+        "sentence2": "Dette utvidet konfliktområdet mellom Rhode Island og provinsen Massachusetts.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School var en selektiv grammatikkskole for jenter i Berkshire , nå Slough , Buckinghamshire .",
+        "sentence2": "Slough High School var en selektiv jenteskole i Slough , Buckinghamshire , nå Berkshire .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Det ligger i nærheten av Lough Corrib , på N59 - veien til Oughterard og Clifden , i Connemara .",
+        "sentence2": "Det er nær Oughterard og Clifden , på N59 - veien til Lough Corrib , i Connemara .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mens utelukkelse av svarte spillere ikke var en skriftlig regel, hadde ingen afroamerikaner spilt i National Football League siden 1933.",
+        "sentence2": "Mens utestenging av afrikanske spillere ikke var en skriftlig regel, hadde ingen svarte amerikanske spillere i National Football League spilt siden 1933.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Muawiyah kom til makten etter Alis død og etablerte et dynasti.",
+        "sentence2": "Etter Muawiyahs død kom Ali til makten og grunnla et dynasti.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I 1994 forlot Rodrigo Leão bandet for å starte en solokarriere, og ble erstattet av Carlos Maria Trindade (keyboardsynthesizer).",
+        "sentence2": "I 1994 forlot Rodrigo Leão bandet for å starte en solokarriere, erstattet av Carlos Maria Trindade (keyboardsynthesizer).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I 1933 skrev Cattell at av alle de nordiske rasene, \"var den europeiske rasen den mest utviklet med hensyn til intelligens og temperamentstabilitet\".",
+        "sentence2": "I 1933 skrev Cattell at av alle de nordiske rasene var \"den europeiske rasen i intelligens og temperamentstabilitet mest utviklet\".",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Abies lasiocarpa , vanligvis kalt den vestlige nordamerikanske gran eller Rocky Mountain gran , er en subalpin gran .",
+        "sentence2": "Abies lasiocarpa , vanligvis kjent som den vestlige nordamerikanske gran eller Rocky Mountain gran , er en subalpin gran .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "American Motors ga kun teknisk støtte i form av begrenset hjelp.",
+        "sentence2": "American Motors ga kun teknisk støtte i form av begrenset hjelp.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Houston Main Building ( HMB ) tidligere var Prudential Building en skyskraper ved Texas Medical Center i Houston , Texas .",
+        "sentence2": "Houston Main Building ( HMB ) tidligere Prudential Building , var en skyskraper i Texas Medical Center , Houston , Texas .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Etter at han kom tilbake til Paramaribo i 1954, slo han seg ned som advokat i Surinam.",
+        "sentence2": "Etter at han kom tilbake til Surinam i 1954, slo han seg ned i Paramaribo som advokat.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ulykken med Aerosucre Flight 4544 var den første luftfartshendelsen som involverte Aerosucre , den andre var krasjet med en annen Boeing 727 18. november 2006 .",
+        "sentence2": "Ulykken med Aerosucre Flight 4544 var den andre flyhendelsen som involverte Aerosucre , den første var krasjet med en annen Boeing 727 18. november 2006 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cabot Trail - Episode ble filmet på stedet i Cape Breton , inkludert Peggys Cove og høylandet i Nova Scotia , langs østkysten .",
+        "sentence2": "East Coast-episoden ble filmet på lokasjon i Nova Scotia, inkludert Peggys Cove og høylandet Cape Breton, langs Cabot Trail.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En annen måte å regulere bestanden av hjort på er å kontrollere fødselsraten.",
+        "sentence2": "En annen måte å regulere hjortbestanden på er å kontrollere fødselsraten.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Diktet er bevart i fire fragmentariske manuskripter, hvorav ett er samtidig.",
+        "sentence2": "Diktet er lagret i fire samtidige manuskripter, hvorav ett er fragmentarisk:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Manu Chao , gruppene \" Air \" , Cassius , Mars IV , Les Négresses Vertes og FFF , og Howie B deltok også i albumet .",
+        "sentence2": "Gruppene '' Air `` , Howie B , Mars IV , Les Négresses Vertes og FFF og Manu Chao deltok også i albumet .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hudeasa-elven er en sideelv til Bradu-elven i Romania.",
+        "sentence2": "Hudeasa-elven er sideelven til Bradu-elven i Romania.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mens utestenging av afrikanske spillere ikke var en skriftlig regel, hadde ingen svarte amerikanske spillere i National Football League spilt siden 1933.",
+        "sentence2": "Mens utelukkelse av svarte spillere ikke var en skriftlig regel, hadde ingen afroamerikanere spilt i National Football League siden 1933.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hans far Patrick Byrne var MP, TD, senator og Lord Mayor of Dublin. En annen bror Alfie Byrne var også TD.",
+        "sentence2": "Faren hans, Patrick Byrne, var delegat, senator og borgmester i Dublin, en annen bror Alfie Byrne var også TD.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Den første serien ble bedre mottatt av kritikere enn den andre.",
+        "sentence2": "Den andre serien ble godt mottatt av kritikerne bedre enn den første.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fanwood ligger i det 12. kongressdistriktet og er en del av New Jerseys 22. lovgivende distrikt.",
+        "sentence2": "Fanwood ligger i det 22. kongressdistriktet og er en del av New Jerseys 12. delstatslovgivende distrikt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Santa Cruz ligger ved bredden av elven Santa Cruz som renner ut i den østlige delen av Laguna de Bay.",
+        "sentence2": "Laguna de Bay ligger ved bredden av elven Santa Cruz , som renner ut i den østlige delen av Santa Cruz .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Porte de Vincennes ligger der det sørøstlige hjørnet av det 20. arrondissement møter det nordøstlige hjørnet av det 12. arrondissement i Paris .",
+        "sentence2": "Porte de Vincennes ligger der det nordøstlige hjørnet av det 12. arrondissement møter det sørøstlige hjørnet av det 20. arrondissement i Paris.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Den 5. mars 2011 la MTV Hive ut en streaminglink til Anni Rossi, og fremførte Rihannas '' Rude Boy ''.",
+        "sentence2": "Den 5. mars 2011 la MTV Hive ut en streaminglink til Rihanna, og fremførte Anni Rossi `` Rude Boy''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kong Qi møtte kong Zhao av Qin i vestlige Zhou i 284 f.Kr. for å danne en allianse mot Xi.",
+        "sentence2": "I 284 f.Kr. møtte kong Qi kong Zhao av Qin i vestlige Zhou for å danne en allianse mot Xi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Den administrative regionen Chenzhou i Tang-dynastiet er under administrasjon av moderne Henan øst for Zhoukou:",
+        "sentence2": "Den administrative regionen Chenzhou i Tang-dynastiet er under administrasjon av moderne Henan i østlige Zhoukou:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` Ren '' betyr veldig enkelt, og `` Belter '' eller `` Belta '' betyr stor eller god.",
+        "sentence2": "`` Ren '' betyr ganske enkelt veldig og `` Belter '' eller `` Belta '' betyr god eller stor.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stephen Stephen ble gift 29. august 1806 av Benjamin Hough , Fredsdommer , i Jefferson County , Elizabeth Core .",
+        "sentence2": "`` 2 '' Benjamin Hough ble gift 29. august 1806 av Stephen Ford, Fredsdommer, i Jefferson County med Elizabeth Core.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Arten ble først formelt beskrevet av botanikeren Stephan Endlicher i 1846 som en del av Johann Georg Christian Lehmanns verk `` Irideae . Plantae Preissianae '' .",
+        "sentence2": "Arten ble først formelt beskrevet i 1846 av botanikeren Stephan Endlicher som en del av verket \"Irideae Plantae Preissianae\" av Johann Georg Christian Lehmann.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I 1912 holdt den indiske nasjonalkongressen sin 27. sesjon i Bankipore under presidentskapet til Rao Bahadur Raghunath Narasinha Mudholkar fra Amravati, Central Provinces og Berar.",
+        "sentence2": "I 1912 holdt den indiske nasjonalkongressen sin 27. sesjon i Bankipore, under presidentskapet til Rao Bahadur Raghunath Narasinha Mudholkar fra sentralprovinsene Amravati og Berar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Den mest brukte animalske fiberen er ull høstet fra sau. For håndstrikk og hobbystrikk blir det ofte spunnet tykt ull- og akrylgarn.",
+        "sentence2": "Den mest spunnede animalske fiberen er ull høstet fra sau. Til håndstrikk og hobbystrikk brukes ofte tykt ull- og akrylgarn.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tipico Co. Ltd og Tipico Casino Ltd ble grunnlagt i 2004 som internasjonale handelsselskaper i handelsregisteret til Malta Financial Services Authority.",
+        "sentence2": "Tipico Co. Ltd og Tipico Casino Ltd ble etablert i 2004 som internasjonale handelsselskaper i handelsregisteret til Malta Financial Services Authority.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Det ligger i nærheten av Lough Corrib , på N59 - veien til Oughterard og Clifden , i Connemara .",
+        "sentence2": "Det ligger i nærheten av Oughterard og Clifden, på N59-veien til Lough Corrib, i Connemara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Den 14. september 2006 ble Lang signert av Washington Wizards og løslatt av Wizards i juli 2017 .",
+        "sentence2": "Den 14. september 2006 ble Lang signert av Washington Wizards . I juli 2017 ble Lang løslatt av Wizards .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Singelen ble utgitt på Radio Airplay i Italia 12. oktober 2012, og ble sendt over hele verden 3. desember 2012.",
+        "sentence2": "Singelen ble sendt til radiosending 12. oktober 2012 i Italia og ble utgitt over hele verden 3. desember 2012 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Etter sin tjeneste bodde Lockhart i Texas, men flyttet nylig til Florida.",
+        "sentence2": "Etter tjenesten hans bodde Lockhart i Florida, men flyttet nylig til Texas.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Den finnes i Nord-Amerika, hvor den ble registrert fra Newfoundland og Labrador vest til British Columbia, nordover til Alaska og Yukon.",
+        "sentence2": "Den finnes i Nord-Amerika, hvor den er registrert fra Newfoundland og Labrador vest til British Columbia, nordover til Alaska og Yukon.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dette vestlige Randallstown-distriktet inkluderer Woodlawn, Milford Mill og Baltimore County.",
+        "sentence2": "Dette vestlige randallstown-distriktet omfatter Woodlawn, Milford Mill og Baltimore County.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han ble trent av John Velazquez og kjørt av Jockey Dale Romans i sitt viktigste løp.",
+        "sentence2": "Han ble trent av Dale Romans og kjørt av Jockey John Velazquez under hans viktigste løp.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I løpet av sin tid i Savannah fikk Charles Celestine vite fra en avis at sønnen hans, Sherman, hadde dødd under Savannah-kampanjen, generalen hadde aldri sett barnet.",
+        "sentence2": "Mens han var i Savannah, fikk Charles Celestine vite fra en avis at hans spedbarnssønn Sherman hadde dødd under Savannah-kampanjen; generalen hadde aldri sett barnet.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Coveret ble designet av den heraldiske kunstneren John Pasche og singelen `` Steel Monkey '' har designet coveret til Art Director Andrew Stewart Jamieson.",
+        "sentence2": "Coveret ble designet av den heraldiske kunstneren Andrew Stewart Jamieson, singelen `` Steel Monkey'' har designet coveret til Art Director John Pasche.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "MacCormack-metoden er et mye brukt diskretiseringsskjema for numerisk løsning av partielle hyperbolske differensialligninger.",
+        "sentence2": "I beregningsvæskedynamikk er MacCormack-metoden et mye brukt diskretiseringsskjema for den hyperbolske partielle differensialløsningen av numeriske ligninger.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wright flyttet fra Chapel Hill, NC til New York.",
+        "sentence2": "Wright flyttet til New York fra Chapel Hill, NC.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Konsonant-ejektivet er en slags velarlyd som brukes i enkelte talespråk. Symbolet i det internasjonale fonetiske alfabetet, som representerer denne lyden.",
+        "sentence2": "Velar-ejektivet er en slags konsonantlyd som brukes i enkelte talespråk. Symbolet i det internasjonale fonetiske alfabetet, som er denne lyden.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Europeiske aktiviteter ble en del av Ebel, mens de asiatiske aktivitetene ble solgt til Hong Kong-entreprenøren Joseph Wong og tilhører nå Stelux Holdings.",
+        "sentence2": "De europeiske aktivitetene ble en del av Ebel mens de asiatiske aktivitetene ble solgt til Hong Kong-entreprenøren Joseph Wong og er nå en del av Stelux Holdings.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tidlige rådgivende styremedlemmer inkluderte Alistair Cooke, Saul Bellow, Walter Cronkite, Norman Cousins, Gore Vidal, Norman Podhoretz.",
+        "sentence2": "Tidlige rådgivende medlemmer inkluderte Walter Cronkite , Norman Vetter , Gore Vidal , Norman Podhoretz , Saul Bellow og Alistair Cooke .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Petkeljärvi nasjonalpark er en nasjonalpark i Ilomantsi i Nord-Karelen-regionen i Finland.",
+        "sentence2": "Petkeljärvi nasjonalpark er en nasjonalpark i Finland i regionen Ilomantsi i Nord-Karelen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De publiserte også det femte sporet på albumet, `` Vices'', som den andre singelen fra albumet 13. juni.",
+        "sentence2": "De ga også ut det femte sporet på albumet, `` Vices ,'' 13. juni som den andre singelen fra albumet.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Stoke slo Sheffield Wednesday og Huddersfield Town før de tapte mot Peterborough United i fjerde runde.",
+        "sentence2": "Stoke slo Peterborough United og Huddersfield Town før de tapte i fjerde runde mot Sheffield Wednesday .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "På spørsmål om hvordan han skulle si navnet hans, fortalte han `` The Literary Digest '' Navnet mitt uttales som om `` øre '; en-house '' stavet .",
+        "sentence2": "På spørsmål om hvordan han skulle si navnet hans, fortalte han `` The Literary Digest '' Navnet mitt staves som om det uttales, øre 'apos; enhouse ``.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dyrkingen ble introdusert i 1880 av Fernando Heydrich i Matanzas på Cuba .",
+        "sentence2": "I Matanzas ble dyrkingen introdusert i 1880 av Fernando Heydrich på Cuba.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hvis det er flere grammatiske kategorier i en setning, er det bare den første som bærer flertallsmarkøren.",
+        "sentence2": "Hvis det er flere grammatiske kategorier i en setning, er det bare flertallet som bærer den første markøren.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Regimet forlot Philadelphia i oktober 1777 for å slutte seg til general George Washingtons hovedhær utenfor Boston .",
+        "sentence2": "Regimentet forlot Philadelphia i oktober 1777 for å slutte seg til general George Washingtons hovedarmé utenfor Boston .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I 1974 etablerte Lao PDR Stage II-fondet med hjelp fra Verdensbanken, FN og Asian Development Bank.",
+        "sentence2": "Med støtte fra Verdensbanken, De forente nasjoner og Den asiatiske utviklingsbanken, grunnla Laos PDR Stage II-fondet i 1974.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han brukte det senere som et symbol for nazistpartiet og plasserte det på en hvit sirkel og en rød bakgrunn for å bruke det som flagg.",
+        "sentence2": "Han brukte den senere som et symbol for nazistpartiet og plasserte den på en rød sirkel og en hvit bakgrunn for å bruke den som flagg.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "For å utvikle kartet for Hoth har designerne mottatt så mye kildemateriale som mulig fra `` The Empire Strikes Back '' for å lage en autentisk reproduksjon.",
+        "sentence2": "For å lage kartet for Hoth skaffet designerne så mye kildemateriale fra `` The Empire Strikes Back '' som mulig for å utvikle en autentisk reproduksjon.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han er gift med Elizabeth `` Betsy '' Katz. Han er far til Adam, Nathaniel og Sara Hundt.",
+        "sentence2": "Han er gift med Elizabeth `` Betsy '' Katz, far til Adam, Nathaniel og Sara Hundt.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Et hus er ladet med sint energi og gir form til den nekromantiske ånden i det.",
+        "sentence2": "Et hus blir ladet med nekromantisk energi og gir form til den sinte ånden inni seg.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mens Oros jobbet under Walker med Fords bil- og lastebildesign, konsentrerte Engel seg om Lincoln- og Mercury-kjøretøyer.",
+        "sentence2": "Mens Oros jobbet med Fords bil- og lastebildesign under Walker, fokuserte Engel på Lincoln- og Mercury-kjøretøyer.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hirasea goniobasis er en art av landlevende pulmonate luftpustende landsnegl , en liten gastropod bløtdyr i familien Endodontidae .",
+        "sentence2": "Hirasea goniobasis er en art av liten luftpustende snegle , en terrestrisk pulmonate gastropod bløtdyr i familien Endodontidae .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Premaligne lesjoner er tilsynelatende et typisk vev som virker unormalt under mikroskopisk undersøkelse, og hvor det er mer sannsynlig at det oppstår kreft enn i det morfologisk normale motstykket.",
+        "sentence2": "Premaligne lesjoner er tilsynelatende et typisk vev som virker unormalt i mikroskopiske undersøkelser og hvor kreft er mer sannsynlig enn morfologisk normale motstykker.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Abu Halifa eller Abu Hulayfah eller Abu Huleifa eller Abu Haleifah er en liten by i Kuwait i Al Ahmadi-guvernementet i det sørlige Abu Halifa-distriktet.",
+        "sentence2": "Abu Halifa eller Abu Hulayfah eller Abu Huleifa eller Abu Haleifah er en liten by i Kuwait i Al Ahmadi Governorate i det sørlige Abu Halifa-distriktet.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Israel er et album av de amerikanske jazztrombonistene Kai Winding og JJ Johnson med opptredener utgitt i 1968 og spilt inn på C.",
+        "sentence2": "Israel er et album av de amerikanske jazztrombonistene Kai Winding og JJ Johnson med opptredener utgitt i 1968 og spilt inn på C .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I 2014 skrev Adam en gotisk trilogi-revisjoner av klassiske historier Frankenstein, The Corruption of Dorian Gray og Jekyll Hyde Corpus Delicti",
+        "sentence2": "I 2014 skrev Adam en gotisk trilogi-omarbeiding av klassiske historier Frankenstein , The Corruption Of Dorian Gray og Jekyll & Hyde Corpus Delicti",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fru Glad hadde arbeidet i Ovamboland i 1901 – 1919 og 1926 – i 1936 og var der som den første skoleinspektøren.",
+        "sentence2": "Fru Glad hadde arbeidet i Ovamboland i 1901 – 1919 og 1926 – 1936, og hadde fungert der som den første skoleinspektøren.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han beskriver dette som en ny oppdagelse av skjønnlitterært forfatterskap og anser det som en myto-realisme i kinesisk litteratur.",
+        "sentence2": "Han anser dette som en \"ny oppdagelse\" av skjønnlitterær skriving, og betegner det som en \"myto-realisme\" av kinesisk litteratur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I 1953 turnerte laget også i Australia og i Asia i august 1959 .",
+        "sentence2": "Laget turnerte også i Australia i 1953 og Asia i august 1959.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ronnie Fields spilte ikke en eneste kamp i NBA eller i NCAA.",
+        "sentence2": "Ronnie Fields spilte ikke en eneste kamp i NCAA eller i NBA.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Den nye lekeplassen er utstyrt med moderne treningsutstyr for barn.",
+        "sentence2": "Lekeplassen er moderne med nytt treningsutstyr for barna.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Probuccinum tenerum er en type havsnegl, en ekte gastropod bløtdyr i Buccinidae-familien, havsneglen.",
+        "sentence2": "Probuccinum tenerum er en art av sjøsnegl , en marin sneglebløtdyr i familien Buccinidae , de sanne sneglene .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abraham Hart var president og Mayer Sulzberger sekretær for tillitsmennene.",
+        "sentence2": "President var Mayer Sulzberger, og Abraham Hart var sekretær for tillitsmennene.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Juhi Chawla har to barn med kona Jahnavi Mehta, en jente, Mehta (født 2001) og en gutt, Arjun Mehta (født 2003).",
+        "sentence2": "Mehta har to barn med kona Juhi Chawla, en jente, Jahnavi Mehta (født i 2001) og en gutt, Arjun Mehta (født 2003).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Graden av skillet mellom protestantiske og katolske tendenser innenfor den spesifikke anglikanske tradisjonen er rutinemessig et spørsmål om debatt både i anglikanske kirker og gjennom hele den anglikanske nattverden.",
+        "sentence2": "Graden av skillet mellom protestantiske og katolske tendenser innenfor den anglikanske tradisjonen er rutinemessig et spørsmål om debatt både i spesifikke anglikanske kirker og i hele det anglikanske samfunnet.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School var en selektiv skole for jenter i Slough , Buckinghamshire , nå Berkshire .",
+        "sentence2": "Slough High School var en selektiv grammatikkskole for jenter i Slough , Buckinghamshire , nå Berkshire .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus er et regionalt bryggeri med påvirkning fra tysk stil.",
+        "sentence2": "Lobethal Bierhaus er et regionalt ølbryggeri med påvirkning fra tysk stil.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Long ble født i Israel, migrerte som ung mann til Australia og bosatte seg der i 1961.",
+        "sentence2": "Lang ble født i Australia, migrerte til Israel som ung mann og bosatte seg der i 1961.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han trakk seg tilbake i Milwaukee , Wisconsin , hvor han døde 5. mai 1903 .",
+        "sentence2": "Han døde i Wisconsin , Milwaukee , hvor han trakk seg tilbake 5. mai 1903 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hattens farge varierer fra brun til brun, ofte med en gul flekk på hetten ved modning.",
+        "sentence2": "Hattens farge varierer fra brun til gul, ofte med en brun flekk på hetten ved modning.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Elven Valea lui Lambă eller `` unk '' imon-elven er en sideelv til elven Lom i Romania.",
+        "sentence2": "Valea lui Lambă-elven eller Șimon-elven er en sideelv til Lom-elven i Romania.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Det ferdige gjerdet ligger hovedsakelig i Texas, med konstruksjonen i New Mexico, Arizona og California.",
+        "sentence2": "Det ferdige gjerdet er hovedsakelig i Texas, med bygging i gang i New Mexico, Arizona og California.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Buccinum pulchellum er en art av sjøsnegl , en marin sneglebløtdyr i Buccinidae-familien , de sanne hornrullene .",
+        "sentence2": "Buccinum pulchellum er en art av sjøsnegl, en ekte gastropod bløtdyr i familien Buccinidae, havsneglen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Den 30. april 1983 styrtet en C-311 tildelt NAS Guantanamo Bay, Cuba, ved NAS Jacksonville med tap av 13 menneskeliv.",
+        "sentence2": "Den 30. april 1983 styrtet en C-311 som ble tildelt NAS Jacksonville, Cuba, ved NAS Guantanamo Bay med tap av 13 liv.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Som en belønning for sin lojalitet til Henry skaffet han seg lukrative landområder og mange kontorer i det sørlige Wales.",
+        "sentence2": "Som en belønning for sin lojalitet til Henry skaffet han seg mange landområder og lukrative kontorer i Sør-Wales.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I 2010 beseiret New York University Harvard University 3-1-1 for å vinne sitt første nasjonale mesterskap.",
+        "sentence2": "I 2010 beseiret New York University Harvard University 3-1-1 for å vinne sitt første nasjonale mesterskap.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Elven Neajlovel er en sideelv til elven Neajlov i Romania .",
+        "sentence2": "Neajlov-elven er en sideelv til Neajlovel-elven i Romania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Byrået har sitt hovedkvarter i Arlington, Virginia, og sitt utenlandske kontor i Paris, Frankrike.",
+        "sentence2": "Byrået har sitt hovedkvarter i Arlington, Virginia, og dets Overseas Operations Office i Paris, Frankrike.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Neajlov-elven er en sideelv til Neajlovel-elven i Romania.",
+        "sentence2": "Elven Neajlovel er en sideelv til elven Neajlov i Romania .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ahmad Yar Khan ble født i Tiwana-familien til Shahpur, sønn av Sahib Khan.",
+        "sentence2": "Sahib Khan ble født i Tiwana-familien til Shahpur, sønn av Ahmad Yar Khan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han ble født i Brooklyn, New York, og døde i Tiburon, California.",
+        "sentence2": "Den ble født i Tiburon, California, og døde i Brooklyn, New York.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Forslag fra Met om å strekke seg fra Paddington til South Kensington og sørover fra Moorgate til Tower Hill i sør ble akseptert og fikk kongelig samtykke 29. juli 1864 .",
+        "sentence2": "Forslag fra Met om å utvide fra Paddington til South Kensington og østover fra Moorgate til Tower Hill i sør ble akseptert og fikk kongelig samtykke 29. juli 1864 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Diktet er bevart i fire fragmentariske manuskripter , hvorav et samtidig .",
+        "sentence2": "Diktet er bevart i fire samtidige manuskripter, hvorav ett er fragmentert:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Webster Groves byråd besto av medlemmer av rådet Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt og Anne Tolan.",
+        "sentence2": "Webster Groves bystyre besto av rådsmedlemmene Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt og Anne Tolan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Derfor indikerer de fallende smelte- og kokepunktene til alkalimetallene at styrken til de metalliske bindingene til alkalimetallene synker nedover i gruppen.",
+        "sentence2": "Derfor indikerer de fallende smelte- og kokepunktene til alkalimetallene at styrken til metallbindingene til alkalimetallene i gruppen avtar.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Scrivener daterer manuskriptet til 1200-tallet, CR Gregory til 1100-tallet, for tiden er manuskriptet datert til 1100-tallet av INTF.",
+        "sentence2": "Scrivener daterte manuskriptet til 1100-tallet, CR Gregory til 1200-tallet. Foreløpig er manuskriptet datert av INTF til 1100-tallet.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "County Road 540 ligger noen mil vest for State Road 540 i Highland City og går sørover fra US 98 til County Road 37B.",
+        "sentence2": "County Road 540 ligger noen mil sør for State Road 540 i Highland City og går vestover fra US 98 til County Road 37B.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "SPB har en konstant høydestørrelse (avstand fra indre plakk til ytre plakk) i ca. 150 nm, men diameteren endres i løpet av cellesyklusen, z.",
+        "sentence2": "SPB har indre høyde størrelse (den ytre plakk til konstant plakk avstand) for ca. 150 nm, men dens diameter endres under cellesyklus, f.eks.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rami Nieminen (født 25. februar 1966) er en finsk tidligere fotballspiller.",
+        "sentence2": "Rami Nieminen (født 25. februar 1966) er en finsk fotballspiller.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han var søskenbarnet til den tsjekkiske landslagsspilleren Miroslav Hlinka og sønn av tidligere spiller Jaroslav Hlinka sr.",
+        "sentence2": "Han var søskenbarnet til den tsjekkiske landslagsspilleren Miroslav Hlinka og sønn av tidligere spiller Jaroslav Hlinka sr.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De var der for å be for oss og de var der for å glede oss.",
+        "sentence2": "De var der for oss for å be og de var der for at vi kunne nyte det.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "William Llewelyn Williams , bedre kjent som Llewelyn Williams ( 10. mars 1867 - 22. april 1922 ) , var en radikal journalist , advokat og walisisk liberal partipolitiker .",
+        "sentence2": "William Williams , kjent som Llewelyn Williams ( 10. mars 1867 -- 22. april 1922 ) , var en walisisk journalist , advokat og radikal liberal partipolitiker .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Giant Plane er det tredje største og eldste treet i Polen og landets tykkeste London-fly.",
+        "sentence2": "Giant Plane er det tredje største og eldste treet i Polen, og det tykkeste London-flyet i landet.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Molmys-elven er en elv i Perm Krai, Russland, en sideelv til Yazva-elven på venstre side.",
+        "sentence2": "Yazva er en elv i Perm Krai , Russland , en venstre sideelv til Molmys - elven .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sarika ber Kabir avslutte planen hans for å avsløre Ranvirs spill.",
+        "sentence2": "Kabir ber Sarika avsløre planen hans for å avslutte Ranvirs spill.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Frem til bruken av elektronisk og digital videoteknologi var masseproduksjonen av pornografiske filmer knyttet direkte til den vanlige filmindustrien.",
+        "sentence2": "Masseproduksjonen av elektroniske og digitale filmer var knyttet direkte til den etablerte filmindustrien frem til pornografisk videoteknologi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mens 33d Fighter Group var inaktiv, ble den konsolidert med 33d Tactical Group som 33d Tactical Fighter Group.",
+        "sentence2": "Mens 33d Tactical Group var inaktiv, ble den konsolidert som 33d Tactical Fighter Group med 33d Fighter Group.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Den betjener den sørøstlige Edithvale-forstaden Melbourne, åpnet 20. september 1919.",
+        "sentence2": "Den betjener den sørøstlige Melbourne-forstaden Edithvale som åpnet 20. september 1919.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Massé ble født i Westchester County, New York, vokste opp i Holland, Michigan, og bodde i Europa i tenårene.",
+        "sentence2": "Massé ble født i Westchester County, New York, vokste opp i Holland, Michigan, og bodde i Europa i tenårene.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fishman har en bachelorgrad fra Columbia University og en mastergrad i økonomi fra Brown University.",
+        "sentence2": "Fishman har en bachelorgrad fra Brown University og en mastergrad i Columbia University Economics.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Etter suksessen ansatt Jane Campion Jones for en TV-miniserie som ble til filmen Angel at my Table, en tilpasning av Janet Frames selvbiografi.",
+        "sentence2": "Etter suksessen hennes var Jane Campion Jones en tilpasning av Janet Frames selvbiografi for en TV-miniserie som ble til filmen Angel at my Table.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stipsits ble født i Wien , og tilbrakte sin barndom i Stammersdorf , Korneuburg .",
+        "sentence2": "Stipsits ble født i Wien og tilbrakte barndommen i Stammersdorf , Korneuburg .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Navarro er en partido nordøst i Buenos Aires-provinsen i Argentina.",
+        "sentence2": "Navarro er en partido nordøst i Argentina i provinsen Buenos Aires.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Oppstrøms ligger den nedlagte Michigan Central Railway Bridge, som sammen med sin forgjenger, Niagara Cantilever Bridge, konkurrerte med Rapids Bridge-boblebadet om jernbanetransport.",
+        "sentence2": "Oppstrøms ligger den nedlagte Michigan Central Railway Bridge , som konkurrerte med sin forgjenger , Rapids Bridge whirlpool , med Niagara Cantilever Bridge for jernbanetrafikk .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sangen ble skrevet og produsert av gallaen, som ble komponert av Filippo Andrea Carmeni og Maurizio Molella.",
+        "sentence2": "Sangen ble skrevet og komponert av Gala produsert av Filippo Andrea Carmeni og Maurizio Molella .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Retzius ble født i Stockholm, sønn av anatomen Anders Jahan Retzius (og barnebarn av naturforskeren og kjemikeren Anders Retzius).",
+        "sentence2": "Retzius ble født i Stockholm, sønn av anatomen Anders Retzius (og barnebarnet til naturforskeren og kjemikeren Anders Jahan Retzius).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ved folketellingen for 2011 var 78,8 % av innbyggerne rumenere , 17 % romer , 2,7 % ungarere og 1,4 % tyskere .",
+        "sentence2": "I folketellingen for 2011 var 78,8 % av innbyggerne rom , 17 % ungarere , 2,7 % rumenere og 1,4 % tyskere .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Museet er sentralt plassert i Jiangbeizui CBD , nær sammenløpet av Jialing - elven og Yangtze - elven .",
+        "sentence2": "Museet er sentralt plassert i Jiangbeizui CBD , nær sammenløpet av Jialing - elven og elven Yangtze .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Robbins ble født i Coventry 21. september 1933 med sin tvilling David, det åttende og niende barnet på tolv av Charles og Jessamine Robbins.",
+        "sentence2": "David ble født 21. september 1933 i Coventry sammen med sin tvillingfar Charles og Jessamine Robbins, det åttende og niende barnet av tolv av Robbins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bataljonen vedlikeholdes av Queen's York Rangers (1st American Regiment) (RCAC).",
+        "sentence2": "Bataljonen foreviges av The Queen's York Rangers (RCAC) (1st American Regiment).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Katz ble født i 1947 i Sverige og flyttet til New York i en alder av ett år.",
+        "sentence2": "Katz ble født i New York City i 1947 og flyttet til Sverige i en alder av 1 år.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bildet på siden er et todimensjonalt bilde i motsetning til forhåndsgjengitt 3D .",
+        "sentence2": "Bildet på siden er et todimensjonalt bilde i motsetning til forhåndsgjengitt 3D .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "\" Stoppet \" lys , i sammenheng med et EIT - medium , refererer til \" kvante \" overføring av fotoner til det koherente systemet og tilbake igjen .",
+        "sentence2": "`` Stoppet '' Lys refererer i sammenheng med et EIT-medium til `` kvante '' overføring av fotoner til det koherente systemet og retur.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Det forrige gjennomsnittet er viktigere for høye verdier av formel _2.",
+        "sentence2": "For høye verdier av Formel 2 er gjeldende gjennomsnitt viktigere.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Blant de fremtredende kvinnene i Surinam er Jennifer Simons, Marijke Djwalapersad, Elisabeth Samson, Cynthia McLeod og Ruth Wijdenbosch.",
+        "sentence2": "Blant de mest fremtredende kvinnene i Surinam er Jennifer Simons , Marijke Djwalapersad , Elisabeth Samson , Cynthia McLeod og Ruth Wijdenbosch .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I 1924 var han invitert talsmann for ICM i Toronto , i Oslo i 1932 og i 1936 i Zürich .",
+        "sentence2": "I 1924 var han invitert talsperson for ICM i Toronto , i 1932 i Zürich og i Oslo i 1936 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "BBC World Service sendte også en versjon kalt `` Animal , Vegetable and Mineral '' , ledet av Michael Flanders med et panel inkludert Terry Wogan .",
+        "sentence2": "BBC World Service stilte også ut en versjon kalt `` Animal , Vegetable and Mineral '' , ledet av Michael Flanders , med et panel med Terry Wogan .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Thompsons yngre bror, Julia, ble født i 1863 i Charles Martin Hall, Geauga County, Ohio.",
+        "sentence2": "Julias yngre bror, Charles Martin Hall, ble født i Thompson, Geauga County, Ohio, i 1863.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Horezu-elven er en sideelv til Ponoru-elven i Romania.",
+        "sentence2": "Ponoru-elven er en sideelv til Horezu i Romania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I 2002 ble sangen utgitt av den britiske produsenten Vincent Stormfield og dekket av Independiente som '' Sweet Harmony 02 ''.",
+        "sentence2": "I 2002 ble sangen dekket av den britiske produsenten Vincent Stormfield og gitt ut som `` Sweet Harmony '02'' av Independiente.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "David ble født 21. september 1933 i Coventry sammen med sin tvillingfar Charles og Jessamine Robbins, det åttende og niende barnet av tolv av Robbins.",
+        "sentence2": "Robbins ble født 21. september 1933 i Coventry, med sin tvilling David, det åttende og niende barnet av de tolv av Charles og Jessamine Robbins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Regimentet forlot Boston i oktober 1777 for å slutte seg til general George Washingtons hovedhær utenfor Philadelphia .",
+        "sentence2": "Regimet forlot Philadelphia i oktober 1777 for å slutte seg til general George Washingtons hovedhær utenfor Boston .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sammensetningen ble utviklet av Dr. Patrick Page og teamet hans og ble patentert av Genkyotex i 2007.",
+        "sentence2": "Forbindelsen ble patentert av Dr. Patrick Page og teamet hans og ble oppfunnet av Genkyotex i 2007.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` saken '' ble brukt for siste gang i 1949 i Øst-Tyskland, 1966 i Vest-Tyskland.",
+        "sentence2": "`` Fallbeil '' ble sist brukt i Vest-Tyskland i 1949, i 1966 i Øst-Tyskland.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ringo Sheena er leder for Saito Neko Quartet , og er kjent for sine mange samarbeid med musikeren Saito .",
+        "sentence2": "Saito er leder for Saito Neko Quartet og er kjent for sine mange samarbeid med musikeren Ringo Sheena .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abu Halifa eller Abu Hulayfah eller Abu Huleifa eller Abu Haleifah er en liten by i Abu Halifa-distriktet i Al Ahmadi-guvernøren i det sørlige Kuwait.",
+        "sentence2": "Abu Halifa eller Abu Hulayfah eller Abu Huleifa eller Abu Haleifah er en liten by i Kuwait i Al Ahmadi-guvernementet i det sørlige Abu Halifa-distriktet.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Faren hans var den uekte sønnen til Anne Tothby, et parlamentsmedlem for Lincolnshire, og William Skipwith.",
+        "sentence2": "Faren hans var den uekte sønnen til Anne Tothby, et medlem av Lincolnshire-parlamentet, og William Skipwith.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Blant dem er Marie Teresa Rios, en komponist av boleroer, Julita Ross, en forfatter, og Sylvia Rexach, en sanger.",
+        "sentence2": "Blant dem er Sylvia Rexach , en komponist av Boleros , Marie Teresa Rios , forfatter , og Julita Ross , en sanger .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han ble overlevd av sin kone Carol Ober, datteren Viola og fire barnebarn.",
+        "sentence2": "Han ble overlevd av sin kone Carol Ober, datteren Viola og fire barnebarn.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han ville returnere til stasjonen vest for Tecumseh den kvelden, og deretter ri med en annen hest til Violet Springs før naboene hans kunne bli mistenksomme.",
+        "sentence2": "Han ville reise til stasjonen den kvelden, som ligger vest for Tecumseh, og deretter returnere til Violet Springs med en annen hest før naboene hans kunne bli mistenksomme.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Byrået har sitt hovedkvarter i Paris, Frankrike, og sitt oversjøiske kontor-Operasjonskontor i Arlington, Virginia.",
+        "sentence2": "Byrået har sitt hovedkvarter i Arlington, Virginia, og dets Overseas Operations Office i Paris, Frankrike.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I 1964 ble bispedømmet nominelt gjenopprettet som en titulær borger av laveste (bispelige) rang.",
+        "sentence2": "I 1964 ble bispedømmet nominelt gjenopprettet som bispestol av laveste ( titulær ) rang .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hans påfølgende arbeid i landbruket var hovedsakelig i Lincolnshire, men han foreslo også omfattende voller i Norfolk, som ble utført med hell.",
+        "sentence2": "Hans fremtidige arbeid i landbruket var hovedsakelig i Norfolk, men han foreslo også omfattende voller i Lincolnshire, som ble utført med hell.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Da Jack Nitzsche første gang hørte \"Stubborn Kind of Fellow\" var han så begeistret at han mistet kontrollen over bilen sin mens han kjørte nedover Sunset Boulevard med Phil Spector.",
+        "sentence2": "Da Phil Spector hørte `` Stubborn Kind of Fellow '' for første gang, ble han så begeistret at han mistet kontrollen over bilen sin mens han kjørte nedover Sunset Boulevard med Jack Nitzsche.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kommunistene trodde bestemt at Central Intelligence Agency støttet disse protestene diskret økonomisk og på annen måte.",
+        "sentence2": "Kommunistene mente diskret at Central Intelligence Agency økonomisk og ellers støttet disse protestene sterkt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Arten er medlemmer av ulike økologiske grupper, inkludert xerofytiske busker, lianer og trær, tropiske planter, mykoheterotrofi, samt ulike urterepresentanter.",
+        "sentence2": "Arten er medlemmer av forskjellige økologiske grupper, inkludert tropiske busker, lianer og trær, xerofytiske planter, mykoheterotrofiske så vel som forskjellige urterepresentanter.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Khanen rykket ut med en eskorte, Tsitsianov red sammen med to andre menn og ble skutt og drept.",
+        "sentence2": "Khanen avanserte med en eskorte, Tsitsianov red sammen med to andre menn og ble skutt og drept.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sculcoates har et bibliotek, et postkontor, et svømmebad kalt Beverley Road Baths, en videregående skole og to barneskoler.",
+        "sentence2": "Sculcoates har et bibliotek, postkontor, et svømmebasseng kalt Beverley Road Baths, en videregående skole og to barneskoler.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han ble født i Melbourne og migrerte til New Zealand med familien da han var 10 år gammel.",
+        "sentence2": "Han ble født i New Zealand, og migrerte med familien til Melbourne da han var 10.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I historien til slike enheter gikk den foran `` tyrkeren '' og etterfulgte `` Mephisto ''.",
+        "sentence2": "I historien til slike enheter \"har tyrkeren\" lyktes og \"Mephisto\" gikk foran.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Agranat ble født i Louisville, Kentucky, i 1906, til en jødisk-sionistisk familie.",
+        "sentence2": "Agranat ble født i en sionistisk-jødisk familie i Louisville, Kentucky i 1906.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Massé ble født i Westchester County, New York, vokste opp i Holland, Michigan, og bodde i Europa i tenårene.",
+        "sentence2": "Massé ble født i Holland, Michigan, vokste opp i Westchester County, New York, og bodde i Europa i tenårene.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Disse tre morsdynastiene styrte kongeriket Waalo med farsfamilien til Mbooj .",
+        "sentence2": "Disse tre morsdynastiene styrte kongeriket Waalo sammen med Mboojs farsfamilie.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "BAC presenterer tre årlige forestillinger av Minnesota Orchestra og har nylig bestilt verk av Diavolo og Merce Cunningham Dance Company.",
+        "sentence2": "BAC har tre årlige forestillinger av Minnesota Orchestra og presenterer nylig bestillingsverk av Diavolo og Merce Cunningham Dance Company.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Monroe Meadows, i Yosemite-dalen nær Bridalveil Falls, er også oppkalt etter George Monroe.",
+        "sentence2": "Monroe Meadows, i Bridalveil-saken nær Yosemite Valley, er også oppkalt etter George Monroe.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Andesitt var den dominerende lavatypen med noen prøver mafisk nok til å bli klassifisert som basaltisk andesitt.",
+        "sentence2": "Andesitt var den dominerende lavatypen med noen prøver som var nok til å bli klassifisert som basaltisk andesitt .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tidlig i 2016 ble senator Bob Hackett utnevnt til Senatet i Ohio for å etterfølge senator Chris Widener , som trakk seg .",
+        "sentence2": "Tidlig i 2016 ble senator Chris Widener utnevnt til senatet i Ohio for å etterfølge senator Bob Hackett , som trakk seg .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I praksis er mesquite `` moduler '' Java-klasser, vanligvis abstrakte underklasser av konkrete klassedefinisjoner.",
+        "sentence2": "I praksis er Mesquite `` moduler '' Java-klasser vanligvis konkrete underklasser av abstrakte klassedefinisjoner.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Paven foreslo en løsning i 1980 som ble avvist av Chile og godkjent av Argentina.",
+        "sentence2": "Paven foreslo en løsning akseptert av Chile i 1980 og avvist av Argentina.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "På 1930- og 1940-tallet ble han valgt fire ganger for Al Smith i 1928 for Franklin D. Roosevelt og for Harry S. Truman i 1948.",
+        "sentence2": "Massachusetts stemte på Al Smith i 1928, på Franklin D. Roosevelt fire ganger på 1930- og 1940-tallet, og på Harry S. Truman i 1948.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Musikken som fremføres mens Bob frier til `` Blackadder '' er Vaughan Williams '` Fantasia on Greensleeves ''.",
+        "sentence2": "Musikken som fremføres som Blackadder courts '' Bob `` er '' Fantasia on greensleeves '' av Vaughan Williams.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Det er også verdt å merke seg at følgende kode ville fungere uten ADL (den vil uansett bli brukt på den).",
+        "sentence2": "Det er også verdt å merke seg at følgende kode ville fungere uten ADL (den vil uansett bli brukt på den).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Den møter deretter Snoqualmie-elven for å danne Snohomish-elven ved Monroe.",
+        "sentence2": "Den møter deretter Snoqualmie-elven for å danne Snohomish-elven i Monroe.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Under kampanjen debatterte han McCain to ganger, en gang i Tucson og en gang i Flagstaff.",
+        "sentence2": "Under kampanjen debatterte han McCain to ganger, en gang i Flagstaff og en gang i Tucson.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Den ble ferdigstilt av hans kone, Stella Gemmell, etter hans død 28. juli 2006 og utgitt under felles forfatterskap av David og Stella Gemmell.",
+        "sentence2": "Den ble utgitt av hans kone Stella Gemmell etter hans død 28. juli 2006 og ble fullført under felles forfatterskap av David og Stella Gemmell.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "The Central Baptist Association er en sammenslutning av kirker fra South Carolina til Indiana, med flest kirker i østlige Tennessee og sørvestlige Virginia.",
+        "sentence2": "The Central Baptist Association er en sammenslutning av kirker lokalisert fra South Carolina til Virginia, med de fleste av kirkene i østlige Tennessee og sørvestlige Indiana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Karen Phillips innledet et forhold med Steve av Suranne Jones spilte.",
+        "sentence2": "Steve innledet et forhold med Karen Phillips spilt av Suranne Jones.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "vidas distintas er en meksikansk telenovela fra 1969 overført av Televisa og opprinnelig produsert av Telesistema Mexicano.",
+        "sentence2": "Tres vidas distintas , er en meksikansk telenovela fra 1969 overført av Televisa og opprinnelig produsert av Telesistema Mexicano .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Chandler betraktet datamaskinen som et verktøy for læring, men han avviste en rådende objektivisme som anerkjente data som informasjon og informasjon som kunnskap.",
+        "sentence2": "Chandler anerkjente datamaskinen som et verktøy for læring, men han avviste en rådende objektivisme, som så på data som informasjon og informasjon som kunnskap.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En faseovergang fra en ferromagnet til en paramagnet er andre og er av kontinuerlig rekkefølge.",
+        "sentence2": "Faseovergang fra en ferromagnet til en paramagnet er kontinuerlig og har en andre orden.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Albanske familier forlot landsbyen før de serbiske flyktningene returnerte i 1999.",
+        "sentence2": "Før serbiske flyktninger returnerte i 1999, forlot albanske familier landsbyen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Originalversjonen ble imidlertid hoppet over til fordel for den milde utgaven .",
+        "sentence2": "Den milde versjonen ble imidlertid hoppet over til fordel for originalversjonen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I 1864 sendte United Presbyterian Missionary Society of Scotland sine agenter til Kina.",
+        "sentence2": "United Presbyterian Missionary Society of China sendte sine agenter til Skottland i 1864.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Etter ti års opphold i Paris vendte Houdon tilbake til Italia.",
+        "sentence2": "Etter ti år i Paris vendte Houdon tilbake til Italia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hun ble senket av tyskerne og skrotet av allierte bombefly to ganger i 1943–1944 og til slutt reist opp i 1946–1947.",
+        "sentence2": "Den ble reist av tyskerne i 1943 -- 1944 og senket to ganger av allierte bombefly og til slutt skrotet i 1946 -- i 1947 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I 1864 sendte United Presbyterian Missionary Society of China sine agenter til Skottland .",
+        "sentence2": "United Presbyterian Missionary Society of China sendte sine agenter til Skottland i 1864.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Filmen har Lily Rabe , Timothée Chalamet , Lili Reinhart , Anthony Quintal , Oscar Nunez og Rob Huebel i hovedrollene .",
+        "sentence2": "Stjernene Lilie Rabe , Timothée Chalamet , Lili Reinhart , Anthony Quintal , Oscar Nunez og Rob Huebel .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dakota City er en del av storbyregionen Sioux City , IA -- NE -- SD .",
+        "sentence2": "Dakota City er en del av Sioux City , IA -- NE -- SD Metropolitan Statistical Area .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Grant Connell og Glenn Michibata vant tittelen og beseiret Wayne Ferreira og Jim Grabb 6:4, 6:3 i finalen.",
+        "sentence2": "Wayne Ferreira og Jim Grabb vant tittelen og beseiret Grant Connell og Glenn Michibata 6 -- 4 , 6 -- 3 i finalen .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Parlamentsvalget i Zagreb i 1927 ble holdt 4. september 7 dager før lokalvalget .",
+        "sentence2": "Parlamentsvalget i Zagreb i 1927 ble holdt 4. september, 7 dager før lokalvalget.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum er en art av sjøsnegl, en ekte gastropod bløtdyr i familien Buccinidae, havsneglen.",
+        "sentence2": "Probuccinum tenerum er en art av sjøsnegl, en ekte gastropod bløtdyr i Buccinidae-familien, havsneglen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Valea lui Lambă-elven eller Lom-elven er en sideelv til elven Șimon i Romania.",
+        "sentence2": "Elven Valea lui Lambă eller Lom-elven er en sideelv til `` unk '' imon-elven i Romania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Denne slekten er nå klassifisert i familien av øgler, kjent som Iguanidae, underfamilien Polychrotinae, og er ikke lenger klassifisert i den nåværende ugyldige familien, polychrotidae.",
+        "sentence2": "Denne slekten er nå i familien av øgler kjent som Iguanidae, underfamilien Polychrotinae, og er ikke lenger klassifisert i den for tiden ugyldige familien, Polychrotidae.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I 2012 snudde byen og ble vunnet av den sittende demokraten Barack Obama , som tok 51 % av stemmene til republikaneren Mitt Romney på 48 % .",
+        "sentence2": "I 2012 snudde bydelen og ble vunnet av den sittende demokraten Barack Obama , som tok 51 % av stemmene til republikaneren Mitt Romneys 48 % .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Med henne har jeg vært i stand til å oppfylle noen av mine musikalske drømmer med tidlige stiler, og denne nye stilen er virkelig stor, frisk og naturlig flytende.",
+        "sentence2": "Med henne har jeg vært i stand til å oppfylle noen av mine tidlige drømmer med musikalske stiler, og denne nye stilen er virkelig stor, frisk og naturlig flytende.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Grady Howard ble valgt til første ordfører på denne datoen, og ble offisielt utnevnt til midlertidig ordfører i Spring Lake 5. juni 1951.",
+        "sentence2": "Grady Howard ble valgt til den første ordføreren på denne datoen og offisielt utnevnt til ordfører i Spring Lake 5. juni 1951 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ballouhey eksisterer hovedsakelig i Isère i Paris samt i Frankrike og Sør-Afrika.",
+        "sentence2": "Ballouhey eksisterer hovedsakelig i Frankrike i Isère og i Paris, samt i Sør-Afrika.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Den blir høy med lang vegg og kapasitet .",
+        "sentence2": "Den blir høy , med lang vegg og kapasitet .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Utdanning i Alabama består av ungdomsskoler og grunnskoler i Alabama, inkludert University of Alabama, private høyskoler og offentlige og private skoler.",
+        "sentence2": "Utdanning i Alabama består av offentlige og private skoler i Alabama, inkludert University of Alabama, private universiteter og ungdomsskoler og grunnskoler.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Serien debuterte 18. april 2009 i Australia på Nickelodeon (New Zealand og New Zealand).",
+        "sentence2": "18. april 2009 debuterte serien i New Zealand på Nickelodeon ( Australia og New Zealand ) .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Den ble regissert av George Fitzmaurice og er basert på et skuespill fra 1917 , \" Tiger Rose \" , av Willard Mack .",
+        "sentence2": "Regissert av George Fitzmaurice, er den basert på et skuespill \"Tiger Rose\" fra 1917 av Willard Mack.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Versjonen av Mahabharata skrevet av Odia-poeten Sarala Dasa forteller legenden om Navagunjara, ingen andre har historien.",
+        "sentence2": "Versjonen av Mahabharata, skrevet av Odia-poeten Sarala Dasa, har legenden om Navagunjara. Ingen annen versjon forteller historien.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam (15. oktober 1929 – 29. juli 2012) var en indisk danser og en guru av danseformen Kuchipudi.",
+        "sentence2": "Vempati Chinna Satyam (15. oktober 1929 - 29. juli 2012) var en indisk danser og guru av danseformen Kuchipudi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lee Hi er en sørkoreansk sanger under YG Entertainment.",
+        "sentence2": "Den koreanske sangeren Lee Hi er en sørkoreansk sanger under YG Entertainment.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Varianter av denne metoden gir gode numeriske tilnærminger for de mange eksponentene når kritiske termer er inkludert, både i to og tre dimensjoner.",
+        "sentence2": "Varianter av denne prosedyren gir gode numeriske tilnærminger for de kritiske eksponentene når mange termer er inkludert i både to og tre dimensjoner.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lokket ble bare fjernet av privilegerte seere, så disse scenene kan ha vært mer intime.",
+        "sentence2": "Lokket ble fjernet kun av privilegerte seere, så disse scenene kan ha vært mer intime.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Det betjener Chandimandir Cantonment-området i Panchkula by.",
+        "sentence2": "Den betjener Panchkula-området i byen Chandimandir Cantonment.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School var en selektiv grammatikkskole for jenter i Slough , Buckinghamshire , nå Berkshire .",
+        "sentence2": "Slough High School var en selektiv jenteskole i Slough , Buckinghamshire , nå Berkshire .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eugene D. Engley ble født 5. april 1851 i Attleborough, Massachusetts, som sønn av James Henry Engley og hans kone, tidligere Mary Kaley.",
+        "sentence2": "James Henry Engley ble født 5. april 1851 i Attleborough, Massachusetts, sønn av Eugene D. Engley og hans kone, tidligere Mary Kaley.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Maritsa Lazari ble født på Kypros i oktober 1943 og emigrerte med familien i en alder av 16 til London, England.",
+        "sentence2": "Maritsa Lazari ble født i London i oktober 1943 og har emigrert til Kypros med familien i en alder av 16 år.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Den 5. mars 2011 la MTV Hive ut en streaminglink til Anni Rossi som fremførte Rihannas `` Rude Boy ''.",
+        "sentence2": "Den 5. mars 2011 la MTV Hive ut en streaminglink til Rihanna, og fremførte Anni Rossi `` Rude Boy''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Machpelah Cemetery , også stavet som '' Macpelah Cemetery `` eller '' Macphelah Cemetery ``, er en kirkegård i Hudson County, New Jersey.",
+        "sentence2": "Machpelah Cemetery, også stavet som `` Macpelah Cemetery'', eller `` Macphelah Cemetery'', er en kirkegård i Hudson County, New Jersey.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sangen ble skrevet og komponert av Gala av Filippo Andrea Carmeni og Maurizio Molella produsert.",
+        "sentence2": "Sangen ble skrevet og produsert av gallaen, som ble komponert av Filippo Andrea Carmeni og Maurizio Molella.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I følge Prior var Robert Goldsmith, bestefaren til poeten, dramatikeren og romanforfatteren Oliver Goldsmith, den første av familien som slo seg ned på Ballyoughter.",
+        "sentence2": "I følge Robert Prior var Robert Goldsmith bestefaren til poeten, dramatikeren og forfatteren Oliver Goldsmith, den første i familien som slo seg ned med Ballyoughter.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Å utelate motorene og drivstoffet deres vil redusere kompleksiteten og øke nyttelasten.",
+        "sentence2": "Å utelate motorene og drivstoffet deres vil øke kompleksiteten og redusere nyttelasten.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Grunnen til at han bar maske var ifølge Tobe og Gunnar Hansen at masken virkelig bestemte personligheten hans .",
+        "sentence2": "Gunnar Hansen kommenterte: `` Grunnen til at han bar en maske, ifølge Tobe og Kim, var at masken virkelig bestemte personligheten hans.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Det private Claiborne Academy ligger i Haynesville, nær Parish Claiborne.",
+        "sentence2": "Det private Claiborne Academy ligger i Claiborne Parish, ikke i nærheten av Haynesville.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "NVIDIA TITAN V ble offisielt annonsert av Nvidia 7. desember 2017.",
+        "sentence2": "Den 7. desember 2017 kunngjorde NVIDIA offisielt Nvidia TITAN V .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han tok medisinsk opplæring ved Middlesex Hospital i London, og kvalifiserte seg som klinisk lege i 1943.",
+        "sentence2": "Han tok klinisk opplæring ved Middlesex Hospital i London og kvalifiserte seg som lege i 1943.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han opptrådte som glassmaker og jobbet med mange forskjellige band på forskjellige musikkinstrumenter.",
+        "sentence2": "Han jobbet som glassmaker og opptrådte på forskjellige musikkinstrumenter med mange forskjellige band.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Komponenter i mekaniske systemer lagrer elastisk potensiell energi hvis de deformeres på systemet når det påføres krefter.",
+        "sentence2": "Komponenter i mekaniske systemer lagrer elastisk potensiell energi hvis de deformeres når krefter påføres systemet.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "William Llewelyn Williams kjent som Llewelyn Williams (10. mars 1867 – 22. april 1922), var en walisisk journalist, advokat og radikal liberalistisk politiker.",
+        "sentence2": "William Williams , kjent som Llewelyn Williams ( 10. mars 1867 - 22. april 1922 ) , var en walisisk journalist , advokat og radikal liberal partipolitiker .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Blagoy Ivanov utfordret Mehmen til WSOF Heavyweight Championship 17. oktober 2015.",
+        "sentence2": "Blagoy Ivanov utfordret Mehmen til WSOF Heavyweight Championship 17. oktober 2015 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Det ble etablert av Richard Creed, bygget av George Edwards, designet av Collins og Geoffrey fra Monmouth.",
+        "sentence2": "Den ble designet av Richard Creed, bygget av Collins og Geoffrey og utstyrt av George Edwards fra Monmouth.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sacramento ligger i ( 38.651254 , -121.259279 ) , mellom Fair Oaks og Folsom .",
+        "sentence2": "Fair Oaks ligger mellom Sacramento og Folsom ( 38.651254 , -121.259279 ) .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "\" Astrud \" - sporet på Gilbertos album fra 1987 , \" Time and Tide \" , er en hyllest til Basia Trzetrzelewska .",
+        "sentence2": "\"Astrud\"-sporet på Basia Trzetrzelewskas album \"Time and Tide\" fra 1987 er en hyllest til Gilberto.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Clark hadde en sønn, Rishi, født 3. april 2007. En Socks and Sandals EP på Microcosm Music ble oppkalt etter ham, Rishi Saturn.",
+        "sentence2": "Rishi hadde en sønn, Clark, født 3. april 2007. En Socks and Sandals EP på Microcosm Music ble oppkalt etter ham, Rishi Saturn.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Melodie Crittenden forlot gruppen i 2004 for å satse på en solokarriere, og i det meste av 2005 sang Nicol med gruppen.",
+        "sentence2": "Melodie Crittenden forlot gruppen i 2004 for å se en solokarriere, og i det meste av 2005 sang Nicol med gruppen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I semi-profesjonell fotball konkurrerer skotske lag på alle nivåer under Scottish Premier League, med de fleste lagene under Scottish Championship som semi-profesjonelle.",
+        "sentence2": "I skotsk fotball vises de semiprofesjonelle lagene på alle nivåer under det skotske premierskapet, med de fleste lagene under det skotske mesterskapet som semiprofesjonelle.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Diboll og Owen fra New Orleans var arkitektene og GA Chamblin fra Mobile var entreprenøren.",
+        "sentence2": "Arkitektene var Diboll og Owen fra New Orleans og entreprenøren var GA. Chamblin of Mobile .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ved malign hypertensjon er disse hyperplastiske forandringene ofte ledsaget av arteriell nekrose av fibrinoid intima og media.",
+        "sentence2": "Ved malign hypertensjon er disse hyperplastiske forandringene ofte ledsaget av en fibrinoid nekrose av arteriell intima og media.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Laget turnerte i Australia i 1953 og Asia i august 1959.",
+        "sentence2": "I 1953 turnerte laget i Asia og i Australia i august 1959 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Denne filmen handler om Rafael, en malayalam-sanger i den nye filmindustrien.",
+        "sentence2": "Filmen handler om Rafael, en ny sanger i malayalams filmindustri.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I 1864 sendte United Presbyterian Missionary Society of China sine representanter til Skottland .",
+        "sentence2": "United Presbyterian Missionary Society of China sendte sine agenter til Skottland i 1864.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Den innledende vektorromformelen _ 13 kalles `` initialobjekt '' eller `` topologisk struktur '' med hensyn til de gitte dataene.",
+        "sentence2": "Det innledende vektorrommet Formel 13 kalles et initialobjekt `` eller '' topologisk struktur med hensyn til de gitte dataene.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Disse tre morsdynastiene styrte kongeriket Waalo med farsfamilien til Mbooj .",
+        "sentence2": "Disse tre faderlige dynastiene styrte kongeriket Waalo med morsfamilien Mbooj.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Filmen spiller Jembie Almazan som Alex, Bernardo Garnica Cruz som David og Jonathan Diaz Angulo som Maria.",
+        "sentence2": "Filmen har Jembie Almazan som Mary, Bernardo Garnica Cruz som David og Jonathan Diaz Angulo som Alex.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mens utelukkelse av svarte spillere ikke var en skriftlig regel, hadde ingen afroamerikanere spilt i National Football League siden 1933.",
+        "sentence2": "Mens utelukkelse av svarte spillere ikke var en skriftlig regel, hadde ingen afroamerikaner spilt i National Football League siden 1933.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dale har vært gift med Patricia Meyer siden 1984 og sammen har de to sønner: Ryan (født 1988) og Blake (født 1992).",
+        "sentence2": "Siden 1984 har Blake vært gift med Patricia Meyer og har to sønner: Ryan (født 1988) og Dale (født 1992).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Da Platzer åpnet sin andre restaurant i Allentown i 1993, endret han navnet til PJ Whelihan's for å hedre sin bestefar, Peter Joseph Whelihan.",
+        "sentence2": "I 1993 , da Platzer åpnet sin andre restaurant i Allentown , endret han navnet til PJ Whelihan for å hedre sin bestefar Peter Joseph Whelihan .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Under oppdraget ble 65 soldater drept: 34 nigerianere, 28 tsjadiere, 2 togolesere og 1 burkinabé.",
+        "sentence2": "Under oppdraget ble 65 soldater drept: 34 tsjadiere, 28 nigerianere, 2 togolesere og 1 burkinabé.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I desember 1969 ble 49. armé-divisjon 29. armé-divisjon.",
+        "sentence2": "I desember 1969 ble 29. armé-divisjon 49. armé-divisjon.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Scapes er stort sett fraværende eller svært korte.",
+        "sentence2": "Scapes er svært korte eller er stort sett fraværende.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hun ble observert som '' har veldig stort potensial og et stort talent, og vil vokse i fremtiden til en unik musikalsk personlighet.",
+        "sentence2": "Hun ble observert som `` har et veldig stort potensial og et stort talent, og vil vokse til en unik musikalsk personlighet i fremtiden. ''",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I januar 2013 ble det kunngjort at Warren Spector Disney Interactive hadde sluttet etter nedleggelsen av Junction Point Studios .",
+        "sentence2": "I januar 2013 ble det kunngjort at Warren Spector hadde forlatt Junction Point Studios etter nedleggelsen av Disney Interactive .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lufttransport tilbys lokalt av mindre fly i New Bedford, Berkley, og den regionale flyplassen i East Taunton.",
+        "sentence2": "Lufttransport tilbys lokalt gjennom mindre fly i East Taunton, Berkley, og den regionale flyplassen i New Bedford.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Når vi bruker en alternerende tureringsmaskin, har vi ATIME-ressursen.",
+        "sentence2": "Hvis vi har en alternerende Turing-maskin, bruker vi ressursen ATIME.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han avsluttet to slag bak Bubba Watson og Louis Oosthuizen og beklaget puttingen hans som årsaken til at han ikke vant turneringen.",
+        "sentence2": "Han endte to slag bak Louis Oosthuizen og Bubba Watson og beklaget puttingen hans som grunnen til at han ikke vant turneringen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tidligere vertsbyer for Sirius Decisions Summit inkluderer Orlando (2014), Scottsdale (2013) og San Diego (2012).",
+        "sentence2": "De tidligere vertsbyene for SiriusDecisions Summit inkluderer Orlando (2014), San Diego (2013) og Scottsdale (2012).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Belysningen i Louvre-maleriet er varmere og virker mykere, men dette kan være et resultat av lyden av lakken på overflaten.",
+        "sentence2": "Belysningen i Louvre-maleriet er varmere og virker mykere, men dette kan være et resultat av lakkens tone på overflaten.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Molmys-elven er en elv i Perm Krai, Russland, en venstre sideelv til Yazva-elven.",
+        "sentence2": "Yazva er en elv i Perm Krai , Russland , en venstre sideelv til Molmys - elven .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Den 1. august 1699 overleverte William Blackett sine landområder i Chirton til Sir Archibald Campbell , som solgte Bickerstaffe , 1. hertug av Argyll Hall .",
+        "sentence2": "Den 1. august 1699 overga William Blackett sine landområder i Chirton til Sir Archibald Campbell , som solgte salen til Bickerstaffe , 1. hertug av Argyll .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Big Band Specials er et album fra 1962 av Bob Cooper , med spor arrangert av Bill Holman , Shorty Rogers og ektemannen June Christy .",
+        "sentence2": "Big Band Specials er et album fra 1962 av Bob Cooper , med spor av Bill Holman , Shorty Rogers og ektemannen June Christy arrangert .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I tillegg til ulike metallplater ble det i noen tilfeller brukt betong og sandsekker til improviserte tanker.",
+        "sentence2": "I tillegg til improviserte pansrede metallplater ble betong og sandsekker i enkelte tilfeller brukt til ulike tog.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Barbara Boothe Ellison ble født i Santa Clara County, California, datter av milliardæren Oracle Corporations styreleder Larry Ellison og hans ekskone, Megan Ellison.",
+        "sentence2": "Megan Ellison ble født i Santa Clara County, California som datter av milliardæren Oracle Corporation - styreformann Larry Ellison og hans ekskone Barbara Boothe Ellison.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Guillermo Coria beseiret Alberto Martín 6 -- 3 , 3 -- 6 , 6 -- 2",
+        "sentence2": "6 Alberto Martín beseiret Guillermo Coria 6 -- 3 , 3 -- 6 , 6 -- 2",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Red Bulls tapte, men kom til 1. runde av sluttspillet.",
+        "sentence2": "Red Bulls tapte, men kom til 1. sluttspillrunde.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "12. januar 1978 : Cambridge United - manager Ron Atkinson blir utnevnt til manager for West Bromwich Albion .",
+        "sentence2": "12. januar 1978 : Cambridge United - manager Ron Atkinson blir utnevnt til manager for West Bromwich Albion .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I 1979 hadde han sitt beste år på turné, og gjorde en kvartfinale i Atlanta, Johannesburg og Tel Aviv.",
+        "sentence2": "I 1979 hadde han sitt beste år på turné, en kvartfinale i Tel Aviv, Johannesburg og Atlanta.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Den neste versjonen ble laget av Robert Fullers bror Ron i 1986.",
+        "sentence2": "Den neste utgivelsen ble laget i 1986 av Robert Fullers bror Ron.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Templet fungerer som et kulturelt og religiøst senter for koreanske hinduer og innvandrere fra de sørasiatiske landene.",
+        "sentence2": "Templet fungerer som det kulturelle og religiøse senteret for sørasiatiske hinduer og innvandrere fra koreanske land.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Klubbhuset ble bygget av Curtis , for den daværende summen av $ 60 000 , og leide det for en stor kostnad til klubben .",
+        "sentence2": "Klubbhuset ble bygget av Curtis, for den daværende nominelle sum av $60 000, og leide det til klubben for en stor avgift.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mitsuhisa Ishikawa og Tomohiko Ishii fra Production IG, Danny Choo, Kaname og Tasha med Miyuko fra Korea var spesielle gjester for arrangementet.",
+        "sentence2": "Tasha fra produksjon IG , Danny Choo , Kaname , Mitsuhisa Ishikawa og Tomohiko Ishii med Miyuko fra Korea var spesielle gjester for arrangementet .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam (15. oktober 1929 - 29. juli 2012) var en indisk danser og guru av danseformen Kuchipudi.",
+        "sentence2": "Vempati Chinna Satyam (15. oktober 1929 – 29. juli 2012) var en Kuchipudi-danser og en guru innen indisk dans.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Denne hendelsen ble senere feiret og blir nå minnet i Egypt den 25. januar hvert år som nasjonal politidag.",
+        "sentence2": "Denne hendelsen ble senere feiret og blir nå markert i Egypt som den nasjonale politidagen 25. januar hvert år.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Udaipur er en by i den indiske delstaten Madhya Pradesh nær Ganj Basoda.",
+        "sentence2": "Ganj Basoda er en by i den indiske delstaten Madhya Pradesh nær Udaipur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han ble deretter erstattet av Heraclius , en første fetter av Nicetas , og ble tvunget til å avlegge klosterløfter .",
+        "sentence2": "Han ble deretter erstattet av Nicetas, en første fetter av Heraclius, og tvunget til å avlegge klosterløfter.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Beskriv først områdene med høye pollenverdier i stedet for områdene med lav pollen.",
+        "sentence2": "Beskriv først områdene med lav pollenverdi i stedet for områdene med høy pollen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Så langt har Zinovjevs verk blitt fremført av det finske radiosymfoniorkesteret , Lahtis symfoniorkester , Kymi Sinfonietta , Oulu symfoniorkester og Avanti !",
+        "sentence2": "Så langt har Zinovjevs verk blitt fremført av Uleåborgs symfoniorkester, Lahti symfoniorkester, Kymi Sinfonietta, Finlands Radios symfoniorkester og Avanti!",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Den ble designet av Richard Creed, bygget av Collins og Geoffrey og utstyrt av George Edwards fra Monmouth.",
+        "sentence2": "Det ble møblert av Richard Creed, bygget av George Edwards og designet av Collins og Geoffrey fra Monmouth.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "McCall og Lesiuk forlot bandet sommeren 2007, mens McCall ble erstattet av Steven Tosh på trommer og Jamie Macleod tok over bassoppgavene.",
+        "sentence2": "McCall og Lesiuk forlot bandet sommeren 2007. McCall ble erstattet av Steven Tosh på trommer og Jamie Macleod tok over bassoppgavene.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I 1886 erstattet Miles general George Crook som sjef for de væpnede styrkene som kjempet mot Geronimo , en Chiricahua Apache - leder , i departementet Arizona .",
+        "sentence2": "I 1886 erstattet Miles general George Crook som sjef for styrker som kjempet mot Geronimo , en Chiricahua Apache - leder , i departementet Arizona .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Barshi, er en jorddemning ved den lokale elven nær Patharidammen, Solapur-distriktet i delstaten Maharashtra i India.",
+        "sentence2": "Pathari Dam, er en jordfyllingsdam ved lokal elv nær Barshi, Solapur-distriktet i delstaten Maharashtra i India.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han giftet seg med Mary , datteren til Brooke fra Selston , Nottingham , og ble etterfulgt av sin eldste sønn , Richard .",
+        "sentence2": "Brooke giftet seg med Mary, datteren til Timothy Pusey fra Selston, Nottingham. Han ble etterfulgt av sin eldste sønn, Richard.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Luk eller Loke er den kinesiske romaniseringen av flere (men ikke alle) kantonesiske etternavn som er romanisert som Lu på mandarin.",
+        "sentence2": "Luk eller Loke er den kinesiske romaniseringen av flere (men ikke alle) kantonesiske etternavn, som er romanisert som Lu på mandarin.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De riktige rotasjonene av kuben, som kan karakteriseres ved permutasjoner av kroppsdiagonalene, er også beskrevet ved konjugering i `` S''.",
+        "sentence2": "De riktige rotasjonene av kuben, som kan beskrives ved permutasjoner av kroppens diagonaler, er også preget av konjugering i `` S''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "For eksempel i amfibier kommer Cerberus til uttrykk i den fremre dorsal endoderm og hos mus kommer den til uttrykk i den fremre viscerale endoderm.",
+        "sentence2": "For eksempel kommer Cerberus til uttrykk i fremre dorsale endoderm hos amfibier og hos mus i fremre viscerale endoderm.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han tok klinisk opplæring ved Middlesex Hospital i London, og kvalifiserte seg som lege i 1943.",
+        "sentence2": "Han tok klinisk opplæring ved Middlesex Hospital i London og kvalifiserte seg som lege i 1943.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sunny klippet sporet i november 1973 med Roger Greenaway som produserte mens Chris Gunning sørget for arrangementet og dirigerte.",
+        "sentence2": "I november 1973 brøt Roger Sunny av banen med Roger Greenaway, mens Chris Gunning sørget for og dirigerte arrangementet.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Damon Knight (sitert av James Blish) sa om tolkningen av Knights historie:",
+        "sentence2": "James Blish (sitert av Damon Knight) sa om Knights tolkning av historien hans:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Filmen handler om Rafael, en ny sanger i malayalams filmindustri.",
+        "sentence2": "Denne filmen handler om Rafael, en ny sanger i den malayalamske filmindustrien.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Det var den tredje sesongen som ble sendt mer enn to år etter familieutgaven og mer enn tre år etter den første kjendisutgaven.",
+        "sentence2": "Det var den tredje sesongen som ble sendt mer enn to år etter familieutgaven og mer enn tre år etter den første kjendisutgaven.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han døde 19. september 1891 i Gallatin, Tennessee, og mottok en frimurer i Gallatin.",
+        "sentence2": "Bunting døde 19. september 1891 i Gallatin . Han mottok en frimurerbegravelse i Gallatin, Tennessee.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bryteren hopper så rundt og svinger seg fremover for å falle tilbake og la motstanderens hode falle ned i matten.",
+        "sentence2": "Bryteren hopper deretter fremover og svinger rundt for å falle bakover og la motstanderens hode falle ned i matten.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hun flyttet sammen med foreldrene fra Finland til Estland i en alder av 3 år og bor for tiden i Helsinki.",
+        "sentence2": "Hun flyttet fra Estland til Finland sammen med foreldrene i en alder av 3 og er for tiden bosatt i Helsingfors.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Byen ligger i den vestlige enden av `` Horta de València '', på høyre bredd av elven Turia.",
+        "sentence2": "Byen ligger på høyre bredd av `` Horta de València '', på den vestlige bredden av elven Turia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mange av demonene i Salomos møter er av greske, kristne, jødiske, egyptiske, arabiske og andre tradisjoner.",
+        "sentence2": "Mange av demonene i Salomos møter er greske, kristne, jødiske, egyptiske, arabiske og andre tradisjoner.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Den administrative regionen Chenzhou i Tang-dynastiet er under administrasjon av moderne Zhoukou i østlige Henan:",
+        "sentence2": "Chenzhou Administrative Region i Tang-dynastiet er under administrasjon av moderne Henan i østlige Zhoukou:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Testen er følgende: `` Først legger du merke til den pranganglioniske fiberen og stimulerer responsen som vises.",
+        "sentence2": "Testen er følgende: Stimuler først den preganglioniske fiberen og legg merke til responsen som vises.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ukhrul er også et turisthotspot i delstaten Manipur.",
+        "sentence2": "Manipur er også et turisthotspot i Ukhrul-staten.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Caspar Peucer ( uttales 6. januar 1525 -- 25. september 1602 ) var en sorbisk reformator , lege og lærd av tysk opprinnelse .",
+        "sentence2": "Caspar Peucer ( uttales 6. januar 1525 - 25. september 1602 ) var en sorbisk reformator , lege og lærd av tysk opprinnelse .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cornelius Olatunji Adebayo er en tidligere senator i Nigeria, som var guvernør og senere ble sjef for det nigerianske føderale kommunikasjonsdepartementet.",
+        "sentence2": "Cornelius Olatunji Adebayo er en tidligere senator i Nigeria, som ble guvernør og senere leder av det nigerianske føderale kommunikasjonsdepartementet.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Massachusetts stemte på Harry S. Truman i 1928, på Al Smith fire ganger på 1930- og 1940-tallet, og på Franklin D. Roosevelt i 1948.",
+        "sentence2": "På 1930- og 1940-tallet ble han valgt fire ganger for Al Smith i 1928 for Franklin D. Roosevelt og for Harry S. Truman i 1948.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ibn Amira ble født i Alzira i provinsen Valencia .",
+        "sentence2": "Ibn Amira ble født i Valencia, provinsen Alzira.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hvis vi bruker en alternerende Turing-maskin, har vi ressursen ATIME.",
+        "sentence2": "Når vi har en alternerende tureringsmaskin bruker vi ressursen ATIME.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "13. november 2016 ble David Machado myrdet i Fox Grove Park nær byen Hughson av Dennis Wallace .",
+        "sentence2": "Den 13. november 2016 ble David Machados nestleder Dennis Wallace myrdet i Fox Grove Park nær byen Hughson .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Da han døde i 1946, var papirene hans om dette prosjektet jevnt over i en fortsatt grov tilstand.",
+        "sentence2": "Etter hans død i 1946 var papirene hans om dette prosjektet jevnt over i en fortsatt grov tilstand.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alexander Baumgartner (født 27. juni 1841 i Luxembourg, Tyskland; død 1910 i St. Gallen, Sveits) var en poet og forfatter om litteraturhistorie.",
+        "sentence2": "Alexander Baumgartner (født i St. Gall, Sveits, 27. juni 1841; død Luxembourg, 1910) var en poet og forfatter om litteraturhistorie.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Forskere ved Geological Survey of Canada har modellert naturlig arsen-variasjon i det relative farepotensialet for provinsen New Brunswick.",
+        "sentence2": "Forskere ved Geological Survey of Canada har modellert naturlig arsen-variasjon i relativ farepotensial for provinsen New Brunswick.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Flyselskapet ble utviklet av Irelandia, som også dannet andre fem flyselskaper, nemlig VivaColombia, Ryanair, Allegiant Air, VivaAerobus og Tigerair.",
+        "sentence2": "Flyselskapet ble dannet av Irelandia, som også har utviklet andre fem flyselskaper, nemlig VivaColombia, Ryanair, Allegiant Air, VivaAerobus og Tigerair.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Elven Geamărtălui er en sideelv til elven Breaza i Romania .",
+        "sentence2": "Elven Breaza er en sideelv til elven Geamărtălui i Romania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Den ble kjøpt av CR Gregory i 1834 i klosteret Saba. Robert Curzon så det i 1883 .",
+        "sentence2": "Den ble kjøpt i 1834 av CR Gregory i klosteret Saba , i 1883 av Robert Curzon .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prabhupada var fornøyd da Gopal Krishna presenterte ham de første eksemplarene av Srimad Bhagavatam, oversatt til hindi.",
+        "sentence2": "Gopal Krishna var fornøyd da Prabhupada presenterte ham de første kopiene av Srimad Bhagavatam oversatt til hindi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "St.George Bank ( og dets datterselskap BankSA ) ble igjen overtatt av Advance Bank i 1997 .",
+        "sentence2": "Til gjengjeld ble Advance Bank ( og dets datterselskap BankSA ) overtatt av St.George Bank i 1997 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han underviste deretter på skolen i Cleveland, OH, og fra 1856-1859 var skuespillerinnens skoleinspektør i Toledo.",
+        "sentence2": "Han underviste deretter på skolen i Cleveland, OH og var fungerende superintendent for skoler i Toledo fra 1856-1859.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Diktet er bevart i fire samtidige manuskripter, hvorav ett er fragmentarisk:",
+        "sentence2": "Diktet er bevart i fire samtidige manuskripter, hvorav ett er fragmentert:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Andre vanskeligheter inkluderte James Newton Howards beslutning om å bytte Howard Shore-komponister til Peter Jackson syv uker før filmskiftet.",
+        "sentence2": "Andre vanskeligheter inkluderte James Newton Howards beslutning om å bytte komponist fra Howard Shore til Peter Jackson syv uker før filmen åpnet.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dusty Baker ble den første svarte manageren som deltok i en World Series siden Cito Gaston for Toronto i og .",
+        "sentence2": "Dusty Baker ble den første svarte manageren som ble med og deltok i en World Series siden Cito Gaston for Toronto.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sukumars venn Stephen ( Murugan ) hjelper dem i krisetimen , og elskere forenes i ekteskapet .",
+        "sentence2": "Murugans venn Stephen ( Sukumar ) hjelper dem i deres krisetime , og elskerne forenes i ekteskapet .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dr. Adams forlot frøken Sarah Hunt , som han giftet seg med en datter med , giftet seg med B. Hyatt i 1788 , esq.",
+        "sentence2": "Dr. Adams giftet seg med frøken Sarah Hunt , av hvem han etterlot seg en datter , giftet seg i 1788 med B. Hyatt , esq.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Noen ganger brukes det som reductio ad absurdum av det velkjente designargumentet , som går som følger:",
+        "sentence2": "Noen ganger brukes det som en reductio ad absurdum av det velkjente argumentet fra design , som går som følger:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kudawa er en landsby- og landsbyutviklingskomité i Narayani-sonen i Bara-distriktet i det sørøstlige Nepal.",
+        "sentence2": "Kudawa er en landsby- og landsbyutviklingskomité i Narayani-sonen i Bara-distriktet i det sørøstlige Nepal.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Etter slaget ved Coral Sea fraktet \" Barnett 1 360 overlevende fra USS Lexington ( CV-2 ) fra San Diego til Nouméa .",
+        "sentence2": "Etter slaget ved Coral Sea fraktet \" Barnett 1 360 overlevende fra USS Lexington ( CV-2 ) fra Nouméa til San Diego .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Road R205 er en regional vei i Irland fra vei R199 i fylket Cavan til grensen til Nord-Irland i fylket Leitrim , for det meste i fylket Fermanagh .",
+        "sentence2": "R205-veien er en regional vei i Irland fra R199-veien i County Leitrim til grensen til Nord-Irland ved County Fermanagh, for det meste i County Cavan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Schliemann oppdaget fem sjakter og ryddet dem som gravene nevnt av Pausanias .",
+        "sentence2": "Schliemann ryddet fem sjakter og gjenkjente dem som gravene nevnt av Pausania .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Den første, Kai-sung, var Jin-Quas datter, moren til Dirk Struan av Gordon Chen.",
+        "sentence2": "Den første, Kai-sung, var Jin-Quas datter. Hun var moren av Dirk Struan fra Gordon Chen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I 1974 ble det urbane distriktet slått sammen med Repton Rural District og en del av South East Derbyshire Rural District for å danne det nåværende South Derbyshire District.",
+        "sentence2": "I 1974 ble det nåværende distriktet slått sammen med Repton Rural District og en del av South East Derbyshire Rural District for å danne det urbane South Derbyshire District .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "For eksempel kommer Cerberus til uttrykk i amfibier i den fremre viscerale endoderm , og hos mus kommer den til uttrykk i den fremre dorsal endoderm .",
+        "sentence2": "For eksempel kommer Cerberus til uttrykk i fremre dorsale endoderm hos amfibier og hos mus i fremre viscerale endoderm.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abraham Hart var president og Mayer Sulzberger sekretær for forstanderskapet.",
+        "sentence2": "Abraham Hart var president, og Mayer Sulzberger sekretær, forstanderskapet.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han samarbeidet med samtidsarkitekter som Giovan Giacomo Di Conforto , Bartolomeo Picchiatti og Francesco Grimaldi .",
+        "sentence2": "Han har samarbeidet med samtidsarkitekter som Giovan Giacomo Di Conforto , Bartolomeo Picchiatti og Francesco Grimaldi .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hun ble født i Cochabamba, Bolivia, og flyttet til Mexico City på 1990-tallet og senere til Los Angeles.",
+        "sentence2": "Hun ble født i Cochabamba , Bolivia . På 1990-tallet flyttet hun til Mexico City og senere til Los Angeles.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De Ruiter er født i Leiden og har spilt for FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk og FC Emmen.",
+        "sentence2": "de Ruiter ble født i Leiden og spilte for RKC Waalwijk , FC Den Bosch , Excelsior , FC Utrecht og FC Emmen .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vermont grenser til Mitcham i nord, Nunawading og Forest Hill i vest, Vermont sør i sør og Wantirna og Ringwood i øst.",
+        "sentence2": "Vermont grenser i nord av Mitcham , vest for Nunawading og Forest Hill , i sør av Vermont og i øst av Wantirna og Ringwood .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dr. Julio Square Junqueira var den første som ble bygget i Arapongas, ble oppkalt etter Dr. Julio Junqueira oppkalt etter den første ordføreren i Arapongas.",
+        "sentence2": "Julio Junqueira var den første som ble bygget i Arapongas, og ble oppkalt etter Dr. Julio Square Junqueira, oppkalt etter den første ordføreren i Araponga.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Prakash Raj ble også med i teamet i august 2017 for å angivelig spille rollen som produsent Aluri Chakrapani.",
+        "sentence2": "I august 2017 ble også Aluri Chakrapani med på laget for å spille rollen som produsent Prakash Raj også.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Meridian består av innbyggerne i Daykin, Alexandria, Western, Fairbury og Tobias, og skaper 303 Nebraska School District.",
+        "sentence2": "Meridian består av innbyggerne i Daykin , Fairbury , Western , Alexandria og Tobias , og skaper 303 Nebraska School District .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Juli er i gjennomsnitt den kaldeste måneden, den varmeste i januar.",
+        "sentence2": "Juli er den varmeste måneden i gjennomsnitt og januar er den kaldeste.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "En annen måte å regulere bestanden av hjort på er å kontrollere fruktbarheten.",
+        "sentence2": "En annen måte å kontrollere bestanden av hjort på er å regulere fruktbarheten.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Første runde fant sted i helgen 23. - 25. september 2011 i Slovakia ( Prievidza )",
+        "sentence2": "Den første runden fant sted helgen 23.-25. september 2011 i Slovakia ( Prievidza ) .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han giftet seg med Marie Magdalene Schweigaard , datter av Tellef Dahll Schweigaard , niese til den ledende politikeren Anton Martin Schweigaard og tante til senere statsminister Christian Homann Schweigaard .",
+        "sentence2": "Han giftet seg med Marie Magdalene Schweigaard , datter av Tellef Dahll Schweigaard , niese til ledende politiker Christian Homann Schweigaard og tante til senere statsminister Anton Martin Schweigaard .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Det kan nås fra Formia fra øst, og Maranola, en \"frazione\" av Spigno Saturnia, fra vest.",
+        "sentence2": "Det kan nås fra Formia fra øst, og Maranola, en \"frazione\" av Spigno Saturnia, fra vest.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Da Phil Spector hørte `` Stubborn Kind of Fellow '' for første gang, ble han så begeistret at han mistet kontrollen over bilen sin mens han kjørte nedover Sunset Boulevard med Jack Nitzsche.",
+        "sentence2": "Da Jack Nitzsche først hørte `` Stubborn Kind of Fellow '', var han så begeistret at han mistet kontrollen over bilen sin mens han kjørte Sunset Boulevard med Phil Spector.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Noen besetningsmedlemmer ble drept i Golden Bay og det var ingen lokal kontakt med andre maorier.",
+        "sentence2": "Noen av besetningsmedlemmene ble drept i Golden Bay og det var ingen annen kontakt med lokale maorier.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Singelen ble annonsert 31. oktober 2015 og ble utgitt 13. november 2015.",
+        "sentence2": "Singelen ble annonsert 31. oktober 2015 , og ble publisert 13. november 2015 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I den nye TV-serien ''Dead Gorgeous'' spilte Hazel rollen som den yngste søsteren Alexandra Coppinger.",
+        "sentence2": "Hazel spilte rollen som Alexandra Coppinger, den yngste søsteren, i den nye TV-serien `` Dead Gorgeous''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Noen av dem er beskrevet her og noen av dem er lenket under `` Eksterne lenker '' nedenfor.",
+        "sentence2": "Noen av dem er beskrevet nedenfor, og noen av dem er lenket til `` Eksterne lenker '' her.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I skotsk fotball konkurrerer semi-profesjonelle lag på alle nivåer under Scottish Premier League , med de fleste lagene under Scottish Championship som semi-profesjonelle.",
+        "sentence2": "I skotsk fotball presterer semiprofesjonelle lag under det skotske premierskapet på alle nivåer, og de fleste lagene under det skotske mesterskapet er semiprofesjonelle.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sangen er en hook sample i singel \"design in Malice\" av den amerikanske hiphop-gruppen Jedi Mind Tricks.",
+        "sentence2": "Sangen er et hook-eksempel i \"Design in Malice\" American av singel hiphop-gruppen Jedi Mind Tricks.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "hvor , formel 5 er en av Horns endelige funksjoner med to variabler og konvergent for alle konfluente hypergeometriske verdier av formel 6 og formel 7 . Den er gitt av:",
+        "sentence2": "Formel 5 er en av Horns konfluente hypergeometriske funksjoner med to variabler og konvergent for alle endelige verdier av Formel 6 og Formel 7. Den er gitt av:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I 1830 ble James påvirket av avskaffelsen av noen medlemmer av American Colonization Society (ACS) og skrifter av Arthur Tappan.",
+        "sentence2": "Fra og med 1830 ble James påvirket av avskaffelsen av noen medlemmer av American Colonization Society (ACS) og skrifter av Arthur Tappan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De ble utviklet av Namco Bandai og utgitt av CyberConnect2, som begynte med `` Naruto: Ultimate Ninja'' i 2005.",
+        "sentence2": "De ble utviklet av CyberConnect2 og utgitt av Namco Bandai, og startet med `` Naruto: Ultimate Ninja'' 2005.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Motorveien ble kansellert 18. oktober 1954 da FM 1241 ble forlenget .",
+        "sentence2": "Motorveien ble kansellert 18. oktober 1954, da FM 1241 ble forlenget.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Solenergitilnærmingen til dette kravet er bruken av solcellepaneler i et konvensjonelt drevet fly.",
+        "sentence2": "Den konvensjonelle tilnærmingen til dette kravet er bruk av solcellepaneler i et solcellefly.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hun var mor til Val, Boris og Rosalind Lorwin, og datteren ble professor i psykologi.",
+        "sentence2": "Hun ble mor til Val, Boris og Rosalind Lorwin, datteren hennes var professor i psykologi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Indirekte bevis på mørk materie kommer fra dens gravitasjonspåvirkning på mørk materie, siden ingen andre partikler av materie har blitt observert i laboratorier.",
+        "sentence2": "Indirekte bevis for mørk materie kommer fra dens gravitasjonspåvirkning på annen materie, ettersom ingen mørk materiepartikler har blitt observert i laboratorier.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han ble erstattet i påfølgende kupp av Olusegun Obasanjo (1975) og Murtala Mohammed (1976).",
+        "sentence2": "Han ble erstattet av Olusegun Obasanjo (i 1975) og Murtala Mohammed (i 1976) i påfølgende kupp.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "McMillan tilbrakte to år i Royal Medical Corp. i Tidworth – og senere i Didcot, hvor han drev en MRS for soldater som ble skadet i Korea-krigen.",
+        "sentence2": "I to år tilbrakte McMillan ved Royal Medical Corp. i Didcot – og senere i Tidworth, hvor han drev en MRS for soldater som ble skadet i Korea-krigen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Aku Ankka '' er utgitt av Sanoma Media (tidligere Sanoma), som er en del av Sanoma Magazines.",
+        "sentence2": "`` Aku Ankka '' er utgitt av Sanoma Media (tidligere Sanoma Magazines), som er en del av Sanoma.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rakai er hovedkvarteret til Uganda, som på begynnelsen av 1980-tallet var episenteret og det første tydelige i Rakai-distriktet som ble rammet av AIDS-epidemien.",
+        "sentence2": "Rakai er hovedkvarteret til Rakai-distriktet, som var episenteret på begynnelsen av 1980-tallet og først ble rammet av AIDS-epidemien i Uganda.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De asiatiske aktivitetene ble en del av Ebel mens de europeiske aktivitetene ble solgt til Hong Kong-entreprenøren Joseph Wong og er nå en del av Stelux Holdings.",
+        "sentence2": "Asiatiske aktiviteter ble en del av Ebel, mens de europeiske aktivitetene ble solgt til Hong Kong-entreprenøren Joseph Wong og tilhører nå Stelux Holdings.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Midlene kom fra Bill Melinda Gates Foundation, finansmannen George Soros og teknologigründeren Edward W. Scott.",
+        "sentence2": "Oppstartsmidler kom fra Bill & Melinda Gates Foundation , finansmannen George Soros og teknologigründeren Edward W. Scott .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Finale er en by i Sør-Afrika i provinsen Mopani District Municipality, Limpopo.",
+        "sentence2": "Finale er en by i Mopani distriktskommune i Limpopo-provinsen i Sør-Afrika.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rashidi ble ikke siktet, men han ble arrestert av marokkanske myndigheter da han ble repatriert.",
+        "sentence2": "Rashidi ble ikke siktet, men han ble repatriert av marokkanske myndigheter da han ble arrestert.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han ble utnevnt til påtaleadvokat for Seneca County i 1824 , for Williams County i 1826 og for Sandusky County i 1827 .",
+        "sentence2": "Han ble utnevnt til anklager for Williams County i 1824 , for Seneca County i 1826 og Sandusky County i 1827 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lake Georgetown er også en kilde til drikkevann for Georgetown og den nærliggende byen Round Rock.",
+        "sentence2": "Lake Georgetown er også en drikkevannskilde for Georgetown og den nærliggende byen Round Rock.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Holly ble musikalsk påvirket av Elton John.",
+        "sentence2": "Elton John ble påvirket av Holly musikalsk.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "På det tidspunktet han døde var David Cardinal Beaton Lord Chancellor of Scotland , erkebiskop av St Andrews og Cardinal Legate i Skottland .",
+        "sentence2": "David Cardinal Beaton var Lord Chancellor of Scotland på det tidspunktet han døde, erkebiskop av St. Andrews og Cardinal Legate of Scotland.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kjeld Deichmann døde brått i 1963 og Erica stengte atelieret og ga opp keramikk.",
+        "sentence2": "I 1963 døde Kjeld Deichmann brått og Erica stengte atelieret og ga opp keramikkkunsten.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Imidlertid var Michael Jackson, Prince og Madonna påvirkninger på albumet.",
+        "sentence2": "Madonna , Prince og Michael Jackson var imidlertid påvirkninger på albumet .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Det eneste trikkedepotet er i Miraflores. Termini er San Antonio og Oriente.",
+        "sentence2": "Det eneste trikkedepotet er i San Antonio, Termini er Miraflores og Oriente.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han var også med på å etablere meditasjonssentre i hele Nord-, Sentral- og Sør-Amerika samt i Europa.",
+        "sentence2": "Han var også med på å etablere meditasjonssentre over hele Europa så vel som i Nord-, Sentral- og Sør-Amerika.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "På Sri Lanka kan tittelen Chartered Accountant (CA Sri Lanka) bare brukes av medlemmer av Institute of Chartered Accountants på Sri Lanka.",
+        "sentence2": "I CA kan regnskapsførerens tittel (Sri Lanka Sri Lanka) bare brukes av medlemmer av Institute of Accountants i Sri Lanka.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Brown dannet også Solomon Episcopal Conference Center i Robert, Louisiana.",
+        "sentence2": "Robert grunnla også Solomon Episcopal Conference Center i Brown, Louisiana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus er et regionalt ølbryggeri med påvirkning fra tysk stil.",
+        "sentence2": "Lobethal Bierhaus er et regionalt bryggeri med tysk innflytelse på stil.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Finansielle regulatorer deler noen ganger verdensbildet til sine regulerte enheter gjennom sektorregulering.",
+        "sentence2": "Med sektorregulering deler finansielle regulatorer noen ganger verdensbildet til sine regulerte enheter.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I april 1942 vendte Montagu Slater tilbake til England, og kort tid etter at han kom tilbake, spurte han Britten om å være hans librettist for `` Peter Grimes ''.",
+        "sentence2": "I april 1942 vendte Britten tilbake til England, og kort tid etter at han kom tilbake ba han Montagu Slater om å bli hans librettist for `` Peter Grimes ''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tre år senere vant han en sølvmedalje i samme konkurranse ved EM i Hahnenklee for Vest-Tyskland.",
+        "sentence2": "Tre år senere vant han en sølvmedalje i samme arrangement for Vest-Tyskland ved EM i Hahnenklee.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bandet ble grunnlagt i Dunwoody , Georgia i 1999 , etter at gitaristen Cole Alexander og bassisten Jared Swilley forlot Renegades , og gitaristen Ben Eberbaugh forlot Reruns .",
+        "sentence2": "Bandet ble grunnlagt i 1999 i Dunwoody, Georgia, etter at gitarist Ben Eberbaugh og bassist Jared Swilley forlot Renegades, og gitarist Cole Alexander forlot Reruns.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Noen av dem er beskrevet her og noen av dem er lenket under `` Eksterne lenker '' nedenfor.",
+        "sentence2": "Noen av dem er beskrevet nedenfor og noen av dem er lenket her under `` Eksterne lenker ''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Den andre redaktøren er Herbert Wessels ( siden 2009 ) , sjefredaktør er Markus Ermert ( siden 2002 ) .",
+        "sentence2": "Den andre redaktøren er Herbert Wessels ( siden 2009 ) , sjefredaktør er Markus Ermert ( siden 2002 ) .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis er en bladbilleart som er hjemmehørende i Nord-Afrika og deler av Europa.",
+        "sentence2": "Ochrosis ventralis er en innfødt art av bladbille i Europa og deler av Nord-Afrika.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Noen medlemmer av mannskapet ble drept i Golden Bay og det var ingen lokal kontakt med andre maorier.",
+        "sentence2": "Noen av mannskapet ble drept i Golden Bay og det var ingen lokal kontakt med andre maorier.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Disse tre faderlige dynastiene styrte kongeriket Waalo med morsfamilien Mbooj.",
+        "sentence2": "Disse tre morsdynastiene styrte kongeriket Waalo med farsfamilien Mbooj .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "På begynnelsen av 1950-tallet begynte Fiaminghi å lage verk som var abstrakt kunst og inkorporerte elementer av konstruktiv kunst.",
+        "sentence2": "På begynnelsen av 1950-tallet begynte Fiaminghi å lage verk som var abstrakt kunst, som inkorporerte elementer av konstruktiv kunst.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pennsylvania Route 268 fører fra vestenden av broen sørover til Parker og nordover til Emlenton.",
+        "sentence2": "Pennsylvania Route 268 fører fra den vestlige enden av broen nordover til Parker og sørover til Emlenton.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hans navn, Afolabi, er `` Born into rikdom ``. Kallenavnet hans i Nigeria betyr Robocop på grunn av hans stive bevegelser.",
+        "sentence2": "Navnet hans, Afolabi, betyr ''Rikdom født'', kallenavnet hans i Nigeria er Robocop på grunn av hans stive bevegelser.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "I april 1942 vendte Britten tilbake til England, og kort tid etter at han kom tilbake ba han Montagu Slater om å bli hans librettist for `` Peter Grimes ''.",
+        "sentence2": "Montagu Slater returnerte til England i april 1942. Rett etter hjemkomsten ba han Britten om å være hans librettist for `` Peter Grimes ''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han ble født som det postume barnet til Sir John Lade , 1. Baronet , hans mor var søsteren til bryggeren Henry Thrale .",
+        "sentence2": "Han ble født som barn av Sir Henry Thrale , 1. Baronet , hans mor var søsteren til bryggeren John Lade .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Unntaket var mellom slutten av 2005 og 2009, da han spilte i Sverige med Carlstad United BK, Serbia med FC Terek Grozny og russiske FK Borac Čačak.",
+        "sentence2": "Unntaket var mellom slutten av 2005 og 2009 da han spilte i Sverige med Carlstad United BK , Serbia med FK Borac Čačak og russiske FC Terek Grozny .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Episoden ble skrevet av Chuck Tatham og regissert av Fred Savage.",
+        "sentence2": "Episoden ble skrevet av Chuck Tatham og ledet av Fred Savage .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Møtet blir avbrutt av ankomsten av forskjellige budbringere fra forskjellige mektige eller innflytelsesrike Mardukans i byen med mange middagsinvitasjoner til prinsen.",
+        "sentence2": "Møtet blir avbrutt av ankomsten av mange budbringere fra forskjellige mektige eller innflytelsesrike Mardukaner i byen med forskjellige invitasjoner til middag for prinsen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beximco produserer tekstiler , basiskjemikalier , farmasøytiske produkter , jute og marin mat , og selskapet har også eiendoms - og landutviklingsinteresser .",
+        "sentence2": "Beximco produserer tekstiler, basiskjemikalier, farmasøytiske produkter, jute og marine matvarer; selskapet har også eiendoms - og tomteutviklingsinteresser .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` The Rider's Digest '' er nå et månedlig magasin utgitt med to versjoner: Retail-versjonen og den 60-siders gratis utgaven.",
+        "sentence2": "`` The Rider's Digest '' er nå et månedlig magasin med to versjoner publisert: gratisutgaven og 60 siders detaljutgave.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hans kone var Klára Csabi, og deres sønn Ferenc Wathay var også en berømt kommandør og forfatter av `` Songbook of Ferenc Wathay ''.",
+        "sentence2": "Hans kone var Klára Csabi, og hennes sønn Ferenc Wathay var også en berømt kommandør og forfatter av `` sangboken til Ferenc Wathay ''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Et forhold på 2,5:1 reduserte kolorektal celleproliferasjon hos pasienter med endetarmskreft, mens et forhold på 4:1 ikke hadde noen effekt.",
+        "sentence2": "Et forhold på 2,5:1 reduserte kolorektal celleproliferasjon hos pasienter med rektangulær kreft, mens et forhold på 4:1 ikke hadde noen effekt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Han ble født Charles Wyndham Standing i London, England og døde i Los Angeles, California.",
+        "sentence2": "Han ble født i London, England, og døde i Los Angeles, California, Charles Wyndham.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Berks County , Pennsylvania , USA er et samfunn i Robeson Township .",
+        "sentence2": "Berks County , Pennsylvania , USA er en township i Robeson Township .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vermont grenser i nord av Mitcham , vest for Nunawading og Forest Hill , i sør av Vermont og i øst av Wantirna og Ringwood .",
+        "sentence2": "Vermont South grenser i nord av Mitcham , i vest av Nunawading og Forest Hill , sør for Vermont og i øst av Wantirna og Ringwood .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cook Pond , også kjent som South Watuppa Pond , ligger sørøst for Laurel Lake og vest for Taunton River .",
+        "sentence2": "Cook Pond , også tidligere kjent som Laurel Lake , ligger i den sørlige enden av Taunton River og vest for South Watuppa Pond .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bare Ronnie Fields spilte ikke en eneste kamp i NCAA eller NBA.",
+        "sentence2": "Ronnie Fields spilte ikke en eneste kamp i NBA eller i NCAA.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duncan McIntyre ble født 6. oktober 1899 i Kent, England, sønn av kaptein Ivor Ewing McIntyre.",
+        "sentence2": "Ivor Ewing McIntyre ble født 6. oktober 1899 i Kent, England, som sønn av kaptein Duncan McIntyre.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Det er også en luftveissykdom hos drøvtyggere, og dyr kan nekte å spise, virke sløve og også utvikle nevrologiske tegn.",
+        "sentence2": "Hos drøvtyggere er luftveissykdommer også til stede, og dyr kan nekte å spise, virke sløve og også utvikle nevrologiske tegn.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Partituret ble laget av komponisten Maury Yeston, med koreografi av William Whitener, kunstnerisk leder for Kansas City Ballet.",
+        "sentence2": "Partituret var av komponisten William Whitener, med koreografi av Maury Yeston, kunstnerisk leder for Kansas 'City Ballet'.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Dream '' ble fremført på Royal Opera House, Covent Garden, i 1961, produsert av John Gielgud og dirigert av Georg Solti.",
+        "sentence2": "`` Dream '' ble fremført i 1961 på Royal Opera House i Covent Garden, produsert av John Gielgud og regissert av Georg Solti.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Den 22. september 1918 ble den første trådløse telegrafmeldingen til Snowdonia sendt fra Australia .",
+        "sentence2": "Den 22. september 1918 ble den første trådløse telegrafkommunikasjonen sendt til Snowdonia fra Australia .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cook Pond , også kjent som South Watuppa Pond , ligger sørøst for Laurel Lake og vest for Taunton River .",
+        "sentence2": "I sørenden ligger Cook Pond , også tidligere kjent som South Watuppa Pond , øst for Laurel Lake og vest for Taunton River .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De har 13 myke analrygger, 11 til 13 myke ryggstråler, 2 ryggrygger og 11 til 13 analstråler.",
+        "sentence2": "De har 13 ryggrygger, 11 til 13 myke ryggstråler, 2 analrygger og 11 til 13 myke analstråler.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Den kombinerte potensielle og totale energien kalles kinetisk energi eller `` energipakke ''.",
+        "sentence2": "Den kombinerte potensielle og kinetiske energien kalles den totale energien, eller `` energipakken''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De var der for oss for å be, og de var der for å glede oss.",
+        "sentence2": "De var der for oss for å be og de var der for at vi kunne nyte det.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Premaligne lesjoner er tilsynelatende et typisk vev som virker unormalt ved mikroskopisk undersøkelse og hvor kreft er mer sannsynlig enn det morfologisk normale motstykket.",
+        "sentence2": "Premaligne lesjoner er tilsynelatende et typisk vev som virker unormalt under mikroskopisk undersøkelse, og hvor det er mer sannsynlig at det oppstår kreft enn i det morfologisk normale motstykket.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` R. satarae '' har en gyllenbrun pels med lang, myk rygg og hvit underside.",
+        "sentence2": "`` R. satarae '' har en gyllenbrun pels med en lang, myk rygg og en hvit underside.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Det gjenstår to små uavhengige ligaer med bare en håndfull medlemmer: Highland Alliance League og Grampian Alliance League.",
+        "sentence2": "To små uavhengige ligaer gjenstår, med bare en håndfull medlemmer: Grampian Alliance League og Highland Alliance League.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` Fall Beil '' ble brukt for siste gang i Vest-Tyskland i 1949, i 1966 i Øst-Tyskland.",
+        "sentence2": "`` saken '' ble brukt for siste gang i 1949 i Øst-Tyskland, 1966 i Vest-Tyskland.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Annette Amelia Crum giftet seg med Bryant , datteren til Samuel Crum , 29. september 1874 . De hadde en datter.",
+        "sentence2": "Den 29. september 1874 giftet Annette Amelia seg med Crum Bryant , datteren til Samuel Crum , og de fikk en datter .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Videre var en trippel trusselkamp for USAs mesterskap mellom Champion Jack Swagger , The Miz og Kofi Kingston .",
+        "sentence2": "Neste var en Triple Threat-kamp for USAs mesterskap mellom mester Kofi Kingston, The Miz og Jack Swagger.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sangen ble presentert i den sjette reklamefilmen for andre sesong av `` Sons of Anarchy '', en TV-serie FX-nettverk.",
+        "sentence2": "Sangen ble omtalt i den sjette reklamefilmen for andre sesong av `` Sons of Anarchy '', en TV-serie for FX-nettverk.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han spilte i Australia tidlig i karrieren, men flyttet til Skottland for å spille for Frankston City i Victorian State League.",
+        "sentence2": "Han spilte i Skottland tidlig i karrieren, men flyttet til Australia for å spille i Victorian State League for Frankston City.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Det siste sporet `` Every Morning '' er den akustiske gitarversjonen av det første sporet `` Morning ''.",
+        "sentence2": "Det siste sporet, `` Every Morning'' er den akustiske gitarversjonen av det første sporet `` Morning''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Revet børstekalkun eller brunkraget børstekalkun (`` Talegalla jobiensis '') er en fugleart i familien Megapodiidae.",
+        "sentence2": "Kragebørstekalkun eller brunkraget børstekalkun (`` Talegalla jobiensis '') er en fugleart i familien Megapodiidae.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duncan McIntyre ble født 6. oktober 1899 i Kent, England, sønn av kaptein Ivor Ewing McIntyre.",
+        "sentence2": "Ivor Ewing McIntyre ble født 6. oktober 1899 i Kent, England, sønn av kapteinen Duncan McIntyre.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Historien til den 46. rakettdivisjonen starter fra 29. april 1941, da dannelsen av den 188. rifledivisjon ble fullført i Kaunas.",
+        "sentence2": "Historien til den 46. rakettdivisjonen begynner 29. april 1941, da dannelsen av den 188. rifledivisjonen ble fullført i Kaunas.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Whitlam , som hadde beseiret Malcolm Fraser i et jordskred ved det føderale valget i desember 1975 , tilbød Egerton ridderskapet for tjeneste for fagbevegelsen .",
+        "sentence2": "Whitlam , som hadde beseiret Malcolm Fraser i et jordskred ved det føderale valget i desember 1975 , tilbød Egerton ridderskapet for å tjene fagbevegelsen .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis er en innfødt art av bladbille i Europa og deler av Nord-Afrika.",
+        "sentence2": "Ochrosis ventralis er en bladbilleart som er hjemmehørende i Europa og deler av Nord-Afrika",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sesongen startet 6. januar 1984 i Falun , Sverige , og ble avsluttet 11. mars 1984 i Lygna , Norge .",
+        "sentence2": "Sesongen begynte 6. januar 1984 i Falun , Sverige , og ble avsluttet 11. mars 1984 i Lygna , Norge .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "de Ruiter , som ble født i Leiden , spilte for FC Utrecht , FC Den Bosch , Excelsior , RKC Waalwijk og FC Emmen .",
+        "sentence2": "De Ruiter er født i Leiden og har spilt for FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk og FC Emmen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Farrell tar til motmæle med Gabriels hacks, mens McClane eliminerer mennene sine.",
+        "sentence2": "Farrell motarbeider Gabriels hacks, mens McClane eliminerer mennene sine.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Singelen ble utgitt på Radio Airplay i Italia 12. oktober 2012, og ble sendt over hele verden 3. desember 2012.",
+        "sentence2": "Singelen ble sluppet til radiospilling 12. oktober 2012 i Italia og ble sendt over hele verden 3. desember 2012 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Den andre datteren til Octavius Warre Malet , Alice Anna Catherine , giftet seg med Thomas ved det britiske konsulatet i Köln 24. juni 1852 .",
+        "sentence2": "Octavius Warre Malets andre datter, Alice Anna Catherine, giftet seg med Thomas 24. juni 1852 på det britiske konsulatet i Köln.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum er en type havsnegl, en ekte gastropod bløtdyr i Buccinidae-familien, havsneglen.",
+        "sentence2": "Probuccinum tenerum er en art av sjøsnegl, en ekte gastropod bløtdyr i familien Buccinidae, havsneglen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "David David Godwin er representert av Emma Townshend i DGA Associates.",
+        "sentence2": "David Godwin er representert av Emma Townshend ved DGA Associates.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Det enkle mediet kan karakteriseres med effektive tverrsnitt av absorpsjon og emisjon ved frekvensene formel _ 2 og formel _ 3 .",
+        "sentence2": "Det enkle mediet kan karakteriseres ved effektive tverrsnitt av absorpsjon og emisjon ved frekvensene Formel 2 og Formel 3.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "de Ruiter , som ble født i Leiden , spilte for FC Utrecht , FC Den Bosch , Excelsior , RKC Waalwijk og FC Emmen .",
+        "sentence2": "De Ruiter er født i Leiden og har spilt for RKC Waalwijk, FC Den Bosch, Excelsior, FC Utrecht og FC Emmen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Forrangen til aritmetiske operatorer har blitt kritisert, konseptuelt og 'er bitvis logiske operatorer som og +.",
+        "sentence2": "Forrangen til aritmetiske operatorer har blitt kritisert. Konseptuelt er & og bitvise logiske operatorer som og +.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I 1974 , med støtte fra FN , Den asiatiske utviklingsbanken og Verdensbanken , grunnla Laos PDR Stage II Fund .",
+        "sentence2": "Med støtte fra Verdensbanken, De forente nasjoner og Den asiatiske utviklingsbanken, grunnla Laos PDR Stage II-fondet i 1974.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Webster Groves bystyre besto av rådsmedlemmene Debi Salberg, Kathy Hart, Greg Mueller, Ken Burns, Toni Hunt og Anne Tolan.",
+        "sentence2": "Webster Groves bystyre besto av rådmenn Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt og Anne Tolan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Elton John ble påvirket av Holly musikalsk.",
+        "sentence2": "Elton John ble musikalsk påvirket av Holly.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Musikken deres regnes av mange som alternativ metal med rapmetall og industriell metalpåvirkning. I følge tidligere intervjuer anser de seg selv som \"mordrock\".",
+        "sentence2": "Musikken deres regnes av mange som en alternativ metal med rapmetall og industriell metalpåvirkning, som ifølge tidligere intervjuer kaller seg ''mord-rock''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Den krysser deretter Lake Texoma-armen til Washita-elven.",
+        "sentence2": "Deretter krysser den Lake Texoma-armen til Washita-elven.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Følgende tabell sammenligner ytelsen til den LOD-kompatible gjengivelsen og en full detaljmetode (`` brute-force '').",
+        "sentence2": "Følgende tabell sammenligner ytelsen til LOD-bevisst gjengivelse og en full detalj (`` brute force '') metode.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Volare-gruppen har hovedkontor i Thiene, Milano og kommersiell ledelse og charteradministrasjon i Italia.",
+        "sentence2": "Volare Group hadde hovedkontor i Thiene, Milano og kommersiell ledelse og charteradministrasjon i Italia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Det er også verdt å merke seg at følgende kode ville fungere uten ADL (den brukes uansett på den).",
+        "sentence2": "Det er også verdt å merke seg at følgende kode ville fungere uten ADL (den vil uansett bli brukt på den).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De ble utviklet av CyberConnect2 og utgitt av Namco Bandai som startet med `` Naruto: Ultimate Ninja'' i 2005.",
+        "sentence2": "De ble utviklet av CyberConnect2 og utgitt av Namco Bandai fra og med 2005 med `` Naruto : Ultimate Ninja ''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "AleX er en italiensk TV-serie. Serien ble skrevet av Alfredo Castelli , Guglielmo Duccoli og Giorgio Schottler og produsert av Videotime .",
+        "sentence2": "Den italienske TV-serien AleX ble skrevet av Alfredo Castelli, Guglielmo Duccoli og Giorgio Schottler og produsert av videotime.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Enoteche utvidet seg til Østerrike nord for Alpene under det tyske navnet \" Vinothek \" og fra Tyskland til Østerrike .",
+        "sentence2": "Enoteche har spredt seg nord for Alpene til Østerrike under det tyske navnet `` Vinothek '' og fra Tyskland til Østerrike.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Smartass er en film regissert av Jena Serbu og med Joey King i hovedrollen.",
+        "sentence2": "Smartass er en film av Jena Serbu og Joey King .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "65 soldater har blitt drept under oppdraget: 34 nigerianere, 28 tsjadere, 2 togolesere og 1 burkinabé.",
+        "sentence2": "Under oppdraget ble 65 soldater drept: 34 nigerianere, 28 tsjadiere, 2 togolesere og 1 burkinabé.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Divisjonen ble ødelagt i slaget i Normandie , med de siste elementene tapt på grunn av Cherbourgs fall .",
+        "sentence2": "Divisjonen ble ødelagt i slaget ved Normandie , med de siste elementene tapt i Cherbourgs fall .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam (15. oktober 1929 – 29. juli 2012) var en Kuchipudi-danser og en guru innen indisk dans.",
+        "sentence2": "Vempati Chinna Satyam (15. oktober 1929 – 29. juli 2012) var en Kuchipudi-danser og en guru av den indiske danseformen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han døde i Milwaukee , Wisconsin , hvor han trakk seg tilbake 5. mai 1903 .",
+        "sentence2": "Han døde i Milwaukee , Wisconsin , hvor han 5. mai 1903 trakk seg tilbake .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han ble født i Tiburon, California, og døde i Brooklyn, New York.",
+        "sentence2": "Den ble født i Tiburon, California, og døde i Brooklyn, New York.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Serien debuterte 18. april 2009 i Australia på Nickelodeon (New Zealand og New Zealand).",
+        "sentence2": "Serien debuterte i Australia 18. april 2009 på Nickelodeon ( New Zealand og New Zealand ) .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dette er Zen-stilen for å servere og spise måltider som praktiseres i formelle templer.",
+        "sentence2": "Dette er Zen-stilen for servering og spising som praktiseres i formelle templer.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Den nye lederen for Gerakan Tiga Daerah var Sarjiyo, som ble hovedregenten til Pekalongan.",
+        "sentence2": "Den nye lederen for Gerakan Tiga Daerah var Sarjiyo, som ble den primære regenten til Pekalongan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Under kampanjen sin debatterte han McCain to ganger, en gang i flaggstangen og en gang i Tucson.",
+        "sentence2": "Under valgkampen debatterte han McCain to ganger, en gang i Tucson og en gang i Flagstaff.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Juniordivisjon 1 samlede vinnere blir presentert med James Delahunt Cup.",
+        "sentence2": "Vinnerne av Junior Division 1 får overrakt James Delahunt Cup .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Settet besto av grønn jersey med hvit krage, blå shorts og blå sokker.",
+        "sentence2": "Settet besto av en grønn trøye med hvit krage, blå shorts og blå sokker.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Arrangementet ble deltatt av Boutique @ hs Ambassador , Teresa Palmer Michala Banas og den australske skuespillerinnen Kyly Clarke .",
+        "sentence2": "Arrangementet ble deltatt av Boutique @ hs Ambassador , Teresa Palmer Michala Banas og den australske skuespillerinnen Kyly Clarke .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duminda Silva , også kjent som Arumadura Lawrence Romelo Duminda Silva og R. Dumindha Silva , er en Sri Lankas politiker og tidligere parlamentsmedlem .",
+        "sentence2": "Arumadura Lawrence Romelo Duminda Silva , også kjent som Duminda Silva og R. Dumindha Silva , er en Sri Lankas politiker og tidligere representant for parlamentet .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Den betjener den sørøstlige Edithvale-forstaden Melbourne, åpnet 20. september 1919.",
+        "sentence2": "Den betjener den sørøstlige Edithvale-forstaden Melbourne, åpnet 20. september 1919.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "På slike middager inntar man ofte kvalitetsvin, vanligvis med champagne eller lignende musserende viner.",
+        "sentence2": "Kvalitetsvin inntas vanligvis til slike middager, gjerne med champagne eller lignende musserende viner som avslutning.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "I følge United States Census Bureau har Kennesaw et totalt overflateareal hvorav land og, eller 1,08 %, er vann.",
+        "sentence2": "I følge United States Census Bureau er Kennesaw et totalt område som er land og 1,08 % har vann.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Joe R. Campa Jr. er en tidligere US Navy-seiler, som tjente som den 11. Master Chief Petty Officer for United States Navy.",
+        "sentence2": "Joe R. Campa Jr. er en tidligere sjømann fra den amerikanske marinen, som tjente som den ellevte hovedsjefen for den amerikanske marinen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Poonam Devi fra RJD beseiret Dharmendra Yadav i 2000 som JDU.",
+        "sentence2": "Poonam Devi fra RJD beseiret Dharmendra Yadav som representerte JDU i 2000.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mark Knowles og Daniel Nestor vant tittelen og beseiret Jonathan Erlich og Andy Ram i finalen med 5:3, 5:4.",
+        "sentence2": "Mark Knowles og Daniel Nestor vant tittelen og beseiret Jonathan Erlich og Andy Ram 5-3, 5-4 i finalen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Med Terry som Ophelia og Portia livnet han opp \" Hamlet \" og produserte \" The Merchant of Venice \" ( 1879 ) .",
+        "sentence2": "Med Terry som Ophelia og Portia gjenopplivet han \" Hamlet \" og produserte \" The Merchant of Venice \" ( 1879 ) .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han var også med på å etablere meditasjonssentre i hele Europa så vel som i Nord-, Sentral- og Sør-Amerika.",
+        "sentence2": "Han var også med på å etablere meditasjonssentre i hele Europa så vel som i Nord-, Sentral- og Sør-Amerika.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Motorveien ble kansellert 18. oktober 1954 da FM 1241 ble forlenget .",
+        "sentence2": "Motorveien ble kansellert 18. oktober 1954 da FM 1241 ble forlenget .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "McCarthy ble født i Auckland, men flyttet sammen med foreldrene til San Francisco, California i en alder av fire.",
+        "sentence2": "McCarthy ble født i Auckland, men flyttet til San Francisco, California sammen med foreldrene i en alder av fire år.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Phnom Penh – Vietnams vennskapsmonument i Kambodsja, hovedstaden i Kambodsja, er et stort betongmonument som minner om den tidligere alliansen mellom Vietnam og Kambodsja.",
+        "sentence2": "Phnom Penh – Vietnams vennskapsmonument i Kambodsja, hovedstaden i Kambodsja, er et stort betongmonument til minne om den tidligere alliansen mellom Vietnam og Kambodsja.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sher Ahmed Akhundzada ( også kjent som Sher Mohammed Akhundzada ) er en stammeleder som var guvernør i Helmand i Afghanistan fra 2001 til 2005 .",
+        "sentence2": "Sher Ahmed Akhundzada (også kjent som Sher Mohammed Akhundzada) er en stammeleder som fra 2001 til 2005 var guvernør i Helmand i Afghanistan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rakai er hovedkvarteret til Rakai-distriktet, som var episenteret på begynnelsen av 1980-tallet og først ble rammet av AIDS-epidemien i Uganda.",
+        "sentence2": "Rakai er hovedkvarteret til Rakai-distriktet, som på begynnelsen av 1980-tallet var episenteret og det første i Uganda som ble rammet av AIDS-epidemien.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eksplisitte kostnader tas i betraktning sammen med økonomiske kostnader når implisitt fortjeneste vurderes.",
+        "sentence2": "Når man vurderer den implisitte fortjenesten, tas de eksplisitte kostnadene i betraktning sammen med de økonomiske.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rami Nieminen (født 25. februar 1966) er en finsk fotballspiller.",
+        "sentence2": "Rami Nieminen (født 25. februar 1966) er en finsk fotballspiller.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prang Ku er et distrikt (``Amphoe'') i den vestlige delen av provinsen Sisaket, i det nordøstlige Thailand.",
+        "sentence2": "Prang Ku er et distrikt (`` amfoe'') i den vestlige delen av Sisaket-provinsen, nordøst i Thailand.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "14., 16. og 117. linje hadde hver to bataljoner i kampen.",
+        "sentence2": "14., 16. og 117. linje hadde to bataljoner i kampen hver.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Montreal Montreal Stars vant Clarkson Cup ved å beseire 3-1 av Minnesota Whitecaps (WWHL).",
+        "sentence2": "Montreal Stars vant Clarkson Cup ved å beseire 3-1 Minnesota Whitecaps (WWHL)",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Det er også verdt å merke seg at følgende kode ville fungere uten ADL (den vil uansett bli brukt på den).",
+        "sentence2": "Det er også verdt å merke seg at følgende kode ville fungere uten ADL (den brukes uansett på den).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Flyselskapet ble dannet av Irelandia, som også har utviklet andre fem flyselskaper, nemlig VivaColombia, Ryanair, Allegiant Air, VivaAerobus og Tigerair.",
+        "sentence2": "Flyselskapet ble etablert av Irelandia , som også har utviklet andre fem flyselskaper , nemlig VivaColombia , Ryanair , Allegiant Air , VivaAerobus og Tigerair .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Det romersk-katolske bispedømmet Bungoma er et bispedømme som ligger i byen Kisumu i den kirkelige provinsen Bungoma i Kenya.",
+        "sentence2": "Det romersk-katolske bispedømmet Bungoma er et bispedømme i byen Kisumu i kirkeprovinsen Bungoma i Kenya.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Martin Damm og Radek Štěpánek vant i finalen 6 -- 2 , 6 -- 4 , mot Jonas Björkman og Fabrice Santoro .",
+        "sentence2": "Martin Damm og Radek Štěpánek vant mot Jonas Björkman og Fabrice Santoro i finalen 6:2, 6:4.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Han spilte i Australia tidlig i karrieren, men flyttet til Skottland for å spille for Frankston City i Victorian State League.",
+        "sentence2": "Han spilte tidlig i karrieren i Australia, men flyttet til Skottland for å spille for Frankston City i Victorian State League.",
+        "answer": "same"
+    }
+]

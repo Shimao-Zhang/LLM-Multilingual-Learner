@@ -1,0 +1,2502 @@
+[
+    {
+        "sentence1": "De uitzondering was tussen eind 2005 en 2009 toen hij in Zweden speelde bij Carlstad United BK , Servië bij FK Borac Čačak en het Russische FC Terek Grozny .",
+        "sentence2": "De uitzondering was tussen eind 2005 en 2009, toen hij in Zweden speelde bij Carlstad United BK, Servië bij FK Borac Čačak en het Russische FC Terek Grozny.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De Tabaci-rivier is een zijrivier van de rivier de Leurda in Roemenië.",
+        "sentence2": "De rivier de Leurda is een zijrivier van de rivier de Tabaci in Roemenië.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hij speelde bij de A-level Kane County Cougars in 1993 en de AA Portland Sea Dogs.",
+        "sentence2": "Hij speelde in 1993 bij de A-Level Portland Sea Dogs en de AA Kane County Cougars.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Winarsky is lid van de IEEE, Phi Beta Kappa, de ACM en Sigma Xi.",
+        "sentence2": "Winarsky is lid van ACM, de IEEE, de Phi Beta Kappa en de Sigma Xi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In 1938 werd hij regeringsantropoloog van het Anglo-Egyptische Soedan en leidde hij veldwerk bij de Nuba.",
+        "sentence2": "In 1938 werd hij regeringsantropoloog van het Egyptisch-Anglo-Soedan en voerde hij veldwerk uit bij de Nuba.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Billy Billy Batson verscheen in de eerste vier nummers van 'Black Adam', gepubliceerd tussen eind 2008 en begin 2009.",
+        "sentence2": "Black Adam verscheen in de eerste vier nummers van Billy Batson, gepubliceerd tussen eind 2008 en begin 2009.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De zonne-benadering van deze eis is het gebruik van zonnepanelen in een conventioneel aangedreven vliegtuig.",
+        "sentence2": "De zonne-benadering van deze eis is het gebruik van zonnepanelen in een conventioneel aangedreven vliegtuig.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De politie ondervroeg ook zanger Rimi Tomy en acteur Kavya Madhavan, beiden goede vrienden van Siddique en zijn vrouw Dileep, als onderdeel van het lopende onderzoek.",
+        "sentence2": "De politie ondervroeg ook zanger Rimi Tomy en acteur Kavya Madhavan, beiden goede vrienden van Siddique en zijn vrouw Dileep, als onderdeel van het lopende onderzoek.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ze zijn bedekt met spaarzame live orkestmuziek en bestaan uit vage, bijna opzettelijk kleurloze klanken.",
+        "sentence2": "Ze zijn bedekt met kleurloze, live gespeelde muziek en bestaan uit vage, bijna opzettelijk spaarzame orkestklanken.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Holly werd muzikaal beïnvloed door Elton John.",
+        "sentence2": "Holly Holly werd muzikaal beïnvloed door Elton John.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De ploeg reageerde dezelfde avond op 19 februari op de wijzigingen in de volgende wedstrijd.",
+        "sentence2": "De ploeg reageerde op de veranderingen in dezelfde wedstrijd op de avond van 19 februari aanstaande.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De Nashua Silver Knights, onderdeel van een huidige zomercompetitie, is het collegiale team van de stad.",
+        "sentence2": "De Nashua Silver Knights, onderdeel van een collegiale zomercompetitie, is het huidige team van de stad.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De 'Fallbeil' werd voor het laatst gebruikt in West-Duitsland in 1949, in Oost-Duitsland in 1966.",
+        "sentence2": "De ``Fall Beil'' werd voor het laatst gebruikt in West-Duitsland in 1949, in 1966 in Oost-Duitsland.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het kanaal is een van de oudste bevaarbare kanalen van Europa en België.",
+        "sentence2": "Het kanaal is een van de oudste bevaarbare kanalen in België en zelfs in Europa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In 2009 verhuisde hij terug naar Philadelphia en woont tegenwoordig in New York City.",
+        "sentence2": "Hij verhuisde in 2009 terug naar Philadelphia en woont nu in New York City.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij stierf aan maagkanker in Claremore, Oklahoma, New York City, waar het Lynn Riggs Memorial zich op 30 juni 1954 bevindt.",
+        "sentence2": "Hij stierf op 30 juni 1954 aan maagkanker in New York City. Claremore, Oklahoma is de thuisbasis van het Lynn Riggs Memorial.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stipsits werd geboren in Korneuburg, Duitsland en bracht zijn jeugd door in Stammersdorf, Wenen.",
+        "sentence2": "Stipsits werd geboren in Korneuburg en bracht zijn jeugd door in Stammersdorf, Wenen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De Keita-dynastie regeerde het pre-imperiale en keizerlijke Mali van de 12e eeuw tot het begin van de 17e eeuw.",
+        "sentence2": "De Keita-dynastie regeerde Mali van de 12e tot het begin van de 17e eeuw, pre-imperiaal en keizerlijk.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "``Angel Eyes'' is een populair nummer uit 1946, gecomponeerd door Matt Dennis, met tekst van Earl Brent.",
+        "sentence2": "``Angel Eyes'' is een populair lied gecomponeerd door Earl Brent in 1946, met teksten van Matt Dennis.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De muziek is geschreven door Shyam en de teksten zijn gecomponeerd door Sreekumaran Thampi en Sathyan Anthikkad.",
+        "sentence2": "De muziek is geschreven door Shyam en de teksten zijn gecomponeerd door Sreekumaran Thampi en Sathyan Anthikkad.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De film was een commerciële hit, een van Sergio Sollima's succesvollere films en minder politiek dan de westerns van de voormalige spaghettiregisseur.",
+        "sentence2": "De film was een commerciële hit en een van Sergio Sollima's meer politieke films, en minder succesvol dan de westerns van de voormalige spaghettiregisseur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kabir vraagt Sarika om zijn plan te onthullen om het spel van Ranvir te beëindigen.",
+        "sentence2": "Kabir vraagt Sarika om zijn plan om het spel van Ranvir te beëindigen aan hem te onthullen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De ploeg reageerde dezelfde avond op 19 februari op de wijzigingen in de volgende wedstrijd.",
+        "sentence2": "De ploeg reageerde op de veranderingen in dezelfde wedstrijd die volgende februariavond plaatsvond.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Luitenant John Gedge gaf ze in mei 1805 de opdracht voor de Noordzee, en luitenant Robert Ramsey verving hem in 1806.",
+        "sentence2": "Luitenant Robert Ramsey gaf haar in mei 1805 de opdracht om naar de Noordzee te gaan, en luitenant John Gedge verving hem in 1806.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Emma Townshend wordt vertegenwoordigd door David Godwin bij DGA Associates.",
+        "sentence2": "David David Godwin wordt bij DGA Associates vertegenwoordigd door Emma Townshend.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De Nashua Silver Knights, onderdeel van een collegiale zomercompetitie, is het huidige team van de stad.",
+        "sentence2": "De Nashua Silver Knights, onderdeel van een huidige zomercompetitie, vormen het collegiale team van de stad.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vanaf het westelijke uiteinde van de brug leidt Pennsylvania Route 268 zuidwaarts naar Parker en noordwaarts naar Emlenton.",
+        "sentence2": "De Pennsylvania Route 268 leidt van het westelijke uiteinde van de brug zuidwaarts naar Parker en in het noorden naar Emlenton.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Deze waren gebruikelijk in Groot-Brittannië, maar in Europa is het, althans voor grote locomotieven, relatief zeldzaam.",
+        "sentence2": "Deze waren zeldzaam in Groot-Brittannië, maar in Europa zijn ze, althans voor grote locomotieven, relatief gebruikelijk.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alston werd geboren op 21 december 1965 in Oxon Hill, Maryland. Hij ging naar de Oxon Hill High School in New Haven, Connecticut.",
+        "sentence2": "Hij werd geboren op 21 december 1965 in Oxon Hill, Maryland, en ging naar de middelbare school in New Haven, Connecticut.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het totaal aantal Amerikaanse slachtoffers bedroeg 28 doden, terwijl de Vietcong-verliezen 345 doden bedroegen en naar schatting nog eens 192 doden.",
+        "sentence2": "In totaal werden 28 Amerikaanse slachtoffers gedood, terwijl bij de Vietcong-verliezen 345 doden vielen en naar schatting nog eens 192 doden.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In CA kan de titel van registeraccountant (Sri Lanka Sri Lanka) alleen worden gebruikt door leden van het Institute of Sri Lankan Accountants.",
+        "sentence2": "In CA kan de titel van Chartered Accountant (Sri Lanka Sri Lanka) alleen worden gebruikt door leden van het Institute of Chartered Accountants of Sri Lanka.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Simyo behoort tot het Nederlandse telecommunicatieconcern KPN, na de overname van de rest van E-Plus op 14 maart.",
+        "sentence2": "Na de overname van het restant van E-Plus op 14 maart behoort Simyo tot het Nederlandse telecommunicatieconcern KPN.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Naast Kuykendall dienden Robert White en Joshua Soule Zimmerman als Kanselarijcommissaris voor Hampshire County.",
+        "sentence2": "Robert White en Joshua Soule Zimmerman dienden samen met Kuykendall als Chancery Commissioner voor Hampshire County.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Deze opvattingen werden vaak geuit tijdens de opkomst van protestantse, puriteinse en evangelische bewegingen.",
+        "sentence2": "Deze opvattingen werden vaak geuit tijdens de opkomst van evangelische, puriteinse en protestantse bewegingen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De UEFA Cup 1973-74 werd door Feyenoord Rotterdam gewonnen op Tottenham Hotspur met 4:2.",
+        "sentence2": "De UEFA Cup 1973-74 werd door Feyenoord Rotterdam gewonnen van Tottenham Hotspur met 4-2 in totaal.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Talfourd Ely was de kleinzoon van John Towill Rutt, een vroege vriend van Crabb Robinson.",
+        "sentence2": "Talfourd Ely was een kleinzoon van Crabb Robinson, een vroege vriend van John Towill Rutt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Zijn vader stierf in zijn jeugd, en zijn moeder, Samuel Adams, trouwde in 1842 met Catherine A. Fagan, die twee jaar later gouverneur van Arkansas werd.",
+        "sentence2": "Zijn vader stierf tijdens zijn jeugd en zijn moeder, Catherine A. Fagan, trouwde in 1842 met Samuel Adams, die twee jaar later gouverneur van Arkansas werd.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ze brachten op 13 juni ook het tweede nummer van het album, `` Vices '', uit als de vijfde single van het album.",
+        "sentence2": "Ze brachten op 13 juni ook het tweede nummer van het album, `` Vices '', uit als de vijfde single van het album.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De Sydney Water Board had in 1888 de watervoorziening voor Sydney overgenomen van de gemeenteraad.",
+        "sentence2": "In 1888 nam de Sydney Water Board de watervoorziening voor Sydney over van het stadsbestuur.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ook Cai Feng had een zoon, Cai Mao.",
+        "sentence2": "Cai Mao had ook een zoon, Cai Feng.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De bladeren zijn afwisselend langs de takken gevormd en lancetvormig, eivormig of bijna cirkelvormig en hebben een lange steel.",
+        "sentence2": "De bladeren zijn afwisselend langs de takken gerangschikt en zijn lancetvormig, eivormig of bijna cirkelvormig en hebben een lange steel.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hierdoor werd het conflictgebied tussen Massachusetts en de provincie Rhode Island groter.",
+        "sentence2": "Hierdoor werd het conflictgebied tussen Rhode Island en de provincie Massachusetts groter.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School was een meisjesselectieve middelbare school in Berkshire, nu Slough, Buckinghamshire.",
+        "sentence2": "Slough High School was een selectieve meisjesschool in Slough, Buckinghamshire, nu Berkshire.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het ligt dicht bij Lough Corrib, aan de N59 naar Oughterard en Clifden, in Connemara.",
+        "sentence2": "Het ligt in de buurt van Oughterard en Clifden, aan de N59 naar Lough Corrib, in Connemara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hoewel de uitsluiting van zwarte spelers geen geschreven regel was, had sinds 1933 geen enkele Afro-Amerikaan meer in de National Football League gespeeld.",
+        "sentence2": "Hoewel de uitsluiting van Afrikaanse spelers geen geschreven regel was, had sinds 1933 geen enkele zwarte Amerikaanse speler in de National Football League gespeeld.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Muawiyah kwam aan de macht na de dood van Ali en stichtte een dynastie.",
+        "sentence2": "Na de dood van Muawiyah kwam Ali aan de macht en stichtte een dynastie.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In 1994 verliet Rodrigo Leão de band om een solocarrière te beginnen en werd hij vervangen door Carlos Maria Trindade (toetsenbordsynthesizer).",
+        "sentence2": "In 1994 verliet Rodrigo Leão de band om een solocarrière te beginnen en werd vervangen door Carlos Maria Trindade (toetsenbordsynthesizer).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In 1933 schreef Cattell dat van alle Noordse rassen ‘het Europese ras het meest ontwikkeld was wat betreft intelligentie en stabiliteit van temperament’.",
+        "sentence2": "In 1933 schreef Cattell dat van alle Noordse rassen “het Europese ras qua intelligentie en stabiliteit van temperament het meest ontwikkeld was”.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Abies lasiocarpa, gewoonlijk de westelijke Noord-Amerikaanse spar of Rocky Mountain-spar genoemd, is een subalpiene dennenboom.",
+        "sentence2": "Abies lasiocarpa, algemeen bekend als de westelijke Noord-Amerikaanse spar of Rocky Mountain-spar, is een subalpiene dennenboom.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "American Motors verleende slechts technische steun in de vorm van beperkte hulp.",
+        "sentence2": "American Motors verleende slechts technische ondersteuning in de vorm van beperkte hulp.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het Houston Main Building (HMB), voorheen het Prudential Building, was een wolkenkrabber in het Texas Medical Center in Houston, Texas.",
+        "sentence2": "Het Houston Main Building (HMB), voorheen het Prudential Building, was een wolkenkrabber in het Texas Medical Center, Houston, Texas.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Na zijn terugkeer naar Paramaribo in 1954 vestigde hij zich als advocaat in Suriname.",
+        "sentence2": "Na zijn terugkeer naar Suriname in 1954 vestigde hij zich als advocaat in Paramaribo.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De crash van Aerosucre-vlucht 4544 was het eerste luchtvaartincident waarbij Aerosucre betrokken was, het tweede was de crash van een andere Boeing 727 op 18 november 2006.",
+        "sentence2": "De crash van Aerosucre-vlucht 4544 was het tweede vliegincident waarbij Aerosucre betrokken was, het eerste was de crash van een andere Boeing 727 op 18 november 2006.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De Cabot Trail-Episode werd ter plaatse gefilmd in Cape Breton, inclusief Peggys Cove en de hooglanden van Nova Scotia, langs de oostkust.",
+        "sentence2": "De aflevering aan de oostkust werd gefilmd op locatie in Nova Scotia, inclusief Peggy's Cove en de hooglanden van Cape Breton, langs de Cabot Trail.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Een andere manier om de hertenpopulatie te reguleren is door het geboortecijfer onder controle te houden.",
+        "sentence2": "Een andere manier om de hertenpopulatie te reguleren is door het geboortecijfer onder controle te houden.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het gedicht is bewaard gebleven in vier fragmentarische manuscripten, waarvan er één eigentijds is.",
+        "sentence2": "Het gedicht is opgeslagen in vier hedendaagse manuscripten, waarvan er één fragmentarisch is:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Manu Chao, de groepen `` Air '', Cassius, Mars IV, Les Négresses Vertes en FFF, en Howie B namen ook deel aan het album.",
+        "sentence2": "Ook de groepen '' Air '', Howie B, Mars IV, Les Négresses Vertes en FFF en Manu Chao werkten mee aan het album.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De Hudeasa-rivier is een zijrivier van de Bradu-rivier in Roemenië.",
+        "sentence2": "De Hudeasa-rivier is de zijrivier van de Bradu-rivier in Roemenië.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hoewel de uitsluiting van Afrikaanse spelers geen geschreven regel was, had sinds 1933 geen enkele zwarte Amerikaanse speler in de National Football League gespeeld.",
+        "sentence2": "Hoewel de uitsluiting van zwarte spelers geen geschreven regel was, had sinds 1933 geen enkele Afro-Amerikaan meer in de National Football League gespeeld.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Zijn vader Patrick Byrne was parlementslid, TD, senator en burgemeester van Dublin. Een andere broer Alfie Byrne was ook WL.",
+        "sentence2": "Zijn vader, Patrick Byrne, was een afgevaardigde, senator en burgemeester van Dublin, een andere broer Alfie Byrne was ook TD.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De eerste serie werd door critici beter ontvangen dan de tweede.",
+        "sentence2": "De tweede serie werd door de critici beter ontvangen dan de eerste.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fanwood ligt in het 12e Congresdistrict en maakt deel uit van het 22e Wetgevende District van New Jersey.",
+        "sentence2": "Fanwood ligt in het 22e Congresdistrict en maakt deel uit van het 12e wetgevende district van New Jersey.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Santa Cruz ligt aan de oevers van de Santa Cruz-rivier die uitmondt in het oostelijke deel van Laguna de Bay.",
+        "sentence2": "Laguna de Bay ligt aan de oevers van de rivier Santa Cruz, die uitmondt in het oostelijke deel van Santa Cruz.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De Porte de Vincennes ligt waar de zuidoostelijke hoek van het 20e arrondissement de noordoostelijke hoek van het 12e arrondissement van Parijs ontmoet.",
+        "sentence2": "De Porte de Vincennes ligt waar de noordoostelijke hoek van het 12e arrondissement de zuidoostelijke hoek van het 20e arrondissement van Parijs ontmoet.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Op 5 maart 2011 plaatste MTV Hive een streaminglink naar Anni Rossi, waarin Rihanna's Rude Boy speelde.",
+        "sentence2": "Op 5 maart 2011 plaatste MTV Hive een streaminglink naar Rihanna, met Anni Rossi 'Rude Boy'.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Koning Qi ontmoette koning Zhao van Qin in het westen van Zhou in 284 voor Christus om een alliantie tegen Xi te vormen.",
+        "sentence2": "In 284 voor Christus had koning Qi een ontmoeting met koning Zhao van Qin in West-Zhou om een alliantie tegen Xi te vormen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De administratieve regio Chenzhou in de Tang-dynastie staat onder het bestuur van het moderne Henan in het oosten van Zhoukou:",
+        "sentence2": "De administratieve regio Chenzhou in de Tang-dynastie staat onder het bestuur van het moderne Henan in het oosten van Zhoukou:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "'Puur' betekent eenvoudigweg, en 'Belter' of 'Belta' betekent groots of goed.",
+        "sentence2": "`` Puur '' betekent gewoonweg heel en `` Belter '' of `` Belta '' betekent goed of groot.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stephen Stephen trouwde op 29 augustus 1806 door Benjamin Hough, vrederechter, in Jefferson County, Elizabeth Core.",
+        "sentence2": "`` 2 '' Benjamin Hough trouwde op 29 augustus 1806 door Stephen Ford, vrederechter, in Jefferson County met Elizabeth Core.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De soort werd voor het eerst formeel beschreven door de botanicus Stephan Endlicher in 1846 als onderdeel van het werk 'Irideae' van Johann Georg Christian Lehmann. Plantae Preissianae ''.",
+        "sentence2": "De soort werd voor het eerst formeel beschreven in 1846 door de botanicus Stephan Endlicher als onderdeel van het werk `` Irideae Plantae Preissianae '' van Johann Georg Christian Lehmann.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In 1912 hield het Indian National Congress zijn 27e zitting in Bankipore onder het presidentschap van Rao Bahadur Raghunath Narasinha Mudholkar uit Amravati, de centrale provincies en Berar.",
+        "sentence2": "In 1912 hield het Indian National Congress zijn 27e zitting in Bankipore, onder het voorzitterschap van Rao Bahadur Raghunath Narasinha Mudholkar uit de centrale provincies Amravati en Berar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De meest gebruikte dierlijke vezel is schapenwol. Voor handbreien en hobbybreien worden vaak dikke, wollen en acrylgarens gesponnen.",
+        "sentence2": "De meest gesponnen dierlijke vezel is schapenwol. Voor handbreisels en hobbybreien worden vaak dikke wol- en acrylgarens gebruikt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tipico Co. Ltd en Tipico Casino Ltd werden in 2004 opgericht als internationale handelsbedrijven in het handelsregister van de Malta Financial Services Authority.",
+        "sentence2": "Tipico Co. Ltd en Tipico Casino Ltd werden in 2004 opgericht als internationale handelsbedrijven in het handelsregister van de Malta Financial Services Authority.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het ligt dicht bij Lough Corrib, aan de N59 naar Oughterard en Clifden, in Connemara.",
+        "sentence2": "Het ligt in de buurt van Oughterard en Clifden, aan de N59 naar Lough Corrib, in Connemara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Op 14 september 2006 werd Lang ondertekend door de Washington Wizards en in juli 2017 vrijgelaten door de Wizards.",
+        "sentence2": "Op 14 september 2006 werd Lang ondertekend door de Washington Wizards. In juli 2017 werd Lang vrijgelaten door de Wizards.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De single werd op 12 oktober 2012 uitgebracht op Radio Airplay in Italië en op 3 december 2012 wereldwijd verzonden.",
+        "sentence2": "De single werd op 12 oktober 2012 in Italië naar de radio uitgezonden en op 3 december 2012 wereldwijd uitgebracht.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Na zijn diensttijd woonde Lockhart in Texas, maar verhuisde onlangs naar Florida.",
+        "sentence2": "Na zijn diensttijd woonde Lockhart in Florida, maar verhuisde onlangs naar Texas.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De soort komt voor in Noord-Amerika, waar hij werd geregistreerd van Newfoundland en Labrador in het westen tot British Columbia, in het noorden tot Alaska en de Yukon.",
+        "sentence2": "De soort komt voor in Noord-Amerika, waar de soort is waargenomen van Newfoundland en Labrador in het westen tot British Columbia, in het noorden tot Alaska en de Yukon.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dit westelijke district Randallstown omvat Woodlawn, Milford Mill en Baltimore County.",
+        "sentence2": "Dit westelijke district Randallstown omvat Woodlawn, Milford Mill en Baltimore County.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij werd getraind door John Velazquez en gereden door Jockey Dale Romans in zijn belangrijkste race.",
+        "sentence2": "Hij werd getraind door Dale Romans en gereden door Jockey John Velazquez tijdens zijn belangrijkste races.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tijdens zijn verblijf in Savannah hoorde Charles Celestine uit een krant dat zijn zoon, Sherman, was gestorven tijdens de Savannah-campagne; de generaal had het kind nooit gezien.",
+        "sentence2": "Terwijl hij in Savannah was, hoorde Charles Celestine uit een krant dat zijn zoontje Sherman was gestorven tijdens de Savannah-campagne; de generaal had het kind nog nooit gezien.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De hoes is ontworpen door de heraldische kunstenaar John Pasche en de single `` Steel Monkey '' heeft de hoes ontworpen van Art Director Andrew Stewart Jamieson.",
+        "sentence2": "De hoes is ontworpen door de heraldische kunstenaar Andrew Stewart Jamieson, de single `` Steel Monkey '' heeft de hoes ontworpen van Art Director John Pasche.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De MacCormack-methode is een veelgebruikt discretisatieschema voor de numerieke oplossing van partiële hyperbolische differentiaalvergelijkingen.",
+        "sentence2": "In de computationele vloeistofdynamica is de MacCormack-methode een veelgebruikt discretisatieschema voor de hyperbolische partiële differentiaaloplossing van numerieke vergelijkingen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wright verhuisde van Chapel Hill, NC naar New York.",
+        "sentence2": "Wright verhuisde vanuit Chapel Hill, NC naar New York.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De medeklinker-ejectief is een soort velaire klank die in sommige gesproken talen wordt gebruikt. Het symbool in het Internationale Fonetische Alfabet, dat deze klank vertegenwoordigt.",
+        "sentence2": "Het Velar-Ejectief is een soort medeklinkerklank die in sommige gesproken talen wordt gebruikt. Het symbool in het Internationale Fonetische Alfabet, dat is deze klank.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De Europese activiteiten werden onderdeel van Ebel, terwijl de Aziatische activiteiten werden verkocht aan de Hongkongse ondernemer Joseph Wong en nu behoren tot Stelux Holdings.",
+        "sentence2": "De Europese activiteiten werden onderdeel van Ebel terwijl de Aziatische activiteiten werden verkocht aan de Hongkongse ondernemer Joseph Wong en nu onderdeel zijn van Stelux Holdings.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vroege leden van de adviesraad waren onder meer Alistair Cooke, Saul Bellow, Walter Cronkite, Norman Cousins, Gore Vidal en Norman Podhoretz.",
+        "sentence2": "Vroege adviserende leden waren onder meer Walter Cronkite, Norman Vetter, Gore Vidal, Norman Podhoretz, Saul Bellow en Alistair Cooke.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Petkeljärvi National Park is een nationaal park in Ilomantsi in de regio Noord-Karelië in Finland.",
+        "sentence2": "Het Petkeljärvi Nationaal Park is een nationaal park in Finland in de regio Ilomantsi in Noord-Karelië.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ze publiceerden op 13 juni ook het vijfde nummer van het album, `` Vices '', als tweede single van het album.",
+        "sentence2": "Ze brachten op 13 juni ook het vijfde nummer van het album, `` Vices, '' uit als de tweede single van het album.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Stoke versloeg Sheffield Wednesday en Huddersfield Town voordat hij in de vierde ronde verloor van Peterborough United.",
+        "sentence2": "Stoke versloeg Peterborough United en Huddersfield Town voordat hij in de vierde ronde verloor van Sheffield Wednesday .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Toen hem werd gevraagd hoe hij zijn naam moest uitspreken, zei hij tegen 'The Literary Digest'. Mijn naam wordt uitgesproken als 'oor'; en-house '' gespeld.",
+        "sentence2": "Toen hem werd gevraagd hoe hij zijn naam moest uitspreken, zei hij tegen 'The Literary Digest'. Mijn naam wordt gespeld alsof deze wordt uitgesproken: oor 'apos; enhuis `` .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De teelt werd in 1880 geïntroduceerd door Fernando Heydrich in Matanzas op Cuba.",
+        "sentence2": "In Matanzas werd de teelt ervan in 1880 geïntroduceerd door Fernando Heydrich in Cuba.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Als er meerdere grammaticale categorieën in een zin voorkomen, wordt alleen de eerste gemarkeerd met het meervoud.",
+        "sentence2": "Als er meerdere grammaticale categorieën in een zin voorkomen, wordt alleen het meervoud als eerste gemarkeerd.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het regime verliet Philadelphia in oktober 1777 om zich bij het hoofdleger van generaal George Washington buiten Boston aan te sluiten.",
+        "sentence2": "Het regiment verliet Philadelphia in oktober 1777 om zich bij het hoofdleger van generaal George Washington buiten Boston te voegen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In 1974 richtte Laos het Fase II-fonds op met de hulp van de Wereldbank, de Verenigde Naties en de Aziatische Ontwikkelingsbank.",
+        "sentence2": "Met de steun van de Wereldbank, de Verenigde Naties en de Aziatische Ontwikkelingsbank richtte Laos in 1974 het Fase II-fonds op.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Later gebruikte hij het als symbool voor de nazi-partij en plaatste het op een witte cirkel en een rode achtergrond om het als vlag te gebruiken.",
+        "sentence2": "Later gebruikte hij het als symbool voor de nazi-partij en plaatste het op een rode cirkel en een witte achtergrond om het als vlag te gebruiken.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Om de kaart voor Hoth te ontwikkelen hebben de ontwerpers zoveel mogelijk bronmateriaal van 'The Empire Strikes Back' ontvangen om een authentieke reproductie te creëren.",
+        "sentence2": "Om de kaart voor Hoth te maken, hebben de ontwerpers zoveel mogelijk bronmateriaal van 'The Empire Strikes Back' verkregen om een authentieke reproductie te ontwikkelen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hij is getrouwd met Elizabeth `` Betsy '' Katz. Hij is de vader van Adam, Nathaniel en Sara Hundt.",
+        "sentence2": "Hij is getrouwd met Elizabeth `` Betsy '' Katz, vader van Adam, Nathaniel en Sara Hundt.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Een huis is geladen met boze energie en geeft vorm aan de necromantische geest binnenin.",
+        "sentence2": "Een huis wordt geladen met necromantische energie en geeft vorm aan de boze geest binnenin.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Terwijl Oros onder Walker aan de auto- en vrachtwagenontwerpen van Ford werkte, concentreerde Engel zich op Lincoln- en Mercury-voertuigen.",
+        "sentence2": "Terwijl Oros onder Walker aan de auto- en vrachtwagenontwerpen van Ford werkte, concentreerde Engel zich op Lincoln- en Mercury-voertuigen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hirasea goniobasis is een soort terrestrische, longvormige, luchtademende landslak, een klein buikpotig weekdier uit de familie Endodontidae.",
+        "sentence2": "Hirasea goniobasis is een soort kleine lucht-ademende slak, een terrestrische longpotige weekdier uit de familie Endodontidae.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Premaligne laesies zijn blijkbaar een typisch weefsel dat bij microscopisch onderzoek abnormaal lijkt, en waarin de kans op kanker groter is dan in zijn morfologisch normale tegenhanger.",
+        "sentence2": "Premaligne laesies zijn blijkbaar een typisch weefsel, dat bij microscopisch onderzoek abnormaal lijkt en waarin kanker waarschijnlijker is dan zijn morfologisch normale tegenhanger.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Abu Halifa of Abu Hulayfah of Abu Huleifa of Abu Haleifah is een klein stadje in het Koeweit van Al Ahmadi gouvernement in het zuidelijke district Abu Halifa.",
+        "sentence2": "Abu Halifa of Abu Hulayfah of Abu Huleifa of Abu Haleifah is een kleine stad in Koeweit van het Al Ahmadi-gouvernement in het zuidelijke district Abu Halifa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Israel is een album van de Amerikaanse jazztrombonisten Kai Winding en JJ Johnson met optredens uitgebracht in 1968 en opgenomen op de C",
+        "sentence2": "Israel is een album van de Amerikaanse jazztrombonisten Kai Winding en JJ Johnson met uitvoeringen gepubliceerd in 1968 en opgenomen op C.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In 2014 schreef Adam een gotische trilogie, herzieningen van klassieke verhalen Frankenstein, The Corruption of Dorian Gray en Jekyll Hyde Corpus Delicti",
+        "sentence2": "In 2014 schreef Adam een gotische trilogie, herwerkingen van klassieke verhalen Frankenstein, The Corruption Of Dorian Gray en Jekyll & Hyde Corpus Delicti",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mevrouw Glad had in Ovamboland gewerkt in 1901 – 1919 en 1926 – in 1936 en was daar de eerste inspecteur van scholen.",
+        "sentence2": "Mevrouw Glad had in Ovamboland gewerkt in de jaren 1901 – 1919 en 1926 – 1936, en had daar opgetreden als de eerste inspecteur van scholen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij beschrijft dit als een nieuwe ontdekking van het schrijven van fictie en beschouwt het als een mytho-realisme van de Chinese literatuur.",
+        "sentence2": "Hij beschouwt dit als een ‘nieuwe ontdekking’ van het schrijven van fictie, en noemt het een ‘mythorealisme’ van de Chinese literatuur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In 1953 toerde het team ook door Australië en in augustus 1959 door Azië.",
+        "sentence2": "Het team toerde ook door Australië in 1953 en Azië in augustus 1959.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ronnie Fields speelde geen enkele wedstrijd in de NBA of de NCAA.",
+        "sentence2": "Ronnie Fields speelde geen enkele wedstrijd in de NCAA of in de NBA.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De nieuwe speeltuin is uitgerust met moderne fitnessapparatuur voor kinderen.",
+        "sentence2": "De speeltuin is modern ingericht met nieuwe fitnessapparatuur voor de kinderen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Probuccinum tenerum is een soort zeeslak, een echt buikpotig weekdier uit de familie Buccinidae, de wulken.",
+        "sentence2": "Probuccinum tenerum is een soort zeeslak, een marien buikpotig weekdier uit de familie Buccinidae, de echte wulken.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abraham Hart was president en Mayer Sulzberger secretaris van de Trustees.",
+        "sentence2": "President was Mayer Sulzberger, en Abraham Hart was secretaris van de Trustees.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Juhi Chawla heeft twee kinderen met vrouw Jahnavi Mehta, een meisje, Mehta (geboren 2001) en een jongen, Arjun Mehta (geboren 2003).",
+        "sentence2": "Mehta heeft twee kinderen met vrouw Juhi Chawla, een meisje, Jahnavi Mehta (geboren in 2001) en een jongen, Arjun Mehta (geboren 2003).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De mate van onderscheid tussen protestantse en katholieke tendensen binnen de specifieke anglicaanse traditie is routinematig een kwestie van debat, zowel binnen de anglicaanse kerken als in de hele anglicaanse gemeenschap.",
+        "sentence2": "De mate van onderscheid tussen protestantse en katholieke tendensen binnen de anglicaanse traditie is routinematig een kwestie van discussie binnen zowel specifieke anglicaanse kerken als in de hele anglicaanse gemeenschap.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School was een selectieve school voor meisjes in Slough, Buckinghamshire, nu Berkshire.",
+        "sentence2": "Slough High School was een meisjesselectieve middelbare school in Slough, Buckinghamshire, nu Berkshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus is een regionale brouwerij met invloeden van Duitse stijl.",
+        "sentence2": "Lobethal Bierhaus is een regionale bierbrouwerij, met Duitse invloeden.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Long werd geboren in Israël, migreerde als jonge man naar Australië en vestigde zich daar in 1961.",
+        "sentence2": "Lang werd geboren in Australië, migreerde als jonge man naar Israël en vestigde zich daar in 1961.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hij trok zich terug in Milwaukee, Wisconsin, waar hij op 5 mei 1903 stierf.",
+        "sentence2": "Hij stierf in Wisconsin, Milwaukee, waar hij op 5 mei 1903 met pensioen ging.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De kleur van de hoed varieert van bruin tot bruin, vaak met een gele vlek op de hoed op de vervaldag.",
+        "sentence2": "De kleur van de hoed varieert van bruin tot geel, vaak met een bruine vlek op de hoed op de vervaldag.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De rivier Valea lui Lambă of `` unk '' imon rivier is een zijrivier van de rivier de Lom in Roemenië.",
+        "sentence2": "De rivier Valea lui Lambă of Șimon is een zijrivier van de rivier de Lom in Roemenië.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het voltooide hekwerk bevindt zich voornamelijk in Texas, terwijl de bouw plaatsvindt in New Mexico, Arizona en Californië.",
+        "sentence2": "Het voltooide hekwerk bevindt zich voornamelijk in Texas, terwijl er wordt gebouwd in New Mexico, Arizona en Californië.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Buccinum pulchellum is een soort zeeslak, een marien buikpotig weekdier uit de familie Buccinidae, de echte whell-hoornrollen.",
+        "sentence2": "Buccinum pulchellum is een soort zeeslak, een echt buikpotig weekdier uit de familie Buccinidae, de mariene wulken.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Op 30 april 1983 stortte een C-311, toegewezen aan NAS Guantanamo Bay, Cuba, neer bij NAS Jacksonville, waarbij 13 mensenlevens verloren gingen.",
+        "sentence2": "Op 30 april 1983 stortte een C-311 die was toegewezen aan NAS Jacksonville, Cuba, bij NAS Guantanamo Bay neer, waarbij 13 levens verloren gingen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Als beloning voor zijn loyaliteit aan Henry verwierf hij lucratieve gronden en vele kantoren in Zuid-Wales.",
+        "sentence2": "Als beloning voor zijn loyaliteit aan Henry verwierf hij veel landerijen en lucratieve kantoren in Zuid-Wales.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In 2010 versloeg New York University Harvard University met 3-1-1 om het eerste nationale kampioenschap te winnen.",
+        "sentence2": "In 2010 versloeg New York University Harvard University met 3-1-1 en won zo het eerste nationale kampioenschap.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De rivier Neajlovel is een zijrivier van de rivier de Neajlov in Roemenië.",
+        "sentence2": "De Neajlov-rivier is een zijrivier van de Neajlovel-rivier in Roemenië.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het bureau heeft zijn hoofdkantoor in Arlington, Virginia, en zijn overzeese kantoor in Parijs, Frankrijk.",
+        "sentence2": "Het agentschap heeft zijn hoofdkantoor in Arlington, Virginia, en zijn Overseas Operations Office in Parijs, Frankrijk.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De Neajlov-rivier is een zijrivier van de Neajlovel-rivier in Roemenië.",
+        "sentence2": "De rivier Neajlovel is een zijrivier van de rivier de Neajlov in Roemenië.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ahmad Yar Khan werd geboren in de Tiwana-familie van Shahpur, zoon van Sahib Khan.",
+        "sentence2": "Sahib Khan werd geboren in de Tiwana-familie van Shahpur, de zoon van Ahmad Yar Khan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Geboren in Brooklyn, New York, stierf hij in Tiburon, Californië.",
+        "sentence2": "Het werd geboren in Tiburon, Californië, en stierf in Brooklyn, New York.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Voorstellen van Met om uit te breiden van Paddington naar South Kensington en ten zuiden van Moorgate naar Tower Hill in het zuiden werden aanvaard en kregen op 29 juli 1864 koninklijke toestemming.",
+        "sentence2": "Suggesties van Met om zich uit te breiden van Paddington tot South Kensington en ten oosten van Moorgate tot Tower Hill in het zuiden werden aanvaard en kregen op 29 juli 1864 koninklijke toestemming.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het gedicht is bewaard gebleven in vier fragmentarische manuscripten, waarvan een contemporain exemplaar.",
+        "sentence2": "Het gedicht is bewaard gebleven in vier hedendaagse manuscripten, waarvan er één gefragmenteerd is:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De gemeenteraad van Webster Grove bestond uit leden van de raad Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt en Anne Tolan.",
+        "sentence2": "De gemeenteraad van Webster Groves bestond uit raadsleden Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt en Anne Tolan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Daarom geven de dalende smelt- en kookpunten van de alkalimetalen aan dat de sterkte van de metaalbindingen van de alkalimetalen in de groep afneemt.",
+        "sentence2": "Daarom geven de dalende smelt- en kookpunten van de alkalimetalen aan dat de sterkte van de metaalbindingen van de alkalimetalen in de groep afneemt.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Scrivener dateert het manuscript in de 13e eeuw, CR Gregory in de 12e eeuw. Momenteel wordt het manuscript door INTF gedateerd in de 12e eeuw.",
+        "sentence2": "Scrivener dateerde het manuscript in de 12e eeuw, CR Gregory in de 13e eeuw. Momenteel wordt het manuscript door de INTF gedateerd in de 12e eeuw.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "County Road 540 ligt een paar kilometer ten westen van State Road 540 in Highland City en loopt zuidwaarts van US 98 naar County Road 37B.",
+        "sentence2": "County Road 540 ligt een paar kilometer ten zuiden van State Road 540 in Highland City en loopt westwaarts van US 98 naar County Road 37B.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De SPB heeft een constante hoogte (afstand van binnenste plaque tot buitenste plaque) gedurende ongeveer 150 nm, maar de diameter verandert tijdens de celcyclus, z.",
+        "sentence2": "De SPB heeft een binnenhoogtegrootte (de afstand van de buitenste plaque tot een constante plaque) van ongeveer 150 nm, maar de diameter verandert bijvoorbeeld tijdens de celcyclus.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rami Nieminen (geboren 25 februari 1966) is een Finse voormalig voetballer.",
+        "sentence2": "Rami Nieminen (geboren 25 februari 1966) is een Finse voetballer.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij was de neef van de Tsjechische nationale speler Miroslav Hlinka en zoon van oud-speler Jaroslav Hlinka sr.",
+        "sentence2": "Hij was de neef van de Tsjechische nationale teamspeler Miroslav Hlinka en de zoon van oud-speler Jaroslav Hlinka sr.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ze waren daar om voor ons te bidden en ze waren daar om van ons te genieten.",
+        "sentence2": "Ze waren er voor ons om te bidden en ze waren er voor ons om van te genieten.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "William Llewelyn Williams, beter bekend als Llewelyn Williams (10 maart 1867 - 22 april 1922), was een radicale journalist, advocaat en politicus van de liberale partij uit Wales.",
+        "sentence2": "William Williams, beter bekend als Llewelyn Williams (10 maart 1867 - 22 april 1922), was een Welshe journalist, advocaat en radicale liberale partijpoliticus.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De Giant Plane is de derde grootste en oudste boom in Polen en de dikste plataan van Londen.",
+        "sentence2": "De Giant Plane is de derde grootste en oudste boom in Polen, en de dikste Londense plataan van het land.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Molmys River is een rivier in Perm Krai, Rusland, een zijrivier van de Yazva-rivier aan de linkerkant.",
+        "sentence2": "Yazva is een rivier in Kraj Perm, Rusland, een linker zijrivier van de rivier de Molmys.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sarika vraagt Kabir om zijn plan te beëindigen om hem het spel van Ranvir te onthullen.",
+        "sentence2": "Kabir vraagt Sarika om zijn plan te onthullen om het spel van Ranvir te beëindigen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tot de komst van de elektronische en digitale videotechnologie was de massaproductie van pornofilms rechtstreeks verbonden met de reguliere filmindustrie.",
+        "sentence2": "De massaproductie van elektronische en digitale films was tot de komst van pornografische videotechnologie rechtstreeks gekoppeld aan de gevestigde filmindustrie.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Terwijl de 33d Fighter Group inactief was, werd deze geconsolideerd met de 33d Tactical Group als de 33d Tactical Fighter Group.",
+        "sentence2": "Terwijl de 33d Tactical Group inactief was, werd deze geconsolideerd als 33d Tactical Fighter Group met de 33d Fighter Group.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het dient voor de zuidoostelijke buitenwijk Edithvale van Melbourne, geopend op 20 september 1919.",
+        "sentence2": "Het bedient de zuidoostelijke buitenwijk Edithvale van Melbourne, geopend op 20 september 1919.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Massé werd geboren in Westchester County, New York, groeide op in Holland, Michigan, en woonde tijdens haar tienerjaren in Europa.",
+        "sentence2": "Massé werd geboren in Westchester County, New York, groeide op in Holland, Michigan, en woonde tijdens haar tienerjaren in Europa.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fishman heeft een bachelordiploma van Columbia University en een masterdiploma in economie van Brown University.",
+        "sentence2": "Fishman heeft een bachelordiploma van Brown University en een masterdiploma van Columbia University Economics.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Na haar succes huurde Jane Campion Jones in voor een televisieminiserie die uitmondde in de film Angel at my Table, een bewerking van de autobiografie van Janet Frame.",
+        "sentence2": "Na haar succes was Jane Campion Jones een bewerking van de autobiografie van Janet Frame voor een televisieminiserie die uitmondde in de film Angel at my Table.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stipsits werd geboren in Wenen en bracht zijn jeugd door in Stammersdorf, Korneuburg.",
+        "sentence2": "Stipsits werd geboren in Wenen en bracht zijn jeugd door in Stammersdorf, Korneuburg.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Navarro is een partido in het noordoosten van de provincie Buenos Aires in Argentinië.",
+        "sentence2": "Navarro is een partido in het noordoosten van Argentinië in de provincie Buenos Aires.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stroomopwaarts ligt de buiten gebruik gestelde Michigan Central Railway Bridge, die met zijn voorganger, de Niagara Cantilever Bridge, concurreerde met de Rapids Bridge whirlpool voor spoorvervoer.",
+        "sentence2": "Stroomopwaarts ligt de buiten gebruik gestelde Michigan Central Railway Bridge, die met zijn voorganger, de Rapids Bridge whirlpool, concurreerde met de Niagara Cantilever Bridge voor het spoorwegverkeer.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het nummer is geschreven en geproduceerd door het gala, dat werd gecomponeerd door Filippo Andrea Carmeni en Maurizio Molella.",
+        "sentence2": "Het nummer is geschreven en gecomponeerd door Gala, geproduceerd door Filippo Andrea Carmeni en Maurizio Molella.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Retzius werd geboren in Stockholm, zoon van de anatoom Anders Jahan Retzius (en kleinzoon van de natuuronderzoeker en scheikundige Anders Retzius).",
+        "sentence2": "Retzius werd geboren in Stockholm, de zoon van anatoom Anders Retzius (en kleinzoon van de natuuronderzoeker en scheikundige Anders Jahan Retzius).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bij de volkstelling van 2011 was 78,8% van de inwoners Roemenen, 17% Roma, 2,7% Hongaren en 1,4% Duitsers.",
+        "sentence2": "Bij de volkstelling van 2011 was 78,8% van de inwoners Roma, 17% Hongaren, 2,7% Roemenen en 1,4% Duitsers.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het museum is centraal gelegen in het CBD van Jiangbeizui, vlakbij de samenvloeiing van de Jialing-rivier en de Yangtze-rivier.",
+        "sentence2": "Het museum is centraal gelegen in het CBD van Jiangbeizui, vlakbij de samenvloeiing van de Jialing-rivier en de Yangtze-rivier.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Robbins werd geboren in Coventry op 21 september 1933, met zijn tweelingbroer David, het achtste en negende kind van twaalf van Charles en Jessamine Robbins.",
+        "sentence2": "David werd geboren op 21 september 1933 in Coventry met zijn tweelingvader Charles en Jessamine Robbins, het achtste en negende kind van twaalf van Robbins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het bataljon wordt onderhouden door de Queen's York Rangers (1st American Regiment) (RCAC).",
+        "sentence2": "Het bataljon wordt bestendigd door The Queen's York Rangers (RCAC) (1st American Regiment).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Katz werd in 1947 in Zweden geboren en verhuisde op éénjarige leeftijd naar New York.",
+        "sentence2": "Katz werd in 1947 in New York City geboren en verhuisde op 1-jarige leeftijd naar Zweden.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De afbeelding op de pagina is een tweedimensionale afbeelding, in tegenstelling tot vooraf weergegeven 3D.",
+        "sentence2": "De afbeelding aan de zijkant is een tweedimensionaal beeld, in tegenstelling tot vooraf weergegeven 3D.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "'Gestopt' licht verwijst, in de context van een EIT-medium, naar de 'kwantum'-overdracht van fotonen naar het coherente systeem en weer terug.",
+        "sentence2": "`` Gestopt '' Licht verwijst in de context van een EIT-medium naar de `` kwantum '' overdracht van fotonen naar het coherente systeem en de terugkeer.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het vorige gemiddelde is belangrijker voor hoge waarden van formule _ 2 .",
+        "sentence2": "Voor hoge waarden van de Formule 2 is het huidige gemiddelde belangrijker.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tot de prominente vrouwen van Suriname behoren Jennifer Simons, Marijke Djwalapersad, Elisabeth Samson, Cynthia McLeod en Ruth Wijdenbosch.",
+        "sentence2": "Tot de meest prominente vrouwen van Suriname behoren Jennifer Simons, Marijke Djwalapersad, Elisabeth Samson, Cynthia McLeod en Ruth Wijdenbosch.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In 1924 was hij een uitgenodigde woordvoerder van de ICM in Toronto, in Oslo in 1932 en in 1936 in Zürich.",
+        "sentence2": "In 1924 was hij een uitgenodigde woordvoerder van de ICM in Toronto, in 1932 in Zürich en in 1936 in Oslo.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De BBC World Service zond ook een versie uit genaamd 'Animal, Plantaardig and Mineral', voorgezeten door Michael Flanders met een panel met onder meer Terry Wogan.",
+        "sentence2": "De BBC World Service toonde ook een versie genaamd 'Animal, Plantaardig and Mineral', voorgezeten door Michael Flanders, met een panel met Terry Wogan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Thompson's jongere broer, Julia, werd geboren in 1863 in Charles Martin Hall, Geauga County, Ohio.",
+        "sentence2": "Julia's jongere broer, Charles Martin Hall, werd in 1863 geboren in Thompson, Geauga County, Ohio.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De Horezu-rivier is een zijrivier van de Ponoru-rivier in Roemenië.",
+        "sentence2": "De Ponoru-rivier is een zijrivier van de Horezu in Roemenië.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In 2002 werd het nummer uitgegeven door de Britse producer Vincent Stormfield en door Independiente gecoverd als '' Sweet Harmony 02 ''.",
+        "sentence2": "In 2002 werd het nummer gecoverd door de Britse producer Vincent Stormfield en uitgebracht als 'Sweet Harmony '02' door Independiente.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "David werd geboren op 21 september 1933 in Coventry met zijn tweelingvader Charles en Jessamine Robbins, het achtste en negende kind van twaalf van Robbins.",
+        "sentence2": "Robbins werd geboren op 21 september 1933 in Coventry, met zijn tweelingbroer David, het achtste en negende kind van de twaalf van Charles en Jessamine Robbins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het regiment verliet Boston in oktober 1777 om zich bij het hoofdleger van generaal George Washington buiten Philadelphia te voegen.",
+        "sentence2": "Het regime verliet Philadelphia in oktober 1777 om zich bij het hoofdleger van generaal George Washington buiten Boston aan te sluiten.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De verbinding is ontwikkeld door Dr. Patrick Page en zijn team en werd in 2007 gepatenteerd door Genkyotex.",
+        "sentence2": "De verbinding werd gepatenteerd door Dr. Patrick Page en zijn team en werd in 2007 uitgevonden door Genkyotex.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De 'zaak' werd voor het laatst gebruikt in 1949 in Oost-Duitsland, in 1966 in West-Duitsland.",
+        "sentence2": "De 'Fallbeil' werd voor het laatst gebruikt in West-Duitsland in 1949, in 1966 in Oost-Duitsland.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ringo Sheena is de leider van het Saito Neko Quartet en staat bekend om zijn vele samenwerkingen met muzikant Saito.",
+        "sentence2": "Saito is het hoofd van het Saito Neko Quartet en staat bekend om zijn vele samenwerkingen met muzikant Ringo Sheena.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abu Halifa of Abu Hulayfah of Abu Huleifa of Abu Haleifah is een klein stadje in het Abu Halifa-district van het Al Ahmadi-gouvernement in het zuiden van Koeweit.",
+        "sentence2": "Abu Halifa of Abu Hulayfah of Abu Huleifa of Abu Haleifah is een klein stadje in het Koeweit van Al Ahmadi gouvernement in het zuidelijke district Abu Halifa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Zijn vader was de onwettige zoon van Anne Tothby, een parlementslid voor Lincolnshire, en William Skipwith.",
+        "sentence2": "Zijn vader was de onwettige zoon van Anne Tothby, een lid van het Lincolnshire Parlement, en William Skipwith.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Onder hen zijn Marie Teresa Rios, een componist van bolero's, Julita Ross, een auteur, en Sylvia Rexach, een zangeres.",
+        "sentence2": "Onder hen zijn Sylvia Rexach, een componist van Boleros, Marie Teresa Rios, auteur, en Julita Ross, een zangeres.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hij liet zijn vrouw Carol Ober, dochter Viola en vier kleinkinderen achter.",
+        "sentence2": "Hij liet zijn vrouw Carol Ober, zijn dochter Viola en vier kleinkinderen achter.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij zou die avond terugkeren naar het station ten westen van Tecumseh en dan met een ander paard naar Violet Springs rijden voordat zijn buren achterdochtig konden worden.",
+        "sentence2": "Hij zou die nacht naar het station reizen, gelegen ten westen van Tecumseh, en dan met een ander paard terugkeren naar Violet Springs voordat zijn buren achterdochtig konden worden.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het agentschap heeft zijn hoofdkantoor in Parijs, Frankrijk, en zijn overzeese kantoor – Operations – Office in Arlington, Virginia.",
+        "sentence2": "Het agentschap heeft zijn hoofdkantoor in Arlington, Virginia, en zijn Overseas Operations Office in Parijs, Frankrijk.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In 1964 werd het bisdom nominaal hersteld als titulair burger van de laagste (bisschoppelijke) rang.",
+        "sentence2": "In 1964 werd het bisdom nominaal hersteld als bisschopszetel van de laagste (titulaire) rang.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Zijn daaropvolgende werk in de landbouw vond voornamelijk plaats in Lincolnshire, maar hij suggereerde ook uitgebreide dijken in Norfolk, die met succes werden uitgevoerd.",
+        "sentence2": "Zijn toekomstige werk in de landbouw vond voornamelijk plaats in Norfolk, maar hij stelde ook uitgebreide dijken voor in Lincolnshire, die met succes werden uitgevoerd.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Toen Jack Nitzsche voor het eerst 'Stubborn Kind of Fellow' hoorde, was hij zo opgewonden dat hij de controle over zijn auto verloor terwijl hij met Phil Spector over Sunset Boulevard reed.",
+        "sentence2": "Toen Phil Spector voor het eerst ' Stubborn Kind of Fellow ' hoorde , was hij zo opgewonden dat hij de controle over zijn auto verloor terwijl hij met Jack Nitzsche over de Sunset Boulevard reed .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De communisten waren er vast van overtuigd dat de Central Intelligence Agency deze protesten discreet financieel en anderszins steunde.",
+        "sentence2": "De communisten geloofden discreet dat de Central Intelligence Agency deze protesten zowel financieel als anderszins krachtig steunde.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De soorten zijn lid van verschillende ecologische groepen, waaronder xerofytische struiken, lianen en bomen, tropische planten, mycoheterotrofie, evenals verschillende kruidenvertegenwoordigers.",
+        "sentence2": "De soorten zijn lid van verschillende ecologische groepen, waaronder tropische struiken, lianen en bomen, xerofytische planten, mycoheterotrofe planten en verschillende plantaardige vertegenwoordigers.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De khan rukte op met een escorte, Tsitsianov reed met twee andere mannen en werd doodgeschoten.",
+        "sentence2": "De Khan rukte op met een escorte, Tsitsianov reed met twee andere mannen en werd doodgeschoten.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sculcoates heeft een bibliotheek, een postkantoor, een zwembad genaamd Beverley Road Baths, een middelbare school en twee basisscholen.",
+        "sentence2": "Sculcoates heeft een bibliotheek, een postkantoor, een zwembad genaamd Beverley Road Baths, een middelbare school en twee basisscholen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij werd geboren in Melbourne en migreerde met zijn gezin naar Nieuw-Zeeland toen hij 10 jaar oud was.",
+        "sentence2": "Hij werd geboren in Nieuw-Zeeland en migreerde op 10-jarige leeftijd met zijn gezin naar Melbourne.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In de geschiedenis van dergelijke apparaten ging het vooraf aan `` De Turk '' en volgde `` Mephisto '' op.",
+        "sentence2": "In de geschiedenis van dergelijke apparaten is '' De Turk '' geslaagd en '' Mephisto '' voorafgegaan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Agranat werd in 1906 geboren in Louisville, Kentucky, in een joods-zionistische familie.",
+        "sentence2": "Agranat werd in 1906 geboren in een zionistisch-joodse familie in Louisville, Kentucky.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Massé werd geboren in Westchester County, New York, groeide op in Holland, Michigan, en woonde tijdens haar tienerjaren in Europa.",
+        "sentence2": "Massé werd geboren in Holland, Michigan, groeide op in Westchester County, New York, en woonde tijdens haar tienerjaren in Europa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Deze drie moederdynastieën regeerden over het koninkrijk Waalo met de vaderlijke familie van de Mbooj.",
+        "sentence2": "Deze drie moederdynastieën regeerden over het koninkrijk Waalo met de vaderlijke familie Mbooj.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De BAC presenteert drie jaarlijkse uitvoeringen van het Minnesota Orchestra en heeft onlangs werk besteld bij Diavolo en Merce Cunningham Dance Company.",
+        "sentence2": "De BAC heeft jaarlijks drie optredens van het Minnesota Orchestra en presenteert recent werk in opdracht van Diavolo en Merce Cunningham Dance Company.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Monroe Meadows, in de Yosemite-vallei nabij Bridalveil Falls, is ook vernoemd naar George Monroe.",
+        "sentence2": "Monroe Meadows, in de zaak Bridalveil nabij Yosemite Valley, is ook genoemd naar George Monroe.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Andesiet was het dominante lavatype, waarbij sommige monsters mafisch genoeg waren om als basalt-andesiet te worden geclassificeerd.",
+        "sentence2": "Andesiet was het dominante lavatype, waarbij enkele monsters voldoende waren om als basalt-andesiet te worden geclassificeerd.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Begin 2016 werd senator Bob Hackett benoemd tot lid van de Senaat van Ohio om senator Chris Widener op te volgen, die aftrad.",
+        "sentence2": "Begin 2016 werd senator Chris Widener benoemd tot lid van de Senaat van Ohio als opvolger van senator Bob Hackett, die aftrad.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In de praktijk bestaan er mesquite ``modules'' Java-klassen, meestal abstracte subklassen van concrete klassendefinities.",
+        "sentence2": "In de praktijk zijn Mesquite ``modules'' Java-klassen meestal concrete subklassen van abstracte klassendefinities.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De paus stelde in 1980 een oplossing voor die door Chili werd verworpen en door Argentinië werd goedgekeurd.",
+        "sentence2": "De paus stelde een oplossing voor die in 1980 door Chili werd aanvaard en door Argentinië werd verworpen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In de jaren dertig en veertig werd hij vier keer gekozen voor Al Smith, in 1928 voor Franklin D. Roosevelt en voor Harry S. Truman in 1948.",
+        "sentence2": "Massachusetts stemde in 1928 op Al Smith, in de jaren dertig en veertig vier keer op Franklin D. Roosevelt, en in 1948 op Harry S. Truman.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De muziek die wordt uitgevoerd terwijl Bob `` Blackadder '' speelt, is Vaughan Williams '' Fantasia on Greensleeves ''.",
+        "sentence2": "De muziek die wordt uitgevoerd als Blackadder Courts ''Bob'' is ''Fantasia on greensleeves'' van Vaughan Williams.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het is ook vermeldenswaard dat de volgende code zou werken zonder ADL (deze wordt er hoe dan ook op toegepast).",
+        "sentence2": "Het is ook vermeldenswaard dat de volgende code zou werken zonder ADL (deze wordt er hoe dan ook op toegepast).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het ontmoet dan de Snoqualmie-rivier en vormt de Snohomish-rivier bij Monroe.",
+        "sentence2": "Het ontmoet dan de Rivier Snoqualmie om de Rivier Snohomish in Monroe te vormen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tijdens zijn campagne debatteerde hij tweemaal over McCain, één keer in Tucson en één keer in Flagstaff.",
+        "sentence2": "Tijdens zijn campagne debatteerde hij tweemaal over McCain, één keer in Flagstaff en één keer in Tucson.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het werd voltooid door zijn vrouw, Stella Gemmell, na zijn dood op 28 juli 2006, en uitgebracht onder het gezamenlijke auteurschap van David en Stella Gemmell.",
+        "sentence2": "Het werd gepubliceerd door zijn vrouw Stella Gemmell na zijn dood op 28 juli 2006 en eindigde onder het gezamenlijke auteurschap van David en Stella Gemmell.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De Central Baptist Association is een vereniging van kerken van South Carolina tot Indiana, met de meeste kerken in het oosten van Tennessee en het zuidwesten van Virginia.",
+        "sentence2": "De Central Baptist Association is een vereniging van kerken gelegen van South Carolina tot Virginia, waarbij de meeste kerken zich in het oosten van Tennessee en het zuidwesten van Indiana bevinden.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Karen Phillips begon een relatie met Steve van Suranne Jones.",
+        "sentence2": "Steve begon een relatie met Karen Phillips, gespeeld door Suranne Jones.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "vidas distintas is een Mexicaanse telenovela uit 1969, uitgezonden door Televisa en oorspronkelijk geproduceerd door Telesistema Mexicano.",
+        "sentence2": "Tres vidas distintas is een Mexicaanse telenovela uit 1969, uitgezonden door Televisa en oorspronkelijk geproduceerd door Telesistema Mexicano.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Chandler beschouwde de computer als een hulpmiddel om te leren, maar hij verwierp het heersende objectivisme dat data als informatie en informatie als kennis erkende.",
+        "sentence2": "Chandler erkende de computer als een hulpmiddel om te leren, maar hij verwierp het heersende objectivisme, dat data als informatie en informatie als kennis beschouwde.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Een faseovergang van een ferromagneet naar een paramagneet is tweede en is van continue orde.",
+        "sentence2": "Faseovergang van een ferromagneet naar een paramagneet is continu en heeft een tweede orde.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Albanese gezinnen verlieten het dorp voordat de Servische vluchtelingen in 1999 terugkeerden.",
+        "sentence2": "Vóór de terugkeer van de Servische vluchtelingen in 1999 verlieten Albanese gezinnen het dorp.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De originele versie werd echter overgeslagen ten gunste van de milde editie.",
+        "sentence2": "De milde versie werd echter overgeslagen ten gunste van de originele versie.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In 1864 stuurde de United Presbyterian Missionary Society of Scotland haar agenten naar China.",
+        "sentence2": "De United Presbyterian Missionary Society of China stuurde in 1864 haar agenten naar Schotland.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Na een verblijf van tien jaar in Parijs keerde Houdon terug naar Italië.",
+        "sentence2": "Na tien jaar Parijs keerde Houdon terug naar Italië.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ze werd door de Duitsers tot zinken gebracht en twee keer gesloopt door geallieerde bommenwerpers in 1943 - 1944 en uiteindelijk in 1946 - 1947 weer opgehaald.",
+        "sentence2": "Het werd tussen 1943 en 1944 door de Duitsers opgeworpen, tweemaal tot zinken gebracht door geallieerde bommenwerpers en uiteindelijk in 1946, in 1947, gesloopt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In 1864 stuurde de United Presbyterian Missionary Society of China haar agenten naar Schotland.",
+        "sentence2": "De United Presbyterian Missionary Society of China stuurde in 1864 haar agenten naar Schotland.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De filmsterren Lily Rabe, Timothée Chalamet, Lili Reinhart, Anthony Quintal, Oscar Nunez en Rob Huebel.",
+        "sentence2": "Met in de hoofdrollen Lilie Rabe, Timothée Chalamet, Lili Reinhart, Anthony Quintal, Oscar Nunez en Rob Huebel.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dakota City maakt deel uit van de grootstedelijke regio Sioux City, IA – NE – SD.",
+        "sentence2": "Dakota City maakt deel uit van het Sioux City, IA – NE – SD Metropolitan Statistical Area.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Grant Connell en Glenn Michibata wonnen de titel en versloegen Wayne Ferreira en Jim Grabb met 6: 4, 6: 3 in de finale.",
+        "sentence2": "Wayne Ferreira en Jim Grabb wonnen de titel en versloegen Grant Connell en Glenn Micibata met 6 - 4, 6 - 3 in de finale.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De parlementsverkiezingen in Zagreb in 1927 werden gehouden op 4 september, 7 dagen vóór de lokale verkiezingen.",
+        "sentence2": "De parlementsverkiezingen van 1927 in Zagreb vonden plaats op 4 september, zeven dagen vóór de lokale verkiezingen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum is een soort zeeslak, een echt buikpotig weekdier uit de familie Buccinidae, de mariene wulken.",
+        "sentence2": "Probuccinum tenerum is een soort zeeslak, een echt buikpotig weekdier uit de familie Buccinidae, de wulken.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De Valea lui Lambă-rivier of Lom-rivier is een zijrivier van de Șimon-rivier in Roemenië.",
+        "sentence2": "De rivier Valea lui Lambă of Lom-rivier is een zijrivier van de rivier 'unk' imon in Roemenië.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dit geslacht is nu geclassificeerd in de familie van hagedissen, bekend als Iguanidae, onderfamilie Polychrotinae, en wordt niet langer geclassificeerd in de huidige ongeldige familie, polychrotidae.",
+        "sentence2": "Dit geslacht is nu in de familie van hagedissen bekend als Iguanidae, onderfamilie Polychrotinae, en wordt niet langer geclassificeerd in de momenteel ongeldige familie, Polychrotidae.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In 2012 draaide de stad om en werd gewonnen door de zittende Democraat Barack Obama, die 51% van de stemmen overnam van de Republikeinse Mitt Romney van 48%.",
+        "sentence2": "In 2012 draaide de wijk om en werd gewonnen door de zittende Democraat Barack Obama, die 51% van de stemmen won, tegenover de 48% van de Republikein Mitt Romney.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Met haar heb ik een aantal van mijn muzikale dromen kunnen waarmaken met vroege stijlen en deze nieuwe stijl is echt groots, fris en natuurlijk vloeiend.",
+        "sentence2": "Met haar heb ik een aantal van mijn vroege dromen op het gebied van muziekstijlen kunnen waarmaken en deze nieuwe stijl is echt groots, fris en natuurlijk vloeiend.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Grady Howard werd op deze datum tot eerste burgemeester gekozen en op 5 juni 1951 officieel benoemd tot interim-burgemeester van Spring Lake.",
+        "sentence2": "Grady Howard werd op deze datum tot eerste burgemeester gekozen en op 5 juni 1951 officieel benoemd tot burgemeester van Spring Lake.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ballouhey bestaat voornamelijk in Isère in Parijs, maar ook in Frankrijk en Zuid-Afrika.",
+        "sentence2": "Ballouhey bestaat voornamelijk in Frankrijk in Isère en Parijs, maar ook in Zuid-Afrika.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het zal hoog zijn, met een lange muur en capaciteit.",
+        "sentence2": "Het zal hoog zijn, met een lange muur en een capaciteit.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het onderwijs in Alabama bestaat uit middelbare en basisscholen in Alabama, waaronder de Universiteit van Alabama, particuliere hogescholen en openbare en particuliere scholen.",
+        "sentence2": "Het onderwijs in Alabama bestaat uit openbare en particuliere scholen in Alabama, waaronder de Universiteit van Alabama, particuliere universiteiten en middelbare en basisscholen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De serie debuteerde op 18 april 2009 in Australië op Nickelodeon (Nieuw-Zeeland en Nieuw-Zeeland).",
+        "sentence2": "Op 18 april 2009 debuteerde de serie in Nieuw-Zeeland op Nickelodeon (Australië en Nieuw-Zeeland).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De film werd geregisseerd door George Fitzmaurice en is gebaseerd op een toneelstuk uit 1917, 'Tiger Rose', van Willard Mack.",
+        "sentence2": "De film, geregisseerd door George Fitzmaurice, is gebaseerd op het toneelstuk 'Tiger Rose' uit 1917 van Willard Mack.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De versie van Mahabharata geschreven door de Odia-dichter Sarala Dasa vertelt de legende van Navagunjara, geen ander kent het verhaal.",
+        "sentence2": "De versie van de Mahabharata, geschreven door de Odia-dichter Sarala Dasa, heeft de legende van Navagunjara. Geen enkele andere versie vertelt het verhaal.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam (15 oktober 1929 – 29 juli 2012) was een Indiase danseres en een goeroe van de Kuchipudi-dansvorm.",
+        "sentence2": "Vempati Chinna Satyam (15 oktober 1929 - 29 juli 2012) was een Indiase danseres en goeroe van de Kuchipudi-dansvorm.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lee Hi is een Zuid-Koreaanse zangeres onder YG Entertainment.",
+        "sentence2": "De Koreaanse zanger Lee Hi is een Zuid-Koreaanse zanger onder YG Entertainment.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Varianten van deze methode leveren goede numerieke benaderingen op voor de vele exponenten wanneer kritische termen worden opgenomen, zowel in twee als in drie dimensies.",
+        "sentence2": "Varianten van deze procedure leveren goede numerieke benaderingen op voor de kritische exponenten wanneer veel termen in zowel twee als drie dimensies zijn opgenomen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het deksel werd alleen verwijderd door bevoorrechte kijkers, dus deze scènes hadden intiemer kunnen zijn.",
+        "sentence2": "Het deksel werd alleen verwijderd door bevoorrechte kijkers, dus deze scènes hadden intiemer kunnen zijn.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het bedient het Chandimandir Cantonment-gebied van de stad Panchkula.",
+        "sentence2": "Het bedient het Panchkula-gebied van de stad Chandimandir Cantonment.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School was een meisjesselectieve middelbare school in Slough, Buckinghamshire, nu Berkshire.",
+        "sentence2": "Slough High School was een selectieve meisjesschool in Slough, Buckinghamshire, nu Berkshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eugene D. Engley werd geboren op 5 april 1851 in Attleborough, Massachusetts, als zoon van James Henry Engley en zijn vrouw, voormalig Mary Kaley.",
+        "sentence2": "James Henry Engley werd geboren op 5 april 1851 in Attleborough, Massachusetts, de zoon van Eugene D. Engley en zijn vrouw, voormalig Mary Kaley.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Maritsa Lazari werd in oktober 1943 op Cyprus geboren en emigreerde op 16-jarige leeftijd met haar gezin naar Londen, Engeland.",
+        "sentence2": "Maritsa Lazari werd in oktober 1943 in Londen geboren en is op 16-jarige leeftijd met haar gezin naar Cyprus geëmigreerd.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Op 5 maart 2011 plaatste MTV Hive een streaminglink naar Anni Rossi die Rihanna's 'Rude Boy' uitvoerde.",
+        "sentence2": "Op 5 maart 2011 plaatste MTV Hive een streaminglink naar Rihanna, met Anni Rossi 'Rude Boy'.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De Machpelah Cemetery, ook wel gespeld als '' Macpelah Cemetery '' of '' Macphelah Cemetery '', is een kerkhof in Hudson County, New Jersey.",
+        "sentence2": "De Machpelah Cemetery, ook wel gespeld als `` Macpelah Cemetery '', of `` Macphelah Cemetery '', is een begraafplaats in Hudson County, New Jersey.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het nummer is geschreven en gecomponeerd door Gala door Filippo Andrea Carmeni en de geproduceerde Maurizio Molella.",
+        "sentence2": "Het nummer is geschreven en geproduceerd door het gala, dat werd gecomponeerd door Filippo Andrea Carmeni en Maurizio Molella.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Volgens Prior was Robert Goldsmith, de grootvader van de dichter, toneelschrijver en romanschrijver Oliver Goldsmith, de eerste van de familie die zich in Ballyoughter vestigde.",
+        "sentence2": "Volgens Robert Prior was Robert Goldsmith de grootvader van de dichter, toneelschrijver en schrijver Oliver Goldsmith, de eerste van de familie die zich bij Ballyoughter vestigde.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het weglaten van de motoren en hun brandstof zou de complexiteit verminderen en het laadvermogen verhogen.",
+        "sentence2": "Het weglaten van de motoren en hun brandstof zou de complexiteit vergroten en het laadvermogen verminderen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Volgens Tobe en Gunnar Hansen was de reden dat hij een masker droeg, dat het masker werkelijk zijn persoonlijkheid bepaalde.",
+        "sentence2": "Gunnar Hansen merkte op: `` De reden dat hij een masker droeg, volgens Tobe en Kim, was dat het masker werkelijk zijn persoonlijkheid bepaalde.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De particuliere Claiborne Academy bevindt zich in Haynesville, vlakbij de Parochie Claiborne.",
+        "sentence2": "De particuliere Claiborne Academy bevindt zich in Claiborne Parish, niet in de buurt van Haynesville.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De NVIDIA TITAN V werd op 7 december 2017 officieel aangekondigd door Nvidia.",
+        "sentence2": "Op 7 december 2017 kondigde NVIDIA officieel de Nvidia TITAN V aan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij volgde een medische opleiding aan het Middlesex Hospital in Londen en kwalificeerde zich in 1943 als klinisch arts.",
+        "sentence2": "Hij volgde een klinische opleiding in het Middlesex Hospital in Londen en kwalificeerde zich in 1943 als arts.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hij trad op als glasmaker en werkte met veel verschillende bands op verschillende muziekinstrumenten.",
+        "sentence2": "Hij werkte als glasmaker en trad op op verschillende muziekinstrumenten met veel verschillende bands.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Componenten van mechanische systemen slaan elastische potentiële energie op als ze onder invloed van krachten op het systeem worden vervormd.",
+        "sentence2": "Componenten van mechanische systemen slaan elastische potentiële energie op als ze worden vervormd wanneer er krachten op het systeem worden uitgeoefend.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "William Llewelyn Williams, beter bekend als Llewelyn Williams (10 maart 1867 - 22 april 1922), was een Welshe journalist, advocaat en radicale politicus van de Liberale Partij.",
+        "sentence2": "William Williams, beter bekend als Llewelyn Williams (10 maart 1867 - 22 april 1922), was een Welshe journalist, advocaat en radicale liberale partijpoliticus.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Blagoy Ivanov daagde Mehmen uit voor het WSOF Heavyweight Championship op 17 oktober 2015.",
+        "sentence2": "Blagoy Ivanov daagde Mehmen uit voor het WSOF Heavyweight Championship op 17 oktober 2015.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het werd opgericht door Richard Creed, gebouwd door George Edwards, ontworpen door Collins en Geoffrey uit Monmouth.",
+        "sentence2": "Het werd ontworpen door Richard Creed, gebouwd door Collins en Geoffrey en uitgerust door George Edwards uit Monmouth.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sacramento ligt in (38.651254, -121.259279), tussen Fair Oaks en Folsom.",
+        "sentence2": "Fair Oaks ligt tussen Sacramento en Folsom (38.651254, -121.259279).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het nummer 'Astrud' op Gilberto's album uit 1987, 'Time and Tide', is een eerbetoon aan Basia Trzetrzelewska.",
+        "sentence2": "Het nummer 'Astrud' op Basia Trzetrzelewska's album 'Time and Tide' uit 1987 is een eerbetoon aan Gilberto.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Clark had een zoon, Rishi, geboren op 3 april 2007. Een Socks and Sandalen EP op Microcosm Music werd naar hem vernoemd, Rishi Saturn.",
+        "sentence2": "Rishi had een zoon, Clark, geboren op 3 april 2007. Een Socks and Sandalen EP op Microcosm Music werd naar hem vernoemd, Rishi Saturn.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Melodie Crittenden verliet de groep in 2004 om een solocarrière te beginnen, en het grootste deel van 2005 zong Nicol bij de groep.",
+        "sentence2": "Melodie Crittenden verliet de groep in 2004 om een solocarrière te beginnen, en het grootste deel van 2005 zong Nicol bij de groep.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In het semi-professionele voetbal strijden Schotse teams op alle niveaus onder de Schotse Premiership, waarbij de meeste teams onder de Schotse Championship semi-professioneel zijn.",
+        "sentence2": "In het Schotse voetbal verschijnen de semi-professionele teams op alle niveaus onder het Schotse premierschap, waarbij de meeste teams onder het Schotse kampioenschap semi-professioneel zijn.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Diboll en Owen uit New Orleans waren de architecten en GA Chamblin uit Mobile was de aannemer.",
+        "sentence2": "De architecten waren Diboll en Owen uit New Orleans en de aannemer was GA. Chamblin van Mobile.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bij kwaadaardige hypertensie gaan deze hyperplastische veranderingen vaak gepaard met arteriële necrose van de fibrinoïde intima en media.",
+        "sentence2": "Bij kwaadaardige hypertensie gaan deze hyperplastische veranderingen vaak gepaard met een fibrinoïde necrose van de arteriële intima en media.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het team toerde door Australië in 1953 en Azië in augustus 1959.",
+        "sentence2": "In 1953 toerde het team door Azië en in augustus 1959 in Australië.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Deze film gaat over Rafael, een Malayalam-zanger in de nieuwe filmindustrie.",
+        "sentence2": "De film gaat over Rafael, een nieuwe zanger in de filmindustrie van Malayalam.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In 1864 stuurde de United Presbyterian Missionary Society of China haar vertegenwoordigers naar Schotland.",
+        "sentence2": "De United Presbyterian Missionary Society of China stuurde in 1864 haar agenten naar Schotland.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De initiële vectorruimteformule _ 13 wordt 'initieel object' of 'topologische structuur' genoemd met betrekking tot de gegeven gegevens.",
+        "sentence2": "De initiële vectorruimte Formule 13 wordt een initiële object `` of '' topologische structuur genoemd met betrekking tot de gegeven gegevens.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Deze drie moederdynastieën regeerden over het koninkrijk Waalo met de vaderlijke familie van de Mbooj.",
+        "sentence2": "Deze drie vaderlijke dynastieën regeerden het koninkrijk Waalo met de moederfamilie Mbooj.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De film speelt Jembie Almazan als Alex, Bernardo Garnica Cruz als David en Jonathan Diaz Angulo als Maria.",
+        "sentence2": "In de film spelen Jembie Almazan als Mary, Bernardo Garnica Cruz als David en Jonathan Diaz Angulo als Alex.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hoewel de uitsluiting van zwarte spelers geen geschreven regel was, had sinds 1933 geen enkele Afro-Amerikaan meer in de National Football League gespeeld.",
+        "sentence2": "Hoewel de uitsluiting van zwarte spelers geen geschreven regel was, had sinds 1933 geen enkele Afro-Amerikaan meer in de National Football League gespeeld.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dale is sinds 1984 getrouwd met Patricia Meyer en samen hebben ze twee zonen: Ryan (geboren 1988) en Blake (geboren 1992).",
+        "sentence2": "Sinds 1984 is Blake getrouwd met Patricia Meyer en heeft twee zonen: Ryan (geboren 1988) en Dale (geboren 1992).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Toen Platzer in 1993 zijn tweede restaurant in Allentown opende, veranderde hij de naam in PJ Whelihan's ter ere van zijn grootvader, Peter Joseph Whelihan.",
+        "sentence2": "In 1993, toen Platzer zijn tweede restaurant in Allentown opende, veranderde hij de naam in PJ Whelihan ter ere van zijn grootvader Peter Joseph Whelihan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tijdens de missie kwamen 65 soldaten om het leven: 34 Nigerianen, 28 Tsjadiërs, 2 Togolezen en 1 Burkinabé.",
+        "sentence2": "Tijdens de missie werden 65 soldaten gedood: 34 Tsjadiërs, 28 Nigerianen, 2 Togolezen en 1 Burkinabé.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In december 1969 werd de 49e Legerdivisie de 29e Legerdivisie.",
+        "sentence2": "In december 1969 werd de 29e Legerdivisie de 49e Legerdivisie.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De stengels zijn meestal afwezig of erg kort.",
+        "sentence2": "De stengels zijn erg kort of ontbreken grotendeels.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ze werd gezien als '' heeft een zeer groot potentieel en een groot talent, en zal in de toekomst uitgroeien tot een unieke muzikale persoonlijkheid.",
+        "sentence2": "Er werd waargenomen dat ze 'een enorm potentieel en een groot talent heeft, en in de toekomst zal uitgroeien tot een unieke muzikale persoonlijkheid.' ''",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In januari 2013 werd bekend gemaakt dat Warren Spector Disney Interactive was vertrokken na de sluiting van de Junction Point Studios.",
+        "sentence2": "In januari 2013 werd aangekondigd dat Warren Spector Junction Point Studios had verlaten na de sluiting van Disney Interactive.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Luchtvervoer wordt lokaal verzorgd door kleinere vliegtuigen in New Bedford, Berkley, en de regionale luchthaven in East Taunton.",
+        "sentence2": "Luchtvervoer wordt lokaal verzorgd via kleinere vliegtuigen in East Taunton, Berkley, en de regionale luchthaven in New Bedford.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Als we een wisselmachine gebruiken, hebben we de ATIME-bron.",
+        "sentence2": "Als we een afwisselende Turingmachine hebben, gebruiken we de bron ATIME.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hij eindigde twee slagen achter Bubba Watson en Louis Oosthuizen en betreurde zijn putprestatie als de reden dat hij het toernooi niet won.",
+        "sentence2": "Hij eindigde twee slagen achter Louis Oosthuizen en Bubba Watson en betreurde zijn putprestaties als de reden dat hij het toernooi niet won.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eerdere gaststeden van de Sirius Decisions Summit waren Orlando (2014), Scottsdale (2013) en San Diego (2012).",
+        "sentence2": "De voormalige gaststeden van de SiriusDecisions Summit zijn Orlando (2014), San Diego (2013) en Scottsdale (2012).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De verlichting in het Louvre-schilderij is warmer en oogt zachter, maar dit kan het gevolg zijn van het geluid van de vernis op het oppervlak.",
+        "sentence2": "De belichting in het Louvre-schilderij is warmer en oogt zachter, maar dit kan het gevolg zijn van de toon van de vernis op het oppervlak.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Molmys River is een rivier in Perm Krai, Rusland, een linker zijrivier van de Yazva-rivier.",
+        "sentence2": "Yazva is een rivier in Kraj Perm, Rusland, een linker zijrivier van de rivier de Molmys.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Op 1 augustus 1699 overhandigde William Blackett zijn eigendomsgronden in Chirton aan Sir Archibald Campbell, die de Bickerstaffe, 1st Hertog van Argyll Hall, verkocht.",
+        "sentence2": "Op 1 augustus 1699 gaf William Blackett zijn eigendomsgronden in Chirton over aan Sir Archibald Campbell, die de zaal verkocht aan Bickerstaffe, 1st Hertog van Argyll.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Big Band Specials is een album uit 1962 van Bob Cooper, met nummers gearrangeerd door Bill Holman, Shorty Rogers en echtgenoot June Christy.",
+        "sentence2": "Big Band Specials is een album uit 1962 van Bob Cooper, met nummers van Bill Holman, Shorty Rogers en echtgenoot June Christy gearrangeerd.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Naast verschillende metalen platen werden in sommige gevallen beton en zandzakken gebruikt voor geïmproviseerde tanks.",
+        "sentence2": "Naast geïmproviseerde pantserplaten werden voor diverse treinen in sommige gevallen ook beton en zandzakken gebruikt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Barbara Boothe Ellison werd geboren in Santa Clara County, Californië, de dochter van miljardair Oracle Corporation-voorzitter Larry Ellison en zijn ex-vrouw, Megan Ellison.",
+        "sentence2": "Megan Ellison werd geboren in Santa Clara County, Californië als dochter van de miljardair Oracle Corporation-voorzitter Larry Ellison en zijn ex-vrouw Barbara Boothe Ellison.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Guillermo Coria versloeg Alberto Martín met 6 -- 3 , 3 -- 6 , 6 -- 2",
+        "sentence2": "6 Alberto Martín versloeg Guillermo Coria 6 -- 3 , 3 -- 6 , 6 -- 2",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De Red Bulls verloren maar haalden de eerste ronde van de play-offs.",
+        "sentence2": "De Red Bulls verloren, maar haalden de eerste ronde van de play-offs.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "12 januari 1978: Cambridge United-manager Ron Atkinson wordt aangesteld als manager van West Bromwich Albion.",
+        "sentence2": "12 januari 1978: Cambridge United-manager Ron Atkinson wordt aangesteld als manager van West Bromwich Albion.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In 1979 beleefde hij zijn beste jaar op tournee en behaalde hij kwartfinales in Atlanta, Johannesburg en Tel Aviv.",
+        "sentence2": "In 1979 beleefde hij zijn beste jaar op tournee, een kwartfinale in Tel Aviv, Johannesburg en Atlanta.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De volgende versie werd in 1986 gemaakt door Robert Fuller's broer Ron.",
+        "sentence2": "De volgende release werd in 1986 gemaakt door Robert Fuller's broer Ron.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De tempel dient als cultureel en religieus centrum voor Koreaanse hindoes en immigranten uit de Zuid-Aziatische landen.",
+        "sentence2": "De tempel dient als cultureel en religieus centrum voor Zuid-Aziatische hindoes en immigranten uit Koreaanse landen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het clubhuis werd door Curtis gebouwd voor het toenmalige bedrag van $ 60.000, en verhuurde het voor een hoge vergoeding aan de club.",
+        "sentence2": "Het clubhuis werd gebouwd door Curtis, voor het toenmalige nominale bedrag van $ 60.000, en voor een hoge vergoeding aan de club verhuurd.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mitsuhisa Ishikawa en Tomohiko Ishii van Production IG, Danny Choo, Kaname en Tasha met Miyuko uit Korea waren speciale gasten voor het evenement.",
+        "sentence2": "Tasha van productie IG, Danny Choo, Kaname, Mitsuhisa Ishikawa en Tomohiko Ishii met Miyuko uit Korea waren speciale gasten voor het evenement.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam (15 oktober 1929 - 29 juli 2012) was een Indiase danseres en goeroe van de Kuchipudi-dansvorm.",
+        "sentence2": "Vempati Chinna Satyam (15 oktober 1929 - 29 juli 2012) was een Kuchipudi-danseres en een goeroe van de Indiase dans.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dit incident werd later gevierd en wordt nu elk jaar op 25 januari in Egypte herdacht als Nationale Politiedag.",
+        "sentence2": "Dit incident werd later gevierd en wordt nu in Egypte herdacht als de Nationale Politiedag op 25 januari van elk jaar.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Udaipur is een stad in de Indiase deelstaat Madhya Pradesh, vlakbij Ganj Basoda.",
+        "sentence2": "Ganj Basoda is een stad in de Indiase deelstaat Madhya Pradesh, vlakbij Udaipur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hij werd vervolgens vervangen door Heraclius, een volle neef van Nicetas, en werd gedwongen kloostergeloften af te leggen.",
+        "sentence2": "Hij werd vervolgens vervangen door Nicetas, een volle neef van Heraclius, en gedwongen kloostergeloften af te leggen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Beschrijf eerst de gebieden met hoge pollenwaarden in plaats van de gebieden met lage pollenwaarden.",
+        "sentence2": "Beschrijf eerst de gebieden met een lage pollenwaarde in plaats van de gebieden met een hoge pollenwaarde.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tot nu toe zijn de werken van Zinovjev uitgevoerd door het Finse Radio Symfonie Orkest, het Lahti Symfonie Orkest, de Kymi Sinfonietta, het Oulu Symfonie Orkest en het Avanti!",
+        "sentence2": "Tot nu toe zijn de werken van Zinovjev uitgevoerd door het Oulu Symfonie Orkest, Lahti Symfonie Orkest, Kymi Sinfonietta, Fins Radio Symfonie Orkest en Avanti!",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het werd ontworpen door Richard Creed, gebouwd door Collins en Geoffrey en uitgerust door George Edwards uit Monmouth.",
+        "sentence2": "Het werd ingericht door Richard Creed, gebouwd door George Edwards en ontworpen door Collins en Geoffrey uit Monmouth.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "McCall en Lesiuk verlieten de band in de zomer van 2007, waarbij McCall werd vervangen door Steven Tosh op drums en Jamie Macleod de bastaken overnam.",
+        "sentence2": "McCall en Lesiuk verlieten de band in de zomer van 2007, waarbij McCall werd vervangen door Steven Tosh op drums en Jamie Macleod de bastaken overnam.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In 1886 verving Miles generaal George Crook als commandant van de strijdkrachten die vochten tegen Geronimo, een leider van de Chiricahua Apache, in het ministerie van Arizona.",
+        "sentence2": "In 1886 verving Miles generaal George Crook als commandant van de troepen die vochten tegen Geronimo, een leider van de Chiricahua Apache, in het ministerie van Arizona.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Barshi is een aarden dam in de plaatselijke rivier nabij de Pathari-dam, in het district Solapur in de staat Maharashtra in India.",
+        "sentence2": "Pathari Dam, is een aardvuldam in de lokale rivier nabij Barshi, district Solapur in de staat Maharashtra in India.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hij trouwde met Mary, de dochter van Brooke uit Selston, Nottingham, en werd opgevolgd door zijn oudste zoon, Richard.",
+        "sentence2": "Brooke trouwde met Mary, de dochter van Timothy Pusey uit Selston, Nottingham. Hij werd opgevolgd door zijn oudste zoon, Richard.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Luk of Loke is de Chinese romanisering van verschillende (maar niet alle) Kantonese achternamen die als Lu in het Mandarijn worden geromaniseerd.",
+        "sentence2": "Luk of Loke is de Chinese romanisering van verschillende (maar niet alle) Kantonese achternamen, die in het Mandarijn als Lu worden geromaniseerd.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De juiste rotaties van de kubus, die kunnen worden gekarakteriseerd door permutaties van de lichaamsdiagonalen, worden ook beschreven door conjugatie in `` S ''.",
+        "sentence2": "De juiste rotaties van de kubus, die kunnen worden beschreven door permutaties van de lichaamsdiagonalen, worden ook gekenmerkt door conjugatie in `` S ''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bij amfibieën komt Cerberus bijvoorbeeld tot expressie in het voorste dorsale endoderm en bij muizen in het voorste viscerale endoderm.",
+        "sentence2": "Cerberus komt bijvoorbeeld tot expressie in het voorste dorsale endoderm bij amfibieën en bij muizen in het voorste viscerale endoderm.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij volgde een klinische opleiding in het Middlesex Hospital in Londen en kwalificeerde zich in 1943 als arts.",
+        "sentence2": "Hij volgde een klinische opleiding in het Middlesex Hospital in Londen en kwalificeerde zich in 1943 als arts.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sunny sneed het nummer af in november 1973, terwijl Roger Greenaway produceerde, terwijl Chris Gunning het arrangement verzorgde en dirigeerde.",
+        "sentence2": "In november 1973 sneed Roger Sunny het nummer af met Roger Greenaway, terwijl Chris Gunning het arrangement verzorgde en dirigeerde.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Damon Knight (geciteerd door James Blish) zei over de interpretatie van Knight's verhaal:",
+        "sentence2": "James Blish (geciteerd door Damon Knight) zei over Knight's interpretatie van zijn verhaal:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De film gaat over Rafael, een nieuwe zanger in de filmindustrie van Malayalam.",
+        "sentence2": "Deze film gaat over Rafael, een nieuwe zanger in de filmindustrie van Malayalam.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het was het derde seizoen dat ruim twee jaar na de familieeditie en ruim drie jaar na de eerste celebrity-editie werd uitgezonden.",
+        "sentence2": "Het was het derde seizoen dat ruim twee jaar na de familieeditie en ruim drie jaar na de eerste celebrity-editie werd uitgezonden.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij stierf op 19 september 1891 in Gallatin, Tennessee, en ontving een vrijmetselaarsdiploma in Gallatin.",
+        "sentence2": "Bunting stierf op 19 september 1891 in Gallatin. Hij ontving een maçonnieke begrafenis in Gallatin, Tennessee.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De worstelaar springt dan in het rond en zwaait naar voren om achterover te vallen en het hoofd van de tegenstander in de mat te laten vallen.",
+        "sentence2": "De worstelaar springt dan naar voren en zwaait rond om achterover te vallen en het hoofd van de tegenstander in de mat te laten vallen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ze verhuisde met haar ouders op 3-jarige leeftijd van Finland naar Estland en woont momenteel in Helsinki.",
+        "sentence2": "Ze verhuisde op 3-jarige leeftijd met haar ouders van Estland naar Finland en woont momenteel in Helsinki.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De stad ligt aan de westkant van de 'Horta de València', op de rechteroever van de rivier de Turia.",
+        "sentence2": "De stad ligt op de rechteroever van de 'Horta de València', aan de westelijke oever van de rivier de Turia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Veel van de demonen in Salomo's ontmoetingen zijn van Griekse, christelijke, joodse, Egyptische, Arabische en andere tradities.",
+        "sentence2": "Veel van de demonen in Salomo's ontmoetingen zijn Griekse, christelijke, joodse, Egyptische, Arabische en andere tradities.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De administratieve regio Chenzhou in de Tang-dynastie staat onder het bestuur van het moderne Zhoukou in het oosten van Henan:",
+        "sentence2": "De administratieve regio Chenzhou in de Tang-dynastie staat onder het bestuur van het moderne Henan in het oosten van Zhoukou:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De test is als volgt: `` Eerst merk je de pranganglionvezel op en stimuleer je de reactie die verschijnt.",
+        "sentence2": "De test is als volgt: Stimuleer eerst de preganglionaire vezel en merk de reactie op die verschijnt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ukhrul is ook een toeristische hotspot in de staat Manipur.",
+        "sentence2": "Manipur is ook een toeristische hotspot van de staat Ukhrul.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Caspar Peucer (uitgesproken, 6 januari 1525 - 25 september 1602) was een Sorbische hervormer, arts en geleerde van Duitse afkomst.",
+        "sentence2": "Caspar Peucer (uitgesproken als 6 januari 1525 - 25 september 1602) was een Sorbische hervormer, arts en geleerde van Duitse afkomst.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cornelius Olatunji Adebayo is een voormalige senator van Nigeria, die gouverneur was en later hoofd werd van het Nigeriaanse federale ministerie van Communicatie.",
+        "sentence2": "Cornelius Olatunji Adebayo is een voormalige senator van Nigeria, die gouverneur werd en later hoofd was van het Nigeriaanse federale ministerie van Communicatie.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Massachusetts stemde in 1928 op Harry S. Truman, in de jaren dertig en veertig vier keer op Al Smith, en in 1948 op Franklin D. Roosevelt.",
+        "sentence2": "In de jaren dertig en veertig werd hij vier keer gekozen voor Al Smith, in 1928 voor Franklin D. Roosevelt en voor Harry S. Truman in 1948.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ibn Amira werd geboren in Alzira in de provincie Valencia.",
+        "sentence2": "Ibn Amira werd geboren in Valencia, de provincie Alzira.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Als we een afwisselende Turingmachine gebruiken, hebben we de bron ATIME.",
+        "sentence2": "Als we een wisselstroommachine hebben, gebruiken we de bron ATIME.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Op 13 november 2016 werd David Machado vermoord in Fox Grove Park nabij de stad Hughson door Dennis Wallace.",
+        "sentence2": "Op 13 november 2016 werd Dennis Wallace, de plaatsvervanger van David Machado, vermoord in Fox Grove Park nabij de stad Hughson.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bij zijn overlijden in 1946 waren zijn papieren over dit project nog steeds in een nog ruwe staat.",
+        "sentence2": "Na zijn dood in 1946 waren zijn papieren over dit project nog steeds in een nog ruwe staat.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alexander Baumgartner (geboren 27 juni 1841 in Luxemburg, Duitsland; overleden 1910 in St. Gallen, Zwitserland) was een dichter en schrijver over de geschiedenis van de literatuur.",
+        "sentence2": "Alexander Baumgartner (geboren in St. Gall, Zwitserland, 27 juni 1841; overleden Luxemburg, 1910) was een dichter en schrijver over de geschiedenis van de literatuur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Onderzoekers van de Geological Survey of Canada hebben de natuurlijke arseenvariatie gemodelleerd in het relatieve gevaarspotentieel voor de provincie New Brunswick.",
+        "sentence2": "Onderzoekers van de Geological Survey of Canada hebben de natuurlijke arseenvariatie in het relatieve risicopotentieel voor de provincie New Brunswick gemodelleerd.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De luchtvaartmaatschappij is ontwikkeld door Irelandia, die ook vijf andere luchtvaartmaatschappijen vormde, namelijk VivaColombia, Ryanair, Allegiant Air, VivaAerobus en Tigerair.",
+        "sentence2": "De luchtvaartmaatschappij werd opgericht door Irelandia, die ook vijf andere luchtvaartmaatschappijen heeft ontwikkeld, namelijk VivaColombia, Ryanair, Allegiant Air, VivaAerobus en Tigerair.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De rivier Geamărtălui is een zijrivier van de rivier de Breaza in Roemenië.",
+        "sentence2": "De rivier de Breaza is een zijrivier van de rivier de Geamărtălui in Roemenië.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het werd in 1834 door CR Gregory gekocht in het klooster van Saba. Robert Curzon zag het in 1883.",
+        "sentence2": "Het werd in 1834 gekocht door CR Gregory in het klooster van Saba, in 1883 door Robert Curzon.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prabhupada was blij toen Gopal Krishna hem de eerste exemplaren van Srimad Bhagavatam overhandigde, vertaald in het Hindi.",
+        "sentence2": "Gopal Krishna was blij toen Prabhupada hem de eerste exemplaren van het Srimad Bhagavatam, vertaald in het Hindi, overhandigde.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "St.George Bank (en haar dochteronderneming BankSA) werd in 1997 opnieuw overgenomen door Advance Bank.",
+        "sentence2": "In ruil daarvoor werd de Advance Bank (en haar dochteronderneming BankSA) in 1997 overgenomen door St.George Bank.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vervolgens gaf hij les in Cleveland, Ohio, en van 1856-1859 was hij de hoofdinspecteur van scholen in Toledo voor de actrice.",
+        "sentence2": "Vervolgens gaf hij les in Cleveland, Ohio, en was van 1856 tot 1859 waarnemend hoofdinspecteur van scholen in Toledo.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het gedicht is bewaard gebleven in vier hedendaagse manuscripten, waarvan er één fragmentarisch is:",
+        "sentence2": "Het gedicht is bewaard gebleven in vier hedendaagse manuscripten, waarvan er één gefragmenteerd is:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Andere problemen waren onder meer het besluit van James Newton Howard om zeven weken voor de filmwissel de componisten van Howard Shore over te zetten naar Peter Jackson.",
+        "sentence2": "Andere problemen waren onder meer het besluit van James Newton Howard om zeven weken voordat de film werd geopend de componist te veranderen van Howard Shore in Peter Jackson.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dusty Baker werd de eerste zwarte manager die deelnam aan een World Series sinds Cito Gaston voor Toronto in en .",
+        "sentence2": "Dusty Baker werd de eerste zwarte manager die meedeed aan een World Series sinds Cito Gaston voor Toronto .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sukumar's vriend Stephen (Murugan) helpt hen in het uur van de crisis, en geliefden verenigen zich in het huwelijk.",
+        "sentence2": "Murugans vriend Stephen (Sukumar) helpt hen in hun crisisuur en de geliefden verenigen zich in het huwelijk.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dr. Adams verliet juffrouw Sarah Hunt, met wie hij een dochter trouwde, en trouwde in 1788 met B. Hyatt, esq.",
+        "sentence2": "Dr. Adams trouwde met juffrouw Sarah Hunt, bij wie hij een dochter achterliet, en trouwde in 1788 met B. Hyatt, esq.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het wordt soms gebruikt als reductio ad absurdum van het bekende designargument, dat als volgt luidt:",
+        "sentence2": "Het wordt soms gebruikt als een reductio ad absurdum van het bekende argument uit de designwereld, dat als volgt luidt:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kudawa is een dorps- en dorpsontwikkelingscomité in de Narayani-zone in het Bara-district in het zuidoosten van Nepal.",
+        "sentence2": "Kudawa is een dorp en dorpsontwikkelingscomité in de Narayani-zone in het Bara-district in het zuidoosten van Nepal.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Na de Slag om de Koraalzee 'transporteerde Barnett 1.360 overlevenden van de USS Lexington (CV-2) van San Diego naar Nouméa.",
+        "sentence2": "Na de Slag om de Koraalzee vervoerde Barnett 1.360 overlevenden van de USS Lexington (CV-2) van Nouméa naar San Diego.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Weg R205 is een regionale weg in Ierland vanaf weg R199 in het graafschap Cavan tot de grens met Noord-Ierland in het graafschap Leitrim, voornamelijk in het graafschap Fermanagh.",
+        "sentence2": "De R205-weg is een regionale weg in Ierland vanaf de R199-weg in County Leitrim tot de grens met Noord-Ierland in County Fermanagh, voornamelijk in County Cavan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Schliemann ontdekte vijf schachten en ruimde deze op als de door Pausanias genoemde graven.",
+        "sentence2": "Schliemann ruimde vijf schachten op en herkende ze als de door Pausania genoemde graven.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De eerste, Kai-sung, was de dochter van Jin-Qua, de moeder van Dirk Struan van Gordon Chen.",
+        "sentence2": "De eerste, Kai-sung, was de dochter van Jin-Qua. Zij was de moeder van Dirk Struan van Gordon Chen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In 1974 werd het stadsdistrict samengevoegd met het Repton Rural District en een deel van het South East Derbyshire Rural District om het huidige South Derbyshire District te vormen.",
+        "sentence2": "In 1974 werd het huidige district samengevoegd met Repton Rural District en een deel van het South East Derbyshire Rural District om het stedelijke South Derbyshire District te vormen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cerberus komt bijvoorbeeld bij amfibieën tot expressie in het voorste viscerale endoderm, en bij muizen in het voorste dorsale endoderm.",
+        "sentence2": "Cerberus komt bijvoorbeeld tot expressie in het voorste dorsale endoderm bij amfibieën en bij muizen in het voorste viscerale endoderm.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abraham Hart was president en Mayer Sulzberger secretaris van de raad van bestuur.",
+        "sentence2": "Abraham Hart was president, en Mayer Sulzberger secretaris, de raad van bestuur.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij werkte samen met hedendaagse architecten als Giovan Giacomo Di Conforto, Bartolomeo Picchiatti en Francesco Grimaldi.",
+        "sentence2": "Hij heeft samengewerkt met hedendaagse architecten als Giovan Giacomo Di Conforto, Bartolomeo Picchiatti en Francesco Grimaldi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ze werd geboren in Cochabamba, Bolivia, en verhuisde in de jaren negentig naar Mexico-Stad en later naar Los Angeles.",
+        "sentence2": "Ze werd geboren in Cochabamba, Bolivia. In de jaren negentig verhuisde ze naar Mexico-Stad en later naar Los Angeles.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De Ruiter, geboren in Leiden, speelde voor FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk en FC Emmen.",
+        "sentence2": "de Ruiter werd geboren in Leiden en speelde voor RKC Waalwijk, FC Den Bosch, Excelsior, FC Utrecht en FC Emmen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vermont wordt begrensd door Mitcham in het noorden, Nunawading en Forest Hill in het westen, Vermont South in het zuiden en Wantirna en Ringwood in het oosten.",
+        "sentence2": "Vermont grenst in het noorden aan Mitcham, in het westen aan Nunawading en Forest Hill, in het zuiden aan Vermont en in het oosten aan Wantirna en Ringwood.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dr. Julio Square Junqueira was de eerste die in Arapongas werd gebouwd en is vernoemd naar Dr. Julio Junqueira, genoemd naar de eerste burgemeester van Arapongas.",
+        "sentence2": "Julio Junqueira was de eerste die in Arapongas werd gebouwd en werd vernoemd naar Dr. Julio Square Junqueira, genoemd naar de eerste burgemeester van Araponga.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Prakash Raj voegde zich in augustus 2017 ook bij het team om naar verluidt de rol van producer Aluri Chakrapani te spelen.",
+        "sentence2": "In augustus 2017 voegde Aluri Chakrapani zich ook bij het team om ook de rol van producer Prakash Raj te spelen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Meridian bestaat uit de inwoners van Daykin, Alexandria, Western, Fairbury en Tobias, waardoor het 303 Nebraska School District ontstaat.",
+        "sentence2": "Meridian bestaat uit de inwoners van Daykin, Fairbury, Western, Alexandria en Tobias, waardoor het 303 Nebraska School District ontstond.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Juli is gemiddeld de koudste maand, de warmste in januari.",
+        "sentence2": "Juli is gemiddeld de warmste maand en januari de koudste.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Een andere manier om de hertenpopulatie te reguleren is door het vruchtbaarheidscijfer onder controle te houden.",
+        "sentence2": "Een andere manier om de hertenpopulatie onder controle te houden is door het vruchtbaarheidscijfer te reguleren.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De eerste ronde vond plaats in het weekend van 23 - 25 september 2011 in Slowakije (Prievidza)",
+        "sentence2": "De eerste ronde vond plaats in het weekend van 23-25 september 2011 in Slowakije (Prievidza).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij trouwde met Marie Magdalene Schweigaard, dochter van Tellef Dahll Schweigaard, nicht van de leidende politicus Anton Martin Schweigaard en tante van de latere premier Christian Homann Schweigaard.",
+        "sentence2": "Hij trouwde met Marie Magdalene Schweigaard, dochter van Tellef Dahll Schweigaard, nicht van toonaangevend politicus Christian Homann Schweigaard en tante van de latere premier Anton Martin Schweigaard.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het kan worden bereikt vanuit Formia vanuit het oosten, en Maranola, een 'frazione' van Spigno Saturnia, vanuit het westen.",
+        "sentence2": "Het kan worden bereikt vanuit Formia vanuit het oosten, en Maranola, een 'frazione' van Spigno Saturnia, vanuit het westen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Toen Phil Spector voor het eerst ' Stubborn Kind of Fellow ' hoorde , was hij zo opgewonden dat hij de controle over zijn auto verloor terwijl hij met Jack Nitzsche over de Sunset Boulevard reed .",
+        "sentence2": "Toen Jack Nitzsche voor het eerst 'Stubborn Kind of Fellow' hoorde, was hij zo opgewonden dat hij de controle over zijn auto verloor terwijl hij met Phil Spector over de Sunset Boulevard reed.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sommige bemanningsleden kwamen om in de Golden Bay en er was geen lokaal contact met andere Māori.",
+        "sentence2": "Sommige bemanningsleden kwamen om in de Golden Bay en er was geen ander contact met lokale Māori.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De single werd aangekondigd op 31 oktober 2015 en werd uitgebracht op 13 november 2015.",
+        "sentence2": "De single werd aangekondigd op 31 oktober 2015 en werd op 13 november 2015 gepubliceerd.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In de nieuwe tv-serie ''Dead Prachtige'' speelde Hazel de rol van de jongste zus Alexandra Coppinger.",
+        "sentence2": "Hazel speelde de rol van Alexandra Coppinger, de jongste zus, in de nieuwe tv-serie ``Dead Prachtige''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sommige daarvan worden hier beschreven en sommige zijn gelinkt onder `` Externe links '' hieronder.",
+        "sentence2": "Sommige ervan worden hieronder beschreven en sommige zijn hier gelinkt aan ``Externe links''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In het Schotse voetbal strijden semi-professionele teams op alle niveaus onder de Schotse Premiership, waarbij de meeste teams onder de Schotse Championship semi-professioneel zijn.",
+        "sentence2": "In het Schotse voetbal presteren semi-professionele teams op alle niveaus onder het Schotse premierschap, waarbij de meeste teams onder het Schotse kampioenschap semi-professioneel zijn.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het nummer is een hook-sample in single ``design in Malice'' van de Amerikaanse hiphopgroep Jedi Mind Tricks.",
+        "sentence2": "Het nummer is een hook-sample in `` Design in Malice '' American van de single hiphopgroep Jedi Mind Tricks.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "waarbij formule 5 een van de eindige functies van Horn is met twee variabelen en convergent voor alle samenvloeiende hypergeometrische waarden van formule 6 en formule 7. Het wordt gegeven door:",
+        "sentence2": "Formule 5 is een van Horn's samenvloeiende hypergeometrische functies met twee variabelen en convergent voor alle eindige waarden van Formule 6 en Formule 7. Het wordt gegeven door:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In 1830 werd James beïnvloed door het abolitionisme van sommige leden van de American Colonization Society (ACS) en door de geschriften van Arthur Tappan.",
+        "sentence2": "Vanaf 1830 werd James beïnvloed door het abolitionisme van sommige leden van de American Colonization Society (ACS) en door de geschriften van Arthur Tappan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ze zijn ontwikkeld door Namco Bandai en uitgegeven door CyberConnect2, te beginnen met `` Naruto: Ultimate Ninja '' in 2005.",
+        "sentence2": "Ze zijn ontwikkeld door CyberConnect2 en uitgegeven door Namco Bandai, te beginnen met `` Naruto: Ultimate Ninja '' 2005.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De snelweg werd op 18 oktober 1954 opgeheven toen FM 1241 werd verlengd.",
+        "sentence2": "De snelweg werd op 18 oktober 1954 opgeheven, toen de FM 1241 werd verlengd.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De zonne-benadering van deze eis is het gebruik van zonnepanelen in een conventioneel aangedreven vliegtuig.",
+        "sentence2": "De conventionele benadering van deze eis is het gebruik van zonnepanelen in een zonnevliegtuig.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Zij was de moeder van Val, Boris en Rosalind Lorwin, en haar dochter werd hoogleraar psychologie.",
+        "sentence2": "Ze werd de moeder van Val, Boris en Rosalind Lorwin, haar dochter was hoogleraar psychologie.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Indirect bewijs voor het bestaan van donkere materie komt voort uit de zwaartekrachtsinvloed ervan op donkere materie, aangezien er in laboratoria geen andere materiedeeltjes zijn waargenomen.",
+        "sentence2": "Indirect bewijs voor donkere materie komt voort uit de zwaartekrachtsinvloed ervan op andere materie, aangezien er in laboratoria geen donkere materiedeeltjes zijn waargenomen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hij werd bij opeenvolgende staatsgrepen vervangen door Olusegun Obasanjo (1975) en Murtala Mohammed (1976).",
+        "sentence2": "Hij werd bij opeenvolgende staatsgrepen vervangen door Olusegun Obasanjo (in 1975) en Murtala Mohammed (in 1976).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "McMillan bracht twee jaar door bij het Royal Medical Corp. in Tidworth – en later in Didcot, waar hij een MRS leidde voor soldaten die gewond raakten in de Koreaanse oorlog.",
+        "sentence2": "Twee jaar lang bracht McMillan door bij het Royal Medical Corp. in Didcot – en later in Tidworth, waar hij een MRS leidde voor soldaten die gewond raakten in de Koreaanse oorlog.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "``Aku Ankka'' wordt uitgegeven door Sanoma Media (voorheen Sanoma), onderdeel van Sanoma Magazines.",
+        "sentence2": "``Aku Ankka'' wordt uitgegeven door Sanoma Media (voorheen Sanoma Magazines), onderdeel van Sanoma.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rakai is het hoofdkwartier van Oeganda, dat begin jaren tachtig het epicentrum en het eerste onderscheidende district in het Rakai-district was dat werd getroffen door de AIDS-epidemie.",
+        "sentence2": "Rakai is het hoofdkwartier van het Rakai-district, dat begin jaren tachtig het epicentrum was en voor het eerst werd getroffen door de AIDS-epidemie in Oeganda.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De Aziatische activiteiten werden onderdeel van Ebel terwijl de Europese activiteiten werden verkocht aan de Hongkongse ondernemer Joseph Wong en nu onderdeel zijn van Stelux Holdings.",
+        "sentence2": "De Aziatische activiteiten werden onderdeel van Ebel, terwijl de Europese activiteiten werden verkocht aan de Hongkongse ondernemer Joseph Wong en nu behoren tot Stelux Holdings.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het geld kwam van de Bill Melinda Gates Foundation, financier George Soros en technologie-ondernemer Edward W. Scott.",
+        "sentence2": "Startkapitaal kwam van de Bill & Melinda Gates Foundation, financier George Soros en technologie-ondernemer Edward W. Scott.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Finale is een stad in Zuid-Afrika in de provincie Mopani District Municipality, Limpopo.",
+        "sentence2": "Finale is een stad in de gemeente Mopani in de provincie Limpopo in Zuid-Afrika.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rashidi werd niet aangeklaagd, maar werd door de Marokkaanse autoriteiten aangehouden toen hij werd gerepatrieerd.",
+        "sentence2": "Rashidi werd niet aangeklaagd, maar werd na zijn arrestatie door de Marokkaanse autoriteiten gerepatrieerd.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hij werd benoemd tot aanklager voor Seneca County in 1824, voor Williams County in 1826 en voor Sandusky County in 1827.",
+        "sentence2": "Hij werd benoemd tot aanklager voor Williams County in 1824, voor Seneca County in 1826 en voor Sandusky County in 1827.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lake Georgetown is ook een bron van drinkwater voor Georgetown en de nabijgelegen stad Round Rock.",
+        "sentence2": "Lake Georgetown is ook een bron van drinkwater voor Georgetown en de nabijgelegen stad Round Rock.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Holly werd muzikaal beïnvloed door Elton John.",
+        "sentence2": "Elton John werd muzikaal beïnvloed door Holly.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Op het moment van zijn overlijden was David kardinaal Beaton Lord Chancellor van Schotland, aartsbisschop van St. Andrews en kardinaal legaat in Schotland.",
+        "sentence2": "David kardinaal Beaton was Lord Chancellor van Schotland op het moment van zijn overlijden, aartsbisschop van St. Andrews en kardinaal legaat van Schotland.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kjeld Deichmann stierf plotseling in 1963 en Erica sloot het atelier en stopte met pottenbakken.",
+        "sentence2": "In 1963 stierf Kjeld Deichmann plotseling en Erica sloot het atelier en gaf de pottenbakkerskunst op.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Michael Jackson, Prince en Madonna waren echter invloeden op het album.",
+        "sentence2": "Madonna, Prince en Michael Jackson waren echter invloeden op het album.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De enige tramremise bevindt zich in Miraflores. Termini zijn San Antonio en Oriente.",
+        "sentence2": "De enige tramremise bevindt zich in San Antonio, termini zijn Miraflores en Oriente.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hij hielp ook bij het opzetten van meditatiecentra in Noord-, Midden- en Zuid-Amerika en ook in Europa.",
+        "sentence2": "Hij hielp ook bij het opzetten van meditatiecentra in heel Europa, maar ook in Noord-, Midden- en Zuid-Amerika.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In Sri Lanka kan de titel van Chartered Accountant (CA Sri Lanka) alleen worden gebruikt door leden van het Institute of Chartered Accountants of Sri Lanka.",
+        "sentence2": "In CA kan de titel van accountant (Sri Lanka Sri Lanka) alleen worden gebruikt door leden van het Institute of Accountants in Sri Lanka.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Brown vormde ook het Solomon Episcopal Conference Center in Robert, Louisiana.",
+        "sentence2": "Robert richtte ook het Solomon Episcopal Conference Center op in Brown, Louisiana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus is een regionale bierbrouwerij, met Duitse invloeden.",
+        "sentence2": "Lobethal Bierhaus is een regionale brouwerij met Duitse stijlinvloeden.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Financiële toezichthouders delen soms het wereldbeeld van hun gereguleerde entiteiten via sectorale regelgeving.",
+        "sentence2": "Bij sectorale regelgeving delen financiële toezichthouders soms het wereldbeeld van hun gereguleerde entiteiten.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In april 1942 keerde Montagu Slater terug naar Engeland en vroeg kort na zijn terugkeer Britten om zijn librettist te zijn voor 'Peter Grimes'.",
+        "sentence2": "In april 1942 keerde Britten terug naar Engeland en kort na zijn terugkeer vroeg hij Montagu Slater om zijn librettist te worden voor 'Peter Grimes'.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Drie jaar later won hij in dezelfde wedstrijd een zilveren medaille op het EK in Hahnenklee voor West-Duitsland .",
+        "sentence2": "Drie jaar later won hij in hetzelfde evenement een zilveren medaille voor West-Duitsland op de Europese kampioenschappen in Hahnenklee.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De band werd in 1999 opgericht in Dunwoody, Georgia, nadat gitarist Cole Alexander en bassist Jared Swilley de Renegades verlieten, en gitarist Ben Eberbaugh de Reruns.",
+        "sentence2": "De band werd in 1999 opgericht in Dunwoody, Georgia, nadat gitarist Ben Eberbaugh en bassist Jared Swilley de Renegades verlieten, en gitarist Cole Alexander de Reruns.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sommige daarvan worden hier beschreven en sommige zijn gelinkt onder `` Externe links '' hieronder.",
+        "sentence2": "Sommige daarvan worden hieronder beschreven en sommige zijn hier gelinkt onder ``Externe links''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De tweede redacteur is Herbert Wessels (sinds 2009), hoofdredacteur is Markus Ermert (sinds 2002).",
+        "sentence2": "De tweede redacteur is Herbert Wessels (sinds 2009), hoofdredacteur is Markus Ermert (sinds 2002).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis is een soort bladkever afkomstig uit Noord-Afrika en delen van Europa.",
+        "sentence2": "Ochrosis ventralis is een inheemse soort bladkever in Europa en delen van Noord-Afrika.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sommige bemanningsleden kwamen om in Golden Bay en er was geen lokaal contact met andere Māori.",
+        "sentence2": "Een deel van de bemanningsleden kwam om in Golden Bay en er was geen lokaal contact met andere Māori.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Deze drie vaderlijke dynastieën regeerden het koninkrijk Waalo met de moederfamilie Mbooj.",
+        "sentence2": "Deze drie moederdynastieën regeerden het koninkrijk Waalo met de vaderlijke familie Mbooj.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Begin jaren vijftig begon Fiaminghi met het maken van kunstwerken die abstracte kunst waren en elementen van constructieve kunst bevatten.",
+        "sentence2": "Begin jaren vijftig begon Fiaminghi met het maken van kunstwerken die abstracte kunst waren en elementen van constructieve kunst bevatten.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De Pennsylvania Route 268 leidt van het westelijke uiteinde van de brug zuidwaarts naar Parker en in het noorden naar Emlenton.",
+        "sentence2": "De Pennsylvania Route 268 leidt van het westelijke uiteinde van de brug in noordelijke richting naar Parker en in zuidelijke richting naar Emlenton.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Zijn naam, Afolabi, is 'Geboren in rijkdom'. Zijn bijnaam in Nigeria betekent Robocop vanwege zijn stijve bewegingen.",
+        "sentence2": "Zijn naam, Afolabi, betekent ''Geboren uit rijkdom'', zijn bijnaam in Nigeria is Robocop vanwege zijn stijve bewegingen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "In april 1942 keerde Britten terug naar Engeland en kort na zijn terugkeer vroeg hij Montagu Slater om zijn librettist te worden voor 'Peter Grimes'.",
+        "sentence2": "Montagu Slater keerde in april 1942 terug naar Engeland. Kort na zijn terugkeer vroeg hij Britten om zijn librettist te zijn voor 'Peter Grimes'.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hij werd postuum geboren als kind van Sir John Lade, 1st Baronet, zijn moeder was de zus van brouwer Henry Thrale.",
+        "sentence2": "Hij werd geboren als kind van Sir Henry Thrale, 1st Baronet, zijn moeder was de zus van de brouwer John Lade.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De uitzondering was tussen eind 2005 en 2009, toen hij in Zweden speelde bij Carlstad United BK, Servië bij FC Terek Grozny en het Russische FK Borac Čačak.",
+        "sentence2": "De uitzondering was tussen eind 2005 en 2009 toen hij in Zweden speelde bij Carlstad United BK , Servië bij FK Borac Čačak en het Russische FC Terek Grozny .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De aflevering is geschreven door Chuck Tatham en geregisseerd door Fred Savage.",
+        "sentence2": "De aflevering is geschreven door Chuck Tatham en geleid door Fred Savage.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De bijeenkomst wordt onderbroken door de aankomst van verschillende boodschappers van verschillende machtige of invloedrijke Mardukans in de stad met veel dineruitnodigingen voor de Prins.",
+        "sentence2": "De bijeenkomst wordt onderbroken door de komst van veel boodschappers van verschillende machtige of invloedrijke Mardukans in de stad met verschillende uitnodigingen voor een diner voor de Prins.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beximco produceert textiel, basischemicaliën, farmaceutische producten, jute en zeevoedsel, en het bedrijf heeft ook belangen in vastgoed en landontwikkeling.",
+        "sentence2": "Beximco produceert textiel, basischemicaliën, farmaceutische producten, jute en mariene voedingsmiddelen; het bedrijf heeft ook belangen in vastgoed en landontwikkeling.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "``The Rider's Digest'' is nu een maandelijks tijdschrift dat in twee versies wordt uitgegeven: de retailversie en de gratis editie van 60 pagina's.",
+        "sentence2": "``The Rider's Digest'' is nu een maandblad met twee versies: de gratis editie en de retaileditie van 60 pagina's.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Zijn vrouw was Klára Csabi, en hun zoon Ferenc Wathay was ook een beroemde commandant en auteur van het 'Songbook of Ferenc Wathay'.",
+        "sentence2": "Zijn vrouw was Klára Csabi, en haar zoon Ferenc Wathay was ook een beroemde commandant en auteur van het 'liedboek van Ferenc Wathay'.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Een verhouding van 2,5:1 verminderde de proliferatie van colorectale cellen bij patiënten met rectumkanker, terwijl een verhouding van 4:1 geen effect had.",
+        "sentence2": "Een verhouding van 2,5:1 verminderde de proliferatie van colorectale cellen bij patiënten met rechthoekige kanker, terwijl een verhouding van 4:1 geen effect had.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hij werd geboren als Charles Wyndham Standing in Londen, Engeland en stierf in Los Angeles, Californië.",
+        "sentence2": "Hij werd geboren in Londen, Engeland, en stierf in Los Angeles, Californië, Charles Wyndham.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Berks County, Pennsylvania, Verenigde Staten is een gemeenschap in Robeson Township.",
+        "sentence2": "Berks County, Pennsylvania, Verenigde Staten is een township in Robeson Township.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vermont grenst in het noorden aan Mitcham, in het westen aan Nunawading en Forest Hill, in het zuiden aan Vermont en in het oosten aan Wantirna en Ringwood.",
+        "sentence2": "Zuid-Vermont grenst in het noorden aan Mitcham, in het westen aan Nunawading en Forest Hill, in het zuiden aan Vermont en in het oosten aan Wantirna en Ringwood.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cook Pond, ook bekend als de South Watuppa Pond, ligt ten zuidoosten van Laurel Lake en ten westen van de Taunton River.",
+        "sentence2": "Cook Pond, ook voorheen bekend als Laurel Lake, ligt aan de zuidkant van de rivier de Taunton en ten westen van de South Watuppa Pond.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alleen Ronnie Fields speelde geen enkele wedstrijd in de NCAA of de NBA.",
+        "sentence2": "Ronnie Fields speelde geen enkele wedstrijd in de NBA of de NCAA.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duncan McIntyre werd geboren op 6 oktober 1899 in Kent, Engeland, als zoon van kapitein Ivor Ewing McIntyre.",
+        "sentence2": "Ivor Ewing McIntyre werd geboren op 6 oktober 1899 in Kent, Engeland, als zoon van kapitein Duncan McIntyre.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Er komt ook een ziekte van de luchtwegen voor bij herkauwers, en dieren kunnen weigeren te eten, lusteloos lijken en ook neurologische symptomen ontwikkelen.",
+        "sentence2": "Bij herkauwers komt ook ademhalingsziekte voor, en dieren kunnen weigeren te eten, lusteloos lijken en ook neurologische symptomen ontwikkelen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De score is gemaakt door componist Maury Yeston, met choreografie van William Whitener, artistiek directeur van het Kansas City Ballet.",
+        "sentence2": "De score was van componist William Whitener, met choreografie van Maury Yeston, artistiek directeur van het Kansas 'City Ballet'.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Dream '' werd in 1961 uitgevoerd in het Royal Opera House, Covent Garden, geproduceerd door John Gielgud en gedirigeerd door Georg Solti.",
+        "sentence2": "`` Dream '' werd in 1961 uitgevoerd in het Royal Opera House in Covent Garden, geproduceerd door John Gielgud en geregisseerd door Georg Solti.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Op 22 september 1918 werd vanuit Australië het eerste draadloze telegraafbericht naar Snowdonia verzonden.",
+        "sentence2": "Op 22 september 1918 werd de eerste draadloze telegraafcommunicatie vanuit Australië naar Snowdonia gestuurd.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cook Pond, ook bekend als de South Watuppa Pond, ligt ten zuidoosten van Laurel Lake en ten westen van de Taunton River.",
+        "sentence2": "Aan de zuidkant ligt Cook Pond, ook voorheen bekend als South Watuppa Pond, ten oosten van het Laurel Lake en ten westen van de Taunton River.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ze hebben 13 anale zachte stekels, 11 tot 13 dorsale zachte stralen, 2 dorsale stekels en 11 tot 13 anale stralen.",
+        "sentence2": "Ze hebben 13 dorsale stekels, 11 tot 13 dorsale zachte stralen, 2 anale stekels en 11 tot 13 anale zachte stralen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De gecombineerde potentiële en totale energie wordt kinetische energie of ‘energiepakket’ genoemd.",
+        "sentence2": "De gecombineerde potentiële en kinetische energie wordt de totale energie of het 'energiepakket' genoemd.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ze waren er voor ons om te bidden, en ze waren er om van ons te genieten.",
+        "sentence2": "Ze waren er voor ons om te bidden en ze waren er voor ons om van te genieten.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Premaligne laesies zijn blijkbaar een typisch weefsel dat bij microscopisch onderzoek abnormaal lijkt en waarin kanker waarschijnlijker is dan zijn morfologisch normale tegenhanger.",
+        "sentence2": "Premaligne laesies zijn blijkbaar een typisch weefsel dat bij microscopisch onderzoek abnormaal lijkt, en waarin de kans op kanker groter is dan in zijn morfologisch normale tegenhanger.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "``R. satarae'' heeft een goudbruine vacht met een lange, zachte rug en witte onderkant.",
+        "sentence2": "``R. satarae'' heeft een goudbruine vacht met een lange, zachte rug en een witte onderkant.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Er blijven twee kleine onafhankelijke competities over met slechts een handvol leden: de Highland Alliance League en de Grampian Alliance League.",
+        "sentence2": "Er blijven twee kleine onafhankelijke competities bestaan, met slechts een handvol leden: de Grampian Alliance League en de Highland Alliance League.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De ``Fall Beil'' werd voor het laatst gebruikt in West-Duitsland in 1949, in 1966 in Oost-Duitsland.",
+        "sentence2": "De 'zaak' werd voor het laatst gebruikt in 1949 in Oost-Duitsland, in 1966 in West-Duitsland.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Annette Amelia Crum trouwde op 29 september 1874 met Bryant, de dochter van Samuel Crum. Ze kregen één dochter.",
+        "sentence2": "Op 29 september 1874 trouwde Annette Amelia met Crum Bryant, de dochter van Samuel Crum, en zij kregen een dochter.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bovendien was er een drievoudige dreigingswedstrijd voor het Amerikaanse kampioenschap tussen kampioen Jack Swagger, The Miz en Kofi Kingston.",
+        "sentence2": "Het volgende was een Triple Threat-wedstrijd voor het Amerikaanse kampioenschap tussen kampioen Kofi Kingston , The Miz en Jack Swagger .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het nummer werd gepresenteerd in de zesde promo voor het tweede seizoen van `` Sons of Anarchy '', een televisieserie van FX Network.",
+        "sentence2": "Het nummer was te zien in de zesde promo voor het tweede seizoen van `` Sons of Anarchy '', een televisieserie op het FX-netwerk.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij speelde al vroeg in zijn carrière in Australië, maar verhuisde naar Schotland om te spelen voor Frankston City in de Victorian State League .",
+        "sentence2": "Hij speelde al vroeg in zijn carrière in Schotland, maar verhuisde naar Australië om in de Victorian State League te spelen voor Frankston City.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Het nieuwste nummer `` Every Morning '' is de akoestische gitaarversie van het eerste nummer `` Morning ''.",
+        "sentence2": "Het laatste nummer, `` Every Morning '', is de akoestische gitaarversie van het eerste nummer `` Morning ''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De geraspte borstelkalkoen of bruinkraagpenseelkalkoen ('Talegalla jobiensis') is een vogelsoort uit de familie Megapodiidae.",
+        "sentence2": "De gekraagde borstelkalkoen of bruinkraagkalkoen ('Talegalla jobiensis') is een vogelsoort uit de familie Megapodiidae.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duncan McIntyre werd geboren op 6 oktober 1899 in Kent, Engeland, als zoon van kapitein Ivor Ewing McIntyre.",
+        "sentence2": "Ivor Ewing McIntyre werd geboren op 6 oktober 1899 in Kent, Engeland, als zoon van kapitein Duncan McIntyre.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "De geschiedenis van de 46th Rocket Division begint op 29 april 1941, toen de vorming van de 188th Rifle Division in Kaunas werd voltooid.",
+        "sentence2": "De geschiedenis van de 46e raketdivisie begint op 29 april 1941, toen de vorming van de 188e Geweer Divisie in Kaunas werd voltooid.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Whitlam, die Malcolm Fraser in een aardverschuiving had verslagen bij de federale verkiezingen van december 1975, bood het ridderschap aan Egerton aan voor dienst aan de vakbondsbeweging.",
+        "sentence2": "Whitlam, die Malcolm Fraser bij de federale verkiezingen in december 1975 met een grote nederlaag had verslagen, bood Egerton het ridderschap aan omdat hij de vakbondsbeweging had gediend.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis is een inheemse soort bladkever in Europa en delen van Noord-Afrika.",
+        "sentence2": "Ochrosis ventralis is een soort bladkever afkomstig uit Europa en delen van Noord-Afrika",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het seizoen begon op 6 januari 1984 in Falun, Zweden, en eindigde op 11 maart 1984 in Lygna, Noorwegen.",
+        "sentence2": "Het seizoen begon op 6 januari 1984 in Falun, Zweden, en eindigde op 11 maart 1984 in Lygna, Noorwegen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "de Ruiter, geboren in Leiden, speelde voor FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk en FC Emmen.",
+        "sentence2": "De Ruiter, geboren in Leiden, speelde voor FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk en FC Emmen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Farrell reageert met de hacks van Gabriel, terwijl McClane zijn mannen uitschakelt.",
+        "sentence2": "Farrell bestrijdt Gabriels hacks, terwijl McClane zijn mannen uitschakelt.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De single werd op 12 oktober 2012 uitgebracht op Radio Airplay in Italië en op 3 december 2012 wereldwijd verzonden.",
+        "sentence2": "De single werd op 12 oktober 2012 in Italië op de radio uitgezonden en op 3 december 2012 wereldwijd uitgezonden.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De tweede dochter van Octavius Warre Malet, Alice Anna Catherine, trouwde op 24 juni 1852 met Thomas op het Britse consulaat in Keulen.",
+        "sentence2": "De tweede dochter van Octavius Warre Malet, Alice Anna Catherine, trouwde op 24 juni 1852 met Thomas op het Britse consulaat in Keulen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum is een soort zeeslak, een echt buikpotig weekdier uit de familie Buccinidae, de wulken.",
+        "sentence2": "Probuccinum tenerum is een soort zeeslak, een echt buikpotig weekdier uit de familie Buccinidae, de mariene wulken.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "David David Godwin wordt vertegenwoordigd door Emma Townshend bij DGA Associates.",
+        "sentence2": "David Godwin wordt vertegenwoordigd door Emma Townshend bij DGA Associates.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het eenvoudige medium kan worden gekarakteriseerd met effectieve dwarsdoorsneden van absorptie en emissie bij frequenties formule _ 2 en formule _ 3.",
+        "sentence2": "Het eenvoudige medium kan worden gekarakteriseerd door effectieve dwarsdoorsneden van absorptie en emissie bij de frequenties Formule 2 en Formule 3.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "de Ruiter, geboren in Leiden, speelde voor FC Utrecht, FC Den Bosch, Excelsior, RKC Waalwijk en FC Emmen.",
+        "sentence2": "De Ruiter, geboren in Leiden, speelde voor RKC Waalwijk, FC Den Bosch, Excelsior, FC Utrecht en FC Emmen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het primaat van de rekenkundige operatoren is conceptueel bekritiseerd en 'het zijn bitsgewijze logische operatoren zoals en +.",
+        "sentence2": "De prioriteit van de rekenkundige operatoren is bekritiseerd. Conceptueel gezien zijn & en bitsgewijze logische operatoren zoals en + .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "In 1974 richtte Laos, met de steun van de Verenigde Naties, de Aziatische Ontwikkelingsbank en de Wereldbank, het Fase II Fonds op.",
+        "sentence2": "Met de steun van de Wereldbank, de Verenigde Naties en de Aziatische Ontwikkelingsbank richtte Laos in 1974 het Fase II-fonds op.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De gemeenteraad van Webster Groves bestond uit raadsleden Debi Salberg, Kathy Hart, Greg Mueller, Ken Burns, Toni Hunt en Anne Tolan.",
+        "sentence2": "De gemeenteraad van Webster Groves bestond uit raadsleden Greg Mueller, Ken Burns, Kathy Hart, Debi Salberg, Toni Hunt en Anne Tolan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Elton John werd muzikaal beïnvloed door Holly.",
+        "sentence2": "Elton John werd muzikaal beïnvloed door Holly.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hun muziek wordt door velen beschouwd als alternatieve metal met rap metal en industrial metal invloeden. Volgens eerdere interviews beschouwen ze zichzelf als 'moordrock'.",
+        "sentence2": "Hun muziek wordt door velen gezien als alternatieve metal met rap metal en industrial metal invloeden, die zichzelf volgens eerdere interviews ''moord-rock'' noemen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vervolgens steekt het de Lake Texoma-arm van de Washita-rivier over.",
+        "sentence2": "Vervolgens steekt het de Lake Texoma-arm van de Washita-rivier over.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De volgende tabel vergelijkt de prestaties van de LOD-compatibele rendering en een volledige detailmethode (\"brute-force\").",
+        "sentence2": "De volgende tabel vergelijkt de prestaties van LOD-bewuste weergave en een volledige detailmethode ('`brute force'').",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De Volare Group heeft haar hoofdkantoor in Thiene, Milaan en haar commerciële management en chartermanagement in Italië.",
+        "sentence2": "Volare Group had haar hoofdkantoor in Thiene, Milaan en haar commerciële management en chartermanagement in Italië.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het is ook vermeldenswaard dat de volgende code zou werken zonder ADL (deze wordt er toch op toegepast).",
+        "sentence2": "Het is ook vermeldenswaard dat de volgende code zou werken zonder ADL (deze wordt er hoe dan ook op toegepast).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ze zijn ontwikkeld door CyberConnect2 en uitgegeven door Namco Bandai, te beginnen met `` Naruto: Ultimate Ninja '' in 2005.",
+        "sentence2": "Ze zijn ontwikkeld door CyberConnect2 en uitgegeven door Namco Bandai, beginnend in 2005 met `` Naruto: Ultimate Ninja ''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "AleX is een Italiaanse televisieserie. De serie is geschreven door Alfredo Castelli, Guglielmo Duccoli en Giorgio Schottler en geproduceerd door Videotime.",
+        "sentence2": "De Italiaanse televisieserie AleX is geschreven door Alfredo Castelli, Guglielmo Duccoli en Giorgio Schottler en geproduceerd door videotime.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Enoteche strekte zich uit tot Oostenrijk ten noorden van de Alpen onder de Duitse naam `` Vinothek '' en van Duitsland tot Oostenrijk.",
+        "sentence2": "Enoteche heeft zich ten noorden van de Alpen naar Oostenrijk verspreid onder de Duitse naam `` Vinothek '' en van Duitsland naar Oostenrijk.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Smartass is een film geregisseerd door Jena Serbu en met Joey King in de hoofdrol.",
+        "sentence2": "Smartass is een film van Jena Serbu en Joey King.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tijdens de missie zijn 65 soldaten gedood: 34 Nigerianen, 28 Tsjadiërs, 2 Togolezen en 1 Burkinabé.",
+        "sentence2": "Tijdens de missie kwamen 65 soldaten om het leven: 34 Nigerianen, 28 Tsjadiërs, 2 Togolezen en 1 Burkinabé.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De divisie werd vernietigd tijdens de slag in Normandië, waarbij de laatste elementen verloren gingen door de val van Cherbourg.",
+        "sentence2": "De divisie werd vernietigd in de Slag om Normandië, waarbij de laatste elementen verloren gingen in de val van Cherbourg.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam (15 oktober 1929 - 29 juli 2012) was een Kuchipudi-danseres en een goeroe van de Indiase dans.",
+        "sentence2": "Vempati Chinna Satyam (15 oktober 1929 – 29 juli 2012) was een Kuchipudi-danseres en een goeroe van de Indiase dansvorm.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij stierf in Milwaukee, Wisconsin, waar hij op 5 mei 1903 met pensioen ging.",
+        "sentence2": "Hij stierf in Milwaukee, Wisconsin, waar hij op 5 mei 1903 met pensioen ging.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij werd geboren in Tiburon, Californië, en stierf in Brooklyn, New York.",
+        "sentence2": "Het werd geboren in Tiburon, Californië, en stierf in Brooklyn, New York.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De serie debuteerde op 18 april 2009 in Australië op Nickelodeon (Nieuw-Zeeland en Nieuw-Zeeland).",
+        "sentence2": "De serie debuteerde in Australië op 18 april 2009 op Nickelodeon (Nieuw-Zeeland en Nieuw-Zeeland).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dit is de Zen-stijl van het serveren en eten van maaltijden die in formele tempels wordt beoefend.",
+        "sentence2": "Dit is de Zen-stijl van serveren en eten die in formele tempels wordt beoefend.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De nieuwe leider van Gerakan Tiga Daerah was Sarjiyo, die de belangrijkste regent van Pekalongan werd.",
+        "sentence2": "De nieuwe leider van Gerakan Tiga Daerah was Sarjiyo, die de belangrijkste regent van Pekalongan werd.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tijdens zijn campagne debatteerde hij tweemaal over McCain, één keer in de vlaggemast en één keer in Tucson.",
+        "sentence2": "Tijdens zijn verkiezingscampagne debatteerde hij tweemaal over McCain, één keer in Tucson en één keer in Flagstaff.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De totale winnaars van de junior divisie 1 ontvangen de James Delahunt Cup.",
+        "sentence2": "De winnaars van Junior Division 1 ontvangen de James Delahunt Cup .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het tenue bestond uit groene trui met witte kraag, blauwe korte broek en blauwe sokken.",
+        "sentence2": "Het tenue bestond uit een groene trui met een witte kraag, een blauwe korte broek en blauwe sokken.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het evenement werd bijgewoond door Boutique @ hs Ambassador, Teresa Palmer Michala Banas en de Australische actrice Kyly Clarke.",
+        "sentence2": "Het evenement werd bijgewoond door Boutique@hs Ambassador, Teresa Palmer Michala Banas en de Australische actrice Kyly Clarke.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duminda Silva, ook bekend als Arumadura Lawrence Romelo Duminda Silva en R. Dumindha Silva, is een Sri Lankaanse politicus en voormalig parlementslid.",
+        "sentence2": "Arumadura Lawrence Romelo Duminda Silva, ook bekend als Duminda Silva en R. Dumindha Silva, is een Sri Lankaanse politicus en voormalig vertegenwoordiger van het parlement.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het dient voor de zuidoostelijke buitenwijk Edithvale van Melbourne, geopend op 20 september 1919.",
+        "sentence2": "Het bedient de zuidoostelijke voorstad Edithvale van Melbourne, geopend op 20 september 1919.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bij dergelijke diners wordt vaak kwaliteitswijn genuttigd, meestal met champagne of soortgelijke mousserende wijnen.",
+        "sentence2": "Bij dergelijke diners wordt doorgaans kwaliteitswijn genuttigd, vaak met champagne of soortgelijke mousserende wijnen als afsluiting.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Volgens het Census Bureau van de Verenigde Staten heeft Kennesaw een totale oppervlakte die bestaat uit land en, oftewel 1,08%, uit water.",
+        "sentence2": "Volgens het United States Census Bureau bestaat Kennesaw uit land en bestaat 1,08% uit water.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Joe R. Campa Jr. is een voormalig matroos van de Amerikaanse marine en diende als 11e Master Chief Petty Officer van de Amerikaanse marine.",
+        "sentence2": "Joe R. Campa Jr. is een voormalig matroos van de Amerikaanse marine en diende als de elfde Master Chief Petty Officer van de Amerikaanse marine.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Poonam Devi van RJD versloeg Dharmendra Yadav in 2000 als JDU.",
+        "sentence2": "Poonam Devi van RJD versloeg Dharmendra Yadav die JDU vertegenwoordigde in 2000.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mark Knowles en Daniel Nestor wonnen de titel en versloegen Jonathan Erlich en Andy Ram in de finale met 5: 3, 5: 4.",
+        "sentence2": "Mark Knowles en Daniel Nestor wonnen de titel en versloegen Jonathan Erlich en Andy Ram met 5-3, 5-4 in de finale.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Met Terry als Ophelia en Portia verlevendigde hij 'Hamlet' en produceerde 'The Merchant of Venice' (1879).",
+        "sentence2": "Met Terry als Ophelia en Portia bracht hij 'Hamlet' nieuw leven in en produceerde 'The Merchant of Venice' (1879).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij hielp ook bij het opzetten van meditatiecentra in heel Europa, maar ook in Noord-, Midden- en Zuid-Amerika.",
+        "sentence2": "Hij hielp ook bij het opzetten van meditatiecentra in heel Europa, maar ook in Noord-, Midden- en Zuid-Amerika.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De snelweg werd op 18 oktober 1954 opgeheven toen FM 1241 werd verlengd.",
+        "sentence2": "De snelweg werd op 18 oktober 1954 opgeheven toen FM 1241 werd verlengd.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "McCarthy werd geboren in Auckland, maar verhuisde op vierjarige leeftijd met zijn ouders naar San Francisco, Californië.",
+        "sentence2": "McCarthy werd geboren in Auckland, maar verhuisde op vierjarige leeftijd met zijn ouders naar San Francisco, Californië.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Phnom Penh – Vietnams vriendschapsmonument in Cambodja, de hoofdstad van Cambodja, is een groot betonnen monument dat herinnert aan de voormalige alliantie tussen Vietnam en Cambodja.",
+        "sentence2": "Het Phnom Penh - Vietnam Vriendschapsmonument in Cambodja, de hoofdstad van Cambodja, is een groot betonnen monument ter herdenking van de voormalige alliantie tussen Vietnam en Cambodja.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sher Ahmed Akhundzada (ook bekend als Sher Mohammed Akhundzada) is een stamleider die van 2001 tot 2005 gouverneur van Helmand in Afghanistan was.",
+        "sentence2": "Sher Ahmed Akhundzada (ook bekend als Sher Mohammed Akhundzada) is een stamleider die van 2001 tot 2005 gouverneur van Helmand in Afghanistan was.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rakai is het hoofdkwartier van het Rakai-district, dat begin jaren tachtig het epicentrum was en voor het eerst werd getroffen door de AIDS-epidemie in Oeganda.",
+        "sentence2": "Rakai is het hoofdkwartier van het Rakai District, dat begin jaren tachtig het epicentrum en het eerste afzonderlijke centrum in Oeganda was dat door de AIDS-epidemie werd getroffen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bij het overwegen van impliciete winst wordt naast de economische ook rekening gehouden met expliciete kosten.",
+        "sentence2": "Bij het beschouwen van de impliciete winst wordt naast de economische kosten ook rekening gehouden met de expliciete kosten.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rami Nieminen (geboren 25 februari 1966) is een Finse voetballer.",
+        "sentence2": "Rami Nieminen (geboren 25 februari 1966) is een Finse voetballer.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prang Ku is een district (\"Amhoe\") in het westelijke deel van de provincie Sisaket, in het noordoosten van Thailand.",
+        "sentence2": "Prang Ku is een district (\"amphoe\") in het westelijke deel van de provincie Sisaket, in het noordoosten van Thailand.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De 14e, 16e en 117e Lijn hadden elk twee bataljons in de strijd.",
+        "sentence2": "De 14e, 16e en 117e linie hadden elk twee bataljons in de strijd.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De Montreal Montreal Stars wonnen de Clarkson Cup door met 3-1 te verslaan van Minnesota Whitecaps (WWHL).",
+        "sentence2": "Montreal Stars won de Clarkson Cup door met 3-1 de Minnesota Whitecaps (WWHL) te verslaan",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het is ook vermeldenswaard dat de volgende code zou werken zonder ADL (deze wordt er hoe dan ook op toegepast).",
+        "sentence2": "Het is ook vermeldenswaard dat de volgende code zou werken zonder ADL (deze wordt er toch op toegepast).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "De luchtvaartmaatschappij werd opgericht door Irelandia, die ook vijf andere luchtvaartmaatschappijen heeft ontwikkeld, namelijk VivaColombia, Ryanair, Allegiant Air, VivaAerobus en Tigerair.",
+        "sentence2": "De luchtvaartmaatschappij is opgericht door Irelandia, die ook vijf andere luchtvaartmaatschappijen heeft ontwikkeld, namelijk VivaColombia, Ryanair, Allegiant Air, VivaAerobus en Tigerair.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Het rooms-katholieke bisdom Bungoma is een bisdom gelegen in de stad Kisumu in de kerkelijke provincie Bungoma in Kenia.",
+        "sentence2": "Het rooms-katholieke bisdom Bungoma is een bisdom in de stad Kisumu in de kerkprovincie Bungoma, Kenia.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Martin Damm en Radek Štěpánek wonnen in de finale met 6 -- 2 , 6 -- 4 van Jonas Björkman en Fabrice Santoro .",
+        "sentence2": "Martin Damm en Radek Štěpánek wonnen in de finale van Jonas Björkman en Fabrice Santoro met 6: 2, 6: 4.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hij speelde al vroeg in zijn carrière in Australië, maar verhuisde naar Schotland om te spelen voor Frankston City in de Victorian State League .",
+        "sentence2": "Hij speelde al vroeg in zijn carrière in Australië , maar verhuisde naar Schotland om te spelen voor Frankston City in de Victorian State League .",
+        "answer": "same"
+    }
+]

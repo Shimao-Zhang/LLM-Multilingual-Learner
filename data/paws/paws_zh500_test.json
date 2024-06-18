@@ -1,0 +1,2502 @@
+[
+    {
+        "sentence1": "例外情况是 2005 年末至 2009 年期间，他曾在瑞典的卡尔斯塔德联队 (Carlstad United BK)、塞尔维亚的博拉茨恰克队 (FK Borac Čačak) 和俄罗斯的格罗兹尼特里克队 (FC Terek Grozny) 踢球。",
+        "sentence2": "例外情况是 2005 年末至 2009 年期间，当时他在瑞典为卡尔斯塔德联队 (Carlstad United BK)、塞尔维亚为 FK 博拉茨恰克队 (FK Borac Čačak) 和俄罗斯为格罗兹尼特里克队 (FC Terek Grozny) 踢球。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "塔巴奇河是罗马尼亚卢尔达河的一条支流。",
+        "sentence2": "莱尔达河是罗马尼亚塔巴奇河的一条支流。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1993 年，他曾为 A 级球队凯恩县美洲狮队 (Kane County Cougars) 效力，后来又为 AA 级球队波特兰海狗队 (Portland Sea Dogs) 效力。",
+        "sentence2": "1993 年，他曾效力于 A 级波特兰海狗队和 AA 级凯恩县美洲狮队。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Winarsky 是 IEEE、Phi Beta Kappa、ACM 和 Sigma Xi 的成员。",
+        "sentence2": "Winarsky 是 ACM、IEEE、Phi Beta Kappa 和 Sigma Xi 的成员。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1938年，他成为英埃苏丹的政府人类学家，并领导了对努巴人的实地考察。",
+        "sentence2": "1938 年，他成为埃及-英属苏丹政府人类学家，并对努巴人进行了实地考察。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "比利·比利·巴特森 (Billy Billy Batson) 出现在《黑亚当》的前四期中，该期于 2008 年末至 2009 年初出版。",
+        "sentence2": "黑亚当出现在《比利巴特森》的前四期中，出版于 2008 年末至 2009 年初。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "满足这一要求的太阳能方法就是在传统动力飞机上使用太阳能电池板。",
+        "sentence2": "满足这一要求的太阳能方法就是在常规动力飞机上使用太阳能电池板。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "作为正在进行的调查的一部分，警方还询问了歌手里米·托米 (Rimi Tomy) 和演员卡维娅·马达万 (Kavya Madhavan)，他们两人都是西迪克和他的妻子迪利普的密友。",
+        "sentence2": "作为正在进行的调查的一部分，警方还询问了歌手里米·托米 (Rimi Tomy) 和演员卡维娅·马达万 (Kavya Madhavan)，他们两人都是西迪克和他的妻子迪利普的密友。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "它们与稀疏的现场管弦乐相重叠，由模糊的、几乎是故意无色的声音组成。",
+        "sentence2": "它们覆盖着无色彩的现场演奏音乐，并由模糊的、几乎是故意稀疏的管弦乐声组成。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "霍莉在音乐上受到埃尔顿·约翰 (Elton John) 的影响。",
+        "sentence2": "霍莉·霍莉 (Holly Holly) 的音乐受到了埃尔顿·约翰 (Elton John) 的影响。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "球队在 2 月 19 日晚上的下一场比赛中对这些变化做出了回应。",
+        "sentence2": "球队在次年2月19日晚的比赛中对这些变化做出了回应。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "纳舒厄银骑士队是目前夏季联赛的一部分，也是该市的大学生球队。",
+        "sentence2": "纳舒厄银骑士队是夏季大学联赛的一部分，也是该市目前的球队。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "“ Fallbeil” 最后一次使用是在 1949 年在西德，1966 年在东德。",
+        "sentence2": "“Fall Beil” 最后一次使用是在 1949 年在西德，1966 年在东德。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "该运河是欧洲和比利时最古老的通航运河之一。",
+        "sentence2": "这条运河是比利时乃至欧洲最古老的通航运河之一。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "2009 年他搬回费城，现居住在纽约市。",
+        "sentence2": "2009 年他搬回费城，现居住在纽约市。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1954 年 6 月 30 日，他因胃癌在纽约市俄克拉荷马州克莱尔莫尔（林恩·里格斯纪念馆所在地）逝世。",
+        "sentence2": "1954 年 6 月 30 日，他因胃癌在纽约市去世。俄克拉荷马州克莱尔莫尔是林恩·里格斯纪念馆所在地。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "斯蒂普西茨出生于德国科尔新堡，童年在维也纳施塔默斯多夫度过。",
+        "sentence2": "斯蒂普西茨出生于科尔新堡，童年在维也纳施塔默斯多夫度过。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "凯塔王朝从 12 世纪到 17 世纪初统治着帝国前期和帝国时期的马里。",
+        "sentence2": "凯塔王朝从 12 世纪到 17 世纪初统治马里，处于帝国前期和帝国时期。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "《天使眼》是一首 1946 年的流行歌曲，由马特丹尼斯创作，厄尔布伦特填词。",
+        "sentence2": "《天使眼》是一首流行歌曲，由厄尔·布伦特于 1946 年创作，马特·丹尼斯填词。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "音乐由 Shyam 创作，歌词由 Sreekumaran Thampi 和 Sathyan Anthikkad 填词。",
+        "sentence2": "该曲由 Shyam 创作，歌词由 Sreekumaran Thampi 和 Sathyan Anthikkad 填词。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "这部 影片 获得 了 商业 成功 , 是 塞尔吉奥索利马 最 成功 的 影片 之一 , 而且 比 这位 前 意大利 面条 片 导演 的 西部片 政治性 较低 . ",
+        "sentence2": "这部 影片 获得 了 商业 成功 , 也是 塞尔吉奥索利马 政治 色彩 较浓 的 影片 之一 , 但 不如 这位 前 意大利 面条 电影 导演 的 西部片 成功 . ",
+        "answer": "different"
+    },
+    {
+        "sentence1": "卡比尔 (Kabir) 要求萨里卡 (Sarika) 透露他结束兰维尔 (Ranvir) 游戏的计划。",
+        "sentence2": "卡比尔 (Kabir) 要求萨里卡 (Sarika) 向他透露结束兰维尔 (Ranvir) 游戏的计划。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "球队在 2 月 19 日晚上的下一场比赛中对这些变化做出了回应。",
+        "sentence2": "球队在明年二月晚上举行的同一场比赛中对这些变化做出了回应。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1805 年 5 月，约翰·盖奇 (John Gedge) 中尉任命他们前往北海，1806 年，罗伯特·拉姆齐 (Robert Ramsey) 中尉接替了他的职位。",
+        "sentence2": "1805 年 5 月，罗伯特·拉姆齐 (Robert Ramsey) 中尉委托她前往北海，1806 年，约翰·盖奇 (John Gedge) 中尉接替他的位置。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Emma Townshend 的代表是 DGA Associates 的 David Godwin。",
+        "sentence2": "戴维·戴维·戈德温 (David David Godwin) 在 DGA Associates 的代表是艾玛·汤森 (Emma Townshend)。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "纳舒厄银骑士队是夏季大学联赛的一部分，也是该市目前的球队。",
+        "sentence2": "纳舒厄银骑士队 (Nashua Silver Knights) 是该市的大学生球队，目前正在参加夏季联赛。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "从大桥的西端，宾夕法尼亚州 268 号公路向南通往帕克，向北通往埃姆伦顿。",
+        "sentence2": "宾夕法尼亚州 268 号公路从大桥西端向南延伸至帕克，向北延伸至埃姆伦顿。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "这种装置在英国很常见，但在欧洲，至少对于大型机车来说，相对少见。",
+        "sentence2": "这种装置在英国很少见，但在欧洲，至少对于大型机车来说，这种装置比较常见。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "阿尔斯通 1965 年 12 月 21 日出生于马里兰州奥克森山，就读于康涅狄格州纽黑文的奥克森山高中。",
+        "sentence2": "他于 1965 年 12 月 21 日出生在马里兰州奥克森山，在康涅狄格州纽黑文上高中。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "美军总计伤亡 28 人，而越共则共有 345 人死亡，另有估计有 192 人死亡。",
+        "sentence2": "总计 有 28 名美军阵亡，而越共阵亡人数为 345 人，另有估计有 192 人阵亡。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "在CA，特许会计师（斯里兰卡Sri Lanka）的称号只有斯里兰卡会计师协会的会员才可使用。",
+        "sentence2": "在 CA，只有斯里兰卡特许会计师协会的会员才能使用“特许会计师（斯里兰卡）”头衔。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Simyo 隶属于荷兰电信集团 KPN，该集团于 3 月 14 日收购了 E-Plus 的剩余股权。",
+        "sentence2": "继 3 月 14 日收购 E-Plus 剩余股权后，Simyo 归属于荷兰电信集团 KPN 。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "除库肯达尔 (Kuykendall) 外，罗伯特怀特 (Robert White) 和乔舒亚索尔齐默尔曼 (Joshua Soule Zimmerman) 也担任汉普郡县衡平法院专员。",
+        "sentence2": "罗伯特·怀特 (Robert White) 和乔舒亚·索尔·齐默尔曼 (Joshua Soule Zimmerman) 与库肯德尔 (Kuykendall) 一起担任汉普郡县衡平法院专员。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "这些观点在新教、清教和福音派运动兴起时经常被表达。",
+        "sentence2": "这些观点在福音派、清教派和新教运动兴起时经常得到表达。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1973-74 赛季欧洲联盟杯由鹿特丹费耶诺德队以 4：2 战胜托特纳姆热刺队。",
+        "sentence2": "1973 - 74 赛季欧洲联盟杯由鹿特丹费耶诺德队以总比分 4 - 2 战胜托特纳姆热刺队夺得。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "塔尔福德·埃利 (Talfourd Ely) 是约翰·托威尔·鲁特 (John Towill Rutt) 的孙子，而约翰·托威尔·鲁特 (John Towill Rutt) 是克拉布·罗宾逊 (Crabb Robinson) 早期的朋友。",
+        "sentence2": "塔尔福德·埃利 (Talfourd Ely) 是克拉布·罗宾逊 (Crabb Robinson) 的孙子，而克拉布·罗宾逊 (Crabb Robinson) 是约翰·托威尔·鲁特 (John Towill Rutt) 的早期朋友。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他的父亲在他年轻时就去世了，他的母亲塞缪尔亚当斯于 1842 年与凯瑟琳 A. 费根结婚，后者两年后成为阿肯色州州长。",
+        "sentence2": "他的父亲在他年少时去世，他的母亲凯瑟琳·A·费根于 1842 年嫁给了塞缪尔·亚当斯，后者两年后成为阿肯色州州长。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他们还于 6 月 13 日发行了专辑中的第二首歌曲“ Vices ”，作为专辑中的第五首单曲。",
+        "sentence2": "他们还于 6 月 13 日发行了专辑中的第二首曲目“Vices”，作为该专辑的第五首单曲。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1888 年，悉尼水务局从市议会手中接管了悉尼的供水。",
+        "sentence2": "1888年，悉尼水务局从市议会手中接管了悉尼的供水任务。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "蔡凤还有一个儿子，叫蔡茂。",
+        "sentence2": "蔡瑁还有一个儿子，叫蔡凤。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "其叶片沿枝条交替生长，排列成披针形、卵形或近圆形，叶柄较长。",
+        "sentence2": "其叶片沿枝条交替排列，呈披针形、卵形或近圆形，有长茎。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "这扩大了马萨诸塞州和罗德岛省的冲突范围。",
+        "sentence2": "这扩大了罗得岛州和马萨诸塞省的冲突范围。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "斯劳高中是一所位于伯克郡（现白金汉郡斯劳）的女子精英文法学校。",
+        "sentence2": "斯劳高中是一所位于白金汉郡斯劳（现伯克郡）的精英女子文法学校。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "它靠近科里布湖 (Lough Corrib)，位于通往康尼马拉的奥特拉德 (Oughterard) 和克利夫登 (Clifden) 的 N59 公路上。",
+        "sentence2": "它位于康尼马拉通往科里布湖的 N59 公路上，靠近奥特拉德和克利夫登。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "虽然没有明文规定禁止黑人球员，但自 1933 年以来，还没有非裔美国人参加过国家橄榄球联盟。",
+        "sentence2": "尽管 排除 非洲 球员 并不是 一项 明文 规定 , 但 自 1933 年 以来 , 国家 橄榄球 联盟 中 就没有 过 美国 黑人 球员 . ",
+        "answer": "different"
+    },
+    {
+        "sentence1": "阿里死后，穆阿维叶掌权，建立王朝。",
+        "sentence2": "穆阿维叶死后，阿里掌权，建立王朝。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1994 年，罗德里戈·莱昂 (Rodrigo Leão) 离开乐队，开始独唱，由卡洛斯·玛丽亚·特林达德 (Carlos Maria Trindade) (键盘合成器) 取代。",
+        "sentence2": "1994 年，罗德里戈·莱昂 (Rodrigo Leão) 离开乐队，开始独唱，由卡洛斯·玛丽亚·特林达德 (Carlos Maria Trindade) (键盘合成器) 取代。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1933 年卡特尔写道，在所有的北欧人种中，“欧洲人种的智力和性情稳定性是最先进的”。",
+        "sentence2": "1933年，卡特尔写道，在所有的北欧人种中，“欧洲人种在智力和性格稳定性方面最为发达”。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "毛果冷杉（Abies lasiocarpa），俗称北美西部冷杉或落基山冷杉，是一种高山冷杉。",
+        "sentence2": "拉西果冷杉（Abies lasiocarpa），俗称北美西部冷杉或落基山冷杉，是一种亚高山冷杉。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "美国汽车公司仅以有限援助的形式提供了技术支持。",
+        "sentence2": "美国汽车公司仅以有限的帮助形式提供技术支持。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "休斯顿主楼 ( HMB ) 前身是保诚大厦，是位于德克萨斯州休斯顿的德克萨斯医疗中心的一座摩天大楼。",
+        "sentence2": "休斯顿主楼 (HMB) 原名为保诚大厦，是位于德克萨斯州休斯顿德克萨斯医疗中心的一座摩天大楼。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1954年返回帕拉马里博后，他在苏里南当了一名律师。",
+        "sentence2": "1954年返回苏里南后，他在帕拉马里博当一名律师。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Aerosucre 4544 航班坠毁事件是 Aerosucre 发生的首起航空事故，第二起事故是 2006 年 11 月 18 日另一架波音 727 客机坠毁事件。",
+        "sentence2": "俄罗斯航空 4544 号航班坠毁事件是俄罗斯航空发生的第二起飞行事故，第一起事故是 2006 年 11 月 18 日另一架波音 727 客机坠毁事件。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "卡伯特小道系列剧的拍摄场地位于布雷顿角，包括东海岸的佩姬湾和新斯科舍高地。",
+        "sentence2": "东海岸部分是在新斯科舍省实地拍摄的，包括佩姬湾和布雷顿角高地，以及卡伯特小道沿线。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "调节鹿种群数量的另一种方法是控制出生率。",
+        "sentence2": "调节鹿种群数量的另一种方法是控制出生率。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "这首诗现保存于四份残缺的手稿中，其中一份是当代的。",
+        "sentence2": "这首诗保存在四份当代手稿中，其中一份已残缺不全：",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Manu Chao、乐队“Air”、Cassius、Mars IV、Les Négresses Vertes 和 FFF 以及 Howie B 也参与了这张专辑的制作。",
+        "sentence2": "乐队“Air”、Howie B、Mars IV、Les Négresses Vertes 和 FFF 以及 Manu Chao 也参与了这张专辑的制作。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "胡迪亚萨河是罗马尼亚布拉杜河的一条支流。",
+        "sentence2": "胡迪亚萨河是罗马尼亚布拉杜河的支流。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "尽管 排除 非洲 球员 并不是 一项 明文 规定 , 但 自 1933 年 以来 , 国家 橄榄球 联盟 中 就没有 过 美国 黑人 球员 . ",
+        "sentence2": "尽管没有明文规定禁止黑人球员，但自 1933 年以来，还没有非裔美国人参加过国家橄榄球联盟。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他的父亲帕特里克·伯恩是国会议员、议员、参议员和都柏林市长。他的另一个兄弟阿尔菲·伯恩也是一名议员。",
+        "sentence2": "他的父亲帕特里克·伯恩 (Patrick Byrne) 是都柏林的代表、参议员和市长，他的另一个兄弟阿尔菲·伯恩 (Alfie Byrne) 也是爱尔兰议员。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "第一季比第二季受到评论家的好评。",
+        "sentence2": "第二季受到评论家的好评，评价比第一季更好。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "范伍德位于第 12 国会选区，是新泽西州第 22 立法区的一部分。",
+        "sentence2": "范伍德位于第 22 国会选区，是新泽西州第 12 州立法区的一部分。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "圣克鲁斯位于圣克鲁斯河的河畔，该河流入拉古纳德湾的东部。",
+        "sentence2": "拉古纳德湾 (Laguna de Bay) 位于圣克鲁斯河 (Santa Cruz) 河畔，该河流入圣克鲁斯省东部。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "文森门位于巴黎第20区东南角与第12区东北角交汇处。",
+        "sentence2": "文森门位于巴黎第十二区东北角与第二十区东南角交汇处。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "2011 年 3 月 5 日，MTV Hive 发布了 Anni Rossi 的流媒体链接，演唱蕾哈娜的“Rude Boy”。",
+        "sentence2": "2011 年 3 月 5 日，MTV Hive 发布了蕾哈娜演唱 Anni Rossi《Rude Boy》的流媒体链接。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "公元前284年，齐王在西周与秦昭王会面，结成联盟对抗息。",
+        "sentence2": "公元前284年，齐王在西周与秦昭王会晤，结盟攻打息国。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "唐代郴州府位于周口以东，属今河南省辖地：",
+        "sentence2": "唐代郴州的政区在今河南周口东部地区：",
+        "answer": "same"
+    },
+    {
+        "sentence1": "“Pure” 的意思是简单，“Belter” 或 “Belta” 的意思是伟大或良好。",
+        "sentence2": "“Pure” 的意思很简单，就是非常，“Belter” 或 “Belta” 的意思是好或大。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1806 年 8 月 29 日，斯蒂芬·斯蒂芬在杰斐逊县伊丽莎白科尔由治安法官本杰明·霍夫主持结婚。",
+        "sentence2": "“2” 1806 年 8 月 29 日，本杰明·霍夫 (Benjamin Hough) 与伊丽莎白·科尔 (Elizabeth Core) 在杰斐逊县由治安法官斯蒂芬·福特 (Stephen Ford) 主持结婚。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该物种于 1846 年由植物学家 Stephan Endlicher 首次正式描述，属于 Johann Georg Christian Lehmann 的作品“Irideae . Plantae Preissianae”的一部分。",
+        "sentence2": "该物种于 1846 年由植物学家 Stephan Endlicher 首次正式描述，作为 Johann Georg Christian Lehmann 著作“Irideae Plantae Preissianae”的一部分。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1912 年，印度国民大会党在班基波尔举行第 27 届大会，由来自阿姆劳蒂、中央省和贝拉尔的拉奥·巴哈杜尔·拉古纳特·纳拉辛哈·穆多尔卡 (Rao Bahadur Raghunath Narasinha Mudholkar) 担任主席。",
+        "sentence2": "1912 年，印度国民大会党在 Bankipore 举行第 27 届大会，由来自中央省份阿姆劳蒂和贝拉尔的饶巴哈杜尔拉古纳特纳拉辛哈穆多卡担任主席。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "最常用的动物纤维是绵羊毛。手工编织和业余编织通常使用粗羊毛和腈纶纱。",
+        "sentence2": "最常纺的动物纤维是绵羊毛。手工编织和业余编织通常使用粗羊毛和腈纶纱。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tipico Co. Ltd 和 Tipico Casino Ltd 成立于 2004 年，是马耳他金融服务管理局商业登记的国际贸易公司。",
+        "sentence2": "Tipico Co. Ltd 和 Tipico Casino Ltd 于 2004 年在马耳他金融服务管理局商业登记处成立，是国际贸易公司。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "它靠近科里布湖 (Lough Corrib)，位于通往康尼马拉的奥特拉德 (Oughterard) 和克利夫登 (Clifden) 的 N59 公路上。",
+        "sentence2": "它位于康尼马拉通往科里布湖的 N59 公路上，奥特拉德和克利夫登附近。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "2006 年 9 月 14 日，朗与华盛顿奇才队签约，并于 2017 年 7 月被奇才队解约。",
+        "sentence2": "2006年9月14日，朗与华盛顿奇才队签约。2017年7月，朗被奇才队解约。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "该单曲于2012年10月12日在意大利Radio Airplay发行，并于2012年12月3日在全球发行。",
+        "sentence2": "该单曲于2012年10月12日在意大利电台播放，并于2012年12月3日在全球发行。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "退役后，洛克哈特居住在德克萨斯州，但最近搬到了佛罗里达州。",
+        "sentence2": "退役后，洛克哈特居住在佛罗里达州，但最近搬到了德克萨斯州。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "它分布于北美洲，从纽芬兰和拉布拉多半岛西部到不列颠哥伦比亚省，北至阿拉斯加和育空地区。",
+        "sentence2": "它分布于北美洲，从纽芬兰和拉布拉多西部到不列颠哥伦比亚省，北到阿拉斯加和育空地区都有记录。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "兰德尔斯敦西部地区包括伍德朗、米尔福德米尔和巴尔的摩县。",
+        "sentence2": "西部兰德尔斯敦区由伍德朗、米尔福德米尔和巴尔的摩县组成。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "在他最重要的一场比赛中，他由约翰·维拉斯奎兹（John Velazquez）训练，并由骑师戴尔·罗曼斯（Dale Romans）骑乘。",
+        "sentence2": "他由戴尔罗马斯（Dale Romans）训练，并在最重要的比赛中由骑师约翰维拉斯奎兹（John Velazquez）骑乘。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "在萨凡纳期间，查尔斯塞莱斯廷从报纸上得知，他的儿子谢尔曼在萨凡纳战役中牺牲了，但这位将军从未见过这个孩子。",
+        "sentence2": "在萨凡纳时，查尔斯·塞莱斯廷从报纸上得知，他的幼子谢尔曼在萨凡纳战役中牺牲了；而他从未见过这个孩子。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "封面由纹章艺术家 John Pasche 设计，单曲“Steel Monkey”的封面由艺术总监 Andrew Stewart Jamieson 设计。",
+        "sentence2": "封面由纹章艺术家 Andrew Stewart Jamieson 设计，单曲“Steel Monkey”的封面设计由艺术总监 John Pasche 完成。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "MacCormack 方法是广泛用于求解偏双曲微分方程的数值解的离散化方案。",
+        "sentence2": "在计算流体力学中，MacCormack方法是数值方程双曲偏微分解的一种广泛使用的离散化方案。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "赖特从北卡罗来纳州教堂山搬到了纽约。",
+        "sentence2": "赖特从北卡罗来纳州教堂山搬到了纽约。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "喷辅音是一些口语中使用的软腭音，国际音标中的符号代表这种声音。",
+        "sentence2": "软腭喷音是一些口语中使用的一种辅音，国际音标中的符号就是这个声音。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "欧洲业务成为 Ebel 的一部分，而亚洲业务则出售给香港企业家 Joseph Wong，现在属于 Stelux Holdings。",
+        "sentence2": "欧洲业务成为 Ebel 的一部分，而亚洲业务则出售给香港企业家 Joseph Wong，目前成为 Stelux Holdings 的一部分。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "早期顾问委员会成员包括阿利斯泰尔·库克 (Alistair Cooke)、索尔·贝娄 (Saul Bellow)、沃尔特·克朗凯特 (Walter Cronkite)、诺曼·考辛斯 (Norman Cousins)、戈尔·维达尔 (Gore Vidal) 和诺曼·波德霍雷茨 (Norman Podhoretz)。",
+        "sentence2": "早期顾问成员包括沃尔特·克朗凯特、诺曼·维特、戈尔·维达尔、诺曼·波德霍雷茨、索尔·贝娄和阿利斯泰尔·库克。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "佩特克尔耶尔维国家公园 (Petkeljärvi National Park) 是位于芬兰北卡累利阿地区伊洛曼齐的一座国家公园。",
+        "sentence2": "佩特克尔耶尔维国家公园是芬兰北卡累利阿伊洛曼齐地区的一座国家公园。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他们还于 6 月 13 日发布了专辑中的第五首歌曲“ Vices ”，作为专辑中的第二首单曲。",
+        "sentence2": "他们还于 6 月 13 日发行了专辑中的第五首曲目“ Vices ”，作为该专辑的第二首单曲。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "斯托克队在第四轮输给彼得堡联队之前，先后击败了谢菲尔德星期三队和哈德斯菲尔德队。",
+        "sentence2": "斯托克队击败了彼得堡联队和哈德斯菲尔德队，然后在第四轮比赛中输给了谢菲尔德星期三队。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "当被问及他的名字怎么读时，他告诉《文学文摘》我的名字的发音好像是“ear”；en-house”的拼写。",
+        "sentence2": "当被问及他的名字该怎么读时，他告诉《文学文摘》“我的名字的拼写好像发音为 ear'apos;enhouse”。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该品种于 1880 年由费尔南多·海德里希 (Fernando Heydrich) 在古巴马坦萨斯引进。",
+        "sentence2": "1880 年，费尔南多·海德里希 (Fernando Heydrich) 将其种植引入古巴马坦萨斯。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "如果一个句子中有多个语法类别，则只有第一个语法类别用复数标记。",
+        "sentence2": "如果一个句子中有多个语法类别，则只有复数才用第一个标记。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1777 年 10 月，该政权离开费城，加入波士顿郊外乔治华盛顿将军的主力部队。",
+        "sentence2": "1777 年 10 月，该团离开费城，前往波士顿郊外加入乔治华盛顿将军的主力部队。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1974年，老挝在世界银行、联合国、亚洲开发银行的帮助下设立了第二期基金。",
+        "sentence2": "老挝人民民主共和国在世界银行、联合国、亚洲开发银行的支持下，于1974年成立了第二期基金。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "后来他把它作为纳粹党的象征，放在白色的圆圈和红色的背景上，作为旗帜。",
+        "sentence2": "后来他把它作为纳粹党的象征，放在一个红色的圆圈和白色的背景上，作为旗帜。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "为了开发霍斯的地图，设计师们从“帝国反击战”中获取了尽可能多的素材，以创建真实的再现。",
+        "sentence2": "为了绘制霍斯的地图，设计师们从《帝国反击战》中获取了尽可能多的素材，以便真实地再现它。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他与伊丽莎白·“贝琪”·卡茨结婚。他是亚当、纳撒尼尔和萨拉·亨特的父亲。",
+        "sentence2": "他与伊丽莎白“贝琪”卡茨结婚，后者是亚当、纳撒尼尔和萨拉亨特的父亲。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "房子里充满了愤怒的能量，形成了里面的巫术灵魂。",
+        "sentence2": "房子里充满了亡灵能量，形成了里面愤怒的幽灵。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "奥罗斯在沃克手下负责福特轿车和卡车的设计，而恩格尔则专注于林肯和水星汽车的设计。",
+        "sentence2": "奥罗斯在沃克手下负责福特轿车和卡车的设计，而恩格尔则专注于林肯和水星汽车的设计。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hirasea goniobasis 是一种陆生有肺空气呼吸蜗牛，是内齿蜗牛科的一种小型腹足类软体动物。",
+        "sentence2": "Hirasea goniobasis 是一种小型空气呼吸蜗牛，属于内齿蜗牛科的陆生有肺腹足类软体动物。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "癌前病变显然是一种典型的组织，在显微镜检查下看起来不正常，并且比形态正常的组织更容易发生癌症。",
+        "sentence2": "癌前病变显然是一种典型的组织，在显微镜检查中出现异常，并且比形态正常的组织更有可能发生癌症。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "阿布哈利法 (Abu Halifa) 或阿布胡莱法 (Abu Hulayfah)、阿布胡莱法 (Abu Huleifa) 或阿布哈利法 (Abu Haleifa) 是科威特艾哈迈迪省南部阿布哈利法区的一个小镇。",
+        "sentence2": "阿布哈利法 (Abu Halifa) 或阿布胡莱法 (Abu Hulayfah) 或阿布胡莱法 (Abu Huleifa) 或阿布哈利法 (Abu Haleifa) 是科威特艾哈迈迪省南部阿布哈利法区的一个小镇。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "《以色列》是美国爵士长号演奏家 Kai Winding 和 JJ Johnson 的一张专辑，收录了 1968 年在 C 唱片上录制的表演。",
+        "sentence2": "《以色列》是美国爵士长号演奏家 Kai Winding 和 JJ Johnson 的一张专辑，其中的表演于 1968 年出版并录制在 C 上。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "2014 年，亚当根据经典故事《弗兰肯斯坦》、《道林·格雷的堕落》和《化身博士》创作了一部哥特式三部曲。",
+        "sentence2": "2014 年，亚当创作了一部哥特式三部曲，改编自经典故事《弗兰肯斯坦》、《道林·格雷的堕落》和《化身博士》",
+        "answer": "same"
+    },
+    {
+        "sentence1": "格拉德夫人曾于 1901 年至 1919 年、1926 年至 1936 年在奥万博兰工作，并担任那里的第一位学校督察。",
+        "sentence2": "格拉德夫人曾于 1901 年至 1919 年和 1926 年至 1936 年在奥万博兰工作，并担任那里的首任学校督察。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "他将此描述为小说写作的新发现，并认为这是中国文学的神话现实主义。",
+        "sentence2": "他认为这是小说写作的一个“新发现”，并将它称为中国文学的“神话现实主义”。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1953年，该队还前往澳大利亚进行巡回演出，并于1959年8月前往亚洲。",
+        "sentence2": "该队还于 1953 年前往澳大利亚进行巡回演出，并于 1959 年 8 月前往亚洲进行巡回演出。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "罗尼·菲尔兹没有在 NBA 或 NCAA 打过一场比赛。",
+        "sentence2": "罗尼·菲尔兹没有在 NCAA 或 NBA 打过一场比赛。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "新的游乐场为儿童配备了现代化的健身器材。",
+        "sentence2": "游乐场很现代化，为孩子们配备了新的健身器材。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Probuccinum tenerum 是一种海螺，是海螺科的一种真正的腹足类软体动物，属于海螺属。",
+        "sentence2": "Probuccinum tenerum 是一种海螺，属于海螺科，是海洋腹足类软体动物。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "亚伯拉罕·哈特 (Abraham Hart) 担任董事长，梅耶·苏兹伯格 (Mayer Sulzberger) 担任董事会秘书。",
+        "sentence2": "梅耶苏兹伯格 (Mayer Sulzberger) 担任主席，亚伯拉罕哈特 (Abraham Hart) 担任董事会秘书。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "朱希·查瓦拉 (Juhi Chawla) 与妻子贾纳维·梅塔 (Jahnavi Mehta) 有两个孩子，一个女儿梅塔 (Mehta)（生于 2001 年），一个儿子阿琼·梅塔 (Arjun Mehta)（生于 2003 年）。",
+        "sentence2": "梅塔与妻子 Juhi Chawla 有两个孩子：一个女儿 Jahnavi Mehta（生于 2001 年），一个儿子 Arjun Mehta（生于 2003 年）。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "在特定的圣公会传统中，新教和天主教倾向之间的区别程度一直是圣公会教堂内部和整个圣公会中争论的问题。",
+        "sentence2": "圣公会传统内的新教与天主教倾向之间的区别程度，一直是特定圣公会教堂和整个圣公会社区争论的话题。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "斯劳高中是位于白金汉郡斯劳（现伯克郡）的一所女子精英学校。",
+        "sentence2": "斯劳高中是一所位于白金汉郡斯劳（现伯克郡）的女子精英文法学校。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus 是一家受德国风格影响的地区性啤酒厂。",
+        "sentence2": "Lobethal Bierhaus 是一家地区性啤酒酿造厂，受到德国风格的影响。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "朗出生于以色列，青年时期移居澳大利亚，并于 1961 年定居。",
+        "sentence2": "朗出生于澳大利亚，年轻时移居以色列，并于 1961 年定居于此。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他在威斯康星州密尔沃基退休，并于 1903 年 5 月 5 日在那里去世。",
+        "sentence2": "他在威斯康星州密尔沃基去世，并于 1903 年 5 月 5 日在那里退休。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "菌盖颜色从褐色到褐色不等，成熟时菌盖上通常会有一个黄色的斑点。",
+        "sentence2": "菌盖颜色从棕色到黄色不等，成熟时菌盖上常有一个棕色斑点。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "瓦莱亚河（Valea lui Lambă）或“unk”伊蒙河是罗马尼亚洛姆河的一条支流。",
+        "sentence2": "瓦莱亚·卢伊·兰巴河 (Valea lui Lambă River) 或称西蒙河 (Șimon River) 是罗马尼亚洛姆河的一条支流。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "已完工的围栏主要位于德克萨斯州，另有在新墨西哥州、亚利桑那州和加利福尼亚州施工。",
+        "sentence2": "已完工的围栏主要在德克萨斯州，新墨西哥州、亚利桑那州和加利福尼亚州正在施工。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Buccinum pulchellum 是海蜗牛的一种，是海蜗牛科的一种海洋腹足类软体动物，是真正的轮角蜗牛。",
+        "sentence2": "Buccinum pulchellum 是一种海螺，是海螺科（Buccinidae）的一种真正的腹足类软体动物。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1983 年 4 月 30 日，一架隶属于古巴关塔那摩湾海军航空站的 C - 311 型飞机在杰克逊维尔海军航空站坠毁，造成 13 人丧生。",
+        "sentence2": "1983 年 4 月 30 日，一架隶属于古巴杰克逊维尔海军航空站的 C-311 运输机在关塔那摩湾海军航空站坠毁，造成 13 人丧生。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "作为对亨利忠诚的回报，他获得了威尔士南部丰厚的土地和许多官职。",
+        "sentence2": "作为对亨利忠诚的回报，他在南威尔士获得了大片土地和利润丰厚的官职。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "2010年，纽约大学以3-1-1击败哈佛大学，首次夺得全国冠军。",
+        "sentence2": "2010年，纽约大学以3-1-1击败哈佛大学，首次夺得全国冠军。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "尼亚伊洛弗尔河是罗马尼亚境内尼亚伊洛夫河的一条支流。",
+        "sentence2": "尼亚伊洛夫河是罗马尼亚尼亚伊洛弗尔河的一条支流。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该机构总部位于弗吉尼亚州阿灵顿，海外办事处位于法国巴黎。",
+        "sentence2": "该机构总部位于弗吉尼亚州阿灵顿，海外运营办事处位于法国巴黎。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "尼亚伊洛夫河是罗马尼亚尼亚伊洛弗尔河的一条支流。",
+        "sentence2": "尼亚伊洛弗尔河是罗马尼亚境内尼亚伊洛夫河的一条支流。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "艾哈迈德·亚尔汗 (Ahmad Yar Khan) 出生于沙普尔 (Shahpur) 的蒂瓦纳 (Tiwana) 家族，是萨希布汗 (Sahib Khan) 的儿子。",
+        "sentence2": "萨希布汗 (Sahib Khan) 出生于沙普尔 (Shahpur) 的蒂瓦纳 (Tiwana) 家族，是艾哈迈德亚尔汗 (Ahmad Yar Khan) 的儿子。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他出生于纽约布鲁克林，逝世于加利福尼亚州蒂伯龙。",
+        "sentence2": "它诞生于加利福尼亚州的蒂伯龙，逝于纽约州的布鲁克林。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "大都会博物馆提出的从帕丁顿延伸至南肯辛顿、从沼泽门向南延伸至塔山的提案被采纳，并于 1864 年 7 月 29 日获得皇室同意。",
+        "sentence2": "大都会博物馆提出的从帕丁顿延伸至南肯辛顿、从沼泽门向东延伸至塔山再向南的建议被采纳，并于 1864 年 7 月 29 日获得皇室批准。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "这首诗现存于四份残缺的手稿中，其中一份是同时期的。",
+        "sentence2": "这首诗保存在四份当代手稿中，其中一份已残缺：",
+        "answer": "different"
+    },
+    {
+        "sentence1": "韦伯斯特格罗夫市议会由议员格雷格·穆勒 (Greg Mueller)、肯·伯恩斯 (Ken Burns)、凯西·哈特 (Kathy Hart)、黛比·萨尔伯格 (Debi Salberg)、托尼·亨特 (Toni Hunt) 和安妮·托兰 (Anne Tolan) 组成。",
+        "sentence2": "韦伯斯特格罗夫斯市议会由议员 Greg Mueller、Ken Burns、Kathy Hart、Debi Salberg、Toni Hunt 和 Anne Tolan 组成。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "因此 , 碱金属 熔点 和 沸点 的 下降 表明 碱金属 中 的 金属 键 强度 沿 族 向下 递减 . ",
+        "sentence2": "因此 , 碱 金属 熔点 , 沸点 的 下降 表明 该 族 中 碱 金属 之间 的 金属 键 强度 下降 . ",
+        "answer": "same"
+    },
+    {
+        "sentence1": "斯克里文纳 (Scrivener) 将该手稿的创作时间定为 13 世纪，CR 格雷戈里 (CR Gregory) 将该手稿的创作时间定为 12 世纪，目前 INTF 将该手稿的创作时间定为 12 世纪。",
+        "sentence2": "Scrivener 认为手稿的年代为 12 世纪，CR Gregory 认为为 13 世纪。目前 INTF 认为手稿的年代为 12 世纪。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "县道 540 位于高地城 540 号州道以西几英里处，从美国 98 号公路向南延伸至县道 37B 号。",
+        "sentence2": "县道 540 位于高地城 540 号州道以南几英里处，从美国 98 号公路向西延伸至县道 37B 号。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "SPB 的高度尺寸（从内斑块到外斑块的距离）恒定为 150 nm，但其直径在细胞周期期间会发生变化，z。",
+        "sentence2": "SPB 的内高尺寸 ( 外 斑块 到 恒定 斑块 的 距离 ) 约为 150nm , 但 其 直径 在 细胞 周期 中 会 发生 变化 , 例如 . ",
+        "answer": "different"
+    },
+    {
+        "sentence1": "拉米·尼米宁 (Rami Nieminen，1966 年 2 月 25 日出生) 是芬兰前足球运动员。",
+        "sentence2": "拉米·尼米宁（Rami Nieminen，1966 年 2 月 25 日出生）是一名芬兰足球运动员。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "他是捷克国家队球员米罗斯拉夫·赫林卡 (Miroslav Hlinka) 的堂兄，也是前球员雅罗斯拉夫·赫林卡 (Jaroslav Hlinka sr) 的儿子。",
+        "sentence2": "他是捷克国家队球员米罗斯拉夫·赫林卡的堂兄，也是前球员雅罗斯拉夫·赫林卡的儿子。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "他们在那里为我们祈祷并为我们感到高兴。",
+        "sentence2": "它们在那里是为了让我们祈祷，它们在那里是为了让我们享受。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "威廉·卢埃林·威廉姆斯，更广为人知的名字是卢埃林·威廉姆斯（1867 年 3 月 10 日 - 1922 年 4 月 22 日），是一名激进的记者、律师和威尔士自由党政治家。",
+        "sentence2": "威廉威廉姆斯，又名卢埃林威廉姆斯（Llewelyn Williams，1867 年 3 月 10 日 - 1922 年 4 月 22 日），是一名威尔士记者、律师和激进的自由党政治家。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "这棵巨型梧桐树是波兰第三大、最古老的树，也是该国最粗的伦敦梧桐树。",
+        "sentence2": "这棵巨型梧桐树是波兰第三大、最古老的树，也是波兰最粗的伦敦梧桐树。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "莫尔米斯河是俄罗斯彼尔姆边疆区的一条河流，是亚兹瓦河左侧的支流。",
+        "sentence2": "亚兹瓦河是俄罗斯彼尔姆边疆区的一条河流，是莫尔米斯河的左支流。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "萨里卡 (Sarika) 要求卡比尔 (Kabir) 停止揭露兰维尔 (Ranvir) 阴谋的计划。",
+        "sentence2": "卡比尔 (Kabir) 要求萨里卡 (Sarika) 透露他结束兰维尔 (Ranvir) 游戏的计划。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "在电子和数字视频技术出现之前，色情电影的大规模制作与主流电影业直接相关。",
+        "sentence2": "在色情视频技术出现之前，电子和数字电影的大规模制作与现有的电影业直接相关。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "在第 33 战斗机大队处于非活跃状态时，它与第 33 战术大队合并，成为第 33 战术战斗机大队。",
+        "sentence2": "在第 33 战术大队处于非活动状态时，它与第 33 战斗机大队合并为第 33 战术战斗机大队。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该铁路于 1919 年 9 月 20 日开通，服务于墨尔本东南部的伊迪斯维尔郊区。",
+        "sentence2": "该铁路于 1919 年 9 月 20 日开业，服务于墨尔本东南部的伊迪斯维尔郊区。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "马塞出生于纽约州威斯特彻斯特县，在密歇根州荷兰长大，十几岁时生活在欧洲。",
+        "sentence2": "马塞出生于纽约州威斯特彻斯特县，在密歇根州荷兰长大，青少年时期生活在欧洲。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "菲什曼拥有哥伦比亚大学学士学位和布朗大学经济学硕士学位。",
+        "sentence2": "菲什曼拥有布朗大学学士学位和哥伦比亚大学经济学硕士学位。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "继她的成功之后，简坎皮恩聘请琼斯拍摄一部电视迷你剧，后来改编为电影《餐桌上的天使》，该片改编自珍妮特弗雷姆的自传。",
+        "sentence2": "继她获得成功之后，珍妮特·坎皮恩·琼斯 (Jane Campion Jones) 被改编为一部电视迷你剧，该剧根据珍妮特·弗雷姆 (Janet Frame) 的自传改编，并最终被拍摄成电影《餐桌上的天使》。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "斯蒂普西茨出生于维也纳，童年在科尔新堡的施塔默斯多夫度过。",
+        "sentence2": "斯蒂普西茨出生于维也纳，在科尔新堡的施塔默斯多夫度过了童年。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "纳瓦罗是阿根廷布宜诺斯艾利斯省东北部的一个党派。",
+        "sentence2": "纳瓦罗是阿根廷东北部布宜诺斯艾利斯省的一个党派。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "上游是已经退役的密歇根中央铁路桥，它与其前身尼亚加拉悬臂桥一起，与急流桥漩涡争夺铁路运输。",
+        "sentence2": "上游是已经退役的密歇根中央铁路桥，该桥与其前身急流漩涡桥、尼亚加拉悬臂桥竞争铁路交通。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "这首歌曲由该晚会创作并制作，由菲利波·安德里亚·卡梅尼 (Filippo Andrea Carmeni) 和毛里齐奥·莫莱拉 (Maurizio Molella) 作曲。",
+        "sentence2": "这首歌曲由 Gala 创作并作曲，由 Filippo Andrea Carmeni 和 Maurizio Molella 制作。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "雷茨乌斯出生于斯德哥尔摩，父亲是解剖学家安德斯·贾汗·雷茨乌斯，母亲是博物学家和化学家安德斯·雷茨乌斯。",
+        "sentence2": "雷茨乌斯出生于斯德哥尔摩，父亲是解剖学家安德斯·雷茨乌斯 (Anders Retzius)，母亲是博物学家和化学家安德斯·贾汉·雷茨乌斯 (Anders Jahan Retzius)。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "在 2011 年的人口普查中，78.8% 的居民是罗马尼亚人、17% 是罗姆人、2.7% 是匈牙利人，1.4% 是德国人。",
+        "sentence2": "在 2011 年的人口普查中，78.8% 的居民是罗姆人、17% 是匈牙利人、2.7% 是罗马尼亚人，1.4% 是德国人。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "博物馆位于江北嘴CBD中心区，濒临嘉陵江与长江交汇处。",
+        "sentence2": "博物馆位于江北嘴CBD中心区，濒临嘉陵江与长江交汇处。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "罗宾斯于 1933 年 9 月 21 日出生于考文垂，与他同住的还有双胞胎兄弟大卫，他们分别是查尔斯和杰萨敏·罗宾斯十二个孩子中的第八和第九个。",
+        "sentence2": "大卫于 1933 年 9 月 21 日出生于考文垂，与他的双胞胎父亲查尔斯和杰萨敏罗宾斯一起出生，他是罗宾斯十二个孩子中的第八和第九个。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该营由女王约克游骑兵团（美国第一军团） (RCAC) 负责维持。",
+        "sentence2": "该营由女王约克游骑兵团（RCAC）（美国第一军团）管辖。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "卡茨 1947 年出生于瑞典，一岁时移居纽约。",
+        "sentence2": "卡茨 1947 年出生于纽约市，一岁时移居瑞典。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "页面上的图像是二维图像，而不是预先渲染的 3D 图像。",
+        "sentence2": "侧面的图像是二维图像，而不是预先渲染的 3D 图像。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "在 EIT 介质中，“停止”的光是指光子到相干系统的“量子”传输，然后再返回。",
+        "sentence2": "在 EIT 介质中，“停止”光是指光子到相干系统的“量子”传输并返回。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "对于公式 _ 2 的高值来说，先前的平均值更为重要。",
+        "sentence2": "对于高价值的二级方程式赛车来说，当前平均值更为重要。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "苏里南的杰出女性包括詹妮弗·西蒙斯 (Jennifer Simons)、玛丽克·迪瓦拉帕萨德 (Marijke Djwalapersad)、伊丽莎白·萨姆森 (Elisabeth Samson)、辛西娅·麦克劳德 (Cynthia McLeod) 和露丝·维登博斯 (Ruth Wijdenbosch)。",
+        "sentence2": "苏里南最杰出的女性包括詹妮弗·西蒙斯 (Jennifer Simons)、玛丽克·迪瓦拉帕萨德 (Marijke Djwalapersad)、伊丽莎白·萨姆森 (Elisabeth Samson)、辛西娅·麦克劳德 (Cynthia McLeod) 和露丝·维登博斯 (Ruth Wijdenbosch)。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1924 年，他受邀在多伦多、1932 年和 1936 年在苏黎世担任 ICM 的发言人。",
+        "sentence2": "1924 年，他被邀请在多伦多、1932 年和 1936 年分别在苏黎世和奥斯陆担任 ICM 发言人。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "英国广播公司国际服务部也播出了一个名为“动物、植物和矿物质”的版本，由迈克尔·弗兰德斯担任主席，小组成员包括特里·沃根。",
+        "sentence2": "英国广播公司国际服务部也展出了名为“动物、植物和矿物”的版本，由迈克尔·弗兰德斯 (Michael Flanders) 担任主席，并与特里·沃根 (Terry Wogan) 一起组成了一个小组。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "汤普森的弟弟朱莉娅 1863 年出生在俄亥俄州杰奥格县的查尔斯马丁霍尔。",
+        "sentence2": "朱莉娅的弟弟查尔斯·马丁·霍尔 1863 年出生于俄亥俄州吉奥格县汤普森。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "霍雷祖河是罗马尼亚波诺鲁河的一条支流。",
+        "sentence2": "波诺鲁河是罗马尼亚霍雷祖河的一条支流。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "2002年，这首歌由英国制作人 Vincent Stormfield 出版，并被 Independiente 翻唱为“Sweet Harmony 02”。",
+        "sentence2": "2002年，这首歌被英国制作人文森特·斯托姆菲尔德 (Vincent Stormfield) 翻唱，并由 Independiente 以“Sweet Harmony '02”为名发行。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "大卫于 1933 年 9 月 21 日出生于考文垂，与他的双胞胎父亲查尔斯和杰萨敏罗宾斯一起出生，他是罗宾斯十二个孩子中的第八和第九个。",
+        "sentence2": "罗宾斯于 1933 年 9 月 21 日出生于考文垂，他和他的双胞胎兄弟大卫是查尔斯和杰萨敏罗宾斯十二个孩子中的第八和第九个。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1777 年 10 月，该团离开波士顿，前往费城郊外加入乔治华盛顿将军的主力部队。",
+        "sentence2": "1777 年 10 月，该政权离开费城，加入波士顿郊外乔治华盛顿将军的主力部队。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该化合物由 Patrick Page 博士及其团队开发，并于 2007 年由 Genkyotex 获得专利。",
+        "sentence2": "该化合物由 Patrick Page 博士及其团队申请了专利，并于 2007 年由 Genkyotex 发明。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该“格”最后一次使用是在1949年在东德，1966年在西德。",
+        "sentence2": "“ Fallbeil ” 最后一次在西德使用是在 1949 年，在东德则于 1966 年使用。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "椎名林檎是斋藤猫四重奏的队长，因与音乐家斋藤的多次合作而闻名。",
+        "sentence2": "斋藤是斋藤猫四重奏乐团的团长，因与音乐家椎名林檎的多次合作而闻名。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "阿布哈利法 (Abu Halifa) 或阿布胡莱法 (Abu Hulayfah)、阿布胡莱法 (Abu Huleifa) 或阿布哈利法 (Abu Haleifa) 是科威特南部艾哈迈迪省阿布哈利法区的一个小镇。",
+        "sentence2": "阿布哈利法 (Abu Halifa) 或阿布胡莱法 (Abu Hulayfah)、阿布胡莱法 (Abu Huleifa) 或阿布哈利法 (Abu Haleifa) 是科威特艾哈迈迪省南部阿布哈利法区的一个小镇。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他的父亲是林肯郡国会议员安妮托斯比 (Anne Tothby) 与威廉斯基普维斯 (William Skipwith) 的私生子。",
+        "sentence2": "他的父亲是林肯郡议会议员安妮托斯比 (Anne Tothby) 与威廉斯基普维斯 (William Skipwith) 的私生子。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "其中包括波莱罗舞曲作曲家玛丽·特蕾莎·里奥斯 (Marie Teresa Rios)、作家朱利塔·罗斯 (Julita Ross) 和歌手西尔维娅·雷克萨奇 (Sylvia Rexach)。",
+        "sentence2": "其中包括《波莱罗舞曲》作曲家西尔维娅·雷克萨奇、作家玛丽·特蕾莎·里奥斯和歌手朱利塔·罗斯。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他留下了妻子卡罗尔·奥伯、女儿维奥拉和四个孙子。",
+        "sentence2": "他留下了妻子卡罗尔·奥伯、女儿维奥拉和四个孙子。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "那天晚上，他要返回特库姆塞西边的车站，然后在引起邻居们的怀疑之前，骑上另一匹马前往紫罗兰泉。",
+        "sentence2": "他会在当晚前往位于特库姆塞西边的车站，然后在邻居们产生怀疑之前牵着另一匹马返回紫罗兰泉。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该机构总部位于法国巴黎，其海外办事处 - 运营办事处位于弗吉尼亚阿灵顿。",
+        "sentence2": "该机构总部位于弗吉尼亚州阿灵顿，海外运营办事处位于法国巴黎。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1964年，该教区名义上恢复为最低等级（主教）的名义公民。",
+        "sentence2": "一九六四年，该教区名义上恢复为最低等级的主教管区。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他随后主要在林肯郡从事农业工作，但他还建议在诺福克修建大规模堤坝，并成功实施。",
+        "sentence2": "他未来从事的农业工作主要在诺福克，但他还提议在林肯郡修建大规模的堤坝，并成功实施。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "当杰克·尼采 (Jack Nitzsche) 第一次听到《Stubborn Kind of Fellow》时，他非常激动，在与菲尔·斯佩克特 (Phil Spector) 沿着日落大道行驶时失去了对汽车的控制。",
+        "sentence2": "当菲尔·斯佩克特 (Phil Spector) 第一次听到《Stubborn Kind of Fellow》时，他激动不已，以至于在与杰克·尼采 (Jack Nitzsche) 一起沿着日落大道行驶时失去了对汽车的控制。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "共产党坚信中央情报局在经济和其他方面暗中支持了这些抗议活动。",
+        "sentence2": "共产党人秘密地认为中央情报局在经济和其他方面给予了这些抗议活动的大力支持。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "这些物种属于不同的生态类群，包括旱生灌木，藤本植物和树木，热带植物，菌异养植物，以及各种草本代表。",
+        "sentence2": "这些物种属于不同的生态类群，包括热带灌木，藤本植物和树木，旱生植物，菌异养植物以及各种草本植物。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "汗王率领护卫向前前进，齐齐亚诺夫与另外两名士兵一同被击毙。",
+        "sentence2": "汗王在护卫的带领下前进，齐齐亚诺夫与另外两名士兵一同骑马，被枪杀。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "斯库尔科茨拥有一座图书馆、一间邮局、一个名为“贝弗利路浴场”的游泳池、一所中学和两所小学。",
+        "sentence2": "斯库尔科茨拥有一座图书馆、一所邮局、一个名为“贝弗利路浴场”的游泳池、一所中学和两所小学。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "他出生于墨尔本，10岁时随家人移民新西兰。",
+        "sentence2": "他出生于新西兰，10岁时随家人移居墨尔本。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "在此类设备的历史上，它早于“土耳其人”并继“墨菲斯托”之后。",
+        "sentence2": "在此类装置的历史上，‘土耳其人’取得了成功，‘墨菲斯托’则先于‘土耳其人’。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "阿格拉纳特 1906 年出生于肯塔基州路易斯维尔的一个犹太复国主义家庭。",
+        "sentence2": "阿格拉纳特 1906 年出生于肯塔基州路易斯维尔的一个犹太复国主义家庭。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "马塞出生于纽约州威斯特彻斯特县，在密歇根州荷兰长大，青少年时期生活在欧洲。",
+        "sentence2": "马塞出生于密歇根州荷兰镇，在纽约州威斯特彻斯特县长大，青少年时期生活在欧洲。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "这三个母系王朝与姆布吉 (Mbooj) 的父系家族一起统治瓦洛 (Waalo) 王国。",
+        "sentence2": "这三个母系王朝与姆布杰 (Mbooj) 父系家族一起统治瓦洛 (Waalo) 王国。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "明尼苏达州舞蹈团每年演出三次，最近又委托了 Diavolo 和 Merce Cunningham 舞蹈团创作作品。",
+        "sentence2": "明尼苏达州交响乐团每年都会在波士顿舞蹈团进行三次演出，并呈现迪亚沃洛舞蹈团和梅斯坎宁安舞蹈团最近委托创作的作品。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "约塞米蒂山谷中新娘面纱瀑布附近的门罗草甸也是以乔治·门罗的名字命名的。",
+        "sentence2": "位于约塞米蒂山谷附近的新娘面纱草地 (Bridalveil) 也是以乔治·梦露 (George Monroe) 的名字命名的。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "安山岩是主要的熔岩类型，一些样品的镁铁质程度足以被归类为玄武安山岩。",
+        "sentence2": "安山岩是主要的熔岩类型，一些样品足以归类为玄武安山岩。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "2016年初，参议员鲍勃·哈克特（Bob Hackett）被任命为俄亥俄州参议员，接替辞职的参议员克里斯·怀德纳（Chris Widener）。",
+        "sentence2": "2016年初，克里斯·怀德纳参议员被任命为俄亥俄州参议员，接替辞职的鲍勃·哈克特参议员。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "实际上，mesquite“模块”是Java类，通常是具体类定义的抽象子类。",
+        "sentence2": "实际上，Mesquite“模块”Java 类通常是抽象类定义的具体子类。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "教皇于1980年提出了一项解决方案，但遭到智利拒绝但得到阿根廷的批准。",
+        "sentence2": "教皇提出的解决方案于 1980 年被智利接受，但被阿根廷拒绝。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "在二十世纪三四十年代，他四次当选总统：1928 年为富兰克林·罗斯福的艾尔·史密斯当选，1948 年为哈里·杜鲁门的哈里·S·杜鲁门当选。",
+        "sentence2": "马萨诸塞州于 1928 年投票支持阿尔·史密斯 (Al Smith)，在 1930 和 1940 年代四次投票支持富兰克林·罗斯福 (Franklin D. Roosevelt)，1948 年投票支持哈里·S·杜鲁门 (Harry S. Truman)。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "在鲍勃追求“黑爵士”时演奏的音乐是沃恩威廉斯的“绿袖子幻想曲”。",
+        "sentence2": "在《黑爵士》向“鲍勃”求爱时演奏的音乐是沃恩威廉斯的《绿袖子幻想曲》。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "还值得注意的是，下面的代码无需 ADL 即可工作（无论如何它都会应用于它）。",
+        "sentence2": "还值得注意的是，下面的代码无需 ADL 即可工作（无论如何它都会应用于它）。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "然后，它与斯诺夸尔米河汇合，在门罗形成斯诺霍米什河。",
+        "sentence2": "然后它与斯诺夸尔米河汇合，在门罗形成斯诺霍米什河。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "在竞选期间，他曾与麦凯恩辩论过两次，一次在图森，一次在弗拉格斯塔夫。",
+        "sentence2": "在竞选期间，他曾两次与麦凯恩辩论，一次在弗拉格斯塔夫，一次在图森。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "该书由他的妻子斯特拉盖梅尔 (Stella Gemmell) 在他于 2006 年 7 月 28 日去世后完成，并由大卫 (David) 和斯特拉盖梅尔 (Stella Gemmell) 共同撰写出版。",
+        "sentence2": "该书于 2006 年 7 月 28 日在他去世后由他的妻子斯特拉·盖梅尔 (Stella Gemmell) 出版，由大卫 (David) 和斯特拉·盖梅尔 (Stella Gemmell) 共同创作完成。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "中央浸信会是一个由南卡罗来纳州至印第安纳州的教堂组成的协会，其中大部分教堂位于田纳西州东部和弗吉尼亚州西南部。",
+        "sentence2": "中央浸信会是一个教会协会，其范围从南卡罗来纳州到弗吉尼亚州，其中大部分教会位于田纳西州东部和印第安纳州西南部。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "凯伦·菲利普斯开始与苏兰·琼斯饰演的史蒂夫交往。",
+        "sentence2": "史蒂夫开始与苏兰·琼斯 (Suranne Jones) 饰演的卡伦·菲利普斯 (Karen Phillips) 交往。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "vidas distintas 是一部 1969 年的墨西哥电视剧，由 Televisa 播出，最初由 Telesistema Mexicano 制作。",
+        "sentence2": "Tres vidas distintas 是一部 1969 年的墨西哥电视剧，由 Televisa 播出，最初由 Telesistema Mexicano 制作。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "钱德勒认为计算机是一种学习工具，但他拒绝接受流行的客观主义，即认为数据就是信息，信息就是知识。",
+        "sentence2": "钱德勒承认计算机是一种学习工具，但他拒绝接受流行的客观主义，即把数据视为信息，将信息视为知识。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "从铁磁体到顺磁体的相变是第二个并且是连续有序的。",
+        "sentence2": "从铁磁体到顺磁体的相变是连续的，并且具有二阶性。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1999 年塞尔维亚难民返回之前，阿尔巴尼亚家庭离开了这个村庄。",
+        "sentence2": "1999 年塞族难民返回之前，阿尔巴尼亚家庭离开了这个村庄。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "然而，原始版本被跳过，而采用温和版本。",
+        "sentence2": "然而 , 温和 版本 却被 跳过 , 而 青睐 原始 版本 . ",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1864年，苏格兰联合长老会传教士团派员来华。",
+        "sentence2": "1864年，中国长老会联合传教士团派员前往苏格兰。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "在巴黎居住了十年之后，乌东返回了意大利。",
+        "sentence2": "在巴黎待了十年之后，乌东返回了意大利。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1943 年至 1944 年间，她曾两次被德军击沉，并被盟军轰炸机炸毁，最终于 1946 年至 1947 年打捞上来。",
+        "sentence2": "它于1943年至1944年间被德国人打捞上来，并两次被盟军轰炸机击沉，最终于1946年至1947年间报废。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1864年，中国长老会联合传教士团派员进入苏格兰。",
+        "sentence2": "1864年，中国长老会联合传教士团派员前往苏格兰。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "影片主演有莉莉·拉贝、蒂莫西·柴勒梅、莉莉·莱因哈特、安东尼·昆塔尔、奥斯卡·努涅斯、罗伯·许贝尔。",
+        "sentence2": "主演有莉莉·拉贝 (Lilie Rabe)、蒂莫西·柴勒梅 (Timothée Chalamet)、莉莉·莱因哈特 (Lili Reinhart)、安东尼·昆塔尔 (Anthony Quintal)、奥斯卡·努涅斯 (Oscar Nunez) 和罗伯·许贝尔 (Rob Huebel)。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "达科他城是爱荷华州 - 内布拉斯加州 - 南达科他州苏城都会区的一部分。",
+        "sentence2": "达科他城是苏城（爱荷华州-内布拉斯加州-南达科他州）大都会统计区的一部分。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "格兰特·康奈尔 (Grant Connell) 和格伦·道端 (Glenn Michibata) 在决赛中以 6 ： 4、6 ： 3 击败韦恩·费雷拉 (Wayne Ferreira) 和吉姆·格拉布 (Jim Grabb) 夺得冠军。",
+        "sentence2": "韦恩·费雷拉 (Wayne Ferreira) 和吉姆·格拉布 (Jim Grabb) 在决赛中以 6 - 4、6 - 3 击败格兰特·康奈尔 (Grant Connell) 和格伦·道端 (Glenn Michibata) ，夺得冠军。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1927年萨格勒布的议会选举于9月4日举行，比地方选举提前7天。",
+        "sentence2": "1927 年 9 月 4 日，萨格勒布的议会选举举行，比地方选举提前 7 天。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum 是一种海螺，是海螺科（海螺属）的一种真正的腹足类软体动物。",
+        "sentence2": "Probuccinum tenerum 是一种海螺，是海螺科的一种真正的腹足类软体动物，属于海螺属。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "瓦莱亚·卢伊·兰巴河 (Valea lui Lambă River) 或洛姆河 (Lom River) 是罗马尼亚西蒙河的一条支流。",
+        "sentence2": "洛姆河（Valea lui Lambă）或洛姆河（Lom River）是罗马尼亚“unk”伊蒙河的一条支流。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该属现已被归类为蜥蜴科，鬣蜥科，多鳞蜥亚科，并且不再被归类在目前无效的多鳞蜥科中。",
+        "sentence2": "该属现在属于蜥蜴科，鬣蜥科，多毛蜥亚科，并且不再归类于目前无效的多毛蜥科。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "2012 年，该市发生逆转，现任民主党人巴拉克·奥巴马 (Barack Obama) 赢得了选举，他获得了 51 % 的选票，而共和党人米特·罗姆尼 (Mitt Romney) 获得了 48 % 的选票。",
+        "sentence2": "2012 年，该行政区发生逆转，现任民主党人巴拉克·奥巴马 (Barack Obama) 赢得了该行政区，他获得了 51 % 的选票，而共和党人米特·罗姆尼 (Mitt Romney) 获得了 48 % 的选票。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "和她在一起，我能够用早期的风格实现我的一些音乐梦想，而且这种新风格非常强大、新鲜且自然流畅。",
+        "sentence2": "和她在一起我能够实现我早期的一些音乐风格的梦想，这种新风格非常大胆、新鲜而且流畅自然。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "格雷迪·霍华德于这一天当选为第一任市长，并于 1951 年 6 月 5 日正式被任命为斯普林莱克市临时市长。",
+        "sentence2": "格雷迪·霍华德在这一天当选为第一任市长，并于 1951 年 6 月 5 日正式被任命为斯普林莱克市市长。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ballouhey 主要分布在巴黎的伊泽尔省以及法国和南非。",
+        "sentence2": "Ballouhey 主要分布在法国伊泽尔省和巴黎，以及南非。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "其高度高，墙长，容量大。",
+        "sentence2": "它将很高，有一道长墙，容量很大。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "阿拉巴马州的教育包括阿拉巴马州的中学和小学，包括阿拉巴马大学、私立学院以及公立和私立学校。",
+        "sentence2": "阿拉巴马州的教育包括阿拉巴马州的公立学校和私立学校，包括阿拉巴马大学、私立大学以及中学和小学。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该系列于 2009 年 4 月 18 日在澳大利亚 Nickelodeon（新西兰和新西兰）首次播出。",
+        "sentence2": "2009 年 4 月 18 日，该系列剧在新西兰 Nickelodeon（澳大利亚和新西兰）上首次播出。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该剧由乔治·菲茨莫里斯执导，改编自威拉德·麦克 1917 年的戏剧《虎玫瑰》。",
+        "sentence2": "该剧由乔治·菲茨莫里斯执导，改编自威拉德·麦克 1917 年的戏剧《虎玫瑰》。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "奥里亚语诗人萨拉拉达萨 (Sarala Dasa) 撰写的《摩诃婆罗多》版本讲述了纳瓦甘贾拉 (Navagunjara) 的传说，其他版本均未记载这个故事。",
+        "sentence2": "奥里亚诗人萨拉拉·达萨所著的《摩诃婆罗多》版本记载了纳瓦甘贾拉的传说。其他版本均未叙述该故事。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "维姆帕蒂·钦纳·萨蒂亚姆 (Vempati Chinna Satyam，1929 年 10 月 15 日 - 2012 年 7 月 29 日) 是一位印度舞蹈家，也是库奇普迪 (Kuchipudi) 舞蹈形式的大师。",
+        "sentence2": "维姆帕蒂·钦纳·萨蒂亚姆 (Vempati Chinna Satyam，1929 年 10 月 15 日 - 2012 年 7 月 29 日) 是一位印度舞蹈家和库奇普迪舞蹈形式的大师。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "李遐怡是韩国YG娱乐公司旗下的歌手。",
+        "sentence2": "韩国歌手李遐怡是韩国YG娱乐公司旗下的歌手。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "当 包含 临界 项 时 , 此 方法 的 各种 变体 可以 在 二维 和 三维 中 对 许多 指数 产生 良好 的 数值 近似值 . ",
+        "sentence2": "当二维和三维中都包含许多项时，这一程序的变体可以对临界指数产生良好的数值近似。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "只有有特权的观众才能打开盖子，因此这些场景可能更加私密。",
+        "sentence2": "只有有特权的观众才能打开盖子，因此这些场景可能更加私密。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "它为潘切库拉市的 Chandimandir Cantonment 地区提供服务。",
+        "sentence2": "它为 Chandimandir Cantonment 市的 Panchkula 地区提供服务。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "斯劳高中是一所位于白金汉郡斯劳（现伯克郡）的女子精英文法学校。",
+        "sentence2": "斯劳高中是一所位于白金汉郡斯劳（现伯克郡）的精英女子文法学校。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "尤金·D·恩格利 1851 年 4 月 5 日出生于马萨诸塞州阿特尔伯勒，父亲是詹姆斯·亨利·恩格利，母亲是玛丽·凯利。",
+        "sentence2": "詹姆斯·亨利·恩利 1851 年 4 月 5 日出生于马萨诸塞州阿特尔伯勒，父亲是尤金·D·恩利，母亲是玛丽·凯利。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "玛丽莎·拉扎里 (Maritsa Lazari) 于 1943 年 10 月出生于塞浦路斯，16 岁时随家人移居英国伦敦。",
+        "sentence2": "玛丽莎·拉扎里 (Maritsa Lazari) 于 1943 年 10 月出生于伦敦，16 岁时随家人移居塞浦路斯。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "2011 年 3 月 5 日，MTV Hive 发布了安妮·罗西演唱蕾哈娜的“Rude Boy”的流媒体链接。",
+        "sentence2": "2011 年 3 月 5 日，MTV Hive 发布了蕾哈娜演唱 Anni Rossi《Rude Boy》的流媒体链接。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "麦比拉公墓，也拼写为“Macpelah Cemetery”或“Macphelah Cemetery”，是位于新泽西州哈德逊县的一座墓地。",
+        "sentence2": "麦比拉公墓，也拼写为“Macpelah Cemetery”或“Macphelah Cemetery”，是位于新泽西州哈德逊县的一座公墓。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "这首歌曲由Gala创作并由Filippo Andrea Carmeni作曲，Maurizio Molella制作。",
+        "sentence2": "这首歌曲由该晚会创作并制作，由菲利波·安德里亚·卡梅尼 (Filippo Andrea Carmeni) 和毛里齐奥·莫莱拉 (Maurizio Molella) 作曲。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "根据普赖尔的说法，诗人、剧作家和小说家奥利弗·戈德史密斯 (Oliver Goldsmith) 的祖父罗伯特·戈德史密斯 (Robert Goldsmith) 是家族中第一个在巴利奥特定居的人。",
+        "sentence2": "根据罗伯特·普赖尔 (Robert Prior) 的说法，罗伯特·戈德史密斯 (Robert Goldsmith) 是诗人、剧作家和作家奥利弗·戈德史密斯 (Oliver Goldsmith) 的祖父，奥利弗·戈德史密斯 (Oliver Goldsmith) 是家族中第一个在 Ballyoughter 定居的人。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "省去发动机及其燃料可以降低复杂性并增加有效载荷。",
+        "sentence2": "省去发动机及其燃料将会增加复杂性并减少有效载荷。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "据托比和冈纳·汉森说，他之所以戴面具，是因为面具确实决定了他的性格。",
+        "sentence2": "冈纳·汉森评论说：“根据托比和金的说法，他戴面具的原因是面具决定了他的性格。”",
+        "answer": "different"
+    },
+    {
+        "sentence1": "私立克莱伯恩学院 (Claiborne Academy) 位于海恩斯维尔 (Haynesville)，靠近克莱伯恩教区 (Parish Claiborne)。",
+        "sentence2": "私立克莱本学院 (Claiborne Academy) 位于克莱本教区 (Claiborne Parish)，不在海恩斯维尔 (Haynesville) 附近。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "NVIDIA TITAN V 于 2017 年 12 月 7 日由 Nvidia 正式发布。",
+        "sentence2": "2017年12月7日，NVIDIA正式宣布推出Nvidia TITAN V。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "他在伦敦米德尔塞克斯医院接受医疗培训，并于 1943 年获得临床医生资格。",
+        "sentence2": "他在伦敦米德尔塞克斯医院接受临床培训，并于 1943 年获得医生资格。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他是一名玻璃制造师，并与许多不同的乐队合作演奏不同的乐器。",
+        "sentence2": "他曾担任玻璃制造商并在许多不同的乐队中演奏过各种乐器。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "如果机械系统的组件在施加力时在系统上变形，则它们会储存弹性势能。",
+        "sentence2": "如果机械系统的组件在对系统施加力时发生变形，则它们会储存弹性势能。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "威廉·卢埃林·威廉姆斯 (William Llewelyn Williams)，通常简称为卢埃林·威廉姆斯 (Llewelyn Williams) (1867 年 3 月 10 日 - 1922 年 4 月 22 日)，是一名威尔士记者、律师和激进自由党政治家。",
+        "sentence2": "威廉·威廉姆斯，又名卢埃林·威廉姆斯（1867 年 3 月 10 日 - 1922 年 4 月 22 日），是一名威尔士记者、律师和激进自由党政治家。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "2015 年 10 月 17 日，布拉戈伊·伊万诺夫 (Blagoy Ivanov) 向梅赫曼 (Mehmen) 发起挑战，争夺 WSOF 重量级冠军。",
+        "sentence2": "2015 年 10 月 17 日，布拉戈伊·伊万诺夫 (Blagoy Ivanov) 向梅赫曼 (Mehmen) 发起挑战，争夺 WSOF 重量级冠军。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "它由理查德克里德创建，乔治爱德华兹建造，柯林斯和蒙茅斯的杰弗里设计。",
+        "sentence2": "它由理查德·克里德 (Richard Creed) 设计，由柯林斯 (Collins) 和杰弗里 (Geoffrey) 建造，由蒙茅斯 (Monmouth) 的乔治·爱德华兹 (George Edwards) 配备。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "萨克拉门托位于 ( 38.651254 , -121.259279 )，费尔奥克斯 (Fair Oaks) 和福尔瑟姆 (Folsom) 之间。",
+        "sentence2": "费尔奥克斯 (Fair Oaks) 位于萨克拉门托 (Sacramento) 和福尔瑟姆 (Folsom) 之间 (38.651254, -121.259279)。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "吉尔伯托 1987 年的专辑“Time and Tide”中的曲目“Astrud”是对 Basia Trzetrzelewska 的致敬。",
+        "sentence2": "巴西亚·特泽特泽莱夫斯卡 (Basia Trzetrzelewska) 1987 年的专辑“Time and Tide”中的曲目“Astrud”是对吉尔伯托 (Gilberto) 的致敬。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "克拉克于 2007 年 4 月 3 日生下儿子 Rishi。Microcosm Music 发行的一张 EP《Socks and Sandals》以他的名字命名，名为 Rishi Saturn。",
+        "sentence2": "Rishi 有个儿子 Clark，出生于 2007 年 4 月 3 日。Microcosm Music 发行的一张 EP《Socks and Sandals》以他的名字命名，名为 Rishi Saturn。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "2004 年，梅洛迪·克里滕登 (Melodie Crittenden) 离开乐队，开始单飞生涯，而尼科尔 (Nicol) 在 2005 年的大部分时间里都与乐队一起演唱。",
+        "sentence2": "2004 年，梅洛迪·克里滕登 (Melodie Crittenden) 离开乐队，开始单飞生涯，而尼科尔 (Nicol) 在 2005 年的大部分时间里都与乐队一起演唱。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "在半职业足球中，苏格兰球队参加苏格兰超级联赛以下各级别的比赛，而苏格兰冠军联赛以下的大多数球队都是半职业的。",
+        "sentence2": "在苏格兰足球中，苏格兰超级联赛以下有各级别的半职业球队，其中苏格兰冠军联赛以下的球队大多是半职业球队。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "新奥尔良的 Diboll 和 Owen 是建筑师，而莫比尔的 GA Chamblin 是承包商。",
+        "sentence2": "建筑师是新奥尔良的 Diboll 和 Owen，承包商是莫比尔的 GA.Chamblin。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "在恶性高血压中，这些增生性改变常常伴有纤维素样内膜和中膜的动脉坏死。",
+        "sentence2": "在恶性高血压中，这些增生性改变常常伴有动脉内膜和中膜的纤维素样坏死。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该队于 1953 年前往澳大利亚进行巡回演出，并于 1959 年 8 月前往亚洲进行巡回演出。",
+        "sentence2": "1953年，该队前往亚洲巡回演出，并于1959年8月前往澳大利亚。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "这部电影讲述的是新电影界的马拉雅拉姆歌手拉斐尔的故事。",
+        "sentence2": "该片讲述的是马拉雅拉姆电影界的新歌手拉斐尔的故事。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1864年，中国联合长老会传教士协会派代表前往苏格兰。",
+        "sentence2": "1864年，中国长老会联合传教士团派员前往苏格兰。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "初始向量空间公式_13相对于给定的数据被称为“初始对象”或“拓扑结构”。",
+        "sentence2": "初始向量空间公式13关于给定的数据称为初始对象“或”拓扑结构。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "这三个母系王朝与姆布吉 (Mbooj) 的父系家族一起统治瓦洛 (Waalo) 王国。",
+        "sentence2": "这三个父系王朝与母系家族 Mbooj 一起统治瓦洛王国。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "影片由杰比·阿尔马赞 (Jembie Almazan) 饰演亚历克斯 (Alex)，贝尔纳多·加尼卡·克鲁斯 (Bernardo Garnica Cruz) 饰演大卫 (David)，乔纳森·迪亚兹·安古洛 (Jonathan Diaz Angulo) 饰演玛丽亚 (Maria)。",
+        "sentence2": "电影明星杰比·阿尔马赞饰演玛丽，贝尔纳多·加尼卡·克鲁斯饰演大卫，乔纳森·迪亚兹·安古洛饰演亚历克斯。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "尽管没有明文规定禁止黑人球员，但自 1933 年以来，还没有非裔美国人参加过国家橄榄球联盟。",
+        "sentence2": "虽然没有明文规定禁止黑人球员，但自 1933 年以来，还没有非裔美国人参加过国家橄榄球联盟。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "戴尔于 1984 年与帕特里夏·迈耶结婚，育有两个儿子：瑞安（生于 1988 年）和布莱克（生于 1992 年）。",
+        "sentence2": "自 1984 年起，布莱克与帕特里夏·迈耶结婚并育有两个儿子：瑞恩（生于 1988 年）和戴尔（生于 1992 年）。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1993 年，当普拉泽在阿伦敦开设第二家餐馆时，他将餐馆名字改为 PJ Whelihan's，以纪念他的祖父彼得·约瑟夫·惠利汉 (Peter Joseph Whelihan)。",
+        "sentence2": "1993 年，当普拉泽在阿伦敦开设第二家餐厅时，他将餐厅名字改为 PJ Whelihan，以纪念他的祖父 Peter Joseph Whelihan。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "在这次任务中，共有 65 名士兵阵亡：34 名尼日利亚人、28 名乍得人、2 名多哥人和 1 名布基纳法索人。",
+        "sentence2": "在这次任务中，共有 65 名士兵阵亡：34 名乍得人、28 名尼日利亚人、2 名多哥人和 1 名布基纳法索人。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1969年12月，第49军师升级为第29军师。",
+        "sentence2": "1969年12月，第29军师升级为第49军师。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "花葶大多不存在或很短。",
+        "sentence2": "花葶很短或几乎不存在。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "她被认为“具有很大的潜力和天赋，将来会成长为一个独特的音乐人”。",
+        "sentence2": "人们认为她“具有巨大的潜力和才华，将来会成长为一个独特的音乐人物。”",
+        "answer": "same"
+    },
+    {
+        "sentence1": "2013 年 1 月，据宣布，华伦·斯佩克特 (Warren Spector) 在 Junction Point Studios 关闭后离开迪士尼互动娱乐公司。",
+        "sentence2": "2013 年 1 月，据宣布，迪士尼互动娱乐公司关闭后，沃伦·斯佩克特 (Warren Spector) 离开了 Junction Point Studios。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "当地的航空运输由新贝德福德、伯克利和东汤顿地区机场的小型飞机提供。",
+        "sentence2": "当地的航空运输是通过东汤顿、伯克利和新贝德福德地区机场的小型飞机提供的。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "当我们使用交替图灵机时，我们就有了ATIME资源。",
+        "sentence2": "如果我们有一台交替图灵机，我们将使用资源 ATIME 。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他落后巴巴·沃森和路易斯·乌修仁两杆，并遗憾地表示，他的推杆表现是他未能赢得比赛的原因。",
+        "sentence2": "他以两杆之差落后于路易斯·乌修仁 (Louis Oosthuizen) 和巴巴·沃森 (Bubba Watson)，并抱怨说他的推杆表现是他未能赢得比赛的原因。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "此前，天狼星决策峰会的主办城市包括奥兰多（2014 年）、斯科茨代尔（2013 年）和圣地亚哥（2012 年）。",
+        "sentence2": "往届 SiriusDecisions 峰会主办城市包括奥兰多（2014 年）、圣地亚哥（2013 年）和斯科茨代尔（2012 年）。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "卢浮宫画作中的灯光更温暖，显得更柔和，但这可能只是由于画作表面清漆发出的声音所致。",
+        "sentence2": "卢浮宫画作中的灯光更暖，显得更柔和，但这也许是由于表面清漆的色调所致。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "莫尔米斯河是俄罗斯彼尔姆边疆区的一条河流，是亚兹瓦河的左支流。",
+        "sentence2": "亚兹瓦河是俄罗斯彼尔姆边疆区的一条河流，是莫尔米斯河的左支流。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1699 年 8 月 1 日，威廉·布莱克特 (William Blackett) 将他在奇顿 (Chirton) 的土地转让给阿奇博尔德·坎贝尔爵士 (Sir Archibald Campbell)，后者将比克斯塔夫 (Bickerstaffe) 卖给了阿盖尔公爵一世 (First Duke of Argyll Hall)。",
+        "sentence2": "1699 年 8 月 1 日，威廉·布莱克特 (William Blackett) 将他在奇顿 (Chirton) 的土地复权转让给阿奇博尔德·坎贝尔爵士 (Sir Archibald Campbell)，后者又将大厅卖给了第一代阿盖尔公爵比克斯塔夫 (Bickerstaffe)。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "《Big Band Specials》是鲍勃库珀于 1962 年发行的一张专辑，曲目由比尔霍尔曼、肖蒂罗杰斯和丈夫琼克里斯蒂编曲。",
+        "sentence2": "《Big Band Specials》 是鲍勃库珀于 1962 年发行的一张专辑，其中的曲目由比尔霍尔曼、肖蒂罗杰斯和她的丈夫琼克里斯蒂编曲。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "除了各种金属板外，在某些情况下，还使用混凝土和沙袋来制作简易坦克。",
+        "sentence2": "除了临时的装甲金属板外，有些时候还为各种火车使用了混凝土和沙袋。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "芭芭拉·布思·埃里森出生于加利福尼亚州圣克拉拉县，是亿万富翁、甲骨文公司董事长拉里·埃里森和他的前妻梅根·埃里森的女儿。",
+        "sentence2": "梅根·埃里森出生于加利福尼亚州圣克拉拉县，是亿万富翁甲骨文公司董事长拉里·埃里森和他的前妻芭芭拉·布思·埃里森的女儿。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "吉列尔莫·科里亚以 6 - 3、3 - 6、6 - 2 击败阿尔贝托·马丁",
+        "sentence2": "6 Alberto Martín 击败 Guillermo Coria 6 - 3 , 3 - 6 , 6 - 2",
+        "answer": "different"
+    },
+    {
+        "sentence1": "红牛队虽然输了，但还是进入了季后赛第一轮。",
+        "sentence2": "红牛队虽然输了，但还是进入了季后赛第一轮。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1978 年 1 月 12 日：剑桥联队主教练罗恩·阿特金森被任命为西布罗姆维奇队主教练。",
+        "sentence2": "1978 年 1 月 12 日：剑桥联队 - 主教练罗恩·阿特金森被任命为西布罗姆维奇队主教练。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1979 年是他巡回赛上表现最好的一年，在亚特兰大、约翰内斯堡和特拉维夫进入了四分之一决赛。",
+        "sentence2": "1979 年是他巡回赛上表现最好的一年，在特拉维夫、约翰内斯堡和亚特兰大三站比赛中均进入四分之一决赛。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "下一个版本是由罗伯特·富勒 (Robert Fuller) 的兄弟罗恩 (Ron) 于 1986 年创作的。",
+        "sentence2": "下一个版本是由罗伯特·富勒 (Robert Fuller) 的兄弟罗恩 (Ron) 于 1986 年创作的。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "该寺庙是韩国印度教徒和来自南亚国家的移民的文化和宗教中心。",
+        "sentence2": "该寺庙是南亚印度教徒和韩国移民的文化和宗教中心。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该 俱乐部 会所 由 柯蒂斯 建造 , 当时 耗资 6 万 美元 , 并 以 巨额 费用 出租 给 俱乐部 . ",
+        "sentence2": "这座俱乐部会所由柯蒂斯建造，当时的标价为 60,000 美元，并以高额费用租给了俱乐部。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Production IG 的石川光久 (Mitsuhisa Ishikawa) 和石井智彦 (Tomohiko Ishii)、Danny Choo、Kaname 以及来自韩国的 Tasha 与 Miyuko 是此次活动的特邀嘉宾。",
+        "sentence2": "制作 IG 的 Tasha、Danny Choo、Kaname、石川光久、石井智彦以及来自韩国的 Miyuko 是此次活动的特别嘉宾。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "维姆帕蒂·钦纳·萨蒂亚姆 (Vempati Chinna Satyam，1929 年 10 月 15 日 - 2012 年 7 月 29 日) 是一位印度舞蹈家和库奇普迪舞蹈形式的大师。",
+        "sentence2": "文帕蒂·钦纳·萨蒂亚姆 (Vempati Chinna Satyam，1929 年 10 月 15 日 - 2012 年 7 月 29 日) 是一位库奇普迪 (Kuchipudi) 舞者，也是印度舞蹈大师。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "这一事件后来被人们庆祝，现在埃及每年的 1 月 25 日都将这一天定为国家警察日。",
+        "sentence2": "这一事件后来被人们庆祝，现今埃及将每年 1 月 25 日定为“国家警察日”。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "乌代布尔是印度中央邦甘吉巴索达附近的一个城镇。",
+        "sentence2": "甘吉巴索达是印度中央邦乌代布尔附近的一座城市。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "随后，他的职位被尼基塔斯的堂兄希拉克略所取代，并被迫发誓要出家为僧。",
+        "sentence2": "随后，他被希拉克略的堂兄尼西塔斯取代，并被迫发誓要成为修道士。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "首先，描述花粉值高的地区，而不是花粉值低的地区。",
+        "sentence2": "首先，描述花粉值低的地区，而不是花粉值高的地区。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "迄今为止 , 齐诺维耶夫 的作品已由芬兰广播交响乐团、 拉赫蒂交响乐团、 屈米小交响乐团、 奥卢交响乐团和 Avanti ! 乐团演出过。",
+        "sentence2": "到目前为止，齐诺维耶夫的作品已由奥卢交响乐团、拉赫蒂交响乐团、屈米小交响乐团、芬兰广播交响乐团和 Avanti 乐团演出过！",
+        "answer": "same"
+    },
+    {
+        "sentence1": "它由理查德·克里德 (Richard Creed) 设计，由柯林斯 (Collins) 和杰弗里 (Geoffrey) 建造，由蒙茅斯 (Monmouth) 的乔治·爱德华兹 (George Edwards) 配备。",
+        "sentence2": "其家具由理查德·克里德 (Richard Creed) 提供，建造者为乔治·爱德华兹 (George Edwards)，设计者为蒙茅斯 (Monmouth) 的柯林斯 (Collins) 和杰弗里 (Geoffrey)。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "2007 年夏天，McCall 和 Lesiuk 离开了乐队，Steven Tosh 取代 McCall 担任鼓手，Jamie Macleod 接管贝斯手的任务。",
+        "sentence2": "2007 年夏天，McCall 和 Lesiuk 离开了乐队，Steven Tosh 代替 McCall 担任鼓手，Jamie Macleod 担任贝斯手。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1886 年，迈尔斯取代乔治·克鲁克将军担任亚利桑那部族与奇里卡华阿帕奇族领导人杰罗尼莫作战的武装部队指挥官。",
+        "sentence2": "1886 年，迈尔斯取代乔治·克鲁克将军成为亚利桑那部族与奇里卡华阿帕奇族领导人杰罗尼莫作战的部队指挥官。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "巴尔希（Barshi）是印度马哈拉施特拉邦索拉普尔区帕塔里水坝附近当地河流上的一座土坝。",
+        "sentence2": "帕塔里大坝是印度马哈拉施特拉邦索拉普尔县巴尔什附近当地河流上的一座土石坝。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他与诺丁汉塞尔斯顿的布鲁克之女玛丽结婚，其长子理查德继承了王位。",
+        "sentence2": "布鲁克娶了诺丁汉塞尔斯顿的蒂莫西·普西的女儿玛丽为妻。他的长子理查德继承了他的爵位。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Luk 或 Loke 是几个（但不是全部）粤语姓氏的罗马拼音，这些姓氏在普通话中罗马拼为 Lu。",
+        "sentence2": "Luk 或 Loke 是几个（但不是全部）粤语姓氏的罗马拼音，在普通话中拼为 Lu。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "立方体的正确旋转可以通过体对角线的排列来表征，也可以通过“S”中的共轭来描述。",
+        "sentence2": "立方体的正确旋转可以通过体对角线的排列来描述，也可以通过“S”中的共轭来描述。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "例如，在两栖动物中，Cerberus 在前背内胚层中表达，而在小鼠中，它在前内脏内胚层中表达。",
+        "sentence2": "例如，Cerberus 在两栖动物的前背内胚层中表达，在小鼠的前内脏内胚层中表达。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "他在伦敦米德尔塞克斯医院接受临床培训，并于 1943 年获得医生资格。",
+        "sentence2": "他在伦敦米德尔塞克斯医院接受临床培训，并于 1943 年获得医生资格。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1973 年 11 月，Sunny 录制了这首歌曲，由 Roger Greenaway 制作，Chris Gunning 负责编曲和指挥。",
+        "sentence2": "1973 年 11 月，罗杰·桑尼 (Roger Sunny) 与罗杰·格林纳威 (Roger Greenaway) 合作录制了这首歌曲，由克里斯·甘宁 (Chris Gunning) 编曲并指挥。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "达蒙·奈特（Damon Knight）（詹姆斯·布利什引用）这样解读奈特的故事：",
+        "sentence2": "詹姆斯·布利什 (Damon Knight 引用) 这样评价 Knight 对其故事的解读：",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该片讲述的是马拉雅拉姆电影界的新歌手拉斐尔的故事。",
+        "sentence2": "这部电影讲述了马拉雅拉姆电影界的新歌手拉斐尔的故事。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "这是家庭版播出两年多之后、名人版第一季播出三年多之后播出的第三季。",
+        "sentence2": "这是家庭版播出两年多之后、名人版第一季播出三年多之后播出的第三季。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "他于 1891 年 9 月 19 日在田纳西州加拉廷去世，并在加拉廷获得了共济会会员资格。",
+        "sentence2": "1891 年 9 月 19 日，邦廷在加拉廷去世。他在田纳西州加拉廷举行了共济会葬礼。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "然后 摔跤 手 跳起 并 向前 摆动 , 向后 摔倒 , 让 对手 的 头 落到 垫子 上 . ",
+        "sentence2": "然后 摔跤 手 向前 跳跃 并 旋转 身体 向后 倒下 , 让 对手 的 头 落到 垫子 上 . ",
+        "answer": "different"
+    },
+    {
+        "sentence1": "她3岁时随父母从芬兰搬到爱沙尼亚，目前居住在赫尔辛基。",
+        "sentence2": "她3岁时随父母从爱沙尼亚搬到芬兰，目前居住在赫尔辛基。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该镇位于“奥尔塔德瓦伦西亚”的西端，图里亚河的右岸。",
+        "sentence2": "该镇位于“奥尔塔德瓦伦西亚”的右岸，图里亚河的西岸。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "所罗门所遭遇的许多恶魔都来自希腊、基督教、犹太教、埃及、阿拉伯和其他传统。",
+        "sentence2": "所罗门所遭遇的许多恶魔都来自希腊、基督教、犹太教、埃及、阿拉伯和其他传统。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "唐代郴州政区属今河南东部周口市管辖：",
+        "sentence2": "唐代郴州府在今河南周口东部地区管辖：",
+        "answer": "different"
+    },
+    {
+        "sentence1": "测试如下：“首先，你注意到 pranglionic 纤维并刺激出现的反应。",
+        "sentence2": "测试如下：首先刺激节前纤维并观察出现的反应。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "乌克鲁尔也是曼尼普尔邦的一个旅游热点。",
+        "sentence2": "曼尼普尔邦也是乌克鲁尔邦的旅游热点。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "卡斯帕尔·普塞尔 ( 发音 , 1525 年 1 月 6 日 -1602 年 9 月 25 日 ) 是 一名 德国 裔 索布 族 改革家 , 医生 和 学者 . ",
+        "sentence2": "卡斯帕·普塞尔 (Caspar Peucer，发音为 1525 年 1 月 6 日 - 1602 年 9 月 25 日) 是一位德国裔索布族改革家、医生和学者。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "科内利厄斯·奥拉通吉·阿德巴约曾任尼日利亚参议员，后担任尼日利亚州长和联邦通信部部长。",
+        "sentence2": "科内利厄斯·奥拉通吉·阿德巴约 (Cornelius Olatunji Adebayo) 曾任尼日利亚参议员，后担任州长，并担任尼日利亚联邦通信部部长。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1928 年，马萨诸塞州投票支持哈里·S·杜鲁门 (Harry S. Truman) 总统，20 世纪 30 年代和 40 年代四次支持阿尔·史密斯 (Al Smith) 总统，1948 年支持富兰克林·D·罗斯福 (Franklin D. Roosevelt)。",
+        "sentence2": "在二十世纪三四十年代，他四次当选总统：1928 年为富兰克林·罗斯福的艾尔·史密斯当选，1948 年为哈里·杜鲁门的哈里·S·杜鲁门当选。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "伊本阿米拉出生于瓦伦西亚省的阿尔齐拉。",
+        "sentence2": "伊本阿米拉出生于阿尔齐拉省的瓦伦西亚。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "如果我们使用交替图灵机，我们就有资源 ATIME 。",
+        "sentence2": "当我们拥有交替图灵机时，我们使用资源 ATIME 。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "2016 年 11 月 13 日，大卫·马查多 (David Machado) 在休森市附近的福克斯格罗夫公园被丹尼斯·华莱士 (Dennis Wallace) 谋杀。",
+        "sentence2": "2016 年 11 月 13 日，戴维·马查多的副手丹尼斯·华莱士在休森市附近的福克斯格罗夫公园被谋杀。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1946 年他去世时，有关这个项目的论文仍然粗糙不堪。",
+        "sentence2": "1946 年他去世后，有关这个项目的论文仍然保存得很粗糙。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "亚历山大·鲍姆加特纳（1841年6月27日出生于德国卢森堡，1910年逝世于瑞士圣加仑）是一位诗人、文学史作家。",
+        "sentence2": "亚历山大·鲍姆加特纳（1841 年 6 月 27 日出生于瑞士圣加仑，1910 年逝世于卢森堡）是一位诗人、文学史作家。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "加拿大地质调查局的研究人员已经模拟了新不伦瑞克省相对危险潜力中的天然砷变化。",
+        "sentence2": "加拿大地质调查局的研究人员已经模拟了新不伦瑞克省的天然砷变化的相对危险潜力。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "该航空公司由爱尔兰航空创立，该公司还组建了其他五家航空公司，分别是VivaColombia、Ryanair、Allegiant Air、VivaAerobus和Tigerair。",
+        "sentence2": "该航空公司由爱尔兰航空组建，该航空还发展了其他五家航空公司，分别是 VivaColombia、Ryanair、Allegiant Air、VivaAerobus 和 Tigerair。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "杰马德尔塔洛伊河是罗马尼亚布雷亚扎河的一条支流。",
+        "sentence2": "布雷萨河是罗马尼亚杰马塔尔塔洛伊河的一条支流。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1834 年，CR Gregory 在萨巴修道院买下了它。1883 年，罗伯特·柯松见到了它。",
+        "sentence2": "1834 年，CR 格雷戈里 (CR Gregory) 在萨巴修道院买下了它，1883 年，罗伯特·柯松 (Robert Curzon) 又将其买下。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "当 Gopal Krishna 向 Prabhupada 赠送第一批翻译成印地语的《圣典博伽瓦谭》时，他非常高兴。",
+        "sentence2": "当帕布帕德 (Prabhupada) 向戈帕尔·克里希纳 (Gopal Krishna) 赠送第一批印地语版《圣典博伽瓦谭》 (Srimad Bhagavatam) 时，他非常高兴。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "圣乔治银行 (及其子公司 BankSA) 于 1997 年再次被 Advance Bank 收购。",
+        "sentence2": "作为回报，Advance Bank (及其子公司BankSA) 于1997年被圣乔治银行 (St.George Bank) 接管。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "随后，他在俄亥俄州克利夫兰市教书，并于 1856 年至 1859 年期间担任托莱多学校的校长。",
+        "sentence2": "随后，他在俄亥俄州克利夫兰市教书，并于 1856 年至 1859 年担任托莱多学校的代理主管。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "这首诗保存在四份当代手稿中，其中一份已不完整：",
+        "sentence2": "这首诗保存在四份当代手稿中，其中一份已残缺：",
+        "answer": "same"
+    },
+    {
+        "sentence1": "其他困难包括詹姆斯·纽顿·霍华德 (James Newton Howard) 在电影换片七周前决定将霍华德·肖 (Howard Shore) 的作曲家换成彼得·杰克逊 (Peter Jackson)。",
+        "sentence2": "其他困难包括，詹姆斯·纽顿·霍华德 (James Newton Howard) 在影片上映七周前决定将作曲家从霍华德·肖 (Howard Shore) 换成彼得·杰克逊 (Peter Jackson)。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "达斯蒂·贝克 (Dusty Baker) 成为继 1997 年和 1998 年多伦多队的西托·加斯顿 (Cito Gaston) 之后第一位参加世界大赛的黑人教练。",
+        "sentence2": "达斯蒂·贝克成为继多伦多队的西托·加斯顿之后第一位加入并参加世界大赛的黑人教练。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sukumar 的好友 Stephen (Murugan 饰) 在危机时刻伸出了援手，有情人终成眷属。",
+        "sentence2": "穆鲁甘的好友斯蒂芬 (苏库玛尔 饰) 在他们危难之时伸出了援手，最终这对恋人结为夫妻。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "亚当斯博士离开了莎拉·亨特小姐，并与其育有一女，1788 年又与 B. 海亚特先生结婚。",
+        "sentence2": "亚当斯博士与萨拉·亨特小姐结婚，并育有一女，1788 年嫁给了 B. 海亚特先生。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "它有时被用作众所周知的设计论证的荒谬推论，其内容如下：",
+        "sentence2": "它有时被用作著名设计论证的荒谬推论，其内容如下：",
+        "answer": "same"
+    },
+    {
+        "sentence1": "库达瓦（Kudawa）是尼泊尔东南部巴拉区纳拉亚尼地区的一个村庄和村庄发展委员会。",
+        "sentence2": "库达瓦（Kudawa）是尼泊尔东南部巴拉区纳拉亚尼区的一个村庄和村庄发展委员会。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "珊瑚海战役后，“巴内特将 1,360 名美国航空母舰列克星敦号（CV-2）的幸存者从圣地亚哥运送到努美阿。”",
+        "sentence2": "珊瑚海战役后，“巴内特将 1,360 名美国航空母舰列克星敦号（CV-2）的幸存者从努美阿运送到圣地亚哥。”",
+        "answer": "different"
+    },
+    {
+        "sentence1": "R205 公路是爱尔兰的一条区域性公路，从卡文郡的 R199 公路到利特里姆郡的北爱尔兰边境，大部分位于弗马纳郡。",
+        "sentence2": "R205 公路是爱尔兰的一条区域性公路，从利特里姆郡的 R199 公路到弗马纳郡的北爱尔兰边境，大部分位于卡文郡。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "施利曼发现了五个竖井，并清理出它们就是保萨尼亚斯提到的坟墓。",
+        "sentence2": "施利曼清理了五个竖井并认出它们就是保萨尼亚提到的坟墓。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "第一个孩子叫 Kai-sung，是 Jin-Qua 的女儿，也是 Dirk Struan 和 Gordon Chen 的母亲。",
+        "sentence2": "第一个孩子叫 Kai-sung，是 Jin-Qua 的女儿。她和 Dirk Struan 生下了 Gordon Chen。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1974 年，该市区与雷普顿乡区和德比郡东南乡区的一部分合并，形成现在的南德比郡区。",
+        "sentence2": "1974 年，现区与雷普顿乡区和德比郡东南乡区的一部分合并，形成城市南德比郡区。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "例如，Cerberus 在两栖动物的前内脏内胚层中表达，而在小鼠中它在前背内胚层中表达。",
+        "sentence2": "例如，Cerberus 在两栖动物的前背内胚层中表达，在小鼠的前内脏内胚层中表达。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "亚伯拉罕·哈特 (Abraham Hart) 担任理事会主席，梅耶·苏兹伯格 (Mayer Sulzberger) 担任理事会秘书。",
+        "sentence2": "亚伯拉罕·哈特 (Abraham Hart) 担任董事会主席，梅耶·苏兹伯格 (Mayer Sulzberger) 担任秘书。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "他与乔凡·贾科莫·迪康福托 (Giovan Giacomo Di Conforto)、巴托洛梅奥·皮基亚蒂 (Bartolomeo Picchiatti) 和弗朗西斯科·格里马尔迪 (Francesco Grimaldi) 等当代建筑师合作过。",
+        "sentence2": "他曾与 Giovan Giacomo Di Conforto、Bartolomeo Picchiatti 和 Francesco Grimaldi 等当代建筑师合作过。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "她出生于玻利维亚科恰班巴，20 世纪 90 年代移居墨西哥城，后来又搬到了洛杉矶。",
+        "sentence2": "她出生于玻利维亚科恰班巴。20 世纪 90 年代，她移居墨西哥城，后来又移居洛杉矶。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "德鲁伊特出生于莱顿，曾效力于乌得勒支足球俱乐部、斯海尔托亨博斯足球俱乐部、埃克塞尔西奥足球俱乐部、RKC瓦尔维克足球俱乐部和埃门足球俱乐部。",
+        "sentence2": "德·鲁伊特出生于莱顿，曾效力于 RKC Waalwijk、FC Den Bosch、Excelsior、FC Utrecht 和 FC Emmen 等球队。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "佛蒙特州北邻米查姆，西邻纳诺威丁和森林山，南邻佛蒙特南区，东邻万提那和林伍德。",
+        "sentence2": "佛蒙特州北邻米查姆，西邻纳纳威丁和森林山，南邻佛蒙特州，东邻万提那和林伍德。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "胡里奥·胡奎拉博士广场是阿拉蓬加斯最早修建的广场，以阿拉蓬加斯第一任市长胡里奥·胡奎拉博士的名字命名。",
+        "sentence2": "胡里奥·洪奎拉（Julio Junqueira）是阿拉蓬加斯第一座修建的广场，以阿拉蓬加斯第一任市长胡里奥·洪奎拉博士的名字命名。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Prakash Raj 也于 2017 年 8 月加入该团队，据称扮演制片人 Aluri Chakrapani 的角色。",
+        "sentence2": "2017 年 8 月，Aluri Chakrapani 也加入团队，扮演制片人 Prakash Raj 的角色。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "子午线由戴金、亚历山大、韦斯特恩、费尔伯里和托拜厄斯的居民组成，创建了 303 内布拉斯加州学区。",
+        "sentence2": "子午线由戴金、费尔伯里、韦斯特、亚历山大和托拜厄斯的居民组成，创建了 303 内布拉斯加州学区。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "平均而言，七月是最冷的月份，一月是最热的月份。",
+        "sentence2": "平均而言，七月是最热的月份，一月是最冷的月份。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "调节鹿种群数量的另一种方法是控制生育率。",
+        "sentence2": "控制鹿数量的另一种方法是调节生育率。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "第一轮比赛于 2011 年 9 月 23 日至 25 日的周末在斯洛伐克（普列维扎）举行",
+        "sentence2": "第一轮比赛于 2011 年 9 月 23 日至 25 日的周末在斯洛伐克（普列维扎）举行。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "他与玛丽·玛格达琳·施魏加德 (Marie Magdalene Schweigaard) 结婚，她是特莱夫·达尔·施魏加德 (Tellef Dahll Schweigaard) 的女儿、著名政治家安东·马丁·施魏加德 (Anton Martin Schweigaard) 的侄女，也是后来的总理克里斯蒂安·霍曼·施魏加德 (Christian Homann Schweigaard) 的姑姑。",
+        "sentence2": "他与玛丽·玛格达琳·施魏加德 (Marie Magdalene Schweigaard) 结婚，她是特莱夫·达尔·施魏加德 (Tellef Dahll Schweigaard) 的女儿、著名政治家克里斯蒂安·霍曼·施魏加德 (Christian Homann Schweigaard) 的侄女，也是后来的总理安东·马丁·施魏加德 (Anton Martin Schweigaard) 的姑姑。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "从东边的福尔米亚 (Formia) 可以到达，从西边的斯皮尼奥·萨图尔尼亚 (Spigno Saturnia) 的“frazione”马拉诺拉 (Maranola) 可以到达。",
+        "sentence2": "从东边的福尔米亚 (Formia) 可以到达，从西边的斯皮尼奥·萨图尔尼亚 (Spigno Saturnia) 的“frazione”马拉诺拉 (Maranola) 可以到达。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "当菲尔·斯佩克特 (Phil Spector) 第一次听到《Stubborn Kind of Fellow》时，他激动不已，以至于在与杰克·尼采 (Jack Nitzsche) 一起沿着日落大道行驶时失去了对汽车的控制。",
+        "sentence2": "当杰克·尼采 (Jack Nitzsche) 第一次听到《Stubborn Kind of Fellow》时，他非常激动，以至于在与菲尔·斯佩克特 (Phil Spector) 一起驾车行驶在日落大道上时失去了对汽车的控制。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "一些船员在金湾遇难，并且没有与当地其他毛利人接触。",
+        "sentence2": "部分船员在金湾遇难，并且与当地毛利人没有其他联系。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该单曲于 2015 年 10 月 31 日宣布，并于 2015 年 11 月 13 日发行。",
+        "sentence2": "该单曲于2015年10月31日宣布发行，并于2015年11月13日发行。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "在新电视剧《死亡华丽》中，哈泽尔扮演了最小的妹妹亚历山德拉·科平格 (Alexandra Coppinger)。",
+        "sentence2": "海泽尔在新电视剧《死亡美人》中扮演了最小的妹妹亚历山德拉·科平格 (Alexandra Coppinger) 的角色。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "其中一些在这里描述，一些在下面的“外部链接”下链接。",
+        "sentence2": "其中一些在下面描述，一些链接到此处的“外部链接”。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "在苏格兰足球中，半职业球队参加苏格兰足球超级联赛以下各级别的比赛，而苏格兰冠军联赛以下的大多数球队都是半职业球队。",
+        "sentence2": "在苏格兰足球中，半职业球队在各个级别的表现都低于苏格兰足球超级联赛，而苏格兰冠军联赛以下的大多数球队都是半职业球队。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "这首歌是美国嘻哈乐队 Jedi Mind Tricks 的单曲“design in Malice”中的一个钩弦样本。",
+        "sentence2": "这首歌是美国单身嘻哈乐队 Jedi Mind Tricks 的《Design in Malice》中的一个钩状样本。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "其中，公式5是两个变量的Horn有限函数之一，并且对于公式6和公式7的所有合流超几何值收敛。它由以下公式给出：",
+        "sentence2": "公式 5 是 Horn 的两个变量合流超几何函数之一，并且对于公式 6 和公式 7 的所有有限值收敛。它由以下公式给出：",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1830 年，詹姆斯受到美国殖民协会 (ACS) 部分成员的废奴主义思想以及阿瑟·塔潘 (Arthur Tappan) 的著作的影响。",
+        "sentence2": "从 1830 年起，詹姆斯受到美国殖民协会 (ACS) 部分成员的废奴主义思想以及阿瑟·塔潘 (Arthur Tappan) 的著作的影响。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "这些游戏均由 Namco Bandai 开发，并由 CyberConnect2 发行，第一部是 2005 年的《火影忍者：终极忍者》。",
+        "sentence2": "它们由 CyberConnect2 开发，Namco Bandai 发行，从 2005 年的《火影忍者：终极忍者》开始。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1954 年 10 月 18 日，随着 FM 1241 延长，该公路被取消。",
+        "sentence2": "1954 年 10 月 18 日，随着 FM 1241 延长，该条公路被取消。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "满足这一要求的太阳能方法就是在传统动力飞机上使用太阳能电池板。",
+        "sentence2": "满足这一要求的传统方法是在太阳能飞机上使用太阳能电池板。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "她是瓦尔、鲍里斯和罗莎琳德洛温的母亲，她的女儿成为了一名心理学教授。",
+        "sentence2": "她成为了瓦尔、鲍里斯和罗莎琳德洛温的母亲，她的女儿是心理学教授。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "暗物质的间接证据来自于其对暗物质的引力影响，因为实验室中没有观察到其他物质粒子。",
+        "sentence2": "暗物质存在的间接证据来自于其对其他物质的引力影响，因为实验室中尚未观测到暗物质粒子。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "奥卢塞贡·奥巴桑乔 ( 1975 年 ) 和穆尔塔拉·穆罕默德 ( 1976 年 ) 先后发动政变取代了他。",
+        "sentence2": "1975 年，奥卢塞贡·奥巴桑乔下台；1976 年，穆尔塔拉·穆罕默德又发动政变，取代了他的位置。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "麦克米伦在蒂德沃思皇家医疗队工作了两年，后来又在迪德科特工作，负责为朝鲜战争中受伤士兵提供医学救援服务。",
+        "sentence2": "麦克米兰在迪德科特的皇家医疗队工作了两年，后来又在蒂德沃思为在朝鲜战争中受伤的士兵开办了 MRS。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "《Aku Ankka》由 Sanoma Media (以前称为 Sanoma) 出版，是 Sanoma Magazines 的一部分。",
+        "sentence2": "《Aku Ankka》由 Sanoma Media (以前称为 Sanoma Magazines) 出版，该公司是 Sanoma 旗下的一部分。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "拉卡伊是乌干达的首都，20 世纪 80 年代初，拉卡伊是艾滋病疫情的中心，也是拉卡伊区第一个受到艾滋病影响的地区。",
+        "sentence2": "拉卡伊是拉卡伊区的首府，该区是 20 世纪 80 年代初艾滋病疫情的中心，也是乌干达最先受到艾滋病影响的地区。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "亚洲业务成为 Ebel 的一部分，而欧洲业务则出售给香港企业家 Joseph Wong，目前成为 Stelux Holdings 的一部分。",
+        "sentence2": "亚洲业务成为 Ebel 的一部分，而欧洲业务则出售给香港企业家 Joseph Wong，现在属于 Stelux Holdings。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "这些资金来自比尔·梅林达·盖茨基金会、金融家乔治·索罗斯和技术企业家爱德华·W·斯科特。",
+        "sentence2": "启动资金来自比尔和梅琳达·盖茨基金会、金融家乔治·索罗斯和技术企业家爱德华·W·斯科特。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "菲纳莱是南非林波波省莫帕尼区的一个城市。",
+        "sentence2": "菲纳莱是南非林波波省莫帕尼区的一个城镇。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "拉希迪没有受到任何指控，但在遣返时被摩洛哥当局拘留。",
+        "sentence2": "拉希迪没有受到任何指控，但在被捕后被摩洛哥当局遣返回国。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1824 年，他被任命为塞内卡县检察官，1826 年，他被任命为威廉姆斯县检察官，1827 年，他被任命为桑达斯基县检察官。",
+        "sentence2": "1824 年，他被任命为威廉姆斯县检察官，1826 年，被任命为塞内卡县检察官，1827 年，被任命为桑达斯基县检察官。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "乔治城湖也是乔治城和附近城镇朗德罗克的饮用水来源。",
+        "sentence2": "乔治城湖也是乔治敦和附近城市朗德罗克的饮用水来源。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "霍莉在音乐上受到埃尔顿·约翰 (Elton John) 的影响。",
+        "sentence2": "埃尔顿·约翰 (Elton John) 在音乐上受到了霍莉的影响。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "大卫·比顿枢机主教逝世时，担任苏格兰大法官、圣安德鲁斯大主教和苏格兰枢机主教使节。",
+        "sentence2": "大卫·比顿枢机主教逝世时为苏格兰大法官、圣安德鲁斯大主教和苏格兰枢机主教使节。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1963 年，凯尔德·戴希曼 (Kjeld Deichmann) 突然去世，埃里卡关闭了工作室并放弃了陶艺。",
+        "sentence2": "1963年，凯尔特·戴希曼（Kjeld Deichmann）突然去世，埃里卡关闭了工作室并放弃了陶艺。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "然而，迈克尔·杰克逊、王子和麦当娜都对这张专辑产生了影响。",
+        "sentence2": "然而，麦当娜、王子和迈克尔·杰克逊都对这张专辑产生了影响。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "唯一的有轨电车车站位于米拉弗洛雷斯。终点站为圣安东尼奥和东方。",
+        "sentence2": "唯一的有轨电车车站位于圣安东尼奥，终点站是米拉弗洛雷斯和东方。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他还帮助在北美、中美、南美以及欧洲建立了冥想中心。",
+        "sentence2": "他还帮助在欧洲各地以及北美、中美和南美建立了冥想中心。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "在斯里兰卡，只有斯里兰卡特许会计师协会的会员才能使用特许会计师（CA Sri Lanka）的称号。",
+        "sentence2": "在CA，会计师（斯里兰卡Sri Lanka）这个头衔只有斯里兰卡会计师协会的会员才能使用。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "布朗还在路易斯安那州罗伯特创立了所罗门圣公会会议中心。",
+        "sentence2": "罗伯特还在路易斯安那州布朗市创建了所罗门圣公会会议中心。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus 是一家地区性啤酒酿造厂，受到德国风格的影响。",
+        "sentence2": "Lobethal Bierhaus 是一家受德国风格影响的地区性啤酒厂。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "金融监管机构有时会通过行业监管与其监管的实体分享世界观。",
+        "sentence2": "通过行业监管，金融监管者有时与其监管的实体拥有相同的世界观。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1942 年 4 月，蒙塔古斯莱特返回英国，回国后不久，便邀请布里顿担任他的作品《彼得·格莱姆斯》的剧本作者。",
+        "sentence2": "1942 年 4 月，布里顿返回英国，回国后不久，他邀请蒙塔古斯莱特担任他的作品《彼得·格莱姆斯》的剧本作者。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "三年后，他在哈嫩克利欧洲锦标赛上代表西德赢得了同一比赛的银牌。",
+        "sentence2": "三年后，他在哈嫩克利举行的欧洲锦标赛上代表西德赢得了同一项目的银牌。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "在吉他手 Cole Alexander、贝斯手 Jared Swilley 离开 Renegades 乐队、吉他手 Ben Eberbaugh 离开 Reruns 乐队后，该乐队于 1999 年在佐治亚州邓伍迪成立。",
+        "sentence2": "该乐队于 1999 年在佐治亚州邓伍迪成立，此前吉他手 Ben Eberbaugh、贝斯手 Jared Swilley 离开了 Renegades 乐队，吉他手 Cole Alexander 离开了 Reruns 乐队。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "其中一些在这里描述，一些在下面的“外部链接”下链接。",
+        "sentence2": "其中一些在下面描述，还有一些在“外部链接”下链接。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "第二位编辑是 Herbert Wessels (自 2009 年起)，主编是 Markus Ermert (自 2002 年起)。",
+        "sentence2": "第二位编辑是 Herbert Wessels (自 2009 年起)，主编是 Markus Ermert (自 2002 年起)。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis 是一种叶甲虫，原产于北非和欧洲部分地区。",
+        "sentence2": "赭石叶甲虫（Ochrosis ventralis）是欧洲和北非部分地区的本土叶甲虫。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "一些船员在金湾 (Golden Bay) 遇难，并且没有与当地其他毛利人取得联系。",
+        "sentence2": "部分船员在金湾 (Golden Bay) 遇难，并且没有与当地其他毛利人取得联系。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "这三个父系王朝与母系家族 Mbooj 一起统治瓦洛王国。",
+        "sentence2": "这三个母系王朝与父系家族 Mbooj 一起统治瓦洛王国。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "20 世纪 50 年代初，菲亚明吉开始创作抽象艺术作品，并融入了构成艺术的元素。",
+        "sentence2": "20 世纪 50 年代初，菲亚明吉开始创作抽象艺术作品，融入了构成艺术的元素。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "宾夕法尼亚州 268 号公路从大桥西端向南延伸至帕克，向北延伸至埃姆伦顿。",
+        "sentence2": "宾夕法尼亚州 268 号公路从大桥西端向北延伸至帕克，向南延伸至埃姆伦顿。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他的名字阿福拉比 (Afolabi) 意为“生于富贵”。他在尼日利亚的绰号是“机械战警”，因为他的动作僵硬。",
+        "sentence2": "他的名字阿福拉比 (Afolabi) 意为“财富之生”，由于他动作僵硬，在尼日利亚他被昵称为“机械战警”。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1942 年 4 月，布里顿返回英国，回国后不久，他邀请蒙塔古斯莱特担任他的作品《彼得·格莱姆斯》的剧本作者。",
+        "sentence2": "1942 年 4 月，蒙塔古·斯莱特返回英国，回国后不久，他邀请布里顿担任其《彼得·格莱姆斯》的剧本作者。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他是第一代从男爵约翰·莱德爵士的遗腹子，他的母亲是酿酒师亨利·斯雷尔的姐姐。",
+        "sentence2": "他是第一代从男爵亨利·斯雷尔爵士的儿子，他的母亲是酿酒师约翰·莱德的姐姐。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "例外情况是 2005 年末至 2009 年期间，当时他在瑞典为卡尔斯塔德联队 (Carlstad United BK)、塞尔维亚格罗兹尼特里克足球俱乐部 (FC Terek Grozny) 和俄罗斯 FK 博拉茨恰克足球俱乐部 (FK Borac Čačak) 踢球。",
+        "sentence2": "例外情况是 2005 年末至 2009 年期间，他曾在瑞典的卡尔斯塔德联队 (Carlstad United BK)、塞尔维亚的博拉茨恰克队 (FK Borac Čačak) 和俄罗斯的格罗兹尼特里克队 (FC Terek Grozny) 踢球。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "该集由查克·塔瑟姆 (Chuck Tatham) 编剧，弗雷德·萨维奇 (Fred Savage) 执导。",
+        "sentence2": "该集由查克·塔瑟姆 (Chuck Tatham) 创作，弗雷德·萨维奇 (Fred Savage) 主演。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "来自城中各个有权有势的马尔杜卡人的信使到来打断了会议，他们带来了许多给王子的晚餐邀请。",
+        "sentence2": "会议被来自城中各个有权有势的马尔杜卡人的信使的到来打断了，他们带来了各种邀请，邀请王子共进晚餐。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "贝希姆科公司主要生产纺织品、基础化学品、药品、黄麻和海洋食品，该公司还拥有房地产和土地开发权益。",
+        "sentence2": "贝希姆科公司生产纺织品、基础化学品、药品、黄麻和海洋食品；该公司还拥有房地产和土地开发权益。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "现今，《骑士文摘》为月刊，有两个版本：零售版和 60 页的免费版。",
+        "sentence2": "现为月刊，出版两个版本：免费版和 60 页的零售版。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他的妻子是Klára Csabi，他们的儿子Ferenc Wathay也是一位著名的指挥官和《Ferenc Wathay歌集》的作者。",
+        "sentence2": "他的妻子是克拉拉·恰比（Klára Csabi），她的儿子费伦茨·瓦塞（Ferenc Wathay）也是一位著名的指挥官和“费伦茨·瓦塞歌曲集”的作者。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "2.5:1 的比例降低了直肠癌患者结肠直肠细胞的增殖，而 4:1 的比例没有影响。",
+        "sentence2": "2.5:1 的比例降低了矩形癌患者结肠直肠细胞的增殖，而 4:1 的比例没有影响。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他出生于英国伦敦，原名查尔斯温德姆斯坦宁 (Charles Wyndham Standing)，卒于加利福尼亚州洛杉矶。",
+        "sentence2": "他出生于英国伦敦，逝世于加利福尼亚州洛杉矶，名叫查尔斯温德姆。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "美国宾夕法尼亚州伯克斯县是罗伯逊镇的一个社区。",
+        "sentence2": "美国宾夕法尼亚州伯克斯县是罗伯逊镇的一个乡镇。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "佛蒙特州北邻米查姆，西邻纳纳威丁和森林山，南邻佛蒙特州，东邻万提那和林伍德。",
+        "sentence2": "佛蒙特南部北邻米查姆，西邻纳纳威丁和森林山，南邻佛蒙特州，东邻万提那和林伍德。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "库克池（Cook Pond）又名南瓦图帕池（South Watuppa Pond），位于劳雷尔湖（Laurel Lake）东南部，汤顿河（Taunton River）西侧。",
+        "sentence2": "库克池（Cook Pond），以前也称为劳雷尔湖（Laurel Lake），位于汤顿河（Taunton River）的南端，南瓦图帕池（South Watuppa Pond）的西边。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "只有罗尼·菲尔兹没有在 NCAA 或 NBA 打过一场比赛。",
+        "sentence2": "罗尼·菲尔兹没有在 NBA 或 NCAA 打过一场比赛。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "邓肯·麦金太尔于 1899 年 10 月 6 日出生于英国肯特郡，父亲是艾弗·尤因·麦金太尔上尉。",
+        "sentence2": "艾弗·尤因·麦金太尔于 1899 年 10 月 6 日出生于英国肯特郡，父亲是邓肯·麦金太尔船长。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "反刍动物还会患上呼吸道疾病，出现拒绝进食、精神萎靡不振和神经系统症状的症状。",
+        "sentence2": "反刍动物也会患上呼吸道疾病，并且可能拒绝进食，显得昏昏欲睡，还会出现神经系统症状。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "该剧由作曲家莫里·耶斯顿 (Maury Yeston) 创作，堪萨斯城芭蕾舞团艺术总监威廉·怀特纳 (William Whitener) 负责编舞。",
+        "sentence2": "该剧由作曲家威廉·怀特纳 (William Whitener) 创作，堪萨斯城市芭蕾舞团艺术总监莫里·耶斯顿 (Maury Yeston) 编舞。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "《梦》于 1961 年在科文特花园皇家歌剧院上演，由约翰·吉尔古德制作，格奥尔格·索尔蒂指挥。",
+        "sentence2": "《梦》于 1961 年在科文特花园皇家歌剧院上演，由约翰·吉尔古德制作，格奥尔格·索尔蒂执导。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1918 年 9 月 22 日，第一条无线电报从澳大利亚发送到斯诺登尼亚。",
+        "sentence2": "1918年9月22日，第一条无线电报通信从澳大利亚发送到斯诺登尼亚。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "库克池（Cook Pond）又名南瓦图帕池（South Watuppa Pond），位于劳雷尔湖（Laurel Lake）东南部，汤顿河（Taunton River）西侧。",
+        "sentence2": "在南端，库克池（以前也称为南瓦图帕池）位于劳雷尔湖以东和汤顿河以西。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "有臀鳍软棘13枚，背鳍软条11～13枚，背鳍棘2枚，臀鳍条11～13枚。",
+        "sentence2": "有背棘13枚，背软条11～13枚，臀棘2枚，臀软条11～13枚。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "势能和总能量的总和称为动能或“能量包”。",
+        "sentence2": "势能与动能的总和称为总能量，或“能量包”。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "他们在那里是为了我们祈祷，他们在那里是为了让我们享受。",
+        "sentence2": "它们在那里是为了让我们祈祷，它们在那里是为了让我们享受。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "癌前病变显然是一种典型的组织，在显微镜检查中看起来异常，并且与形态正常的组织相比，其更容易发生癌症。",
+        "sentence2": "癌前病变显然是一种典型的组织，在显微镜检查下看起来不正常，并且比形态正常的组织更容易发生癌症。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "“R. satarae” 有金棕色的皮毛，背部长而柔软，腹部为白色。",
+        "sentence2": "“R. satarae” 有金棕色的皮毛，背部长而柔软，腹部为白色。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "现存有两个小型独立联盟，其成员数极少：高地联盟联盟和格兰扁联盟联盟。",
+        "sentence2": "现存有两个小型独立联盟，成员数量仅有少数：格兰扁联盟和高地联盟。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "“Fall Beil” 最后一次使用是在 1949 年在西德，1966 年在东德。",
+        "sentence2": "该“格”最后一次使用是在1949年在东德，1966年在西德。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "1874 年 9 月 29 日，安妮特·阿米莉亚·克鲁姆与塞缪尔·克鲁姆的女儿布莱恩特结婚，育有一女。",
+        "sentence2": "1874 年 9 月 29 日，安妮特·阿米莉亚与塞缪尔·克鲁姆的女儿克鲁姆·布莱恩特结婚，并育有一女。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "此外 , 还 举行 了 美国 冠军 争夺 赛 , 冠军 杰克斯瓦格 ( Jack Swagger ) , 米兹 ( The Miz ) 和 科菲金士顿 ( Kofi Kingston ) 之间 的 三重 威胁 赛 . ",
+        "sentence2": "接下来是冠军科菲金士顿 (Kofi Kingston)、米兹 (The Miz) 和杰克斯瓦格 (Jack Swagger) 之间的美国冠军三重威胁赛。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "这首歌是 FX 电视网电视剧“混乱之子”第二季的第六个宣传片中演唱的。",
+        "sentence2": "这首歌是 FX 电视网电视连续剧“混乱之子”第二季的第六个宣传片中主打歌曲。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "他在职业生涯早期曾在澳大利亚踢球，但后来移居苏格兰，为维多利亚州联赛的弗兰克斯顿城队效力。",
+        "sentence2": "他在职业生涯早期曾在苏格兰踢球，但后来移居澳大利亚，为维多利亚州联赛的弗兰克斯顿城队效力。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "最新曲目《Every Morning》是第一首曲目《Morning》的原声吉他版本。",
+        "sentence2": "最后一首歌曲“Every Morning”是第一首歌曲“Morning”的原声吉他版本。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "棕领刷火鸡 (“Talegalla jobiensis”) 是雉科的一种鸟类。",
+        "sentence2": "领丛火鸡或棕领丛火鸡（“Talegalla jobiensis”）是冢雉科的一种鸟类。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "邓肯·麦金太尔于 1899 年 10 月 6 日出生于英国肯特郡，父亲是艾弗·尤因·麦金太尔上尉。",
+        "sentence2": "艾弗·尤因·麦金太尔 1899 年 10 月 6 日出生于英国肯特郡，父亲是船长邓肯·麦金太尔。",
+        "answer": "different"
+    },
+    {
+        "sentence1": "第46火箭师的历史开始于1941年4月29日，当时第188步枪师在考纳斯组建完成。",
+        "sentence2": "第46火箭师的历史开始于1941年4月29日，当天，第188步枪师在考纳斯组建完成。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "惠特拉姆在 1975 年 12 月的联邦选举中以压倒性优势击败了马尔科姆·弗雷泽，他授予埃格顿爵士头衔，以表彰他为工会运动做出的贡献。",
+        "sentence2": "惠特拉姆在 1975 年 12 月的联邦选举中以压倒性优势击败了马尔科姆·弗雷泽，他授予埃格顿爵士头衔，以表彰他为工会运动做出的贡献。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "赭石叶甲虫（Ochrosis ventralis）是欧洲和北非部分地区的本土叶甲虫。",
+        "sentence2": "Ochrosis ventralis 是一种叶甲虫，原产于欧洲和北非部分地区",
+        "answer": "same"
+    },
+    {
+        "sentence1": "赛季于 1984 年 1 月 6 日在瑞典法伦开始，并于 1984 年 3 月 11 日在挪威莱尼亚结束。",
+        "sentence2": "赛季于 1984 年 1 月 6 日在瑞典法伦开始，并于 1984 年 3 月 11 日在挪威莱尼亚结束。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "德鲁伊特出生于莱顿，曾效力于乌得勒支足球俱乐部、斯海尔托亨博斯足球俱乐部、伊克塞尔西奥足球俱乐部、RKC瓦尔维克足球俱乐部和埃门足球俱乐部。",
+        "sentence2": "德鲁伊特出生于莱顿，曾效力于乌得勒支足球俱乐部、斯海尔托亨博斯足球俱乐部、埃克塞尔西奥足球俱乐部、RKC瓦尔维克足球俱乐部和埃门足球俱乐部。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "法雷尔 (Farrell) 使用加布里埃尔 (Gabriel) 的黑客进行反击，而麦克莱恩 (McClane) 则消灭了他的部下。",
+        "sentence2": "法雷尔 (Farrell) 反击了加布里埃尔 (Gabriel) 的黑客，而麦克莱恩 (McClane) 则消灭了他的手下。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "该单曲于2012年10月12日在意大利Radio Airplay发行，并于2012年12月3日在全球发行。",
+        "sentence2": "该单曲于2012年10月12日在意大利电台播放，并于2012年12月3日在全球发行。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1852 年 6 月 24 日，屋大维·瓦尔·马莱的次女爱丽丝·安娜·凯瑟琳在英国驻科隆领事馆与托马斯结婚。",
+        "sentence2": "1852 年 6 月 24 日，奥克塔维厄斯·瓦尔·马莱的次女爱丽丝·安娜·凯瑟琳在科隆的英国领事馆与托马斯结婚。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum 是一种海螺，是海螺科的一种真正的腹足类软体动物，属于海螺属。",
+        "sentence2": "Probuccinum tenerum 是一种海螺，是海螺科（海螺属）的一种真正的腹足类软体动物。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "David David Godwin 的代表是 DGA Associates 的 Emma Townshend。",
+        "sentence2": "David Godwin 的代表是 DGA Associates 的 Emma Townshend。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "简单介质可以用频率公式 _ 2 和公式 _ 3 下的有效吸收和发射截面来表征。",
+        "sentence2": "简单介质可以通过频率公式 2 和公式 3 下吸收和发射的有效截面来表征。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "德鲁伊特出生于莱顿，曾效力于乌得勒支足球俱乐部、斯海尔托亨博斯足球俱乐部、伊克塞尔西奥足球俱乐部、RKC瓦尔维克足球俱乐部和埃门足球俱乐部。",
+        "sentence2": "德·鲁伊特出生于莱顿，曾效力于瓦尔维克足球俱乐部、斯海尔托亨博斯足球俱乐部、埃克塞尔西奥足球俱乐部、乌得勒支足球俱乐部和埃门足球俱乐部。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "算术运算符的首要地位一直受到批评，从概念上讲，它们是按位逻辑运算符，如 and + 。",
+        "sentence2": "算术运算符的优先级一直受到批评。从概念上讲，& 和 是位逻辑运算符，类似于 and + 。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1974年，老挝在联合国、亚洲开发银行和世界银行的支持下，成立了第二期基金。",
+        "sentence2": "老挝人民民主共和国在世界银行、联合国、亚洲开发银行的支持下，于1974年成立了第二期基金。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "韦伯斯特格罗夫斯市议会由议员黛比·萨尔伯格 (Debi Salberg)、凯西·哈特 (Kathy Hart)、格雷格·穆勒 (Greg Mueller)、肯·伯恩斯 (Ken Burns)、托尼·亨特 (Toni Hunt) 和安妮·托兰 (Anne Tolan) 组成。",
+        "sentence2": "韦伯斯特格罗夫斯市议会由议员格雷格·穆勒、肯·伯恩斯、凯西·哈特、黛比·萨尔伯格、托尼·亨特和安妮·托兰组成。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "埃尔顿·约翰 (Elton John) 在音乐上受到了霍莉的影响。",
+        "sentence2": "埃尔顿·约翰 (Elton John) 在音乐上受到霍莉 (Holly) 的影响。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "许多人认为他们的音乐是另类金属，带有说唱金属和工业金属的影响。根据之前的采访，他们自称是“谋杀摇滚”。",
+        "sentence2": "他们的音乐被很多人认为是受到说唱金属和工业金属影响的另类金属，根据之前的采访，他们称自己为“谋杀摇滚”。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "然后它穿过沃希托河的特克索马湖支流。",
+        "sentence2": "然后它穿过沃希托河的特克索马湖支流。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "下表比较了 LOD 渲染和全细节方法（“强力”）的性能。",
+        "sentence2": "下表比较了 LOD 感知渲染和全细节（“强力”）方法的性能。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Volare 集团总部位于米兰蒂埃内，其商业管理和包机管理位于意大利。",
+        "sentence2": "Volare集团总部位于米兰蒂埃内，商业管理和包机管理位于意大利。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "还值得一提的是，下面的代码无需 ADL 即可运行（无论如何它都会应用于它）。",
+        "sentence2": "还值得注意的是，下面的代码无需 ADL 即可工作（无论如何它都会应用于它）。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "它们由 CyberConnect2 开发，并由 Namco Bandai 发行，从 2005 年的《火影忍者：终极忍者》开始。",
+        "sentence2": "它们由 CyberConnect2 开发，并由 Namco Bandai 从 2005 年开始发行《火影忍者：终极忍者》。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "AleX 是一部意大利电视连续剧。该剧由 Alfredo Castelli、Guglielmo Duccoli 和 Giorgio Schottler 编剧，Videotime 制作。",
+        "sentence2": "意大利电视连续剧《AleX》由 Alfredo Castelli、Guglielmo Duccoli 和 Giorgio Schottler 编剧，并由 videotime 制作。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Enoteche 以德国名称“Vinothek”延伸至阿尔卑斯山以北的奥地利，并从德国延伸至奥地利。",
+        "sentence2": "Enoteche 以德语名称“Vinothek”传遍了阿尔卑斯山以北的奥地利，并从德国传到奥地利。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "《Smartass》是一部由 Jena Serbu 执导、Joey King 主演的电影。",
+        "sentence2": "《Smartass》是一部由 Jena Serbu 和 Joey King 执导的电影。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "任务期间共有 65 名士兵阵亡：34 名尼日利亚人、28 名乍得人、2 名多哥人和 1 名布基纳法索人。",
+        "sentence2": "在这次任务中，共有 65 名士兵阵亡：34 名尼日利亚人、28 名乍得人、2 名多哥人和 1 名布基纳法索人。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "该师在诺曼底战役中被全歼，最后一支部队也因瑟堡的陷落而损失。",
+        "sentence2": "该师在诺曼底战役中被摧毁，其最后一支部队在瑟堡陷落时损失殆尽。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "文帕蒂·钦纳·萨蒂亚姆 (Vempati Chinna Satyam，1929 年 10 月 15 日 - 2012 年 7 月 29 日) 是一位库奇普迪 (Kuchipudi) 舞者，也是印度舞蹈大师。",
+        "sentence2": "文帕蒂·钦纳·萨蒂亚姆 (Vempati Chinna Satyam，1929 年 10 月 15 日 - 2012 年 7 月 29 日) 是一位库奇普迪 (Kuchipudi) 舞者，也是印度舞蹈形式的大师。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1903 年 5 月 5 日，他在威斯康星州密尔沃基退休并去世。",
+        "sentence2": "他在威斯康星州密尔沃基去世，并于 1903 年 5 月 5 日在该地退休。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "他出生于加利福尼亚州蒂伯龙，逝世于纽约州布鲁克林。",
+        "sentence2": "它诞生于加利福尼亚州的蒂伯龙，逝于纽约州的布鲁克林。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "该系列于 2009 年 4 月 18 日在澳大利亚 Nickelodeon（新西兰和新西兰）首次播出。",
+        "sentence2": "该剧于 2009 年 4 月 18 日在澳大利亚 Nickelodeon（新西兰和新西兰）首播。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "这是在正式寺庙中实行的禅宗供奉和用餐方式。",
+        "sentence2": "这是在正式寺庙中实行的禅宗式供奉和饮食方式。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "民政党第三党的新领导人是萨吉约 (Sarjiyo)，他成为北加浪岸的主要摄政王。",
+        "sentence2": "萨吉约 (Sarjiyo) 成为民政党第三党的新领导人，并担任北加浪岸的主要摄政王。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "在竞选期间，他曾与麦凯恩辩论过两次，一次是在弗拉格斯塔夫，一次是在图森。",
+        "sentence2": "在竞选期间，他曾与麦凯恩辩论过两次，一次在图森，一次在弗拉格斯塔夫。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "青少年组第一组总冠军将获得詹姆斯·德拉亨特杯。",
+        "sentence2": "青少年组第一组的获胜者将获得詹姆斯·德拉亨特杯。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "该队服由绿色上衣、白色衣领、蓝色短裤和蓝色袜子组成。",
+        "sentence2": "该队服由一件带有白色衣领的绿色球衣、蓝色短裤和蓝色袜子组成。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "出席此次活动的有 Boutique @ hs 大使泰莉莎·帕尔墨 (Teresa Palmer)、米卡拉·巴纳斯 (Michala Banas) 和澳大利亚女演员凯莉·克拉克 (Kyly Clarke)。",
+        "sentence2": "出席此次活动的有 Boutique @ hs 形象大使泰莉莎·帕尔墨 (Teresa Palmer)、米卡拉·巴纳斯 (Michala Banas) 和澳大利亚女演员凯莉·克拉克 (Kyly Clarke)。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "杜明达·席尔瓦，也被称为阿鲁马杜拉·劳伦斯·罗梅洛·杜明达·席尔瓦或 R. 杜明达·席尔瓦，是斯里兰卡政治家，曾任国会议员。",
+        "sentence2": "阿鲁马杜拉·劳伦斯·罗梅洛·杜明达·席尔瓦，也被称为杜明达·席尔瓦和 R. 杜明达·席尔瓦，是斯里兰卡政治家和前议会代表。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "该铁路于 1919 年 9 月 20 日开通，服务于墨尔本东南部的伊迪斯维尔郊区。",
+        "sentence2": "该铁路于 1919 年 9 月 20 日开业，服务于墨尔本东南部的伊迪斯维尔郊区。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "在这样的晚宴上，人们经常饮用优质葡萄酒，通常还有香槟或类似的起泡葡萄酒。",
+        "sentence2": "在这样的晚宴上，人们通常饮用优质葡萄酒，最后通常还会喝香槟或类似的起泡葡萄酒。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "根据美国人口普查局的数据，肯尼索的总面积为陆地，水域占总面积的 1.08 %。",
+        "sentence2": "根据美国人口普查局的数据，肯尼索的总面积为陆地，其中 1.08 % 为水域。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "乔·R·坎帕 (Joe R. Campa Jr.) 是前美国海军水手，曾担任美国海军第 11 任首席士官。",
+        "sentence2": "乔·R·坎帕 (Joe R. Campa Jr.) 是美国海军前水兵，曾担任美国海军第十一任首席士官。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "2000 年，RJD 的 Poonam Devi 击败了 Dharmendra Yadav，成为 JDU 选手。",
+        "sentence2": "2000 年，RJD 的 Poonam Devi 击败了代表 JDU 的 Dharmendra Yadav。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "马克诺尔斯和丹尼尔内斯特在决赛中以 5 ： 3、5 ： 4 击败乔纳森埃利希和安迪拉姆，夺得冠军。",
+        "sentence2": "马克诺尔斯和丹尼尔内斯特在决赛中以 5 - 3、5 - 4 击败乔纳森埃利希和安迪拉姆，夺得冠军。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "他与特里一起扮演奥菲莉亚和鲍西亚，创作了生动活泼的《哈姆雷特》，并创作了《威尼斯商人》（1879 年）。",
+        "sentence2": "他让特里扮演奥菲莉亚和波西亚，重新演绎了“哈姆雷特”，并创作了“威尼斯商人”（1879年）。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "他还帮助在欧洲以及北美、中美和南美建立了冥想中心。",
+        "sentence2": "他还帮助在欧洲以及北美、中美和南美建立冥想中心。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "1954 年 10 月 18 日，随着 FM 1241 延长，该公路被取消。",
+        "sentence2": "1954 年 10 月 18 日，随着 FM 1241 延长，该高速公路被取消。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "麦卡锡出生于奥克兰，但四岁时随父母搬到了加利福尼亚州旧金山。",
+        "sentence2": "麦卡锡出生于奥克兰，但四岁时随父母搬到了加利福尼亚州旧金山。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "金边——柬埔寨越南友谊纪念碑，位于柬埔寨首都金边，是一座大型混凝土纪念碑，纪念越南和柬埔寨昔日的联盟。",
+        "sentence2": "金边—越南友谊纪念碑位于柬埔寨首都柬埔寨，是一座大型混凝土纪念碑，纪念越南和柬埔寨昔日的联盟。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "谢尔·艾哈迈德·阿洪扎达 (Sher Ahmed Akhundzada) (也称为谢尔·穆罕默德·阿洪扎达 (Sher Mohammed Akhundzada)) 是一位部落首领，曾于 2001 年至 2005 年担任阿富汗赫尔曼德省省长。",
+        "sentence2": "谢尔·艾哈迈德·阿洪扎达 (Sher Ahmed Akhundzada) (也称为谢尔·穆罕默德·阿洪扎达 (Sher Mohammed Akhundzada)) 是一位部落首领，2001 年至 2005 年担任阿富汗赫尔曼德省省长。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "拉卡伊是拉卡伊区的首府，该区是 20 世纪 80 年代初艾滋病疫情的中心，也是乌干达最先受到艾滋病影响的地区。",
+        "sentence2": "拉卡伊是拉卡伊区的首府，20 世纪 80 年代初，该区是乌干达艾滋病疫情的中心，也是乌干达第一个受到艾滋病影响的地区。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "在考虑隐性利润时，显性成本与经济成本一起考虑。",
+        "sentence2": "在考虑隐性利润时，显性成本也要与经济成本一并考虑。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "拉米·尼米宁（Rami Nieminen，1966 年 2 月 25 日出生）是一名芬兰足球运动员。",
+        "sentence2": "拉米·尼米宁（Rami Nieminen，1966 年 2 月 25 日出生）是一名芬兰足球运动员。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "普朗库 (Prang Ku) 是泰国东北部西萨凯府西部的一个县 (“Amphoe”)。",
+        "sentence2": "普朗库 (Prang Ku) 是泰国东北部四色菊府西部的一个县 (“amphoe”)。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "第14、第16和第117战线营各有两个营参与战斗。",
+        "sentence2": "第14、第16和第117联队各有两个营参加战斗。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "蒙特利尔蒙特利尔星队以 3 – 1 击败明尼苏达白帽队 (WWHL) 夺得克拉克森杯。",
+        "sentence2": "蒙特利尔星队以 3:1 击败明尼苏达白帽队，夺得克拉克森杯（WWHL）",
+        "answer": "same"
+    },
+    {
+        "sentence1": "还值得注意的是，下面的代码无需 ADL 即可工作（无论如何它都会应用于它）。",
+        "sentence2": "还值得一提的是，下面的代码无需 ADL 即可运行（无论如何它都会应用于它）。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "该航空公司由爱尔兰航空组建，该航空还发展了其他五家航空公司，分别是 VivaColombia、Ryanair、Allegiant Air、VivaAerobus 和 Tigerair。",
+        "sentence2": "该航空公司由爱尔兰航空创建，该公司还发展了其他五家航空公司，分别是VivaColombia、Ryanair、Allegiant Air、VivaAerobus和Tigerair。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "邦戈马罗马天主教教区是位于肯尼亚邦戈马教省基苏木市的一个教区。",
+        "sentence2": "罗马天主教邦戈马教区是肯尼亚邦戈马教省基苏木市的一个教区。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "马丁·达姆 (Martin Damm) 和拉德克·什捷帕涅克 (Radek Štěpánek) 在决赛中以 6 – 2、6 – 4 战胜了乔纳斯·比约克曼 (Jonas Björkman) 和法布里斯·桑托罗 (Fabrice Santoro)。",
+        "sentence2": "马丁·达姆 (Martin Damm) 和拉德克·什捷帕涅克 (Radek Štěpánek) 在决赛中以 6: 2、6: 4 战胜了乔纳斯·比约克曼 (Jonas Björkman) 和法布里斯·桑托罗 (Fabrice Santoro)。",
+        "answer": "same"
+    },
+    {
+        "sentence1": "他在职业生涯早期曾在澳大利亚踢球，但后来移居苏格兰，为维多利亚州联赛的弗兰克斯顿城队效力。",
+        "sentence2": "他的职业生涯早期在澳大利亚踢球，但后来移居苏格兰，为维多利亚州联赛的弗兰克斯顿城队效力。",
+        "answer": "same"
+    }
+]

@@ -52,11 +52,11 @@ all_avaliable_model = {'mistral-7b':'/home/nfs02/model/mistralai_Mistral-7B-v0.1
                        'mistral-7b-aligned':'/home/nfs03/zhangsm/multiL-transfer-interpretability/pretrained-models/mistral_zhit20k_round1_epoch3',
                        'Qwen1.5-0.5b':'/home/nfs02/model/Qwen1.5-0.5B',
                        'Qwen1.5-1.8b':'/home/nfs02/model/Qwen1.5-1.8B',
-                       'Qwen1.5-1.8b-aligned':'/home/nfs03/zhangsm/multiL-transfer-interpretability/pretrained-models/Qwen1.8b_emotion_zh2ites2it20k_round1_epoch3',
+                       'Qwen1.5-1.8b-aligned':'/home/nfs03/zhangsm/multiL-transfer-interpretability/pretrained-models/Qwen1.8b_emotion_zhde20k_round1_epoch3',
                        'Qwen1.5-4b':'/home/nfs02/model/Qwen1.5-4B',
                        'Qwen1.5-4b-aligned':'/home/nfs03/zhangsm/multiL-transfer-interpretability/pretrained-models/Qwen4b_emotion_swhi20k_round1_epoch3',
                        'Qwen1.5-14b':'/home/nfs02/model/Qwen1.5-14B-Base',
-                       'Qwen1.5-14b-aligned':'/home/nfs03/zhangsm/multiL-transfer-interpretability/pretrained-models/Qwen14b_snli_swhi20k_round1_epoch3'}
+                       'Qwen1.5-14b-aligned':'/home/nfs03/zhangsm/multiL-transfer-interpretability/pretrained-models/Qwen14b_emotion_swhi20k_round1_epoch3'}
 model_name_or_path = all_avaliable_model[model_size]
 
 quantization_config = BitsAndBytesConfig(

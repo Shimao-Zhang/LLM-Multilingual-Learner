@@ -1,0 +1,2502 @@
+[
+    {
+        "sentence1": "Pengecualian adalah antara lewat 2005 dan 2009 apabila dia bermain di Sweden bersama Carlstad United BK , Serbia dengan FK Borac Čačak dan FC Rusia Terek Grozny .",
+        "sentence2": "Pengecualian adalah antara lewat 2005 dan 2009 , apabila dia bermain di Sweden bersama Carlstad United BK , Serbia dengan FK Borac Čačak dan FC Rusia Terek Grozny .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sungai Tabaci ialah anak sungai Sungai Leurda di Romania .",
+        "sentence2": "Sungai Leurda ialah anak sungai Sungai Tabaci di Romania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dia bermain dengan A-level Kane County Cougars pada tahun 1993 dan AA Portland Sea Dogs.",
+        "sentence2": "Dia bermain pada tahun 1993 dengan A - Level Portland Sea Dogs dan AA Kane County Cougars .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Winarsky ialah ahli IEEE , Phi Beta Kappa , ACM dan Sigma Xi .",
+        "sentence2": "Winarsky ialah ahli ACM , IEEE , Phi Beta Kappa dan Sigma Xi .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada tahun 1938 beliau menjadi ahli antropologi kerajaan Sudan anglo-Mesir dan mengetuai kerja lapangan dengan Nuba.",
+        "sentence2": "Pada tahun 1938 beliau menjadi Ahli Antropologi Kerajaan Mesir-Anglo Sudan dan menjalankan kerja lapangan dengan Nuba.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Billy Billy Batson muncul dalam empat keluaran pertama `` Black Adam '' , yang diterbitkan antara akhir 2008 dan awal 2009 .",
+        "sentence2": "Black Adam muncul dalam empat keluaran pertama `` Billy Batson '' , yang diterbitkan antara akhir 2008 dan awal 2009 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pendekatan solar untuk keperluan ini ialah penggunaan panel solar dalam pesawat berkuasa konvensional .",
+        "sentence2": "Pendekatan solar untuk keperluan ini ialah penggunaan panel solar dalam pesawat berkuasa konvensional.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Polis juga menyoal penyanyi Rimi Tomy dan pelakon Kavya Madhavan, kedua-duanya rakan rapat Siddique dan isterinya Dileep, sebagai sebahagian daripada siasatan yang sedang dijalankan.",
+        "sentence2": "Polis juga menyoal penyanyi Rimi Tomy dan pelakon Kavya Madhavan, kedua-duanya rakan rapat Siddique dan isterinya Dileep, sebagai sebahagian daripada siasatan yang sedang dijalankan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ia dilapisi dengan muzik orkestra langsung yang jarang dan terdiri daripada bunyi yang samar-samar dan hampir tidak berwarna.",
+        "sentence2": "Ia ditindih dengan muzik bebas warna, dimainkan secara langsung dan terdiri daripada bunyi orkestra yang hampir tidak jelas dan jarang disengajakan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Holly dipengaruhi secara muzik oleh Elton John.",
+        "sentence2": "Holly Holly dipengaruhi secara muzik oleh Elton John.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pasukan bertindak balas terhadap perubahan dalam perlawanan seterusnya pada petang yang sama pada 19 Februari.",
+        "sentence2": "Pasukan itu bertindak balas terhadap perubahan dalam permainan yang sama pada petang 19 Februari depan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kesatria Perak Nashua, sebahagian daripada liga musim panas semasa, ialah pasukan kolej bandar itu.",
+        "sentence2": "Nashua Silver Knights , sebahagian daripada liga kolej musim panas , ialah pasukan semasa bandar itu .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Fallbeil '' digunakan buat kali terakhir di Jerman Barat pada tahun 1949, di Jerman Timur pada tahun 1966.",
+        "sentence2": "`` Fall Beil '' digunakan buat kali terakhir di Jerman Barat pada tahun 1949, pada tahun 1966 di Jerman Timur.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Terusan ini merupakan salah satu terusan tertua yang boleh dilayari di Eropah dan di Belgium.",
+        "sentence2": "Terusan ini merupakan salah satu terusan tertua yang boleh dilayari di Belgium dan sememangnya di Eropah.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada tahun 2009 dia berpindah kembali ke Philadelphia dan tinggal di New York City hari ini.",
+        "sentence2": "Dia berpindah kembali ke Philadelphia pada 2009 dan kini tinggal di New York City.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dia meninggal dunia akibat kanser perut di Claremore, Oklahoma, New York City, di mana Memorial Lynn Riggs terletak pada 30 Jun 1954.",
+        "sentence2": "Dia meninggal dunia pada 30 Jun 1954, akibat kanser perut di New York City. Claremore , Oklahoma ialah rumah kepada Memorial Lynn Riggs .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stipsits dilahirkan di Korneuburg , Jerman dan menghabiskan masa kecilnya di Stammersdorf , Vienna .",
+        "sentence2": "Stipsits dilahirkan di Korneuburg, dan menghabiskan masa kecilnya di Stammersdorf, Vienna.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dinasti Keita memerintah Mali pra-imperial dan empayar dari abad ke-12 hingga awal abad ke-17.",
+        "sentence2": "Dinasti Keita memerintah Mali dari abad ke-12 hingga awal abad ke-17, pra-imperial dan empayar.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` Angel Eyes '' ialah lagu popular 1946 yang digubah oleh Matt Dennis, dengan lirik oleh Earl Brent.",
+        "sentence2": "`` Angel Eyes '' ialah lagu popular yang digubah oleh Earl Brent pada tahun 1946, dengan teks oleh Matt Dennis.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Muzik itu ditulis oleh Shyam dan lirik digubah oleh Sreekumaran Thampi dan Sathyan Anthikkad.",
+        "sentence2": "Muzik itu ditulis oleh Shyam dan lirik oleh Sreekumaran Thampi dan Sathyan Anthikkad digubah.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Filem itu mendapat sambutan komersil , dan salah satu filem Sergio Sollima yang lebih berjaya dan kurang berpolitik daripada filem barat bekas pengarah spageti itu .",
+        "sentence2": "Filem ini mendapat sambutan komersil , dan salah satu filem politik Sergio Sollima , dan kurang berjaya berbanding filem barat bekas pengarah spageti itu .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kabir meminta Sarika mendedahkan rancangannya untuk menamatkan permainan Ranvir.",
+        "sentence2": "Kabir meminta Sarika mendedahkan rancangannya untuk menamatkan permainan Ranvir kepadanya.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pasukan bertindak balas terhadap perubahan dalam perlawanan seterusnya pada petang yang sama pada 19 Februari.",
+        "sentence2": "Pasukan itu bertindak balas terhadap perubahan dalam permainan yang sama yang berlangsung pada petang Februari depan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Leftenan John Gedge menugaskan mereka untuk ke Laut Utara pada Mei 1805, dan Leftenan Robert Ramsey menggantikannya pada tahun 1806.",
+        "sentence2": "Leftenan Robert Ramsey menugaskannya ke Laut Utara pada Mei 1805, dan Leftenan John Gedge menggantikannya pada tahun 1806.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Emma Townshend diwakili oleh David Godwin di DGA Associates .",
+        "sentence2": "David David Godwin diwakili di DGA Associates oleh Emma Townshend.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nashua Silver Knights , sebahagian daripada liga kolej musim panas , ialah pasukan semasa bandar itu .",
+        "sentence2": "Kesatria Perak Nashua, sebahagian daripada liga musim panas semasa, adalah pasukan kolej bandar itu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dari hujung barat jambatan, Pennsylvania Route 268 menghala ke selatan ke Parker dan utara ke Emlenton.",
+        "sentence2": "Laluan Pennsylvania 268 menghala dari hujung barat jambatan ke selatan ke Parker dan ke utara ke Emlenton.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ini adalah perkara biasa di United Kingdom, tetapi di Eropah, sekurang-kurangnya untuk lokomotif besar, ia agak jarang berlaku.",
+        "sentence2": "Ini jarang berlaku di United Kingdom, tetapi di Eropah, sekurang-kurangnya untuk lokomotif besar, ia agak biasa.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Alston dilahirkan pada 21 Disember 1965 di Oxon Hill, Maryland. Beliau bersekolah di Oxon Hill High School di New Haven, Connecticut.",
+        "sentence2": "Beliau dilahirkan pada 21 Disember 1965 di Oxon Hill , Maryland , dan bersekolah di High School di New Haven , Connecticut .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Jumlah korban AS adalah 28 terbunuh, manakala kerugian Viet Cong 345 terbunuh dan 192 lagi dianggarkan terbunuh.",
+        "sentence2": "Secara keseluruhan , 28 mangsa AS terbunuh , manakala kerugian Viet Cong terbunuh 345 dan 192 lagi dianggarkan terbunuh .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Di CA, gelaran akauntan bertauliah (Sri Lanka Sri Lanka) hanya boleh digunakan oleh ahli Institut Akauntan Sri Lanka.",
+        "sentence2": "Di CA, gelaran Akauntan Bertauliah (Sri Lanka Sri Lanka) hanya boleh digunakan oleh ahli Institut Akauntan Bertauliah Sri Lanka.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Simyo tergolong dalam kumpulan telekomunikasi Belanda KPN, selepas pengambilalihan baki E-Plus pada 14 Mac.",
+        "sentence2": "Berikutan pemerolehan baki E-Plus pada 14 Mac , Simyo tergolong dalam kumpulan telekomunikasi Belanda KPN .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Selain Kuykendall , Robert White dan Joshua Soule Zimmerman berkhidmat sebagai Pesuruhjaya Canselor untuk Daerah Hampshire .",
+        "sentence2": "Robert White dan Joshua Soule Zimmerman berkhidmat bersama Kuykendall sebagai Pesuruhjaya Canselori untuk Daerah Hampshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pandangan ini sering diutarakan semasa kemunculan gerakan Protestan , Puritan dan Evangelis .",
+        "sentence2": "Pandangan ini sering dinyatakan semasa kemunculan gerakan evangelis, puritan dan protestan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Piala UEFA 1973 -- 74 dimenangi oleh Feyenoord Rotterdam ke atas Tottenham Hotspur 4 : 2 .",
+        "sentence2": "Piala UEFA 1973 -- 74 dimenangi oleh Feyenoord Rotterdam ke atas Tottenham Hotspur 4 -- 2 secara agregat .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Talfourd Ely ialah cucu kepada John Towill Rutt, yang merupakan kawan awal Crabb Robinson.",
+        "sentence2": "Talfourd Ely ialah cucu kepada Crabb Robinson, yang merupakan kawan awal John Towill Rutt.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bapanya meninggal dunia pada masa mudanya, dan ibunya, Samuel Adams, berkahwin dengan Catherine A. Fagan pada tahun 1842, yang dua tahun kemudian menjadi gabenor Arkansas.",
+        "sentence2": "Bapanya meninggal dunia semasa mudanya dan ibunya, Catherine A. Fagan, pada tahun 1842 berkahwin dengan Samuel Adams, yang menjadi Gabenor Arkansas dua tahun kemudian.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mereka juga mengeluarkan lagu kedua dalam album itu, `` Vices '', sebagai single ke-5 daripada album itu pada 13 Jun.",
+        "sentence2": "Mereka juga mengeluarkan lagu kedua dalam album , `` Vices '' , pada 13 Jun sebagai single ke-5 daripada album itu .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lembaga Air Sydney telah mengambil alih bekalan air untuk Sydney daripada Majlis Bandaraya pada tahun 1888 .",
+        "sentence2": "Pada tahun 1888, Lembaga Air Sydney mengambil alih bekalan air untuk Sydney daripada majlis bandar.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cai Feng juga mempunyai seorang anak lelaki, Cai Mao.",
+        "sentence2": "Cai Mao juga mempunyai seorang anak lelaki, Cai Feng.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Daunnya berbentuk berselang-seli di sepanjang dahan dan mempunyai susunan tombak, berbentuk telur atau hampir membulat dan mempunyai tangkai yang panjang.",
+        "sentence2": "Daunnya tersusun berselang seli di sepanjang dahan dan berbentuk tombak, berbentuk telur atau hampir membulat serta mempunyai batang yang panjang.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ini meluaskan kawasan konflik antara Massachusetts dan wilayah Rhode Island.",
+        "sentence2": "Ini meluaskan kawasan konflik antara Rhode Island dan wilayah Massachusetts.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School ialah sekolah tatabahasa terpilih perempuan di Berkshire , kini Slough , Buckinghamshire .",
+        "sentence2": "Slough High School ialah sekolah tatabahasa perempuan terpilih di Slough, Buckinghamshire, kini Berkshire.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ia berhampiran dengan Lough Corrib , di jalan N59 ke Oughterard dan Clifden , di Connemara .",
+        "sentence2": "Ia terletak berhampiran Oughterard dan Clifden, di jalan N59 ke Lough Corrib, di Connemara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Walaupun pengecualian pemain kulit hitam bukanlah satu peraturan bertulis, tiada orang Afrika-Amerika telah bermain dalam Liga Bola Sepak Kebangsaan sejak 1933.",
+        "sentence2": "Walaupun pengecualian pemain Afrika bukanlah peraturan bertulis, tiada pemain kulit hitam Amerika dalam Liga Bola Sepak Kebangsaan telah bermain sejak 1933.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Muawiyah berkuasa selepas kematian Ali dan menubuhkan sebuah dinasti .",
+        "sentence2": "Selepas kematian Muawiyah , Ali berkuasa dan mengasaskan sebuah dinasti .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada tahun 1994 , Rodrigo Leão meninggalkan band untuk memulakan kerjaya solo , digantikan oleh Carlos Maria Trindade ( pensintesis papan kekunci ) .",
+        "sentence2": "Pada tahun 1994 , Rodrigo Leão meninggalkan band untuk memulakan kerjaya solo , digantikan oleh Carlos Maria Trindade ( pensintesis papan kekunci ) .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada tahun 1933 Cattell menulis bahawa , daripada semua kaum Nordic , `` bangsa Eropah adalah yang paling berkembang dalam kecerdasan dan kestabilan perangai '' .",
+        "sentence2": "Pada tahun 1933 , Cattell menulis bahawa daripada semua kaum Nordic , `` kaum Eropah dalam kecerdasan dan kestabilan perangai paling maju '' .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Abies lasiocarpa , biasanya dipanggil cemara barat Amerika Utara atau cemara Rocky Mountain , ialah pokok cemara subalpine.",
+        "sentence2": "Abies lasiocarpa , biasanya dikenali sebagai cemara barat Amerika Utara atau cemara Rocky Mountain , ialah pokok cemara subalpine .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "American Motors hanya memberikan sokongan teknikal dalam bentuk bantuan terhad.",
+        "sentence2": "American Motors hanya memberikan sokongan teknikal dalam bentuk bantuan terhad.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bangunan Utama Houston ( HMB ) sebelum ini Bangunan Prudential adalah bangunan pencakar langit di Pusat Perubatan Texas di Houston , Texas .",
+        "sentence2": "Bangunan Utama Houston ( HMB ) dahulunya Bangunan Prudential , adalah sebuah bangunan pencakar langit di Pusat Perubatan Texas , Houston , Texas .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Selepas kembali ke Paramaribo pada tahun 1954, beliau menetap sebagai peguam di Suriname.",
+        "sentence2": "Selepas kembali ke Suriname pada tahun 1954, beliau menetap di Paramaribo sebagai peguam.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Nahas pesawat Aerosucre Penerbangan 4544 merupakan insiden penerbangan pertama yang melibatkan Aerosucre , yang kedua ialah nahas sebuah lagi Boeing 727 pada 18 November 2006 .",
+        "sentence2": "Nahas pesawat Aerosucre Penerbangan 4544 merupakan insiden penerbangan kedua yang melibatkan Aerosucre , yang pertama ialah nahas sebuah lagi Boeing 727 pada 18 November 2006 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "The Cabot Trail - Episode telah difilemkan di lokasi di Cape Breton , termasuk Peggys Cove dan tanah tinggi Nova Scotia , di sepanjang pantai timur .",
+        "sentence2": "Episod Pantai Timur telah difilemkan di lokasi di Nova Scotia , termasuk Peggys Cove dan tanah tinggi Cape Breton , di sepanjang Cabot Trail .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cara lain untuk mengawal populasi rusa ialah dengan mengawal kadar kelahiran .",
+        "sentence2": "Satu lagi cara untuk mengawal populasi rusa adalah dengan mengawal kadar kelahiran.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Puisi itu dipelihara dalam empat manuskrip serpihan , salah satunya adalah kontemporari .",
+        "sentence2": "Puisi itu disimpan dalam empat manuskrip kontemporari , salah satunya adalah serpihan :",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Manu Chao , kumpulan `` Air '' , Cassius , Mars IV , Les Négresses Vertes , dan FFF , dan Howie B turut mengambil bahagian dalam album itu .",
+        "sentence2": "Kumpulan '' Air `` , Howie B , Mars IV , Les Négresses Vertes dan FFF serta Manu Chao turut mengambil bahagian dalam album tersebut .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sungai Hudeasa ialah anak sungai dari Sungai Bradu di Romania .",
+        "sentence2": "Sungai Hudeasa ialah anak sungai bagi Sungai Bradu di Romania .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Walaupun pengecualian pemain Afrika bukanlah peraturan bertulis, tiada pemain kulit hitam Amerika dalam Liga Bola Sepak Kebangsaan telah bermain sejak 1933.",
+        "sentence2": "Walaupun pengecualian pemain kulit hitam bukanlah satu peraturan bertulis, sejak 1933 tiada orang Afro-Amerika telah bermain dalam Liga Bola Sepak Kebangsaan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bapanya Patrick Byrne ialah seorang Ahli Parlimen , TD , Senator dan Datuk Bandar Dublin . Seorang lagi saudara Alfie Byrne juga seorang TD.",
+        "sentence2": "Bapanya , Patrick Byrne , adalah seorang perwakilan , senator dan tuan datuk bandar Dublin , seorang lagi saudara lelaki Alfie Byrne juga TD .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Siri pertama diterima lebih baik oleh pengkritik berbanding siri kedua .",
+        "sentence2": "Siri kedua diterima baik oleh pengkritik lebih baik daripada yang pertama.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Fanwood terletak di Daerah Kongres ke-12 dan merupakan sebahagian daripada Daerah Perundangan ke-22 New Jersey.",
+        "sentence2": "Fanwood terletak di Daerah Kongres ke-22 dan merupakan sebahagian daripada daerah perundangan negeri ke-12 New Jersey.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Santa Cruz terletak di tebing Sungai Santa Cruz yang mengalir ke bahagian timur Laguna de Bay .",
+        "sentence2": "Laguna de Bay terletak di tebing sungai Santa Cruz , yang mengalir ke bahagian timur Santa Cruz .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Porte de Vincennes terletak di mana sudut tenggara arondisemen ke-20 bertemu dengan sudut timur laut arondisemen ke-12 Paris.",
+        "sentence2": "Porte de Vincennes terletak di mana sudut timur laut arondisemen ke-12 bertemu dengan sudut tenggara arondisemen ke-20 Paris .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada 5 Mac 2011 , MTV Hive menyiarkan pautan penstriman kepada Anni Rossi , mempersembahkan Rihannas '' Rude Boy `` .",
+        "sentence2": "Pada 5 Mac 2011 , MTV Hive menyiarkan pautan penstriman kepada Rihanna , membuat persembahan Anni Rossi `` Rude Boy ''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Raja Qi bertemu dengan Raja Zhao dari Qin di Zhou barat pada 284 SM untuk membentuk pakatan menentang Xi.",
+        "sentence2": "Pada 284 SM , Raja Qi bertemu dengan Raja Zhao dari Qin di Zhou Barat untuk membentuk pakatan menentang Xi .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wilayah Pentadbiran Chenzhou dalam Dinasti Tang berada di bawah pentadbiran Henan moden di timur Zhoukou :",
+        "sentence2": "Wilayah pentadbiran Chenzhou dalam dinasti Tang berada di bawah pentadbiran Henan moden di Zhoukou timur:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` Murni '' sangat bermakna ringkas, dan `` Belter '' atau `` Belta '' bermaksud hebat atau baik.",
+        "sentence2": "`` Murni '' bermaksud sangat dan `` Belter '' atau `` Belta '' bermaksud baik atau besar .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stephen Stephen telah berkahwin pada 29 Ogos 1806 oleh Benjamin Hough , Justice of Peace , di Jefferson County , Elizabeth Core .",
+        "sentence2": "`` 2 '' Benjamin Hough telah berkahwin pada 29 Ogos 1806 oleh Stephen Ford , Justice of Peace , di Jefferson County dengan Elizabeth Core .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Spesies ini pertama kali diterangkan secara rasmi oleh ahli botani Stephan Endlicher pada tahun 1846 sebagai sebahagian daripada karya Johann Georg Christian Lehmann `` Irideae. Plantae Preissianae '' .",
+        "sentence2": "Spesies ini pertama kali diterangkan secara rasmi pada tahun 1846 oleh ahli botani Stephan Endlicher sebagai sebahagian daripada karya `` Irideae Plantae Preissianae '' oleh Johann Georg Christian Lehmann.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada tahun 1912 , Kongres Kebangsaan India mengadakan sesi ke 27 di Bankipore di bawah presiden Rao Bahadur Raghunath Narasinha Mudholkar dari Amravati , Wilayah Tengah dan Berar .",
+        "sentence2": "Pada tahun 1912, Kongres Kebangsaan India mengadakan sesi ke-27 di Bankipore, di bawah Presidensi Rao Bahadur Raghunath Narasinha Mudholkar dari Wilayah Tengah Amravati dan Berar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Serat haiwan yang paling biasa digunakan ialah bulu yang dituai daripada biri-biri. Untuk mengait tangan dan mengait hobi, benang tebal, bulu dan akrilik sering dipintal.",
+        "sentence2": "Serat haiwan yang paling kerap dipintal ialah bulu yang dituai daripada biri-biri. Untuk mengait tangan dan mengait hobi, benang bulu tebal dan akrilik sering digunakan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tipico Co. Ltd dan Tipico Casino Ltd telah diasaskan pada tahun 2004 sebagai syarikat perdagangan antarabangsa dalam daftar komersial Pihak Berkuasa Perkhidmatan Kewangan Malta.",
+        "sentence2": "Tipico Co. Ltd dan Tipico Casino Ltd telah ditubuhkan pada tahun 2004 sebagai syarikat perdagangan antarabangsa dalam Daftar Komersial Pihak Berkuasa Perkhidmatan Kewangan Malta.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ia terletak berhampiran dengan Lough Corrib, di jalan N59 ke Oughterard dan Clifden, di Connemara.",
+        "sentence2": "Ia terletak berhampiran Oughterard dan Clifden , di jalan N59 ke Lough Corrib , di Connemara .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada 14 September 2006 , Lang telah ditandatangani oleh Washington Wizards dan dikeluarkan oleh Wizards pada Julai 2017 .",
+        "sentence2": "Pada 14 September 2006 , Lang telah ditandatangani oleh Washington Wizards . Pada Julai 2017 , Lang telah dikeluarkan oleh Wizards .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Single ini dikeluarkan di Radio Airplay di Itali pada 12 Oktober 2012, dan telah dihantar ke seluruh dunia pada 3 Disember 2012.",
+        "sentence2": "Single ini telah dihantar ke siaran radio pada 12 Oktober 2012 di Itali dan dikeluarkan di seluruh dunia pada 3 Disember 2012.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Selepas perkhidmatannya Lockhart tinggal di Texas tetapi baru-baru ini berpindah ke Florida.",
+        "sentence2": "Selepas perkhidmatannya, Lockhart tinggal di Florida, tetapi baru-baru ini berpindah ke Texas.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ia ditemui di Amerika Utara, di mana ia direkodkan dari Newfoundland dan Labrador barat ke British Columbia, utara ke Alaska dan Yukon.",
+        "sentence2": "Ia ditemui di Amerika Utara , di mana ia telah direkodkan dari Newfoundland dan Labrador barat ke British Columbia , utara ke Alaska dan Yukon .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Daerah Randallstown barat ini termasuk Woodlawn , Milford Mill dan Baltimore County .",
+        "sentence2": "Daerah randallstown barat ini terdiri daripada Woodlawn , Milford Mill dan Baltimore County .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dia dilatih oleh John Velazquez dan ditunggangi oleh Jockey Dale Romans dalam perlumbaan terpentingnya.",
+        "sentence2": "Dia dilatih oleh Dale Romans dan ditunggangi oleh Jockey John Velazquez semasa perlumbaan terpentingnya.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Semasa berada di Savannah, Charles Celestine mendapat tahu daripada akhbar bahawa anaknya, Sherman, telah meninggal dunia semasa kempen Savannah, jeneral itu tidak pernah melihat kanak-kanak itu.",
+        "sentence2": "Semasa di Savannah, Charles Celestine mendapat tahu daripada akhbar bahawa anak lelakinya Sherman telah meninggal dunia semasa Kempen Savannah; jeneral tidak pernah melihat kanak-kanak itu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Muka depan telah direka oleh artis heraldik John Pasche dan single `` Steel Monkey '' telah mereka bentuk muka depan Pengarah Seni Andrew Stewart Jamieson .",
+        "sentence2": "Muka depan telah direka oleh artis heraldik Andrew Stewart Jamieson, single `` Steel Monkey '' telah mereka bentuk muka depan Pengarah Seni John Pasche.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kaedah MacCormack ialah skema pendiskretan yang digunakan secara meluas untuk penyelesaian berangka bagi persamaan pembezaan hiperbola separa.",
+        "sentence2": "Dalam dinamik bendalir pengiraan, kaedah MacCormack ialah skema pendiskretan yang digunakan secara meluas untuk penyelesaian pembezaan separa hiperbola bagi persamaan berangka.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Wright berpindah dari Chapel Hill, NC ke New York.",
+        "sentence2": "Wright berpindah ke New York dari Chapel Hill, NC.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Konsonan - Ejektif ialah sejenis bunyi velar yang digunakan dalam beberapa bahasa pertuturan Simbol dalam Abjad Fonetik Antarabangsa , yang mewakili bunyi ini .",
+        "sentence2": "Velar - Ejective ialah sejenis bunyi konsonan yang digunakan dalam beberapa bahasa pertuturan Simbol dalam Abjad Fonetik Antarabangsa , iaitu bunyi ini .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Aktiviti Eropah menjadi sebahagian daripada Ebel, manakala aktiviti Asia dijual kepada usahawan Hong Kong Joseph Wong dan kini milik Stelux Holdings.",
+        "sentence2": "Aktiviti Eropah menjadi sebahagian daripada Ebel manakala aktiviti Asia dijual kepada usahawan Hong Kong Joseph Wong dan kini menjadi sebahagian daripada Stelux Holdings.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ahli lembaga penasihat awal termasuk Alistair Cooke , Saul Bellow , Walter Cronkite , Norman Cousins , Gore Vidal , Norman Podhoretz .",
+        "sentence2": "Ahli penasihat awal termasuk Walter Cronkite , Norman Vetter , Gore Vidal , Norman Podhoretz , Saul Bellow dan Alistair Cooke .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Taman Negara Petkeljärvi ialah sebuah taman negara di Ilomantsi di wilayah Karelia Utara Finland .",
+        "sentence2": "Taman Negara Petkeljärvi ialah sebuah taman negara di Finland di wilayah Ilomantsi di Karelia Utara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mereka juga menerbitkan lagu ke 5 dalam album itu , `` Vices '' , sebagai single kedua daripada album itu pada 13 Jun.",
+        "sentence2": "Mereka juga mengeluarkan lagu ke 5 dalam album , `` Vices , '' pada 13 Jun sebagai single kedua daripada album itu .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Stoke menewaskan Sheffield Wednesday dan Huddersfield Town sebelum tewas kepada Peterborough United pada pusingan keempat.",
+        "sentence2": "Stoke menewaskan Peterborough United dan Huddersfield Town sebelum tewas pada pusingan keempat menentang Sheffield Wednesday.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ditanya bagaimana hendak menyebut namanya , dia memberitahu `` The Literary Digest '' Nama saya disebut seperti `` telinga '; en-house '' dieja .",
+        "sentence2": "Ditanya bagaimana hendak menyebut namanya , dia memberitahu `` The Literary Digest '' Nama saya dieja seperti disebut , telinga 'apos; enhouse `` .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Penanaman ini diperkenalkan pada tahun 1880 oleh Fernando Heydrich di Matanzas di Cuba.",
+        "sentence2": "Di Matanzas penanamannya telah diperkenalkan pada tahun 1880, oleh Fernando Heydrich di Cuba.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Jika terdapat beberapa kategori tatabahasa dalam ayat , hanya yang pertama memakai penanda jamak .",
+        "sentence2": "Jika terdapat beberapa kategori tatabahasa dalam ayat , hanya jamak yang memakai penanda pertama .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rejim itu meninggalkan Philadelphia pada Oktober 1777 untuk menyertai tentera utama Jeneral George Washington di luar Boston.",
+        "sentence2": "Rejimen itu meninggalkan Philadelphia pada Oktober 1777 untuk menyertai Tentera Utama Jeneral George Washington di luar Boston.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada tahun 1974 Lao PDR menubuhkan dana Tahap II dengan bantuan Bank Dunia, Pertubuhan Bangsa-Bangsa Bersatu, dan Bank Pembangunan Asia.",
+        "sentence2": "Dengan sokongan Bank Dunia , Pertubuhan Bangsa - Bangsa Bersatu , dan Bank Pembangunan Asia , Lao PDR mengasaskan dana Peringkat II pada tahun 1974 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dia kemudian menggunakannya sebagai simbol untuk parti Nazi dan meletakkannya pada bulatan putih dan latar belakang merah untuk menggunakannya sebagai bendera.",
+        "sentence2": "Dia kemudian menggunakannya sebagai simbol untuk parti Nazi dan meletakkannya pada bulatan merah dan latar belakang putih untuk menggunakannya sebagai bendera.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Untuk membangunkan peta untuk Hoth , pereka bentuk telah menerima sebanyak mungkin bahan sumber daripada `` The Empire Strikes Back '' untuk mencipta pengeluaran semula yang tulen.",
+        "sentence2": "Untuk mencipta peta untuk Hoth , pereka bentuk memperoleh sebanyak mungkin bahan sumber daripada `` The Empire Strikes Back '' yang mungkin untuk membangunkan pembiakan yang tulen .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dia berkahwin dengan Elizabeth `` Betsy '' Katz . Dia ialah bapa kepada Adam , Nathaniel dan Sara Hundt .",
+        "sentence2": "Dia berkahwin dengan Elizabeth `` Betsy '' Katz , bapa kepada Adam , Nathaniel dan Sara Hundt .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sebuah rumah dipenuhi dengan tenaga marah dan membentuk semangat nekromantik dalam .",
+        "sentence2": "Sebuah rumah dipenuhi dengan tenaga nekromantik dan membentuk semangat marah dalam diri.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Semasa Oros bekerja di bawah Walker pada reka bentuk kereta dan trak Ford, Engel menumpukan perhatian pada kenderaan Lincoln dan Mercury.",
+        "sentence2": "Semasa Oros mengusahakan reka bentuk kereta dan trak Ford di bawah Walker, Engel memfokuskan pada kenderaan Lincoln dan Mercury.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Hirasea goniobasis ialah spesies siput darat yang bernafas udara paru-paru darat, moluska gastropod kecil dalam keluarga Endodontidae.",
+        "sentence2": "Hirasea goniobasis ialah spesies siput kecil yang boleh bernafas udara, moluska gastropod pulmonat darat dalam keluarga Endodontidae.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lesi pramalignan nampaknya adalah tisu tipikal yang kelihatan tidak normal di bawah pemeriksaan mikroskopik, dan di mana kanser lebih berkemungkinan berlaku berbanding dengan morfologi normalnya.",
+        "sentence2": "Lesi pramalignan nampaknya adalah tisu tipikal, yang kelihatan tidak normal dalam pemeriksaan mikroskopik dan di mana kanser lebih berkemungkinan daripada rakan sejawatannya secara morfologi normal.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Abu Halifa atau Abu Hulayfah atau Abu Huleifa atau Abu Haleifah ialah sebuah bandar kecil di Kuwait gabenor Al Ahmadi di selatan Daerah Abu Halifa .",
+        "sentence2": "Abu Halifa atau Abu Hulayfah atau Abu Huleifa atau Abu Haleifah ialah sebuah pekan kecil di Kuwait di Gabenor Al Ahmadi di selatan Daerah Abu Halifa .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Israel ialah album oleh pemain trombon jazz Amerika Kai Winding dan JJ Johnson yang menampilkan persembahan yang dikeluarkan pada tahun 1968 dan dirakam di C",
+        "sentence2": "Israel ialah album oleh pemain trombon jazz Amerika Kai Winding dan JJ Johnson dengan persembahan yang diterbitkan pada tahun 1968 dan dirakam pada C .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada tahun 2014 , Adam menulis semakan Trilogi Gothic bagi cerita klasik Frankenstein , The Corruption of Dorian Grey dan Jekyll Hyde Corpus Delicti",
+        "sentence2": "Pada tahun 2014 Adam menulis Trilogi Gothic olahan semula cerita klasik Frankenstein , The Corruption Of Dorian Grey dan Jekyll & Hyde Corpus Delicti",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Puan Glad telah bekerja di Ovamboland pada tahun 1901 -- 1919 dan 1926 -- pada tahun 1936 dan berada di sana sebagai pemeriksa pertama sekolah .",
+        "sentence2": "Puan Glad telah bekerja di Ovamboland pada tahun 1901 -- 1919 dan 1926 -- 1936, dan telah bertindak di sana sebagai pemeriksa pertama sekolah.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beliau menyifatkan ini sebagai penemuan baharu penulisan fiksyen dan menganggapnya sebagai mitos-realisme kesusasteraan Cina.",
+        "sentence2": "Dia menganggap ini sebagai `` penemuan baru '' penulisan fiksyen , dan menamakannya sebagai `` Mytho-realism '' ) kesusasteraan Cina.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada tahun 1953 , pasukan itu juga mengadakan jelajah di Australia dan di Asia pada Ogos 1959 .",
+        "sentence2": "Pasukan ini juga membuat jelajah di Australia pada 1953 dan Asia pada Ogos 1959 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ronnie Fields tidak bermain satu perlawanan pun di NBA atau di NCAA.",
+        "sentence2": "Ronnie Fields tidak bermain satu perlawanan pun di NCAA atau di NBA.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Taman permainan baru ini dilengkapi dengan peralatan kecergasan moden untuk kanak-kanak.",
+        "sentence2": "Taman permainan ini moden dengan peralatan kecergasan baru untuk kanak-kanak.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Probuccinum tenerum ialah sejenis siput laut , moluska gastropod sejati dalam keluarga Buccinidae , marin whelks .",
+        "sentence2": "Probuccinum tenerum ialah spesies siput laut , moluska gastropod marin dalam keluarga Buccinidae , anak ikan sejati .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abraham Hart ialah Presiden dan Mayer Sulzberger Setiausaha Pemegang Amanah.",
+        "sentence2": "Presiden ialah Mayer Sulzberger, dan Abraham Hart ialah Setiausaha Pemegang Amanah.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Juhi Chawla mempunyai dua anak dengan isteri Jahnavi Mehta , seorang perempuan , Mehta ( lahir 2001 ) dan seorang lelaki , Arjun Mehta ( lahir 2003 ) .",
+        "sentence2": "Mehta mempunyai dua anak dengan isteri Juhi Chawla , seorang perempuan , Jahnavi Mehta ( lahir pada 2001 ) dan seorang lelaki , Arjun Mehta ( lahir 2003 ) .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tahap perbezaan antara kecenderungan Protestan dan Katolik dalam tradisi Anglikan yang khusus secara rutin menjadi masalah perdebatan di dalam gereja Anglikan dan di seluruh Komuni Anglikan.",
+        "sentence2": "Tahap perbezaan antara kecenderungan Protestan dan Katolik dalam tradisi Anglikan secara rutin menjadi perdebatan dalam kedua-dua gereja Anglikan khusus dan di seluruh komuniti Anglikan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School ialah sekolah terpilih untuk perempuan di Slough , Buckinghamshire , kini Berkshire .",
+        "sentence2": "Slough High School ialah sekolah tatabahasa terpilih perempuan di Slough , Buckinghamshire , kini Berkshire .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus ialah kilang bir serantau dengan pengaruh gaya Jerman .",
+        "sentence2": "Lobethal Bierhaus ialah kilang bir serantau, dengan pengaruh gaya Jerman.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Long dilahirkan di Israel, berhijrah semasa muda ke Australia dan menetap di sana pada tahun 1961.",
+        "sentence2": "Lang dilahirkan di Australia , berhijrah ke Israel semasa muda dan menetap di sana pada tahun 1961 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Beliau bersara di Milwaukee , Wisconsin , di mana beliau meninggal dunia pada 5 Mei 1903 .",
+        "sentence2": "Beliau meninggal dunia di Wisconsin , Milwaukee , di mana beliau bersara pada 5 Mei 1903 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Warna penutup berbeza dari coklat ke coklat, selalunya dengan bintik kuning pada penutup pada waktu matang.",
+        "sentence2": "Warna penutup berbeza dari coklat ke kuning, selalunya dengan bintik coklat pada penutup apabila matang.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sungai Valea lui Lambă atau `` unk '' sungai imon ialah anak sungai Sungai Lom di Romania .",
+        "sentence2": "Sungai Valea lui Lambă atau Sungai Șimon ialah anak sungai Sungai Lom di Romania.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pagar yang telah siap terletak terutamanya di Texas, dengan pembinaan di New Mexico, Arizona dan California.",
+        "sentence2": "Pagar yang siap dibina terutamanya di Texas, dengan pembinaan sedang dijalankan di New Mexico, Arizona dan California.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Buccinum pulchellum ialah spesies siput laut , moluska gastropod marin dalam keluarga Buccinidae , skrol tanduk whell-horn yang sebenar.",
+        "sentence2": "Buccinum pulchellum ialah spesies siput laut , moluska gastropod sebenar dalam keluarga Buccinidae , anak ikan laut .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada 30 April 1983 , sebuah C - 311 yang ditugaskan ke NAS Guantanamo Bay , Cuba , terhempas di NAS Jacksonville dengan kehilangan 13 nyawa manusia .",
+        "sentence2": "Pada 30 April 1983 , sebuah C-311 yang ditugaskan ke NAS Jacksonville , Cuba , di NAS Guantanamo Bay terhempas dengan kehilangan 13 nyawa .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sebagai ganjaran atas kesetiaannya kepada Henry, dia memperoleh tanah yang menguntungkan dan banyak pejabat di selatan Wales.",
+        "sentence2": "Sebagai ganjaran atas kesetiaannya kepada Henry, dia memperoleh banyak tanah dan pejabat yang menguntungkan di South Wales.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada tahun 2010, Universiti New York mengalahkan Universiti Harvard 3-1-1 untuk memenangi Kejohanan Kebangsaan yang pertama.",
+        "sentence2": "Pada tahun 2010, Universiti New York mengalahkan Universiti Harvard 3-1-1 untuk memenangi Kejohanan Kebangsaan yang pertama.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sungai Neajlovel ialah anak sungai Sungai Neajlov di Romania .",
+        "sentence2": "Sungai Neajlov ialah anak sungai kepada Sungai Neajlovel di Romania .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Agensi itu mempunyai ibu pejabat di Arlington, Virginia, dan pejabatnya di luar negara di Paris, Perancis.",
+        "sentence2": "Agensi ini mempunyai ibu pejabat di Arlington, Virginia, dan Pejabat Operasi Luar Negara di Paris, Perancis.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sungai Neajlov ialah anak sungai kepada Sungai Neajlovel di Romania.",
+        "sentence2": "Sungai Neajlovel ialah anak sungai Sungai Neajlov di Romania .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ahmad Yar Khan dilahirkan dalam keluarga Tiwana Shahpur , anak kepada Sahib Khan .",
+        "sentence2": "Sahib Khan dilahirkan dalam keluarga Tiwana Shahpur , anak kepada Ahmad Yar Khan .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dilahirkan di Brooklyn, New York, beliau meninggal dunia di Tiburon, California.",
+        "sentence2": "Ia dilahirkan di Tiburon , California , dan meninggal dunia di Brooklyn , New York .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cadangan daripada Met untuk melanjutkan dari Paddington ke Kensington Selatan dan selatan dari Moorgate ke Tower Hill ke selatan telah diterima dan mendapat persetujuan diraja pada 29 Julai 1864.",
+        "sentence2": "Cadangan daripada Met untuk melanjutkan dari Paddington ke Kensington Selatan dan timur dari Moorgate ke Tower Hill ke selatan telah diterima dan mendapat persetujuan diraja pada 29 Julai 1864.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Puisi itu disimpan dalam empat manuskrip serpihan, yang mana manuskrip kontemporari.",
+        "sentence2": "Puisi itu dipelihara dalam empat manuskrip kontemporari, salah satunya adalah berpecah:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Majlis bandar Webster Grove terdiri daripada ahli majlis Greg Mueller , Ken Burns , Kathy Hart , Debi Salberg , Toni Hunt dan Anne Tolan .",
+        "sentence2": "Majlis Bandaraya Webster Groves terdiri daripada ahli majlis Greg Mueller , Ken Burns , Kathy Hart , Debi Salberg , Toni Hunt , dan Anne Tolan .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Oleh itu , kejatuhan takat lebur dan takat didih logam alkali menunjukkan bahawa kekuatan ikatan logam logam alkali menurun ke bawah kumpulan .",
+        "sentence2": "Oleh itu , kejatuhan takat lebur dan takat didih logam alkali menunjukkan bahawa kekuatan ikatan logam logam alkali dalam kumpulan berkurangan .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Penulis menulis tarikh manuskrip itu pada abad ke-13, CR Gregory pada abad ke-12, pada masa ini manuskrip itu bertarikh abad ke-12 oleh INTF.",
+        "sentence2": "Scrivener mencatat tarikh manuskrip itu pada abad ke-12, CR Gregory pada abad ke-13. Pada masa ini manuskrip itu bertarikh oleh INTF hingga abad ke-12.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "County Road 540 terletak beberapa batu di barat State Road 540 di Highland City dan berjalan ke selatan dari US 98 ke County Road 37B.",
+        "sentence2": "County Road 540 terletak beberapa batu di selatan State Road 540 di Highland City dan berjalan ke barat dari US 98 ke County Road 37B.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "SPB mempunyai saiz ketinggian yang tetap (jarak dari plak dalam ke plak luar) selama kira-kira 150 nm, tetapi diameternya berubah semasa kitaran sel, z.",
+        "sentence2": "SPB mempunyai saiz ketinggian dalam (plak luar ke jarak plak tetap) kira-kira 150 nm, tetapi diameternya berubah semasa kitaran sel, cth.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rami Nieminen ( lahir 25 Februari 1966 ) ialah bekas pemain bola sepak Finland .",
+        "sentence2": "Rami Nieminen ( lahir 25 Februari 1966 ) ialah seorang pemain bola sepak Finland .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dia adalah sepupu kepada pemain kebangsaan Czech Miroslav Hlinka dan anak kepada bekas pemain Jaroslav Hlinka sr.",
+        "sentence2": "Dia adalah sepupu kepada pemain pasukan kebangsaan Czech Miroslav Hlinka dan anak kepada bekas pemain Jaroslav Hlinka sr.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mereka berada di sana untuk mendoakan kami dan mereka berada di sana untuk menikmati kami.",
+        "sentence2": "Mereka berada di sana untuk kami berdoa dan mereka berada di sana untuk kami nikmati.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "William Llewelyn Williams , lebih dikenali sebagai Llewelyn Williams ( 10 Mac 1867 - 22 April 1922 ) ialah seorang wartawan radikal , peguam dan ahli politik parti liberal Wales .",
+        "sentence2": "William Williams , dikenali sebagai Llewelyn Williams ( 10 Mac 1867 -- 22 April 1922 ) , ialah seorang wartawan Wales , peguam dan ahli politik parti Liberal radikal .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pesawat Giant ialah pokok ketiga terbesar dan tertua di Poland dan kapal terbang London paling tebal di negara itu.",
+        "sentence2": "Pesawat Giant ialah pokok ketiga terbesar dan tertua di Poland, dan kapal terbang London paling tebal di negara ini.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sungai Molmys ialah sebuah sungai di Perm Krai , Rusia , anak sungai Sungai Yazva di sebelah kiri .",
+        "sentence2": "Yazva ialah sebuah sungai di Perm Krai , Rusia , anak sungai kiri Sungai Molmys .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sarika meminta Kabir menamatkan rancangannya untuk mendedahkan permainan Ranvir kepadanya.",
+        "sentence2": "Kabir meminta Sarika mendedahkan rancangannya untuk menamatkan permainan Ranvir.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sehingga kemunculan teknologi video elektronik dan digital, pengeluaran besar-besaran filem lucah dikaitkan terus dengan industri filem arus perdana.",
+        "sentence2": "Pengeluaran besar-besaran filem elektronik dan digital dikaitkan terus dengan industri perfileman yang mapan sehinggalah kemunculan teknologi video lucah.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Walaupun Kumpulan Pejuang 33d tidak aktif, ia telah disatukan dengan Kumpulan Taktikal 33d sebagai Kumpulan Pejuang Taktikal 33d.",
+        "sentence2": "Walaupun Kumpulan Taktikal 33d tidak aktif, ia telah disatukan sebagai Kumpulan Pejuang Taktikal 33d dengan Kumpulan Pejuang 33d.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ia berfungsi ke kawasan pinggir bandar Edithvale tenggara Melbourne yang dibuka pada 20 September 1919 .",
+        "sentence2": "Ia menyediakan kawasan pinggir bandar Edithvale di tenggara Melbourne yang dibuka pada 20 September 1919 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Massé dilahirkan di Westchester County, New York, dibesarkan di Holland, Michigan, dan tinggal di Eropah semasa remajanya.",
+        "sentence2": "Massé dilahirkan di Westchester County, New York, dibesarkan di Holland, Michigan, dan tinggal di Eropah semasa usia remajanya.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Fishman memiliki ijazah sarjana muda dari Universiti Columbia dan ijazah sarjana dalam bidang ekonomi dari Universiti Brown.",
+        "sentence2": "Fishman memiliki ijazah Sarjana Muda dari Universiti Brown dan ijazah Sarjana dalam Ekonomi Universiti Columbia.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Berikutan kejayaannya , Jane Campion mengupah Jones untuk siri mini televisyen yang bertukar menjadi filem Angel at my Table , adaptasi daripada autobiografi Janet Frame .",
+        "sentence2": "Berikutan kejayaannya , Jane Campion Jones adalah adaptasi daripada autobiografi Janet Frame untuk minisiri televisyen yang bertukar menjadi filem Angel at my Table .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Stipsits dilahirkan di Vienna, dan menghabiskan masa kecilnya di Stammersdorf, Korneuburg.",
+        "sentence2": "Stipsits dilahirkan di Vienna dan menghabiskan masa kecilnya di Stammersdorf, Korneuburg.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Navarro ialah sebuah parti di timur laut Wilayah Buenos Aires di Argentina.",
+        "sentence2": "Navarro ialah sebuah parti di timur laut Argentina di wilayah Buenos Aires .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hulu ialah Jambatan Kereta Api Michigan Central yang telah ditamatkan operasinya, yang dengan pendahulunya, Jambatan Cantilever Niagara, bersaing dengan pusaran air Jambatan Rapids untuk pengangkutan kereta api.",
+        "sentence2": "Hulu ialah Jambatan Kereta Api Michigan Central yang telah ditamatkan operasinya, yang bersaing dengan pendahulunya, pusaran air Jambatan Rapids, dengan Jambatan Cantilever Niagara untuk lalu lintas kereta api.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lagu itu ditulis dan dihasilkan oleh gala , yang digubah oleh Filippo Andrea Carmeni dan Maurizio Molella .",
+        "sentence2": "Lagu ini ditulis dan digubah oleh Gala yang diterbitkan oleh Filippo Andrea Carmeni dan Maurizio Molella .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Retzius dilahirkan di Stockholm , anak kepada ahli anatomi Anders Jahan Retzius ( dan cucu kepada ahli naturalis dan ahli kimia Anders Retzius ) .",
+        "sentence2": "Retzius dilahirkan di Stockholm , anak kepada ahli anatomi Anders Retzius ( dan cucu kepada ahli naturalis dan ahli kimia Anders Jahan Retzius ) .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada bancian 2011 , 78.8 % penduduk adalah Romania , 17 % Roma , 2.7 % Hungary dan 1.4 % Jerman .",
+        "sentence2": "Dalam banci 2011 , 78.8 % daripada penduduk adalah Roma , 17 % Hungary , 2.7 % Romania dan 1.4 % Jerman .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Muzium ini terletak di pusat bandar Jiangbeizui CBD , berhampiran pertemuan Sungai Jialing dan Sungai Yangtze .",
+        "sentence2": "Muzium ini terletak di pusat bandar Jiangbeizui CBD , berhampiran pertemuan Sungai Jialing dan sungai Yangtze .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Robbins dilahirkan di Coventry pada 21 September 1933, bersama kembarnya David, anak kelapan dan kesembilan daripada dua belas oleh Charles dan Jessamine Robbins.",
+        "sentence2": "David dilahirkan pada 21 September 1933 di Coventry bersama bapa kembarnya Charles dan Jessamine Robbins, anak kelapan dan kesembilan daripada dua belas daripada Robbins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Batalion ini diselenggara oleh Queen's York Rangers ( 1st American Regiment ) ( RCAC ) .",
+        "sentence2": "Batalion ini diabadikan oleh The Queen's York Rangers ( RCAC ) ( Rejimen Pertama Amerika ) .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Katz dilahirkan pada tahun 1947 di Sweden dan berpindah ke New York pada usia satu tahun.",
+        "sentence2": "Katz dilahirkan di New York City pada tahun 1947 dan berpindah ke Sweden pada usia 1 tahun.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Imej pada halaman ialah imej dua dimensi berbanding 3D pra-diberikan.",
+        "sentence2": "Imej di sebelah ialah imej dua dimensi berbanding 3D pra-diberikan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cahaya `` Berhenti '', dalam konteks medium EIT, merujuk kepada pemindahan foton `` kuantum '' kepada sistem koheren dan kembali semula.",
+        "sentence2": "`` Berhenti '' Cahaya merujuk dalam konteks medium EIT kepada pemindahan `` kuantum '' foton kepada sistem koheren dan kembali .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Purata sebelumnya adalah lebih penting untuk nilai formula yang tinggi _ 2 .",
+        "sentence2": "Untuk nilai Formula 2 yang tinggi, purata semasa adalah lebih penting.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Antara wanita terkemuka Suriname ialah Jennifer Simons , Marijke Djwalapersad , Elisabeth Samson , Cynthia McLeod , dan Ruth Wijdenbosch .",
+        "sentence2": "Antara wanita Suriname yang paling terkenal ialah Jennifer Simons , Marijke Djwalapersad , Elisabeth Samson , Cynthia McLeod dan Ruth Wijdenbosch .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada tahun 1924 beliau menjadi jurucakap jemputan untuk ICM di Toronto, di Oslo pada tahun 1932 dan pada tahun 1936 di Zurich.",
+        "sentence2": "Pada tahun 1924 beliau menjadi jurucakap jemputan untuk ICM di Toronto, pada tahun 1932 di Zurich dan di Oslo pada tahun 1936.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "BBC World Service juga menyiarkan versi yang dipanggil `` Animal , Vegetable and Mineral '' , dipengerusikan oleh Michael Flanders dengan panel termasuk Terry Wogan .",
+        "sentence2": "BBC World Service juga mempamerkan versi yang dipanggil `` Animal , Vegetable and Mineral '' , dipengerusikan oleh Michael Flanders , dengan panel bersama Terry Wogan .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Adik lelaki Thompson , Julia , dilahirkan pada tahun 1863 di Dewan Charles Martin , Daerah Geauga , Ohio .",
+        "sentence2": "Adik Julia , Charles Martin Hall , dilahirkan di Thompson , Geauga County , Ohio , pada tahun 1863 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sungai Horezu ialah anak sungai dari Sungai Ponoru di Romania .",
+        "sentence2": "Sungai Ponoru ialah anak sungai Horezu di Romania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada tahun 2002 , lagu itu diterbitkan oleh penerbit British Vincent Stormfield dan diliputi oleh Independiente sebagai '' Sweet Harmony 02 `` .",
+        "sentence2": "Pada tahun 2002 , lagu itu diliput oleh penerbit British Vincent Stormfield dan dikeluarkan sebagai `` Sweet Harmony '02 '' oleh Independiente .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "David dilahirkan pada 21 September 1933 di Coventry bersama bapa kembarnya Charles dan Jessamine Robbins, anak kelapan dan kesembilan daripada dua belas daripada Robbins.",
+        "sentence2": "Robbins dilahirkan pada 21 September 1933 di Coventry, bersama kembarnya David, anak kelapan dan kesembilan daripada dua belas pasangan Charles dan Jessamine Robbins.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rejimen itu meninggalkan Boston pada Oktober 1777 untuk menyertai Tentera Utama Jeneral George Washington di luar Philadelphia.",
+        "sentence2": "Rejim itu meninggalkan Philadelphia pada Oktober 1777 untuk menyertai tentera utama Jeneral George Washington di luar Boston.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kompaun ini dibangunkan oleh Dr. Patrick Page dan pasukannya dan telah dipatenkan oleh Genkyotex pada tahun 2007.",
+        "sentence2": "Kompaun itu telah dipatenkan oleh Dr. Patrick Page dan pasukannya dan telah dicipta oleh Genkyotex pada tahun 2007.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Kes '' digunakan buat kali terakhir pada tahun 1949 di Jerman Timur, 1966 di Jerman Barat.",
+        "sentence2": "`` Fallbeil '' kali terakhir digunakan di Jerman Barat pada tahun 1949, pada tahun 1966 di Jerman Timur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ringo Sheena ialah ketua Kuartet Saito Neko, dan terkenal dengan banyak kerjasamanya dengan pemuzik Saito.",
+        "sentence2": "Saito ialah ketua Kuartet Saito Neko dan terkenal dengan banyak kerjasamanya dengan pemuzik Ringo Sheena .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abu Halifa atau Abu Hulayfah atau Abu Huleifa atau Abu Haleifah ialah sebuah bandar kecil di daerah Abu Halifa di gabenor Al Ahmadi di selatan Kuwait .",
+        "sentence2": "Abu Halifa atau Abu Hulayfah atau Abu Huleifa atau Abu Haleifah ialah sebuah bandar kecil di Kuwait gabenor Al Ahmadi di selatan Daerah Abu Halifa .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bapanya ialah anak tidak sah taraf Anne Tothby , Ahli Parlimen Lincolnshire , dan William Skipwith .",
+        "sentence2": "Bapanya ialah anak tidak sah taraf Anne Tothby , ahli Parlimen Lincolnshire , dan William Skipwith .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Antaranya ialah Marie Teresa Rios , seorang komposer boleros , Julita Ross , seorang pengarang , dan Sylvia Rexach , seorang penyanyi .",
+        "sentence2": "Antaranya ialah Sylvia Rexach , seorang komposer Bolero , Marie Teresa Rios , pengarang , dan Julita Ross , seorang penyanyi .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dia meninggalkan isterinya Carol Ober, anak perempuan Viola dan empat cucu.",
+        "sentence2": "Dia meninggalkan isterinya Carol Ober, anak perempuannya Viola dan empat cucu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dia akan kembali ke stesen di sebelah barat Tecumseh malam itu, dan kemudian menunggang kuda lain ke Violet Springs sebelum jirannya boleh mencurigakan.",
+        "sentence2": "Dia akan pergi ke stesen malam itu, terletak di barat Tecumseh, dan kemudian kembali ke Violet Springs dengan kuda lain sebelum jirannya boleh mencurigakan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Agensi itu mempunyai ibu pejabat di Paris, Perancis, dan pejabat luar negara - Pejabat Operasi di Arlington, Virginia.",
+        "sentence2": "Agensi ini mempunyai ibu pejabat di Arlington, Virginia, dan Pejabat Operasi Luar Negara di Paris, Perancis.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada tahun 1964, keuskupan itu secara nominal dipulihkan sebagai warganegara bergelar yang paling rendah (episcopal) pangkat.",
+        "sentence2": "Pada tahun 1964, keuskupan secara nominal dipulihkan sebagai takhta uskup dengan pangkat paling rendah (tituler).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kerja berikutnya dalam bidang pertanian terutamanya di Lincolnshire, tetapi dia juga mencadangkan tambak yang luas di Norfolk, yang berjaya dijalankan.",
+        "sentence2": "Kerja masa depannya dalam bidang pertanian terutamanya di Norfolk, tetapi dia juga mencadangkan tambak yang luas di Lincolnshire, yang berjaya dijalankan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Apabila Jack Nitzsche mula-mula mendengar `` Jenis Rakan yang Degil '' dia sangat teruja sehingga dia hilang kawalan ke atas keretanya semasa memandu di Sunset Boulevard bersama Phil Spector.",
+        "sentence2": "Apabila Phil Spector mendengar `` Rakan Sejenis Degil '' buat pertama kali, dia sangat teruja sehingga dia hilang kawalan ke atas keretanya semasa memandu di Sunset Boulevard bersama Jack Nitzsche.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pihak Komunis amat percaya bahawa Agensi Perisikan Pusat menyokong protes ini secara rahsia dari segi kewangan dan sebaliknya.",
+        "sentence2": "Komunis secara diam-diam percaya bahawa Agensi Perisikan Pusat dari segi kewangan dan sebaliknya menyokong kuat protes ini.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Spesies ini adalah ahli kumpulan ekologi yang berbeza , termasuk pokok renek xerophytic , liana dan pokok , tumbuhan tropika , mycoheterotrophy , serta pelbagai wakil herba .",
+        "sentence2": "Spesies ini adalah ahli kumpulan ekologi yang berbeza , termasuk pokok renek tropika , liana dan pokok , tumbuhan xerophytic , mycoheterotrophic serta pelbagai wakil herba .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Khan maju dengan seorang pengiring, Tsitsianov menunggang dengan dua lelaki lain dan ditembak mati.",
+        "sentence2": "Khan maju dengan pengiring, Tsitsianov menunggang dengan dua lelaki lain dan ditembak mati.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sculcoates mempunyai perpustakaan , pejabat pos , mandian renang yang dipanggil Beverley Road Baths , sebuah sekolah menengah dan dua sekolah rendah .",
+        "sentence2": "Sculcoates mempunyai perpustakaan , pejabat pos , kolam renang yang dipanggil Beverley Road Baths , sebuah sekolah menengah dan dua sekolah rendah .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dia dilahirkan di Melbourne dan berhijrah ke New Zealand bersama keluarganya ketika berusia 10 tahun.",
+        "sentence2": "Dia dilahirkan di New Zealand, dan berhijrah bersama keluarganya ke Melbourne ketika berusia 10 tahun.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dalam sejarah peranti sedemikian, ia mendahului `` The Turk '' dan berjaya `` Mephisto ''.",
+        "sentence2": "Dalam sejarah peranti sedemikian '' The Turk `` telah berjaya dan '' Mephisto `` mendahului .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Agranat dilahirkan di Louisville, Kentucky, pada tahun 1906, dalam keluarga Yahudi-Zionis.",
+        "sentence2": "Agranat dilahirkan dalam keluarga Zionis-Yahudi di Louisville, Kentucky pada tahun 1906.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Massé dilahirkan di Westchester County, New York, dibesarkan di Holland, Michigan, dan tinggal di Eropah semasa usia remajanya.",
+        "sentence2": "Massé dilahirkan di Holland , Michigan , dibesarkan di Westchester County , New York , dan tinggal di Eropah semasa remajanya .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ketiga dinasti ibu ini memerintah kerajaan Waalo dengan keluarga bapa Mbooj.",
+        "sentence2": "Tiga dinasti ibu ini memerintah kerajaan Waalo dengan keluarga bapa Mbooj.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "BAC mempersembahkan tiga persembahan tahunan Orkestra Minnesota dan baru-baru ini telah menugaskan karya oleh Diavolo dan Merce Cunningham Dance Company.",
+        "sentence2": "BAC mempunyai tiga persembahan tahunan oleh Orkestra Minnesota dan mempersembahkan karya yang ditauliahkan baru-baru ini oleh Diavolo dan Merce Cunningham Dance Company.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Monroe Meadows , di lembah Yosemite berhampiran Air Terjun Bridalveil , juga dinamakan sempena George Monroe .",
+        "sentence2": "Monroe Meadows , dalam kes Bridalveil berhampiran Lembah Yosemite , juga dinamakan untuk George Monroe .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Andesit ialah jenis lava yang dominan dengan beberapa sampel yang cukup mafik untuk diklasifikasikan sebagai andesit basaltik.",
+        "sentence2": "Andesit ialah jenis lava yang dominan dengan beberapa sampel yang cukup untuk diklasifikasikan sebagai andesit basaltik.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada awal 2016 , Senator Bob Hackett telah dilantik ke Senat Ohio untuk menggantikan Senator Chris Widener , yang meletak jawatan .",
+        "sentence2": "Pada awal 2016 , Senator Chris Widener telah dilantik ke Senat Ohio untuk menggantikan Senator Bob Hackett , yang meletak jawatan .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dalam amalan adalah mesquite `` modul '' kelas Java , biasanya subkelas abstrak definisi kelas konkrit .",
+        "sentence2": "Dalam amalan , Mesquite `` modul '' kelas Java biasanya merupakan subkelas konkrit bagi definisi kelas abstrak .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pope mencadangkan penyelesaian pada tahun 1980 yang ditolak oleh Chile dan diluluskan oleh Argentina.",
+        "sentence2": "Pope mencadangkan penyelesaian yang diterima oleh Chile pada tahun 1980 dan ditolak oleh Argentina.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada tahun 1930-an dan 1940-an, beliau telah dipilih empat kali untuk Al Smith pada tahun 1928 untuk Franklin D. Roosevelt dan untuk Harry S. Truman pada tahun 1948.",
+        "sentence2": "Massachusetts mengundi Al Smith pada tahun 1928, untuk Franklin D. Roosevelt empat kali pada tahun 1930-an dan 1940-an, dan untuk Harry S. Truman pada tahun 1948.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Muzik yang dipersembahkan sebagai gelanggang Bob `` Blackadder '' ialah Vaughan Williams ' `` Fantasia on Greensleeves '' .",
+        "sentence2": "Muzik yang dipersembahkan sebagai Blackadder courts '' Bob `` ialah '' Fantasia on greensleeves '' oleh Vaughan Williams .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Perlu diingat juga bahawa kod berikut akan berfungsi tanpa ADL ( ia akan digunakan padanya juga ) .",
+        "sentence2": "Perlu diingat juga bahawa kod berikut akan berfungsi tanpa ADL ( ia akan digunakan padanya juga ) .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ia kemudian bertemu dengan Sungai Snoqualmie untuk membentuk Sungai Snohomish di Monroe.",
+        "sentence2": "Ia kemudian bertemu dengan Sungai Snoqualmie untuk membentuk Sungai Snohomish di Monroe.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Semasa kempennya, dia membahaskan McCain dua kali, sekali di Tucson dan sekali di Flagstaff.",
+        "sentence2": "Semasa kempennya, beliau dua kali membahaskan McCain, sekali di Flagstaff dan sekali di Tucson.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ia telah disiapkan oleh isterinya, Stella Gemmell, selepas kematiannya pada 28 Julai 2006 dan dikeluarkan di bawah pengarang bersama David dan Stella Gemmell.",
+        "sentence2": "Ia diterbitkan oleh isterinya Stella Gemmell selepas kematiannya pada 28 Julai 2006 dan disiapkan di bawah pengarang bersama David dan Stella Gemmell.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Persatuan Baptist Pusat ialah persatuan gereja dari Carolina Selatan hingga Indiana , dengan kebanyakan gereja di timur Tennessee dan barat daya Virginia .",
+        "sentence2": "Persatuan Baptis Pusat ialah persatuan gereja yang terletak dari Carolina Selatan hingga Virginia, dengan kebanyakan gereja berada di timur Tennessee dan barat daya Indiana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Karen Phillips memulakan hubungan dengan Steve dari Suranne Jones bermain.",
+        "sentence2": "Steve memulakan hubungan dengan Karen Phillips lakonan Suranne Jones.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "vidas distintas ialah telenovela Mexico dari tahun 1969 yang dihantar oleh Televisa dan pada asalnya diterbitkan oleh Telesistema Mexicano .",
+        "sentence2": "Tres vidas distintas , ialah sebuah telenovela Mexico 1969 yang dihantar oleh Televisa dan pada asalnya diterbitkan oleh Telesistema Mexicano .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Chandler menganggap komputer sebagai alat untuk pembelajaran, tetapi dia menolak objektivisme lazim yang mengiktiraf data sebagai maklumat, dan maklumat sebagai pengetahuan.",
+        "sentence2": "Chandler mengiktiraf komputer sebagai alat untuk pembelajaran, tetapi dia menolak objektivisme yang lazim, yang melihat data sebagai maklumat dan maklumat sebagai pengetahuan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Peralihan fasa daripada feromagnet kepada paramagnet adalah yang kedua dan tertib berterusan.",
+        "sentence2": "Peralihan fasa daripada ferromagnet kepada paramagnet adalah berterusan dan mempunyai tertib kedua.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Keluarga Albania meninggalkan kampung sebelum pelarian Serbia kembali pada tahun 1999 .",
+        "sentence2": "Sebelum pelarian Serb kembali pada tahun 1999, keluarga Albania meninggalkan kampung itu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Walau bagaimanapun , versi asal telah dilangkau memihak kepada edisi ringan .",
+        "sentence2": "Walau bagaimanapun, versi ringan telah dilangkau memihak kepada versi asal.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada tahun 1864, United Presbyterian Missionary Society of Scotland menghantar ejennya ke China.",
+        "sentence2": "Persatuan Mubaligh Presbyterian Bersatu China menghantar ejennya ke Scotland pada tahun 1864 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Selepas sepuluh tahun tinggal di Paris, Houdon kembali ke Itali.",
+        "sentence2": "Selepas sepuluh tahun di Paris, Houdon kembali ke Itali.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dia ditenggelamkan oleh Jerman dan dibuang oleh pengebom Bersekutu dua kali pada 1943 -- 1944 dan akhirnya dibesarkan pada 1946 -- 1947 .",
+        "sentence2": "Ia dibangkitkan oleh Jerman pada tahun 1943 -- 1944 dan tenggelam dua kali oleh pengebom bersekutu dan akhirnya dibatalkan pada tahun 1946 -- pada tahun 1947 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada tahun 1864, Persatuan Mubaligh Presbyterian Bersatu China menghantar ejennya ke Scotland.",
+        "sentence2": "Persatuan Mubaligh Presbyterian Bersatu China menghantar ejennya ke Scotland pada tahun 1864 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Filem ini dibintangi oleh Lily Rabe , Timothée Chalamet , Lili Reinhart , Anthony Quintal , Oscar Nunez , dan Rob Huebel .",
+        "sentence2": "Bintang Lilie Rabe , Timothée Chalamet , Lili Reinhart , Anthony Quintal , Oscar Nunez dan Rob Huebel .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dakota City ialah sebahagian daripada wilayah metropolitan Sioux City , IA -- NE -- SD .",
+        "sentence2": "Dakota City ialah sebahagian daripada Sioux City, IA -- NE -- SD Metropolitan Statistical Area .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Grant Connell dan Glenn Michibata memenangi gelaran itu, menewaskan Wayne Ferreira dan Jim Grabb 6:4, 6:3 dalam perlawanan akhir.",
+        "sentence2": "Wayne Ferreira dan Jim Grabb memenangi kejuaraan , menewaskan Grant Connell dan Glenn Michibata 6 -- 4 , 6 -- 3 dalam perlawanan akhir .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pilihan raya parlimen di Zagreb pada tahun 1927 telah diadakan pada 4 September 7 hari sebelum pilihan raya tempatan.",
+        "sentence2": "Pilihan raya parlimen 1927 di Zagreb telah diadakan pada 4 September, 7 hari sebelum pilihan raya tempatan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum ialah spesies siput laut , moluska gastropod sejati dalam keluarga Buccinidae , anak ikan laut .",
+        "sentence2": "Probuccinum tenerum ialah spesies siput laut , moluska gastropod sebenar dalam keluarga Buccinidae , marin whelks .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sungai Valea lui Lambă atau Sungai Lom ialah anak sungai Sungai Șimon di Romania.",
+        "sentence2": "Sungai Valea lui Lambă atau Sungai Lom ialah anak sungai `` unk '' imon di Romania .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Genus ini kini dikelaskan dalam keluarga cicak, dikenali sebagai Iguanidae, subfamili Polychrotinae, dan tidak lagi dikelaskan dalam keluarga tidak sah semasa, polychrotidae.",
+        "sentence2": "Genus ini kini berada dalam keluarga cicak yang dikenali sebagai Iguanidae , subfamili Polychrotinae , dan tidak lagi dikelaskan dalam keluarga yang tidak sah pada masa ini , Polychrotidae .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada tahun 2012 , bandar itu terbalik dan dimenangi oleh penyandang Demokrat Barack Obama , yang mengambil 51 % undi kepada Republikan Mitt Romney sebanyak 48 % .",
+        "sentence2": "Pada tahun 2012, daerah itu bertukar dan dimenangi oleh penyandang Demokrat Barack Obama, yang mengambil 51% undi kepada 48% daripada Republikan Mitt Romney.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dengan dia saya telah dapat memenuhi beberapa impian muzik saya dengan gaya awal dan gaya baru ini benar-benar besar, segar dan fasih semula jadi.",
+        "sentence2": "Bersamanya saya dapat memenuhi beberapa impian awal saya dengan gaya muzik dan gaya baharu ini sungguh besar, segar dan mengalir secara semula jadi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Grady Howard telah dipilih sebagai datuk bandar pertama pada tarikh ini , dan secara rasmi dinamakan sebagai datuk bandar sementara Spring Lake pada 5 Jun 1951 .",
+        "sentence2": "Grady Howard telah dipilih sebagai Datuk Bandar pertama pada tarikh ini dan secara rasmi dilantik sebagai Datuk Bandar Spring Lake pada 5 Jun 1951 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ballouhey wujud terutamanya di Isère di Paris serta di Perancis dan Afrika Selatan.",
+        "sentence2": "Ballouhey wujud terutamanya di Perancis di Isère dan di Paris, serta di Afrika Selatan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ia akan menjadi tinggi dengan dinding dan kapasiti yang panjang.",
+        "sentence2": "Ia akan menjadi tinggi, dengan dinding panjang dan kapasiti.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pendidikan di Alabama terdiri daripada sekolah menengah dan rendah di Alabama, termasuk Universiti Alabama, kolej swasta dan sekolah awam dan swasta.",
+        "sentence2": "Pendidikan di Alabama terdiri daripada sekolah awam dan swasta di Alabama, termasuk Universiti Alabama, universiti swasta dan sekolah menengah dan rendah.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Siri ini memulakan kerjaya pada 18 April 2009 di Australia di Nickelodeon (New Zealand dan New Zealand).",
+        "sentence2": "Pada 18 April 2009 , siri ini memulakan kerjaya di New Zealand di Nickelodeon ( Australia dan New Zealand ) .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ia diarahkan oleh George Fitzmaurice dan berdasarkan drama 1917 , `` Tiger Rose '' , oleh Willard Mack .",
+        "sentence2": "Diarahkan oleh George Fitzmaurice , ia adalah berdasarkan drama 1917 `` Tiger Rose '' oleh Willard Mack.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Versi Mahabharata yang ditulis oleh penyair Odia Sarala Dasa mengisahkan lagenda Navagunjara, tidak ada orang lain yang mempunyai kisah itu.",
+        "sentence2": "Versi Mahabharata , yang ditulis oleh penyair Odia Sarala Dasa , mempunyai legenda Navagunjara . Tiada versi lain yang menceritakan kisah itu.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam ( 15 Oktober 1929 -- 29 Julai 2012 ) ialah seorang penari India dan seorang guru tarian Kuchipudi .",
+        "sentence2": "Vempati Chinna Satyam ( 15 Oktober 1929 - 29 Julai 2012 ) ialah seorang penari India dan guru tarian Kuchipudi .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lee Hi ialah penyanyi Korea Selatan di bawah YG Entertainment.",
+        "sentence2": "Penyanyi Korea Lee Hi ialah penyanyi Korea Selatan di bawah YG Entertainment.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Varian kaedah ini menghasilkan anggaran berangka yang baik untuk banyak eksponen apabila istilah kritikal dimasukkan, dalam kedua-dua dimensi dua dan tiga.",
+        "sentence2": "Varian prosedur ini menghasilkan anggaran berangka yang baik untuk eksponen kritikal apabila banyak istilah dimasukkan dalam kedua-dua dimensi dua dan tiga.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tudung hanya ditanggalkan oleh penonton istimewa, jadi adegan ini mungkin lebih intim.",
+        "sentence2": "Tudung ditanggalkan hanya oleh penonton istimewa, jadi adegan ini mungkin lebih intim.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ia menyediakan kawasan Cantonment Chandimandir di bandar Panchkula.",
+        "sentence2": "Ia menyediakan kawasan Panchkula di bandar Chandimandir Cantonment.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Slough High School ialah sekolah tatabahasa terpilih perempuan di Slough , Buckinghamshire , kini Berkshire .",
+        "sentence2": "Slough High School ialah sekolah tatabahasa perempuan terpilih di Slough, Buckinghamshire, kini Berkshire.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Eugene D. Engley dilahirkan pada 5 April 1851 di Attleborough, Massachusetts, sebagai anak kepada James Henry Engley dan isterinya, bekas Mary Kaley.",
+        "sentence2": "James Henry Engley dilahirkan pada 5 April 1851 di Attleborough, Massachusetts, anak kepada Eugene D. Engley dan isterinya, bekas Mary Kaley.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Maritsa Lazari dilahirkan di Cyprus pada Oktober 1943 dan berhijrah bersama keluarganya pada usia 16 tahun ke London , England .",
+        "sentence2": "Maritsa Lazari dilahirkan di London pada Oktober 1943 dan telah berhijrah ke Cyprus bersama keluarganya pada usia 16 tahun.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada 5 Mac 2011 , MTV Hive menyiarkan pautan penstriman kepada Anni Rossi yang membuat persembahan Rihanna `` Rude Boy ''.",
+        "sentence2": "Pada 5 Mac 2011 , MTV Hive menyiarkan pautan penstriman kepada Rihanna , membuat persembahan Anni Rossi `` Rude Boy ''.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Perkuburan Machpelah , juga dieja sebagai '' Perkuburan Macpelah `` atau '' Perkuburan Macphelah `` , ialah sebuah tanah perkuburan di Hudson County, New Jersey.",
+        "sentence2": "Perkuburan Machpelah , juga dieja sebagai `` Perkuburan Macpelah '' , atau `` Perkuburan Macphelah '' , ialah sebuah tanah perkuburan di Hudson County, New Jersey.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lagu ini ditulis dan digubah oleh Gala oleh Filippo Andrea Carmeni dan Maurizio Molella yang dihasilkan .",
+        "sentence2": "Lagu itu ditulis dan dihasilkan oleh gala , yang digubah oleh Filippo Andrea Carmeni dan Maurizio Molella .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Menurut Prior , Robert Goldsmith datuk kepada penyair , penulis drama dan novelis Oliver Goldsmith adalah orang pertama dalam keluarga yang menetap di Ballyoughter .",
+        "sentence2": "Menurut Robert Prior , Robert Goldsmith ialah datuk kepada penyair , penulis drama , dan penulis , Oliver Goldsmith , yang pertama dalam keluarga yang menetap dengan Ballyoughter .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Meninggalkan enjin dan bahan apinya akan mengurangkan kerumitan dan meningkatkan muatan.",
+        "sentence2": "Meninggalkan enjin dan bahan apinya akan meningkatkan kerumitan dan mengurangkan muatan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Menurut Tobe dan Gunnar Hansen , sebab mengapa dia memakai topeng adalah kerana topeng itu benar-benar menentukan keperibadiannya.",
+        "sentence2": "Gunnar Hansen mengulas : `` Sebab dia memakai topeng , menurut Tobe dan Kim , ialah topeng itu benar - benar menentukan keperibadiannya .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Akademi Claiborne persendirian terletak di Haynesville, berhampiran Parish Claiborne.",
+        "sentence2": "Akademi Claiborne persendirian terletak di Paroki Claiborne, bukan berhampiran Haynesville.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "NVIDIA TITAN V diumumkan secara rasmi oleh Nvidia pada 7 Disember 2017 .",
+        "sentence2": "Pada 7 Disember 2017 NVIDIA secara rasmi mengumumkan Nvidia TITAN V.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beliau menjalani latihan perubatan di Hospital Middlesex di London, dan layak sebagai doktor klinikal pada tahun 1943.",
+        "sentence2": "Beliau membuat latihan klinikal di Hospital Middlesex di London dan layak sebagai doktor pada tahun 1943.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dia membuat persembahan sebagai pembuat kaca dan bekerja dengan banyak band yang berbeza pada alat muzik yang berbeza.",
+        "sentence2": "Dia bekerja sebagai pembuat kaca dan membuat persembahan pada pelbagai alat muzik dengan banyak band yang berbeza.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Komponen sistem mekanikal menyimpan tenaga keupayaan anjal jika ia berubah bentuk pada sistem apabila dikenakan daya.",
+        "sentence2": "Komponen sistem mekanikal menyimpan tenaga keupayaan anjal jika ia berubah bentuk apabila daya dikenakan pada sistem.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "William Llewelyn Williams dikenali sebagai Llewelyn Williams ( 10 Mac 1867 -- 22 April 1922 ) , ialah seorang wartawan Wales , peguam dan ahli politik radikal Parti Liberal .",
+        "sentence2": "William Williams , dikenali sebagai Llewelyn Williams ( 10 Mac 1867 - 22 April 1922 ) , ialah seorang wartawan Wales , peguam dan ahli politik parti liberal radikal .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Blagoy Ivanov mencabar Mehmen untuk Kejohanan Heavyweight WSOF pada 17 Oktober 2015 .",
+        "sentence2": "Blagoy Ivanov mencabar Mehmen untuk Kejohanan Heavyweight WSOF pada 17 Oktober 2015 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ia telah ditubuhkan oleh Richard Creed , dibina oleh George Edwards , direka oleh Collins dan Geoffrey dari Monmouth .",
+        "sentence2": "Ia telah direka oleh Richard Creed , dibina oleh Collins dan Geoffrey dan dilengkapi oleh George Edwards dari Monmouth .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sacramento terletak di ( 38.651254 , -121.259279 ) , antara Fair Oaks dan Folsom .",
+        "sentence2": "Fair Oaks terletak di antara Sacramento dan Folsom ( 38.651254 , -121.259279 ) .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lagu `` Astrud '' pada album Gilberto 1987 , `` Time and Tide '' , adalah penghormatan kepada Basia Trzetrzelewska .",
+        "sentence2": "Lagu `` Astrud '' pada album Basia Trzetrzelewska `` Time and Tide '' dari tahun 1987 adalah penghormatan kepada Gilberto.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Clark mempunyai seorang anak lelaki , Rishi , dilahirkan pada 3 April 2007 . EP Socks and Sandals on Microcosm Music telah dinamakan untuknya, Rishi Saturn.",
+        "sentence2": "Rishi mempunyai seorang anak lelaki , Clark , dilahirkan pada 3 April 2007 . EP Sarung Kaki dan Sandal di Microcosm Music dinamakan sempena namanya, Rishi Saturn.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Melodie Crittenden meninggalkan kumpulan itu pada tahun 2004 untuk meneruskan kerjaya solo, dan pada kebanyakan tahun 2005 Nicol menyanyi bersama kumpulan itu.",
+        "sentence2": "Melodie Crittenden meninggalkan kumpulan itu pada tahun 2004 untuk menonton kerjaya solo, dan pada kebanyakan tahun 2005 Nicol menyanyi bersama kumpulan itu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dalam bola sepak separa profesional, pasukan Scotland bersaing di semua peringkat di bawah Liga Perdana Scotland, dengan kebanyakan pasukan di bawah Kejohanan Scotland adalah separa profesional.",
+        "sentence2": "Dalam bola sepak Scotland, pasukan separa profesional di semua peringkat muncul di bawah kejuaraan perdana Scotland, dengan kebanyakan pasukan di bawah kejuaraan Scotland adalah separa profesional.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Diboll dan Owen dari New Orleans adalah arkitek dan GA Chamblin of Mobile ialah kontraktor.",
+        "sentence2": "Arkiteknya ialah Diboll dan Owen dari New Orleans dan kontraktornya ialah GA. Chamblin of Mobile .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dalam hipertensi malignan, perubahan hiperplastik ini selalunya disertai dengan nekrosis arteri intima dan media fibrinoid.",
+        "sentence2": "Dalam hipertensi malignan, perubahan hiperplastik ini selalunya disertai dengan nekrosis fibrinoid pada intima dan media arteri.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pasukan itu melawat Australia pada tahun 1953 dan Asia pada Ogos 1959.",
+        "sentence2": "Pada tahun 1953 pasukan itu melawat ke Asia dan di Australia pada Ogos 1959.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Filem ini mengisahkan Rafael , seorang penyanyi Malayalam dalam industri perfileman baharu .",
+        "sentence2": "Filem ini mengisahkan Rafael , seorang penyanyi baru dalam industri perfileman Malayalam .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada tahun 1864, Persatuan Mubaligh Presbyterian Bersatu China menghantar wakilnya ke Scotland.",
+        "sentence2": "Persatuan Mubaligh Presbyterian Bersatu China menghantar ejennya ke Scotland pada tahun 1864 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Formula ruang vektor awal _ 13 dipanggil `` objek awal '' atau `` struktur topologi '' berkenaan dengan data yang diberikan.",
+        "sentence2": "Ruang vektor awal Formula 13 dipanggil struktur topologi objek awal `` atau '' berkenaan dengan data yang diberikan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ketiga dinasti ibu ini memerintah kerajaan Waalo dengan keluarga bapa Mbooj.",
+        "sentence2": "Tiga dinasti paternal ini mentadbir Kerajaan Waalo dengan keluarga ibu Mbooj .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Filem ini memainkan watak Jembie Almazan sebagai Alex , Bernardo Garnica Cruz sebagai David dan Jonathan Diaz Angulo sebagai Maria .",
+        "sentence2": "Filem ini dibintangi oleh Jembie Almazan sebagai Mary , Bernardo Garnica Cruz sebagai David dan Jonathan Diaz Angulo sebagai Alex .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Walaupun pengecualian pemain kulit hitam bukanlah satu peraturan bertulis, sejak 1933 tiada orang Afro-Amerika telah bermain dalam Liga Bola Sepak Kebangsaan.",
+        "sentence2": "Walaupun pengecualian pemain kulit hitam bukanlah satu peraturan bertulis, tiada orang Afrika-Amerika telah bermain dalam Liga Bola Sepak Kebangsaan sejak 1933.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dale telah berkahwin dengan Patricia Meyer sejak 1984 dan bersama-sama mereka mempunyai dua anak lelaki: Ryan (lahir 1988) dan Blake (lahir 1992).",
+        "sentence2": "Sejak 1984, Blake telah berkahwin dengan Patricia Meyer dan mempunyai dua anak lelaki: Ryan (lahir 1988) dan Dale (lahir 1992).",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Apabila Platzer membuka restoran keduanya di Allentown pada tahun 1993, dia menukar nama kepada PJ Whelihan untuk menghormati datuknya, Peter Joseph Whelihan.",
+        "sentence2": "Pada tahun 1993 , apabila Platzer membuka restoran keduanya di Allentown , dia menukar nama kepada PJ Whelihan untuk menghormati datuknya Peter Joseph Whelihan .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Semasa misi itu , 65 askar terbunuh : 34 warga Nigeria , 28 Chadian , 2 Togol dan 1 Burkinabé .",
+        "sentence2": "Semasa misi itu , 65 askar terbunuh : 34 Chadian , 28 Nigeria , 2 Togol dan 1 Burkinabé .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada Disember 1969 menjadi Tentera Darat ke-49 - Divisyen Tentera Darat ke-29 - Divisyen.",
+        "sentence2": "Pada Disember 1969 menjadi Tentera Darat ke-29 - Divisyen Tentera Darat ke-49 - Divisyen.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Scapes kebanyakannya tiada atau sangat pendek.",
+        "sentence2": "Scapes sangat pendek atau kebanyakannya tiada.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dia diperhatikan sebagai '' mempunyai potensi yang sangat besar dan bakat yang hebat, dan akan berkembang pada masa hadapan kepada personaliti muzik yang unik.",
+        "sentence2": "Dia diperhatikan sebagai `` mempunyai potensi yang sangat besar dan bakat yang hebat, dan akan berkembang menjadi personaliti muzik yang unik pada masa hadapan. ''",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada Januari 2013 , diumumkan bahawa Warren Spector Disney Interactive telah pergi selepas penutupan Junction Point Studios .",
+        "sentence2": "Pada Januari 2013 , diumumkan bahawa Warren Spector telah meninggalkan Junction Point Studios berikutan penutupan Disney Interactive .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pengangkutan udara disediakan secara tempatan oleh pesawat yang lebih kecil di New Bedford , Berkley , dan lapangan terbang serantau di Taunton Timur .",
+        "sentence2": "Pengangkutan udara disediakan secara tempatan melalui pesawat yang lebih kecil di Taunton Timur , Berkley , dan lapangan terbang serantau di New Bedford .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Apabila kita menggunakan mesin turing berselang-seli, kita mempunyai sumber ATIME.",
+        "sentence2": "Jika kita mempunyai mesin Turing berselang-seli, kita menggunakan sumber ATIME.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dia menamatkan dua pukulan di belakang Bubba Watson dan Louis Oosthuizen dan merungut prestasi meletakkannya sebagai punca dia tidak memenangi kejohanan itu.",
+        "sentence2": "Dia menamatkan dua pukulan di belakang Louis Oosthuizen dan Bubba Watson dan meratapi prestasinya sebagai punca dia tidak memenangi kejohanan itu.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bandar tuan rumah sebelum Sidang Kemuncak Keputusan Sirius termasuk Orlando ( 2014 ) , Scottsdale ( 2013 ) dan San Diego ( 2012 ) .",
+        "sentence2": "Bekas bandar tuan rumah Sidang Kemuncak SiriusDecisions termasuk Orlando ( 2014 ) , San Diego ( 2013 ) dan Scottsdale ( 2012 ) .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pencahayaan dalam lukisan Louvre lebih hangat dan kelihatan lebih lembut, tetapi ini boleh disebabkan oleh bunyi varnis di permukaan.",
+        "sentence2": "Pencahayaan dalam lukisan Louvre lebih hangat dan kelihatan lebih lembut, tetapi ini mungkin hasil daripada nada varnis pada permukaan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sungai Molmys ialah sebuah sungai di Perm Krai , Rusia , anak sungai kiri Sungai Yazva .",
+        "sentence2": "Yazva ialah sebuah sungai di Perm Krai , Rusia , anak sungai kiri Sungai Molmys .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada 1 Ogos 1699 , William Blackett menyerahkan tanah hak miliknya di Chirton kepada Sir Archibald Campbell , yang menjual Bickerstaffe , 1st Duke of Argyll Hall .",
+        "sentence2": "Pada 1 Ogos 1699 , William Blackett menyerahkan tanah hak miliknya di Chirton kepada Sir Archibald Campbell , yang menjual dewan itu kepada Bickerstaffe , Duke Pertama Argyll .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Big Band Specials ialah album 1962 oleh Bob Cooper , dengan lagu yang disusun oleh Bill Holman , Shorty Rogers dan suami June Christy .",
+        "sentence2": "Big Band Specials ialah album 1962 oleh Bob Cooper , dengan lagu oleh Bill Holman , Shorty Rogers dan suami June Christy disusun .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sebagai tambahan kepada pelbagai plat logam, konkrit dan beg pasir digunakan untuk tangki buatan dalam beberapa kes.",
+        "sentence2": "Sebagai tambahan kepada plat logam berperisai yang telah diubahsuai, konkrit dan beg pasir digunakan dalam beberapa kes untuk pelbagai kereta api.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Barbara Boothe Ellison dilahirkan di Santa Clara County, California, anak perempuan bilionair pengerusi Oracle Corporation Larry Ellison dan bekas isterinya, Megan Ellison.",
+        "sentence2": "Megan Ellison dilahirkan di Santa Clara County, California sebagai anak perempuan jutawan Oracle Corporation - Pengerusi Larry Ellison dan Bekas Isterinya Barbara Boothe Ellison.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Guillermo Coria menewaskan Alberto Martín 6 -- 3 , 3 -- 6 , 6 -- 2",
+        "sentence2": "6 Alberto Martín menewaskan Guillermo Coria 6 -- 3 , 3 -- 6 , 6 -- 2",
+        "answer": "different"
+    },
+    {
+        "sentence1": "The Red Bulls kalah tetapi membuat pusingan pertama playoff.",
+        "sentence2": "The Red Bulls kalah, tetapi membuat pusingan pertama playoff.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "12 Januari 1978 : Pengurus Cambridge United Ron Atkinson dilantik sebagai pengurus West Bromwich Albion .",
+        "sentence2": "12 Januari 1978 : Cambridge United - Pengurus Ron Atkinson dilantik sebagai pengurus West Bromwich Albion .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada tahun 1979 dia mempunyai tahun terbaiknya dalam jelajah, mara ke suku akhir di Atlanta, Johannesburg dan Tel Aviv.",
+        "sentence2": "Pada tahun 1979 dia mempunyai tahun terbaiknya dalam jelajah, suku akhir di Tel Aviv, Johannesburg dan Atlanta.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Versi seterusnya telah dicipta oleh saudara Robert Fuller Ron pada tahun 1986 .",
+        "sentence2": "Keluaran seterusnya dicipta pada tahun 1986 oleh abang Robert Fuller, Ron.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kuil ini berfungsi sebagai pusat kebudayaan dan keagamaan bagi penganut Hindu Korea dan pendatang dari negara Asia Selatan.",
+        "sentence2": "Kuil ini berfungsi sebagai pusat kebudayaan dan keagamaan bagi penganut Hindu Asia Selatan dan pendatang dari negara Korea.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rumah kelab itu dibina oleh Curtis, dengan jumlah $60,000, dan menyewanya dengan bayaran yang besar kepada kelab.",
+        "sentence2": "Rumah kelab itu dibina oleh Curtis , dengan jumlah nominal $60,000 ketika itu, dan menyewakannya kepada kelab dengan bayaran yang besar.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mitsuhisa Ishikawa dan Tomohiko Ishii dari Production IG , Danny Choo , Kaname dan Tasha bersama Miyuko dari Korea adalah tetamu istimewa untuk acara tersebut .",
+        "sentence2": "Tasha dari produksi IG , Danny Choo , Kaname , Mitsuhisa Ishikawa dan Tomohiko Ishii bersama Miyuko dari Korea adalah tetamu istimewa untuk acara tersebut .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam ( 15 Oktober 1929 - 29 Julai 2012 ) ialah seorang penari India dan guru tarian Kuchipudi .",
+        "sentence2": "Vempati Chinna Satyam ( 15 Oktober 1929 -- 29 Julai 2012 ) ialah seorang penari Kuchipudi dan seorang guru tarian India .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kejadian ini kemudiannya disambut dan kini diperingati di Mesir pada 25 Januari setiap tahun sebagai Hari Polis Negara .",
+        "sentence2": "Kejadian ini kemudiannya disambut dan kini diperingati di Mesir sebagai Hari Polis Negara pada 25 Januari setiap tahun.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Udaipur ialah sebuah bandar di negeri Madhya Pradesh, India berhampiran Ganj Basoda.",
+        "sentence2": "Ganj Basoda ialah sebuah bandar di negeri Madhya Pradesh berhampiran Udaipur di India.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dia kemudiannya digantikan oleh Heraclius , sepupu pertama Nicetas , dan terpaksa mengambil ikrar monastik .",
+        "sentence2": "Dia kemudiannya digantikan oleh Nicetas , sepupu pertama Heraclius , dan terpaksa mengambil ikrar monastik .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pertama, huraikan kawasan yang mempunyai nilai debunga tinggi dan bukannya kawasan yang mempunyai debunga rendah.",
+        "sentence2": "Pertama, huraikan kawasan yang mempunyai nilai debunga rendah dan bukannya kawasan yang mempunyai debunga tinggi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Setakat ini karya Zinovjev telah dipersembahkan oleh Orkestra Simfoni Radio Finland , Orkestra Simfoni Lahti , Orkestra Simfoni Kymi Sinfonietta , Orkestra Simfoni Oulu dan Avanti !",
+        "sentence2": "Setakat ini karya Zinovjev telah dipersembahkan oleh Orkestra Simfoni Oulu , Orkestra Simfoni Lahti , Kymi Sinfonietta , Orkestra Simfoni Radio Finland dan Avanti !",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ia telah direka oleh Richard Creed , dibina oleh Collins dan Geoffrey dan dilengkapi oleh George Edwards dari Monmouth .",
+        "sentence2": "Ia telah Dilengkapi oleh Richard Creed , dibina oleh George Edwards dan direka oleh Collins dan Geoffrey dari Monmouth .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "McCall dan Lesiuk meninggalkan kumpulan itu pada musim panas 2007, dengan McCall digantikan oleh Steven Tosh pada dram dan Jamie Macleod mengambil alih tugas bass.",
+        "sentence2": "McCall dan Lesiuk meninggalkan band pada musim panas 2007 dengan McCall digantikan oleh Steven Tosh pada drum dan Jamie Macleod mengambil alih tugas bass.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada tahun 1886 , Miles menggantikan Jeneral George Crook sebagai komander angkatan tentera yang memerangi Geronimo , seorang pemimpin Apache Chiricahua , di Jabatan Arizona .",
+        "sentence2": "Pada tahun 1886 , Miles menggantikan Jeneral George Crook sebagai komander pasukan yang berperang melawan Geronimo , seorang pemimpin Apache Chiricahua , di Jabatan Arizona .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Barshi , ialah sebuah empangan bumi di sungai tempatan berhampiran Empangan Pathari , daerah Solapur di negeri Maharashtra di India .",
+        "sentence2": "Empangan Pathari , ialah empangan timbunan tanah di sungai tempatan berhampiran Barshi , daerah Solapur di negeri Maharashtra di India .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dia berkahwin dengan Mary , anak kepada Brooke dari Selston , Nottingham , dan digantikan oleh anak sulungnya , Richard .",
+        "sentence2": "Brooke berkahwin dengan Mary , anak kepada Timothy Pusey dari Selston , Nottingham . Dia digantikan oleh anak sulungnya, Richard.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Luk atau Loke ialah romanisasi Cina beberapa (tetapi bukan semua) nama keluarga Kantonis yang diromikan sebagai Lu dalam bahasa Mandarin.",
+        "sentence2": "Luk atau Loke ialah rumi Cina beberapa (tetapi bukan semua) nama keluarga Kantonis, yang diromikan sebagai Lu dalam bahasa Mandarin.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Putaran kubus yang betul , yang boleh dicirikan oleh pilih atur pepenjuru badan , juga diterangkan dengan konjugasi dalam `` S '' .",
+        "sentence2": "Putaran kubus yang betul , yang boleh dihuraikan dengan pilih atur pepenjuru badan , juga dicirikan oleh konjugasi dalam `` S '' .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sebagai contoh, dalam amfibia Cerberus dinyatakan dalam endoderm dorsal anterior dan pada tikus ia dinyatakan dalam endoderm visceral anterior.",
+        "sentence2": "Sebagai contoh, Cerberus dinyatakan dalam endoderm dorsal anterior dalam amfibia dan pada tikus dalam endoderm visceral anterior.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beliau menjalani latihan klinikal di Hospital Middlesex di London, dan layak sebagai doktor perubatan pada tahun 1943.",
+        "sentence2": "Beliau membuat latihan klinikal di Hospital Middlesex di London dan layak sebagai doktor pada tahun 1943.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sunny memotong trek pada November 1973 dengan Roger Greenaway menghasilkan manakala Chris Gunning menyediakan susunan dan mengendalikan.",
+        "sentence2": "Pada November 1973 , Roger Sunny memotong trek dengan Roger Greenaway , manakala Chris Gunning menyediakan dan mengendalikan susunan itu .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Damon Knight (dipetik oleh James Blish ) berkata tentang tafsiran cerita Knight :",
+        "sentence2": "James Blish (dipetik oleh Damon Knight ) berkata tentang tafsiran Knight tentang kisahnya:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Filem ini mengisahkan Rafael , seorang penyanyi baru dalam industri perfileman Malayalam .",
+        "sentence2": "Filem ini mengisahkan Rafael , penyanyi baru dalam industri perfileman Malayalam .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ia adalah musim ketiga yang disiarkan lebih daripada dua tahun selepas edisi keluarga dan lebih daripada tiga tahun selepas edisi selebriti pertama.",
+        "sentence2": "Ia adalah musim ketiga yang disiarkan lebih daripada dua tahun selepas edisi keluarga dan lebih daripada tiga tahun selepas edisi selebriti pertama.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beliau meninggal dunia pada 19 September 1891 di Gallatin , Tennessee , dan menerima seorang Masonik di Gallatin .",
+        "sentence2": "Bunting meninggal dunia pada 19 September 1891 di Gallatin. Dia menerima pengebumian Masonik di Gallatin, Tennessee.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ahli gusti kemudian melompat dan menghayun ke hadapan untuk jatuh ke belakang dan membiarkan kepala pihak lawan jatuh ke dalam tikar.",
+        "sentence2": "Ahli gusti kemudiannya melompat ke hadapan dan berayun-ayun untuk jatuh ke belakang dan membiarkan kepala pihak lawan jatuh ke dalam tikar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dia berpindah bersama ibu bapanya dari Finland ke Estonia pada usia 3 tahun dan kini tinggal di Helsinki.",
+        "sentence2": "Dia berpindah dari Estonia ke Finland bersama ibu bapanya pada usia 3 tahun dan kini menetap di Helsinki.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pekan ini terletak di hujung barat `` Horta de València '' , di tebing kanan sungai Turia .",
+        "sentence2": "Pekan ini terletak di tebing kanan `` Horta de València '' , di pantai barat Sungai Turia .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kebanyakan syaitan dalam pertemuan Sulaiman adalah dari tradisi Yunani , Kristian , Yahudi , Mesir , Arab , dan lain - lain .",
+        "sentence2": "Banyak syaitan dalam pertemuan Sulaiman adalah Yunani , Kristian , Yahudi , Mesir , Arab , dan tradisi lain .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Wilayah pentadbiran Chenzhou dalam dinasti Tang berada di bawah pentadbiran Zhoukou moden di timur Henan:",
+        "sentence2": "Wilayah Pentadbiran Chenzhou dalam Dinasti Tang berada di bawah pentadbiran Henan moden di Zhoukou timur :",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ujiannya adalah seperti berikut: `` Mula-mula anda perhatikan gentian prangaglionik dan merangsang tindak balas yang muncul.",
+        "sentence2": "Ujiannya adalah seperti berikut: Mula-mula merangsang gentian preganglionik dan perhatikan tindak balas yang muncul.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ukhrul juga merupakan kawasan tumpuan pelancong di negeri Manipur .",
+        "sentence2": "Manipur juga merupakan kawasan tumpuan pelancong di negeri Ukhrul.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Caspar Peucer ( disebut , 6 Januari 1525 -- 25 September 1602 ) ialah seorang pembaharu Sorbian , pakar perubatan , dan sarjana asal Jerman .",
+        "sentence2": "Caspar Peucer (disebut pada 6 Januari 1525 - 25 September 1602) ialah seorang reformis Sorbian, doktor dan sarjana yang berasal dari Jerman.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Cornelius Olatunji Adebayo ialah bekas senator Nigeria, yang pernah menjadi gabenor dan kemudiannya menjadi ketua Kementerian Perhubungan Persekutuan Nigeria.",
+        "sentence2": "Cornelius Olatunji Adebayo ialah bekas senator Nigeria, yang menjadi gabenor, dan kemudiannya menjadi ketua Kementerian Perhubungan Persekutuan Nigeria.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Massachusetts mengundi untuk Harry S. Truman pada tahun 1928, untuk Al Smith empat kali pada tahun 1930-an dan 1940-an, dan untuk Franklin D. Roosevelt pada tahun 1948.",
+        "sentence2": "Pada tahun 1930-an dan 1940-an, beliau telah dipilih empat kali untuk Al Smith pada tahun 1928 untuk Franklin D. Roosevelt dan untuk Harry S. Truman pada tahun 1948.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ibn Amira dilahirkan di Alzira di wilayah Valencia.",
+        "sentence2": "Ibn Amira dilahirkan di Valencia , wilayah Alzira .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Jika kita menggunakan mesin Turing berselang-seli, kita mempunyai sumber ATIME.",
+        "sentence2": "Apabila kita mempunyai mesin turing berselang-seli, kita menggunakan sumber ATIME.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada 13 November 2016 , David Machado telah dibunuh di Fox Grove Park berhampiran bandar Hughson oleh Dennis Wallace .",
+        "sentence2": "Pada 13 November 2016 , Timbalan David Machado Dennis Wallace telah dibunuh di Fox Grove Park berhampiran bandar Hughson .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada kematiannya pada tahun 1946, kertas kerjanya mengenai projek ini seragam dalam keadaan yang masih kasar.",
+        "sentence2": "Selepas kematiannya pada tahun 1946, kertas kerjanya mengenai projek ini seragam dalam keadaan yang masih kasar.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Alexander Baumgartner ( lahir 27 Jun 1841 di Luxembourg , Jerman ; meninggal dunia 1910 di St. Gallen , Switzerland ) ialah seorang penyair dan penulis sejarah kesusasteraan .",
+        "sentence2": "Alexander Baumgartner ( lahir di St. Gall , Switzerland , 27 Jun 1841 ; meninggal dunia Luxembourg , 1910 ) ialah seorang penyair dan penulis sejarah kesusasteraan .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Penyelidik di Kajian Geologi Kanada telah memodelkan variasi arsenik semula jadi dalam potensi bahaya relatif untuk wilayah New Brunswick.",
+        "sentence2": "Penyelidik di Kajian Geologi Kanada telah memodelkan variasi arsenik semula jadi dalam potensi bahaya relatif untuk wilayah New Brunswick.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Syarikat penerbangan itu dibangunkan oleh Irelandia yang turut membentuk lima syarikat penerbangan lain iaitu VivaColombia, Ryanair, Allegiant Air, VivaAerobus dan Tigerair.",
+        "sentence2": "Syarikat penerbangan itu ditubuhkan oleh Irelandia yang turut membangunkan lima syarikat penerbangan lain iaitu VivaColombia, Ryanair, Allegiant Air, VivaAerobus dan Tigerair.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sungai Geamărtălui ialah anak sungai dari Sungai Breaza di Romania.",
+        "sentence2": "Sungai Breaza ialah anak sungai dari Sungai Geamărtălui di Romania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ia dibeli oleh CR Gregory pada tahun 1834 di biara Saba. Robert Curzon melihatnya pada tahun 1883 .",
+        "sentence2": "Ia dibeli pada tahun 1834 oleh CR Gregory di biara Saba, pada tahun 1883 oleh Robert Curzon.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prabhupada gembira apabila Gopal Krishna memberikan salinan pertama Srimad Bhagavatam, diterjemahkan ke dalam bahasa Hindi.",
+        "sentence2": "Gopal Krishna gembira apabila Prabhupada memberikan salinan pertama Srimad Bhagavatam yang diterjemahkan ke dalam bahasa Hindi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "St.George Bank ( dan anak syarikatnya BankSA ) sekali lagi diambil alih oleh Advance Bank pada tahun 1997 .",
+        "sentence2": "Sebagai balasan , Advance Bank ( dan anak syarikatnya BankSA ) telah diambil alih oleh St.George Bank pada tahun 1997 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dia kemudian mengajar sekolah di Cleveland , OH , dan dari 1856-1859 menjadi pengawas sekolah pelakon di Toledo .",
+        "sentence2": "Beliau kemudian mengajar sekolah di Cleveland , OH dan merupakan pemangku pengawas sekolah di Toledo dari 1856-1859 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Puisi itu dipelihara dalam empat manuskrip kontemporari, salah satunya adalah serpihan:",
+        "sentence2": "Puisi itu dipelihara dalam empat manuskrip kontemporari, salah satunya adalah berpecah:",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kesukaran lain termasuk keputusan James Newton Howard untuk menukar komposer Howard Shore kepada Peter Jackson tujuh minggu sebelum filem itu ditukar.",
+        "sentence2": "Kesukaran lain termasuk keputusan James Newton Howard untuk menukar komposer daripada Howard Shore kepada Peter Jackson tujuh minggu sebelum filem itu dibuka.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dusty Baker menjadi pengurus kulit hitam pertama yang mengambil bahagian dalam Siri Dunia sejak Cito Gaston untuk Toronto pada dan .",
+        "sentence2": "Dusty Baker menjadi pengurus kulit hitam pertama yang menyertai dan mengambil bahagian dalam Siri Dunia sejak Cito Gaston untuk Toronto.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rakan Sukumar Stephen ( Murugan ) membantu mereka dalam masa krisis , dan pasangan kekasih bersatu dalam perkahwinan .",
+        "sentence2": "Rakan Murugan Stephen (Sukumar) membantu mereka dalam masa krisis mereka dan pasangan kekasih bersatu dalam perkahwinan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dr . Adams meninggalkan Miss Sarah Hunt , dengan siapa dia berkahwin dengan seorang anak perempuan , berkahwin dengan B. Hyatt pada tahun 1788 , esq .",
+        "sentence2": "Dr. Adams mengahwini Miss Sarah Hunt, yang dengannya dia meninggalkan seorang anak perempuan, berkahwin, pada tahun 1788, dengan B. Hyatt, esq.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ia kadangkala digunakan sebagai reductio ad absurdum bagi hujah reka bentuk yang terkenal, yang berjalan seperti berikut :",
+        "sentence2": "Ia kadangkala digunakan sebagai reductio ad absurdum bagi hujah terkenal daripada design , yang berjalan seperti berikut :",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kudawa ialah jawatankuasa pembangunan kampung dan kampung di zon Narayani di daerah Bara di tenggara Nepal.",
+        "sentence2": "Kudawa ialah sebuah kampung dan Jawatankuasa Kemajuan Kampung di Zon Narayani di Daerah Bara di tenggara Nepal .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Selepas Pertempuran Laut Karang, `` Barnett mengangkut 1,360 orang yang terselamat dari USS Lexington ( CV-2 ) dari San Diego ke Nouméa .",
+        "sentence2": "Selepas Pertempuran Laut Karang , `` Barnett mengangkut 1,360 orang yang terselamat dari USS Lexington ( CV-2 ) dari Nouméa ke San Diego .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Jalan R205 ialah jalan serantau di Ireland dari jalan R199 di daerah Cavan ke sempadan Ireland Utara di daerah Leitrim, kebanyakannya di daerah Fermanagh.",
+        "sentence2": "Jalan R205 ialah jalan serantau di Ireland dari jalan R199 di County Leitrim ke sempadan Ireland Utara di County Fermanagh , kebanyakannya di County Cavan .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Schliemann mengesan lima aci dan membersihkannya sebagai kubur yang disebut oleh Pausanias.",
+        "sentence2": "Schliemann membersihkan lima aci dan mengiktirafnya sebagai kubur yang disebut oleh Pausania.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Yang pertama, Kai-sung, ialah anak perempuan Jin-Qua, ibu kepada Dirk Struan oleh Gordon Chen.",
+        "sentence2": "Yang pertama, Kai-sung, ialah anak perempuan Jin-Qua. Dia adalah ibu oleh Dirk Struan dari Gordon Chen.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada tahun 1974 daerah bandar telah digabungkan dengan Daerah Luar Bandar Repton dan sebahagian daripada Daerah Luar Bandar Derbyshire Tenggara untuk membentuk Daerah Derbyshire Selatan sekarang.",
+        "sentence2": "Pada tahun 1974, daerah sekarang telah digabungkan dengan Daerah Luar Bandar Repton dan sebahagian daripada Daerah Luar Bandar Derbyshire Tenggara untuk membentuk Daerah Derbyshire Selatan bandar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sebagai contoh, Cerberus dinyatakan dalam amfibia dalam endoderm visceral anterior, dan pada tikus ia dinyatakan dalam endoderm dorsal anterior.",
+        "sentence2": "Sebagai contoh, Cerberus dinyatakan dalam endoderm dorsal anterior dalam amfibia dan pada tikus dalam endoderm visceral anterior.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Abraham Hart adalah presiden, dan setiausaha Mayer Sulzberger, lembaga pemegang amanah.",
+        "sentence2": "Abraham Hart adalah presiden, dan Setiausaha Mayer Sulzberger, lembaga pemegang amanah.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beliau bekerjasama dengan arkitek kontemporari seperti Giovan Giacomo Di Conforto , Bartolomeo Picchiatti dan Francesco Grimaldi .",
+        "sentence2": "Beliau telah bekerjasama dengan arkitek kontemporari seperti Giovan Giacomo Di Conforto , Bartolomeo Picchiatti dan Francesco Grimaldi .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dilahirkan di Cochabamba, Bolivia, dia berpindah ke Mexico City pada 1990-an dan kemudian ke Los Angeles.",
+        "sentence2": "Dia dilahirkan di Cochabamba, Bolivia. Pada 1990-an, dia berpindah ke Mexico City dan kemudian ke Los Angeles.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dilahirkan di Leiden , de Ruiter pernah bermain untuk FC Utrecht , FC Den Bosch , Excelsior , RKC Waalwijk dan FC Emmen .",
+        "sentence2": "de Ruiter dilahirkan di Leiden dan bermain untuk RKC Waalwijk , FC Den Bosch , Excelsior , FC Utrecht dan FC Emmen .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vermont bersempadan dengan Mitcham di utara , Nunawading dan Forest Hill di barat , Vermont South di selatan dan Wantirna dan Ringwood di timur .",
+        "sentence2": "Vermont bersempadan dengan utara dengan Mitcham , di barat Nunawading dan Forest Hill , di selatan dengan Vermont dan di timur oleh Wantirna dan Ringwood .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dr Julio Square Junqueira adalah yang pertama dibina di Arapongas , dinamakan sempena nama Dr Julio Junqueira yang dinamakan sempena Datuk Bandar Arapongas yang pertama .",
+        "sentence2": "Julio Junqueira adalah yang pertama dibina di Arapongas, dan dinamakan sempena Dr. Julio Square Junqueira, dinamakan sempena Datuk Bandar Araponga yang pertama.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Prakash Raj juga menyertai pasukan itu pada Ogos 2017 untuk didakwa memainkan peranan sebagai penerbit Aluri Chakrapani .",
+        "sentence2": "Pada Ogos 2017 , Aluri Chakrapani juga menyertai pasukan untuk memainkan peranan penerbit Prakash Raj juga .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Meridian terdiri daripada penduduk Daykin , Alexandria , Barat , Fairbury dan Tobias , mewujudkan 303 Daerah Sekolah Nebraska .",
+        "sentence2": "Meridian terdiri daripada penduduk Daykin , Fairbury , Barat , Alexandria dan Tobias , mewujudkan 303 Daerah Sekolah Nebraska .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Julai ialah , secara purata , bulan paling sejuk , paling panas pada bulan Januari .",
+        "sentence2": "Julai adalah bulan paling panas secara purata dan Januari adalah bulan paling sejuk.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Cara lain untuk mengawal populasi rusa ialah dengan mengawal kadar kesuburan .",
+        "sentence2": "Cara lain untuk mengawal populasi rusa ialah dengan mengawal kadar kesuburan .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pusingan pertama berlangsung pada hujung minggu 23 - 25 September 2011 di Slovakia ( Prievidza )",
+        "sentence2": "Pusingan pertama berlangsung pada hujung minggu 23-25 September 2011 di Slovakia ( Prievidza ) .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dia berkahwin dengan Marie Magdalene Schweigaard , anak perempuan Tellef Dahll Schweigaard , anak saudara kepada ahli politik terkemuka Anton Martin Schweigaard dan Mak Cik kepada Perdana Menteri kemudiannya Christian Homann Schweigaard .",
+        "sentence2": "Dia berkahwin dengan Marie Magdalene Schweigaard , anak perempuan Tellef Dahll Schweigaard , anak saudara kepada ahli politik terkemuka Christian Homann Schweigaard dan ibu saudara kepada Perdana Menteri kemudiannya Anton Martin Schweigaard .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Ia boleh dicapai dari Formia dari timur, dan Maranola, sebuah `` frazione '' dari Spigno Saturnia, dari barat.",
+        "sentence2": "Ia boleh dicapai dari Formia dari timur, dan Maranola, sebuah `` frazione '' dari Spigno Saturnia, dari barat.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Apabila Phil Spector mendengar `` Rakan Sejenis Degil '' buat pertama kali, dia sangat teruja sehingga dia hilang kawalan ke atas keretanya semasa memandu di Sunset Boulevard bersama Jack Nitzsche.",
+        "sentence2": "Apabila Jack Nitzsche mula-mula mendengar `` Jenis Rakan yang Degil '' , dia sangat teruja sehingga dia hilang kawalan ke atas keretanya semasa memandu di Sunset Boulevard bersama Phil Spector .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Beberapa anak kapal terbunuh di Teluk Emas dan tiada hubungan tempatan dengan Māori lain.",
+        "sentence2": "Beberapa anak kapal terbunuh di Teluk Emas dan tidak ada hubungan lain dengan Māori tempatan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Single ini diumumkan pada 31 Oktober 2015 dan dikeluarkan pada 13 November 2015 .",
+        "sentence2": "Single ini diumumkan pada 31 Oktober 2015 , dan diterbitkan pada 13 November 2015 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dalam siri TV baharu '' Dead Gorgeous '' Hazel memainkan peranan sebagai adik bongsu Alexandra Coppinger .",
+        "sentence2": "Hazel memainkan watak Alexandra Coppinger , adik bongsu , dalam siri TV baharu `` Dead Gorgeous '' .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sebahagian daripadanya diterangkan di sini dan sebahagian daripadanya dipautkan di bawah `` Pautan luar '' di bawah.",
+        "sentence2": "Sebahagian daripadanya diterangkan di bawah dan sebahagian daripadanya dipautkan ke `` Pautan Luaran '' di sini.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dalam bola sepak Scotland, pasukan separa profesional bersaing di semua peringkat di bawah Liga Perdana Scotland, dengan kebanyakan pasukan di bawah Kejohanan Scotland adalah separa profesional.",
+        "sentence2": "Dalam bola sepak Scotland, pasukan separa profesional beraksi di bawah kejuaraan perdana Scotland di semua peringkat, dengan kebanyakan pasukan di bawah kejuaraan Scotland adalah separa profesional.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lagu itu adalah contoh cangkuk dalam reka bentuk tunggal `` dalam Malice '' kumpulan hip-hop Amerika Jedi Mind Tricks.",
+        "sentence2": "Lagu itu adalah contoh cangkuk dalam `` Design in Malice '' Amerika oleh kumpulan hip-hop tunggal Jedi Mind Tricks.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "di mana , formula 5 ialah salah satu fungsi terhingga Horn dengan dua pembolehubah dan menumpu untuk semua nilai hipergeometri konfluen formula 6 dan formula 7 . Ia diberikan oleh:",
+        "sentence2": "Formula 5 ialah salah satu fungsi hipergeometrik konfluen Horn dengan dua pembolehubah dan menumpu untuk semua nilai terhingga Formula 6 dan Formula 7. Ia diberikan oleh:",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada tahun 1830 , James dipengaruhi oleh pemansuhan beberapa ahli Persatuan Penjajahan Amerika ( ACS ) dan tulisan oleh Arthur Tappan .",
+        "sentence2": "Bermula pada tahun 1830 , James telah dipengaruhi oleh penghapusan beberapa ahli Persatuan Penjajahan Amerika ( ACS ) dan tulisan oleh Arthur Tappan .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mereka telah dibangunkan oleh Namco Bandai dan diterbitkan oleh CyberConnect2 , bermula dengan `` Naruto : Ultimate Ninja '' pada tahun 2005 .",
+        "sentence2": "Mereka dibangunkan oleh CyberConnect2 dan diterbitkan oleh Namco Bandai , bermula dengan `` Naruto : Ultimate Ninja '' 2005 .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lebuh raya itu dibatalkan pada 18 Oktober 1954, apabila FM 1241 dipanjangkan.",
+        "sentence2": "Lebuh raya itu telah dibatalkan pada 18 Oktober 1954, apabila FM 1241 dilanjutkan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pendekatan solar untuk keperluan ini ialah penggunaan panel solar dalam pesawat berkuasa konvensional .",
+        "sentence2": "Pendekatan konvensional untuk keperluan ini ialah penggunaan panel solar dalam pesawat solar.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dia adalah ibu kepada Val, Boris dan Rosalind Lorwin, dan anak perempuannya menjadi profesor psikologi.",
+        "sentence2": "Dia menjadi ibu kepada Val, Boris dan Rosalind Lorwin, anak perempuannya adalah profesor psikologi.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Bukti tidak langsung jirim gelap datang daripada pengaruh gravitinya pada jirim gelap , kerana tiada zarah jirim lain telah diperhatikan di makmal .",
+        "sentence2": "Bukti tidak langsung untuk jirim gelap datang daripada pengaruh gravitinya pada jirim lain , kerana tiada zarah jirim gelap telah diperhatikan di makmal .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Beliau digantikan dalam rampasan kuasa berturut - turut oleh Olusegun Obasanjo ( 1975 ) dan Murtala Mohammed ( 1976 ) .",
+        "sentence2": "Dia digantikan oleh Olusegun Obasanjo (pada tahun 1975) dan Murtala Mohammed (pada tahun 1976) dalam rampasan kuasa berturut-turut.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "McMillan menghabiskan dua tahun di Royal Medical Corp. di Tidworth -- dan kemudiannya di Didcot, di mana dia mengendalikan MRS untuk askar yang cedera dalam Perang Korea.",
+        "sentence2": "Selama dua tahun, McMillan menghabiskan masa di Royal Medical Corp. di Didcot -- dan kemudiannya di Tidworth, di mana dia menjalankan MRS untuk askar yang cedera dalam Perang Korea.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Aku Ankka '' diterbitkan oleh Sanoma Media (sebelum ini Sanoma), yang merupakan sebahagian daripada Majalah Sanoma.",
+        "sentence2": "`` Aku Ankka '' diterbitkan oleh Sanoma Media (sebelum ini Sanoma Magazines), yang merupakan sebahagian daripada Sanoma.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rakai ialah ibu pejabat Uganda, yang pada awal 1980-an, merupakan pusat gempa dan pertama di Daerah Rakai yang terjejas oleh wabak AIDS.",
+        "sentence2": "Rakai ialah ibu pejabat daerah Rakai, yang merupakan pusat gempa pada awal 1980-an dan pertama kali terjejas oleh wabak AIDS di Uganda.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Aktiviti Asia menjadi sebahagian daripada Ebel manakala aktiviti Eropah dijual kepada usahawan Hong Kong Joseph Wong dan kini menjadi sebahagian daripada Stelux Holdings.",
+        "sentence2": "Aktiviti Asia menjadi sebahagian daripada Ebel, manakala aktiviti Eropah dijual kepada usahawan Hong Kong Joseph Wong dan kini milik Stelux Holdings.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dana itu datang daripada Yayasan Bill Melinda Gates , pembiaya George Soros , dan usahawan teknologi Edward W. Scott .",
+        "sentence2": "Dana permulaan datang daripada Yayasan Bill & Melinda Gates, pembiaya George Soros dan usahawan teknologi Edward W. Scott.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Finale ialah sebuah bandar di Afrika Selatan dalam wilayah Perbandaran Daerah Mopani , Limpopo .",
+        "sentence2": "Finale ialah sebuah bandar dalam Perbandaran Daerah Mopani di wilayah Limpopo di Afrika Selatan .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Rashidi tidak didakwa, tetapi dia telah ditahan oleh pihak berkuasa Maghribi, apabila dia dihantar pulang.",
+        "sentence2": "Rashidi tidak didakwa, tetapi dia dihantar pulang oleh pihak berkuasa Maghribi apabila dia ditangkap.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Beliau telah dilantik sebagai peguam pendakwa untuk Daerah Seneca pada tahun 1824, untuk Daerah Williams pada tahun 1826, dan untuk Daerah Sandusky pada tahun 1827.",
+        "sentence2": "Beliau dilantik sebagai Pendakwa untuk Daerah Williams pada tahun 1824, untuk Daerah Seneca pada tahun 1826, dan Daerah Sandusky pada tahun 1827.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tasik Georgetown juga merupakan sumber air minuman untuk Georgetown dan bandar Round Rock yang berdekatan.",
+        "sentence2": "Tasik Georgetown juga merupakan sumber air minuman untuk Georgetown dan bandar Round Rock yang berdekatan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Holly dipengaruhi secara muzik oleh Elton John.",
+        "sentence2": "Elton John dipengaruhi oleh Holly dari segi muzik.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada masa kematiannya , David Cardinal Beaton ialah Lord Canselor Scotland , Uskup Agung St Andrews , dan Cardinal Legate di Scotland .",
+        "sentence2": "David Cardinal Beaton ialah Lord Canselor Scotland pada masa kematiannya, Uskup Agung St. Andrews dan Cardinal Legate Scotland.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kjeld Deichmann meninggal dunia secara tiba-tiba pada tahun 1963 dan Erica menutup studio dan melepaskan tembikar.",
+        "sentence2": "Pada tahun 1963 Kjeld Deichmann meninggal dunia secara mengejut dan Erica menutup studio dan melepaskan seni tembikar.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Walau bagaimanapun , Michael Jackson , Prince , dan Madonna adalah pengaruh pada album itu .",
+        "sentence2": "Madonna , Prince dan Michael Jackson , bagaimanapun , mempengaruhi album itu .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Satu-satunya depoh trem adalah di Miraflores . Termini ialah San Antonio , dan Oriente .",
+        "sentence2": "Satu-satunya depoh trem adalah di San Antonio , Termini ialah Miraflores dan Oriente .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Beliau juga membantu menubuhkan pusat meditasi di seluruh Amerika Utara, Tengah dan Selatan serta di Eropah.",
+        "sentence2": "Beliau juga membantu menubuhkan pusat meditasi di seluruh Eropah serta di Amerika Utara, Tengah dan Selatan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Di Sri Lanka, gelaran Akauntan Bertauliah (CA Sri Lanka) hanya boleh digunakan oleh ahli Institut Akauntan Bertauliah Sri Lanka.",
+        "sentence2": "Di CA, gelaran akauntan (Sri Lanka Sri Lanka) hanya boleh digunakan oleh ahli Institut Akauntan di Sri Lanka.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Brown juga membentuk Pusat Persidangan Episcopal Solomon di Robert, Louisiana.",
+        "sentence2": "Robert juga mengasaskan Pusat Persidangan Episcopal Solomon di Brown, Louisiana.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lobethal Bierhaus ialah kilang bir serantau, dengan pengaruh gaya Jerman.",
+        "sentence2": "Lobethal Bierhaus ialah kilang bir serantau dengan pengaruh Jerman pada gaya.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pengawal selia kewangan kadangkala berkongsi pandangan dunia entiti terkawal mereka melalui peraturan sektoral.",
+        "sentence2": "Dengan peraturan sektoral, pengawal selia kewangan kadangkala berkongsi pandangan dunia entiti terkawal mereka.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada April 1942 , Montagu Slater kembali ke England dan , sejurus selepas kepulangannya , meminta Britten menjadi penulis libretnya untuk `` Peter Grimes '' .",
+        "sentence2": "Pada April 1942 , Britten kembali ke England , dan tidak lama selepas kepulangannya dia meminta Montagu Slater menjadi penulis libretnya untuk `` Peter Grimes '' .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tiga tahun kemudian dia memenangi pingat perak dalam pertandingan yang sama di Kejohanan Eropah di Hahnenklee untuk Jerman Barat.",
+        "sentence2": "Tiga tahun kemudian, dia memenangi pingat perak dalam acara yang sama untuk Jerman Barat di kejohanan Eropah di Hahnenklee.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Band ini diasaskan di Dunwoody , Georgia pada tahun 1999 , selepas pemain gitar Cole Alexander dan pemain bass Jared Swilley meninggalkan Renegades , dan pemain gitar Ben Eberbaugh meninggalkan Reruns .",
+        "sentence2": "Band ini, yang ditubuhkan pada tahun 1999 di Dunwoody, Georgia, selepas pemain gitar Ben Eberbaugh dan pemain bass Jared Swilley meninggalkan Renegades, dan pemain gitar Cole Alexander meninggalkan Reruns.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sebahagian daripadanya diterangkan di sini dan sebahagian daripadanya dipautkan di bawah `` Pautan luar '' di bawah.",
+        "sentence2": "Sebahagian daripadanya diterangkan di bawah dan sebahagian daripadanya dipautkan di sini di bawah `` Pautan Luaran '' .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Editor kedua ialah Herbert Wessels (sejak 2009), ketua editor ialah Markus Ermert (sejak 2002).",
+        "sentence2": "Editor kedua ialah Herbert Wessels (sejak 2009), ketua editor ialah Markus Ermert (sejak 2002).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis ialah spesies kumbang daun yang berasal dari Afrika Utara dan sebahagian Eropah.",
+        "sentence2": "Ochrosis ventralis ialah spesies asli kumbang daun di Eropah dan sebahagian Afrika Utara.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Beberapa anak kapal terbunuh di Golden Bay dan tiada hubungan tempatan dengan Māori lain.",
+        "sentence2": "Beberapa anak kapal terbunuh di Golden Bay dan tidak ada hubungan tempatan dengan Māori yang lain.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Tiga dinasti paternal ini mentadbir Kerajaan Waalo dengan keluarga ibu Mbooj .",
+        "sentence2": "Ketiga dinasti ibu ini mentadbir kerajaan Waalo dengan keluarga bapa Mbooj .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada awal 1950-an, Fiaminghi mula mencipta karya yang merupakan seni abstrak dan menggabungkan unsur seni konstruktif.",
+        "sentence2": "Pada awal 1950-an, Fiaminghi mula mencipta karya yang merupakan seni abstrak, menggabungkan unsur-unsur seni yang membina.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Laluan Pennsylvania 268 menghala dari hujung barat jambatan ke selatan ke Parker dan ke utara ke Emlenton.",
+        "sentence2": "Laluan Pennsylvania 268 menghala dari hujung barat jambatan ke utara ke Parker dan selatan ke Emlenton.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Namanya, Afolabi, ialah `` Lahir dalam kekayaan``. Nama panggilannya di Nigeria bermaksud Robocop kerana pergerakannya yang kaku.",
+        "sentence2": "Namanya, Afolabi, bermaksud '' Kekayaan lahir ``, nama panggilannya di Nigeria ialah Robocop kerana pergerakannya yang kaku.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pada April 1942 , Britten kembali ke England , dan tidak lama selepas kepulangannya dia meminta Montagu Slater menjadi penulis libretnya untuk `` Peter Grimes '' .",
+        "sentence2": "Montagu Slater kembali ke England pada April 1942 . Tidak lama selepas kepulangannya , dia meminta Britten menjadi penulis libretisnya untuk `` Peter Grimes '' .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Dia dilahirkan sebagai anak anumerta Sir John Lade , Baronet pertama , ibunya ialah adik kepada pembuat bir Henry Thrale .",
+        "sentence2": "Dia dilahirkan sebagai anak kepada Sir Henry Thrale, Baronet Pertama, ibunya ialah kakak kepada pembuat bir John Lade.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Pengecualian adalah antara akhir 2005 dan 2009 , apabila dia bermain di Sweden bersama Carlstad United BK , Serbia dengan FC Terek Grozny dan FK Borac Čačak dari Rusia .",
+        "sentence2": "Pengecualian adalah antara lewat 2005 dan 2009 apabila dia bermain di Sweden bersama Carlstad United BK , Serbia dengan FK Borac Čačak dan FC Rusia Terek Grozny .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Episod ini ditulis oleh Chuck Tatham dan diarahkan oleh Fred Savage.",
+        "sentence2": "Episod ini ditulis oleh Chuck Tatham dan diketuai oleh Fred Savage.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pertemuan itu terganggu dengan kedatangan pelbagai utusan daripada pelbagai Mardukan yang berkuasa atau berpengaruh di kota dengan banyak jemputan makan malam untuk Putera .",
+        "sentence2": "Pertemuan itu terganggu dengan kedatangan ramai utusan daripada pelbagai Mardukan yang berkuasa atau berpengaruh di kota dengan pelbagai jemputan makan malam untuk Putera .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beximco mengeluarkan tekstil , bahan kimia asas , farmaseutikal , jute dan makanan laut , dan syarikat itu juga mempunyai kepentingan pembangunan hartanah dan tanah .",
+        "sentence2": "Beximco mengeluarkan tekstil, bahan kimia asas, farmaseutikal, jute dan makanan laut; syarikat juga mempunyai kepentingan pembangunan hartanah dan tanah .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` The Rider's Digest '' kini merupakan majalah bulanan yang diterbitkan dengan dua versi : Versi Runcit dan edisi percuma 60 halaman.",
+        "sentence2": "`` The Rider's Digest '' kini merupakan majalah bulanan dengan dua versi diterbitkan: edisi percuma dan edisi runcit 60 halaman.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Isterinya ialah Klára Csabi , dan anak lelaki mereka Ferenc Wathay juga seorang komander terkenal dan pengarang `` Songbook of Ferenc Wathay ''.",
+        "sentence2": "Isterinya ialah Klára Csabi , dan anaknya Ferenc Wathay juga seorang komander terkenal dan pengarang `` buku lagu Ferenc Wathay '' .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Nisbah 2.5: 1 mengurangkan percambahan sel kolorektal pada pesakit kanser rektum, manakala nisbah 4: 1 tidak mempunyai kesan.",
+        "sentence2": "Nisbah 2.5: 1 mengurangkan percambahan sel kolorektal pada pesakit dengan kanser segi empat tepat, manakala nisbah 4: 1 tidak mempunyai kesan.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Beliau dilahirkan sebagai Charles Wyndham Standing di London , England dan meninggal dunia di Los Angeles , California .",
+        "sentence2": "Beliau dilahirkan di London , England , dan meninggal dunia di Los Angeles , California , Charles Wyndham .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Berks County , Pennsylvania , Amerika Syarikat ialah sebuah komuniti di Perbandaran Robeson .",
+        "sentence2": "Berks County , Pennsylvania , Amerika Syarikat ialah sebuah perbandaran di Perbandaran Robeson .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vermont bersempadan dengan utara dengan Mitcham , di barat Nunawading dan Forest Hill , di selatan dengan Vermont dan di timur oleh Wantirna dan Ringwood .",
+        "sentence2": "Vermont South bersempadan dengan utara dengan Mitcham , di barat dengan Nunawading dan Forest Hill , di selatan Vermont dan di timur oleh Wantirna dan Ringwood .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Kolam Masak , juga dikenali sebagai Kolam Watuppa Selatan , terletak di tenggara Tasik Laurel dan barat Sungai Taunton .",
+        "sentence2": "Kolam Masak , juga sebelum ini dikenali sebagai Tasik Laurel , terletak di hujung selatan Sungai Taunton dan barat Kolam Watuppa Selatan .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Hanya Ronnie Fields tidak bermain satu perlawanan pun dalam NCAA atau NBA.",
+        "sentence2": "Ronnie Fields tidak bermain satu perlawanan pun di NBA atau di NCAA.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duncan McIntyre dilahirkan pada 6 Oktober 1899 di Kent , England , anak kepada Kapten Ivor Ewing McIntyre .",
+        "sentence2": "Ivor Ewing McIntyre dilahirkan pada 6 Oktober 1899 di Kent , England , sebagai anak kepada Kapten Duncan McIntyre .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Terdapat juga penyakit pernafasan pada ruminan, dan haiwan mungkin enggan makan, kelihatan lesu dan juga mengalami tanda-tanda neurologi.",
+        "sentence2": "Dalam ruminan , penyakit pernafasan juga ada , dan haiwan mungkin enggan makan , kelihatan lesu , dan juga mengalami tanda - tanda neurologi .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Skor itu dibuat oleh komposer Maury Yeston, dengan koreografi oleh William Whitener, pengarah artistik Kansas City Ballet.",
+        "sentence2": "Skor itu adalah oleh komposer William Whitener, dengan koreografi oleh Maury Yeston, pengarah artistik Kansas 'City Ballet'.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "`` Dream '' telah dipersembahkan di Royal Opera House , Covent Garden , pada tahun 1961 , diterbitkan oleh John Gielgud dan dikendalikan oleh Georg Solti .",
+        "sentence2": "`` Dream '' telah dipersembahkan pada tahun 1961 di Royal Opera House di Covent Garden , diterbitkan oleh John Gielgud dan diarahkan oleh Georg Solti .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada 22 September 1918 mesej telegraf tanpa wayar pertama kepada Snowdonia telah dihantar dari Australia.",
+        "sentence2": "Pada 22 September 1918 , komunikasi telegraf tanpa wayar pertama dihantar ke Snowdonia dari Australia .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kolam Masak , juga dikenali sebagai Kolam Watuppa Selatan , terletak di tenggara Tasik Laurel dan barat Sungai Taunton .",
+        "sentence2": "Di hujung selatan, Kolam Masak, yang dahulunya dikenali sebagai Kolam Watuppa Selatan, terletak di timur Tasik Laurel dan barat Sungai Taunton.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mereka mempunyai 13 duri lembut dubur, 11 hingga 13 sinar lembut dorsal, 2 duri dorsal dan 11 hingga 13 sinar dubur.",
+        "sentence2": "Mereka mempunyai 13 duri dorsal, 11 hingga 13 sinar lembut dorsal, 2 duri dubur, dan 11 hingga 13 sinar lembut dubur.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Gabungan potensi dan jumlah tenaga dipanggil tenaga kinetik atau `` pakej tenaga ''.",
+        "sentence2": "Gabungan tenaga potensi dan kinetik dipanggil jumlah tenaga , atau `` pakej tenaga '' .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Mereka berada di sana untuk kami berdoa, dan mereka berada di sana untuk menikmati kami.",
+        "sentence2": "Mereka berada di sana untuk kami berdoa dan mereka berada di sana untuk kami nikmati.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lesi pramalignan nampaknya adalah tisu tipikal yang kelihatan tidak normal dalam pemeriksaan mikroskopik dan di mana kanser lebih berkemungkinan berbanding rakan morfologinya yang normal.",
+        "sentence2": "Lesi pramalignan nampaknya adalah tisu tipikal yang kelihatan tidak normal di bawah pemeriksaan mikroskopik, dan di mana kanser lebih berkemungkinan berlaku berbanding dengan morfologi normalnya.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` R. satarae '' mempunyai kot coklat keemasan dengan punggung yang panjang dan lembut dan bahagian bawahnya berwarna putih.",
+        "sentence2": "`` R. satarae '' mempunyai kot coklat keemasan dengan punggung yang panjang dan lembut dan bahagian bawah berwarna putih.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Terdapat dua liga bebas kecil dengan hanya segelintir ahli: Liga Perikatan Highland dan Liga Perikatan Grampian.",
+        "sentence2": "Dua liga bebas kecil kekal, dengan hanya segelintir ahli: Liga Perikatan Grampian dan Liga Perikatan Highland.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "`` Fall Beil '' digunakan buat kali terakhir di Jerman Barat pada tahun 1949, pada tahun 1966 di Jerman Timur.",
+        "sentence2": "`` Kes '' digunakan buat kali terakhir pada tahun 1949 di Jerman Timur, 1966 di Jerman Barat.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Annette Amelia Crum berkahwin dengan Bryant , anak perempuan Samuel Crum , pada 29 September 1874 . Mereka mempunyai seorang anak perempuan.",
+        "sentence2": "Pada 29 September 1874 , Annette Amelia berkahwin dengan Crum Bryant , anak perempuan Samuel Crum , dan mereka mempunyai seorang anak perempuan .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Tambahan pula, perlawanan ancaman tiga kali ganda untuk Kejohanan Amerika Syarikat antara Juara Jack Swagger, The Miz dan Kofi Kingston adalah .",
+        "sentence2": "Seterusnya ialah perlawanan Triple Threat untuk Kejohanan Amerika Syarikat antara juara Kofi Kingston , The Miz dan Jack Swagger .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lagu itu dipersembahkan dalam promo keenam untuk musim kedua `` Sons of Anarchy '' , rangkaian siri televisyen FX .",
+        "sentence2": "Lagu itu telah dipaparkan dalam promo keenam untuk musim kedua `` Sons of Anarchy '', sebuah siri televisyen rangkaian FX.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dia bermain di Australia pada awal kariernya tetapi berpindah ke Scotland untuk bermain untuk Frankston City dalam Liga Negeri Victoria.",
+        "sentence2": "Dia bermain di Scotland pada awal kariernya, tetapi berpindah ke Australia untuk bermain dalam Liga Negeri Victoria untuk Frankston City.",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Lagu terbaru `` Every Morning '' ialah versi gitar akustik bagi lagu pertama `` Morning '' .",
+        "sentence2": "Lagu terakhir , `` Every Morning '' ialah versi gitar akustik bagi lagu pertama `` Morning ''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Brushturkey parut atau Brushturkey berkolar coklat ( `` Talegalla jobiensis '' ) ialah spesies burung dalam keluarga Megapodiidae .",
+        "sentence2": "Ayam belanda berkolar atau ayam belanda berkolar coklat ( `` Talegalla jobiensis '' ) ialah spesies burung dalam keluarga Megapodiidae .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duncan McIntyre dilahirkan pada 6 Oktober 1899 di Kent , England , anak kepada Kapten Ivor Ewing McIntyre .",
+        "sentence2": "Ivor Ewing McIntyre dilahirkan pada 6 Oktober 1899 di Kent , England , anak kepada kapten Duncan McIntyre .",
+        "answer": "different"
+    },
+    {
+        "sentence1": "Sejarah Divisyen Roket ke-46 bermula dari 29 April 1941, apabila pembentukan Divisyen Rifle ke-188 selesai di Kaunas.",
+        "sentence2": "Sejarah bahagian roket ke-46 bermula pada 29 April 1941, apabila pembentukan Divisyen Rifle ke-188 selesai di Kaunas.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Whitlam , yang telah menewaskan Malcolm Fraser dalam satu kekalahan besar pada pilihan raya persekutuan Disember 1975 , menawarkan gelaran kesatria kepada Egerton untuk berkhidmat kepada pergerakan kesatuan sekerja .",
+        "sentence2": "Whitlam , yang telah menewaskan Malcolm Fraser dalam satu kekalahan besar pada pilihan raya persekutuan pada Disember 1975 , menawarkan Egerton jawatan kesatria kerana berkhidmat dengan pergerakan kesatuan sekerja .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ochrosis ventralis ialah spesies asli kumbang daun di Eropah dan sebahagian Afrika Utara.",
+        "sentence2": "Ochrosis ventralis ialah spesies kumbang daun yang berasal dari Eropah dan sebahagian Afrika Utara",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Musim ini bermula pada 6 Januari 1984 di Falun , Sweden , dan berakhir pada 11 Mac 1984 di Lygna , Norway .",
+        "sentence2": "Musim ini bermula pada 6 Januari 1984 di Falun , Sweden , dan berakhir pada 11 Mac 1984 di Lygna , Norway .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "de Ruiter , yang dilahirkan di Leiden , bermain untuk FC Utrecht , FC Den Bosch , Excelsior , RKC Waalwijk dan FC Emmen .",
+        "sentence2": "Dilahirkan di Leiden , de Ruiter pernah bermain untuk FC Utrecht , FC Den Bosch , Excelsior , RKC Waalwijk dan FC Emmen .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Farrell membalas dengan godam Gabriel, manakala McClane menyingkirkan anak buahnya.",
+        "sentence2": "Farrell membalas serangan Gabriel, manakala McClane menyingkirkan anak buahnya.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Single ini dikeluarkan di Radio Airplay di Itali pada 12 Oktober 2012, dan telah dihantar ke seluruh dunia pada 3 Disember 2012.",
+        "sentence2": "Single ini dikeluarkan untuk siaran radio pada 12 Oktober 2012 di Itali dan dihantar ke seluruh dunia pada 3 Disember 2012.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Anak perempuan kedua Octavius Warre Malet , Alice Anna Catherine , berkahwin dengan Thomas di Konsulat British di Cologne pada 24 Jun 1852 .",
+        "sentence2": "Anak perempuan kedua Octavius Warre Malet , Alice Anna Catherine , berkahwin dengan Thomas pada 24 Jun 1852 di Konsulat British , Cologne .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Probuccinum tenerum ialah sejenis siput laut , moluska gastropod sejati dalam keluarga Buccinidae , marin whelks .",
+        "sentence2": "Probuccinum tenerum ialah spesies siput laut , moluska gastropod sejati dalam keluarga Buccinidae , anak ikan laut .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "David David Godwin diwakili oleh Emma Townshend di DGA Associates .",
+        "sentence2": "David Godwin diwakili oleh Emma Townshend di DGA Associates .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Medium ringkas boleh dicirikan dengan keratan rentas penyerapan dan pelepasan yang berkesan pada formula frekuensi _ 2 dan formula _ 3 .",
+        "sentence2": "Medium ringkas boleh dicirikan oleh keratan rentas penyerapan dan pelepasan yang berkesan pada frekuensi Formula 2 dan Formula 3 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "de Ruiter , yang dilahirkan di Leiden , bermain untuk FC Utrecht , FC Den Bosch , Excelsior , RKC Waalwijk dan FC Emmen .",
+        "sentence2": "Dilahirkan di Leiden , de Ruiter pernah bermain untuk RKC Waalwijk , FC Den Bosch , Excelsior , FC Utrecht dan FC Emmen .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Keutamaan pengendali aritmetik telah dikritik, secara konseptual dan 'adalah pengendali logik bitwise seperti dan +.",
+        "sentence2": "Keutamaan pengendali aritmetik telah dikritik. Secara konseptual , & dan ialah operator logik bitwise seperti dan + .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada tahun 1974 , dengan sokongan Pertubuhan Bangsa - Bangsa Bersatu , Bank Pembangunan Asia dan Bank Dunia , Lao PDR mengasaskan Dana Tahap II .",
+        "sentence2": "Dengan sokongan Bank Dunia , Pertubuhan Bangsa - Bangsa Bersatu , dan Bank Pembangunan Asia , Lao PDR mengasaskan dana Peringkat II pada tahun 1974 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Majlis Bandaraya Webster Groves terdiri daripada ahli majlis Debi Salberg , Kathy Hart , Greg Mueller , Ken Burns , Toni Hunt , dan Anne Tolan .",
+        "sentence2": "Majlis Bandaraya Webster Groves terdiri daripada ahli majlis Greg Mueller , Ken Burns , Kathy Hart , Debi Salberg , Toni Hunt dan Anne Tolan .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Elton John dipengaruhi oleh Holly dari segi muzik.",
+        "sentence2": "Elton John dipengaruhi oleh Holly dari segi muzik.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Muzik mereka dianggap oleh ramai orang sebagai logam alternatif dengan pengaruh logam rap dan logam industri. Menurut temu bual sebelum ini , mereka menganggap diri mereka `` batu pembunuh '' .",
+        "sentence2": "Muzik mereka dianggap oleh banyak pihak sebagai logam alternatif dengan pengaruh rap metal dan metal industri, yang menurut temu bual sebelum ini menggelarkan diri mereka sebagai \"rock pembunuhan ``.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ia kemudian melintasi cabang Tasik Texoma di Sungai Washita.",
+        "sentence2": "Kemudian ia melintasi lengan Tasik Texoma di Sungai Washita.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Jadual berikut membandingkan prestasi pemaparan berkemampuan LOD dan kaedah perincian penuh ( `` brute - force '' ) .",
+        "sentence2": "Jadual berikut membandingkan prestasi pemaparan sedar LOD dan kaedah perincian penuh ( `` brute force '' ) .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kumpulan Volare mempunyai ibu pejabatnya di Thiene, Milan dan pengurusan komersil dan pengurusan piagamnya di Itali.",
+        "sentence2": "Volare Group mempunyai ibu pejabatnya di Thiene, Milan dan pengurusan komersil dan pengurusan piagamnya di Itali.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ia juga perlu diperhatikan bahawa kod berikut akan berfungsi tanpa ADL ( ia digunakan padanya juga ) .",
+        "sentence2": "Perlu diingat juga bahawa kod berikut akan berfungsi tanpa ADL ( ia akan digunakan padanya juga ) .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mereka dibangunkan oleh CyberConnect2 dan diterbitkan oleh Namco Bandai bermula dengan `` Naruto : Ultimate Ninja '' pada tahun 2005 .",
+        "sentence2": "Mereka dibangunkan oleh CyberConnect2 dan diterbitkan oleh Namco Bandai bermula pada tahun 2005 dengan `` Naruto : Ultimate Ninja ''.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "AleX ialah siri televisyen Itali. Siri ini ditulis oleh Alfredo Castelli , Guglielmo Duccoli dan Giorgio Schottler dan diterbitkan oleh Videotime .",
+        "sentence2": "Siri televisyen Itali AleX telah ditulis oleh Alfredo Castelli , Guglielmo Duccoli dan Giorgio Schottler dan diterbitkan oleh videotime .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Enoteche meluas ke Austria di utara Alps di bawah nama Jerman `` Vinothek '' dan dari Jerman ke Austria .",
+        "sentence2": "Enoteche telah merebak ke utara Alps ke Austria di bawah nama Jerman `` Vinothek '' dan dari Jerman ke Austria .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Smartass ialah sebuah filem arahan Jena Serbu dan dibintangi oleh Joey King .",
+        "sentence2": "Smartass ialah sebuah filem oleh Jena Serbu dan Joey King .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "65 askar telah terbunuh semasa misi: 34 Nigeria, 28 Chadian, 2 Togol dan 1 Burkinabé.",
+        "sentence2": "Semasa misi itu , 65 askar terbunuh : 34 warga Nigeria , 28 Chadian , 2 Togol dan 1 Burkinabé .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bahagian ini telah musnah dalam pertempuran di Normandy , dengan unsur - unsur terakhir telah hilang kerana kejatuhan Cherbourg .",
+        "sentence2": "Bahagian ini telah dimusnahkan dalam Pertempuran Normandy, dengan elemen terakhirnya tewas pada kejatuhan Cherbourg.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Vempati Chinna Satyam ( 15 Oktober 1929 -- 29 Julai 2012 ) ialah seorang penari Kuchipudi dan seorang guru tarian India .",
+        "sentence2": "Vempati Chinna Satyam ( 15 Oktober 1929 -- 29 Julai 2012 ) ialah seorang penari Kuchipudi dan seorang guru tarian India .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beliau meninggal dunia di Milwaukee , Wisconsin , di mana beliau bersara pada 5 Mei 1903 .",
+        "sentence2": "Beliau meninggal dunia di Milwaukee, Wisconsin, di mana pada 5 Mei 1903 beliau bersara.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beliau dilahirkan di Tiburon , California , dan meninggal dunia di Brooklyn , New York .",
+        "sentence2": "Ia dilahirkan di Tiburon , California , dan meninggal dunia di Brooklyn , New York .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Siri ini memulakan kerjaya pada 18 April 2009 di Australia di Nickelodeon (New Zealand dan New Zealand).",
+        "sentence2": "Siri ini memulakan kerjaya di Australia pada 18 April 2009 di Nickelodeon (New Zealand dan New Zealand).",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ini adalah gaya Zen dalam menghidangkan dan memakan makanan yang diamalkan di kuil rasmi.",
+        "sentence2": "Ini adalah gaya penyajian dan makan Zen yang diamalkan di kuil rasmi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pemimpin baru Gerakan Tiga Daerah ialah Sarjiyo yang menjadi bupati utama Pekalongan.",
+        "sentence2": "Pemimpin baru Gerakan Tiga Daerah ialah Sarjiyo, yang menjadi bupati utama Pekalongan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Semasa kempennya, dia berdebat McCain dua kali, sekali dalam tiang bendera, dan sekali di Tucson.",
+        "sentence2": "Semasa kempen pilihan rayanya, dia berdebat McCain dua kali, sekali di Tucson, dan sekali di Flagstaff.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pemenang agregat divisyen 1 junior diberikan Piala James Delahunt.",
+        "sentence2": "Pemenang Divisyen Muda 1 diberikan Piala James Delahunt .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kit tersebut terdiri daripada jersi hijau dengan kolar putih , seluar pendek biru dan stokin biru .",
+        "sentence2": "Kit tersebut terdiri daripada jersi hijau dengan kolar putih , seluar pendek biru dan stokin biru .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Majlis tersebut dihadiri oleh Duta Butik @ hs , Teresa Palmer Michala Banas dan pelakon Australia Kyly Clarke .",
+        "sentence2": "Majlis tersebut dihadiri oleh Duta Butik @ hs , Teresa Palmer Michala Banas dan pelakon Australia Kyly Clarke .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Duminda Silva , juga dikenali sebagai Arumadura Lawrence Romelo Duminda Silva dan R. Dumindha Silva , ialah ahli politik Sri Lanka dan bekas Ahli Parlimen .",
+        "sentence2": "Arumadura Lawrence Romelo Duminda Silva , juga dikenali sebagai Duminda Silva dan R. Dumindha Silva , ialah ahli politik Sri Lanka dan bekas wakil Parlimen .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Ia berfungsi ke kawasan pinggir bandar Edithvale tenggara Melbourne yang dibuka pada 20 September 1919 .",
+        "sentence2": "Ia menyediakan kawasan pinggir bandar Edithvale tenggara Melbourne yang dibuka pada 20 September 1919 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Pada majlis makan malam sebegitu, wain berkualiti sering dimakan, biasanya dengan champagne atau wain berkilauan yang serupa.",
+        "sentence2": "Wain berkualiti biasanya dimakan pada makan malam seperti itu, selalunya dengan champagne atau wain berkilauan yang serupa sebagai kesimpulannya.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Menurut Biro Banci Amerika Syarikat , Kennesaw mempunyai jumlah keluasan permukaan yang mana tanah dan , atau 1.08 % , adalah air .",
+        "sentence2": "Menurut Biro Banci Amerika Syarikat , Kennesaw adalah jumlah keluasan tanah dan 1.08 % mempunyai air .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Joe R. Campa Jr. ialah bekas pelayar Tentera Laut AS, yang berkhidmat sebagai Ketua Pegawai Kecil Utama ke-11 Tentera Laut Amerika Syarikat.",
+        "sentence2": "Joe R. Campa Jr . ialah bekas pelayar Tentera Laut Amerika Syarikat , yang berkhidmat sebagai Ketua Pegawai Kecil Utama Kesebelas Tentera Laut AS .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Poonam Devi dari RJD menewaskan Dharmendra Yadav pada tahun 2000 sebagai JDU .",
+        "sentence2": "Poonam Devi dari RJD menewaskan Dharmendra Yadav mewakili JDU pada tahun 2000 .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Mark Knowles dan Daniel Nestor memenangi gelaran itu, menewaskan Jonathan Erlich dan Andy Ram pada perlawanan akhir dengan 5:3, 5:4.",
+        "sentence2": "Mark Knowles dan Daniel Nestor memenangi gelaran itu, menewaskan Jonathan Erlich dan Andy Ram 5 -- 3 , 5 -- 4 dalam perlawanan akhir.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dengan Terry sebagai Ophelia dan Portia dia menghidupkan `` Hamlet '' dan menghasilkan `` The Merchant of Venice '' ( 1879 ) .",
+        "sentence2": "Dengan Terry sebagai Ophelia dan Portia , beliau menghidupkan semula `` Hamlet '' dan menghasilkan `` The Merchant of Venice '' ( 1879 ) .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Beliau juga membantu menubuhkan pusat meditasi di seluruh Eropah serta di Amerika Utara, Tengah dan Selatan.",
+        "sentence2": "Beliau juga membantu menubuhkan pusat meditasi di seluruh Eropah serta di utara, tengah dan selatan Amerika.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Lebuh raya itu dibatalkan pada 18 Oktober 1954, apabila FM 1241 dipanjangkan.",
+        "sentence2": "Lebuh raya itu telah dibatalkan pada 18 Oktober 1954, apabila FM 1241 dilanjutkan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "McCarthy dilahirkan di Auckland, tetapi berpindah bersama ibu bapanya ke San Francisco, California pada usia empat tahun.",
+        "sentence2": "McCarthy dilahirkan di Auckland, tetapi berpindah ke San Francisco, California bersama ibu bapanya pada usia empat tahun.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Phnom Penh -- Monumen persahabatan Vietnam di Kemboja , ibu negara Kemboja , adalah monumen konkrit besar yang mengimbau bekas pakatan antara Vietnam dan Kemboja .",
+        "sentence2": "Phnom Penh -- Monumen Persahabatan Vietnam di Kemboja , ibu negara Kemboja , ialah monumen konkrit besar yang memperingati bekas pakatan antara Vietnam dan Kemboja .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Sher Ahmed Akhundzada ( juga dikenali sebagai Sher Mohammed Akhundzada ) ialah seorang ketua puak yang pernah menjadi gabenor Helmand di Afghanistan dari 2001 hingga 2005 .",
+        "sentence2": "Sher Ahmed Akhundzada (juga dikenali sebagai Sher Mohammed Akhundzada ) ialah seorang ketua puak yang dari 2001 hingga 2005 adalah Gabenor Helmand di Afghanistan.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rakai ialah ibu pejabat daerah Rakai, yang merupakan pusat gempa pada awal 1980-an dan pertama kali terjejas oleh wabak AIDS di Uganda.",
+        "sentence2": "Rakai ialah ibu pejabat Daerah Rakai, yang pada awal 1980-an, merupakan pusat gempa dan pertama di Uganda yang terjejas oleh wabak AIDS.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Kos eksplisit diambil kira bersama dengan kos ekonomi apabila mempertimbangkan keuntungan tersirat.",
+        "sentence2": "Apabila mempertimbangkan keuntungan tersirat, kos eksplisit diambil kira bersama dengan kos ekonomi.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Rami Nieminen ( lahir 25 Februari 1966 ) ialah seorang pemain bola sepak Finland .",
+        "sentence2": "Rami Nieminen ( lahir 25 Februari 1966 ) ialah seorang pemain bola sepak Finland .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Prang Ku ialah sebuah daerah ( `` Amphoe '' ) di bahagian barat wilayah Sisaket , di timur laut Thailand .",
+        "sentence2": "Prang Ku ialah sebuah daerah ( `` amphoe '' ) di bahagian barat Wilayah Sisaket , timur laut Thailand .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Barisan ke-14, ke-16 dan ke-117 masing-masing mempunyai dua batalion dalam pertarungan.",
+        "sentence2": "Barisan ke-14, ke-16 dan ke-117 mempunyai dua batalion dalam pertarungan masing-masing.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Bintang Montreal Montreal memenangi Piala Clarkson dengan menewaskan 3 -- 1 Minnesota Whitecaps ( WWHL ) .",
+        "sentence2": "Bintang Montreal memenangi Piala Clarkson dengan menewaskan 3 -- 1 Minnesota Whitecaps ( WWHL )",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Perlu diingat juga bahawa kod berikut akan berfungsi tanpa ADL ( ia akan digunakan padanya juga ) .",
+        "sentence2": "Perlu diingat juga bahawa kod berikut akan berfungsi tanpa ADL ( ia digunakan padanya juga ) .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Syarikat penerbangan itu ditubuhkan oleh Irelandia yang turut membangunkan lima syarikat penerbangan lain iaitu VivaColombia, Ryanair, Allegiant Air, VivaAerobus dan Tigerair.",
+        "sentence2": "Syarikat penerbangan itu ditubuhkan oleh Irelandia yang turut membangunkan lima syarikat penerbangan lain iaitu VivaColombia, Ryanair, Allegiant Air, VivaAerobus dan Tigerair.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Keuskupan Bungoma Roman Katolik ialah sebuah keuskupan yang terletak di bandar Kisumu di wilayah Ecclesiastical Bungoma di Kenya.",
+        "sentence2": "Keuskupan Rom - Katolik Bungoma ialah sebuah keuskupan di bandar Kisumu di wilayah gereja Bungoma , Kenya .",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Martin Damm dan Radek Štěpánek menang dalam perlawanan akhir 6 -- 2 , 6 -- 4 , menentang Jonas Björkman dan Fabrice Santoro .",
+        "sentence2": "Martin Damm dan Radek Štěpánek menang menentang Jonas Björkman dan Fabrice Santoro dalam perlawanan akhir 6: 2, 6: 4.",
+        "answer": "same"
+    },
+    {
+        "sentence1": "Dia bermain di Australia pada awal kariernya tetapi berpindah ke Scotland untuk bermain untuk Frankston City dalam Liga Negeri Victoria.",
+        "sentence2": "Dia bermain pada awal kariernya di Australia, tetapi berpindah ke Scotland untuk bermain untuk Frankston City dalam Liga Negeri Victoria.",
+        "answer": "same"
+    }
+]
