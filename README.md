@@ -45,6 +45,45 @@ You should replace the path of the model and data in `./LLaMA-Factory/sft_questi
 bash ./LLaMA-Factory/sft_question_single_lora.bash
 ```
 
+For finetuning, you can use the hyperparameters below:
+
+```bash
+#!/bin/bash
+
+export HF_HOME=/home/huggingface_cache_path
+
+CUDA_VISIBLE_DEVICES=0 python ./src/train_bash.py \
+    --stage sft \
+    --do_train \
+    --model_name_or_path model_name_or_path \
+    --dataset dataset_name \
+    --dataset_dir ./data \
+    --template template_name \
+    --finetuning_type lora \
+    --lora_target q_proj,v_proj \
+    --output_dir output_dir_path \
+    --overwrite_cache \
+    --overwrite_output_dir \
+    --cutoff_len 2048 \
+    --preprocessing_num_workers 16 \
+    --per_device_train_batch_size 4 \
+    --per_device_eval_batch_size 4 \
+    --gradient_accumulation_steps 4 \
+    --lr_scheduler_type cosine \
+    --logging_steps 10 \
+    --warmup_steps total_step/10 \
+    --save_steps 150000 \
+    --eval_steps 50 \
+    --evaluation_strategy steps \
+    --load_best_model_at_end \
+    --learning_rate 5e-5 \
+    --num_train_epochs 3.0 \
+    --max_samples 100000 \
+    --val_size 0.05 \
+    --plot_loss \
+    --fp16
+```
+
 * merge
 
 ```bash
@@ -93,7 +132,7 @@ If you find this repository helpful, feel free to cite our paper. The following 
 
 ```
 @article{zhang2024large,
-  title={Getting More from Less: Large Language Models are Good Spontaneous Multilingual Learners},
+  title={Large Language Models are Good Spontaneous Multilingual Learners: Is the Multilingual Annotated Data Necessary?},
   author={Zhang, Shimao and Gao, Changjiang and Zhu, Wenhao and Chen, Jiajun and Huang, Xin and Han, Xue and Feng, Junlan and Deng, Chao and Huang, Shujian},
   journal={arXiv preprint arXiv:2405.13816},
   year={2024}
