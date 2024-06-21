@@ -128,9 +128,9 @@ bash run_emotion.bash
 
 ### :evergreen_tree: Citation
 
-If you find this repository helpful, feel free to cite our paper. The following citation information is obtained from Google Scholar, while the new result hasn't been updated yet in Google Scholar though we have updated the title in our new pre-print version.
+If you find this repository helpful, feel free to cite our paper. The following citation information is obtained from Google Scholar, while the new result hasn't been updated yet in Google Scholar though we have updated the title in our new preprint version.
 
-Please just follow the original citation information:
+You can just follow the original citation information:
 
 ```
 @article{zhang2024large,
