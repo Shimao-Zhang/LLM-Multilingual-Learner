@@ -5,10 +5,11 @@
   <a href="https://shimao-zhang.github.io/"> 📭 Contact</a> 
 </p>
 
+**Accepted by EMNLP 2024 (Oral Presentation).**
 
 ### :mountain: Overview
 
-This repository shares the code and models of our latest work "Getting More from Less: Large Language Models are Good Spontaneous Multilingual Learners". In this work, we discover and comprehensively investigate the spontaneous multilingual alignment improvement of LLMs. We find that LLMs instruction-tuned on the question translation data (i.e. without annotated answers) are able to encourage the alignment between English and a wide range of languages, even including those unseen during instruction-tuning. Additionally, we utilize different settings and mechanistic interpretability methods to analyze the LLM's performance in the multilingual scenario comprehensively. Our work suggests LLMs' enormous potential for improving multilingual alignment efficiently with great language and task generalization.
+This repository shares the code and models of our latest work "Getting More from Less: Large Language Models are Good Spontaneous Multilingual Learners". In this work, we first discover and comprehensively investigate the spontaneous multilingual alignment improvement of LLMs. We find that LLMs instruction-tuned on the question translation data (i.e. without annotated answers) are able to encourage the alignment between English and a wide range of languages, even including those unseen during instruction-tuning. Additionally, we utilize different settings and mechanistic interpretability methods to analyze the LLM's performance in the multilingual scenario comprehensively. Our work suggests LLMs' enormous potential for improving multilingual alignment efficiently with great language generalization and task generalization.
 
 ### :chart_with_upwards_trend: Benchmarks & Datasets
 
@@ -128,15 +129,32 @@ bash run_emotion.bash
 
 ### :evergreen_tree: Citation
 
-If you find this repository helpful, feel free to cite our paper. The following citation information is obtained from Google Scholar, while the new result hasn't been updated yet in Google Scholar though we have updated the title in our new preprint version.
+If you find this repository helpful, feel free to cite our paper.
 
-You can just follow the original citation information:
+You can just follow the citation information of ACL Anthology or Google Scholar:
 
 ```
-@article{zhang2024large,
-  title={Large Language Models are Good Spontaneous Multilingual Learners: Is the Multilingual Annotated Data Necessary?},
-  author={Zhang, Shimao and Gao, Changjiang and Zhu, Wenhao and Chen, Jiajun and Huang, Xin and Han, Xue and Feng, Junlan and Deng, Chao and Huang, Shujian},
-  journal={arXiv preprint arXiv:2405.13816},
-  year={2024}
+@inproceedings{zhang-etal-2024-getting,
+    title = "Getting More from Less: Large Language Models are Good Spontaneous Multilingual Learners",
+    author = "Zhang, Shimao  and
+      Gao, Changjiang  and
+      Zhu, Wenhao  and
+      Chen, Jiajun  and
+      Huang, Xin  and
+      Han, Xue  and
+      Feng, Junlan  and
+      Deng, Chao  and
+      Huang, Shujian",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.457",
+    pages = "8037--8051",
+    abstract = "Recently, Large Language Models (LLMs) have shown impressive language capabilities, while most of them have very unbalanced performance across different languages. Multilingual alignment based on the translation parallel data is an effective method to enhance LLMs{'} multilingual capabilities. In this work, we first discover and comprehensively investigate the spontaneous multilingual alignment of LLMs. Firstly, we find that LLMs instruction-tuned on the question translation data (i.e. without annotated answers) are able to encourage the alignment between English and a wide range of languages, even including those unseen during instruction-tuning. Additionally, we utilize different settings and mechanistic interpretability methods to analyze the LLM{'}s performance in the multilingual scenario comprehensively. Our work suggests that LLMs have enormous potential for improving multilingual alignment efficiently with great language generalization and task generalization.",
 }
 ```
